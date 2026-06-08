@@ -32,90 +32,90 @@
           "sub_category_name": "BEIN QUICK NET",
           "sub_category_logo": "https://k.top4top.io/p_3671qj8qr1.jpg",
           "channels": [
-            { "channel_name": "BEIN SPORT 1", "url": "http://45.67.56.78/Sport1/index.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png" },
-            { "channel_name": "BEIN SPORT 2", "url": "http://45.67.56.78/Sport2/index.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png" },
-            { "channel_name": "BEIN SPORT 3", "url": "http://45.67.56.78/Sport3/index.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png" },
-            { "channel_name": "BEIN SPORT 4", "url": "http://45.67.56.78/Sport4/index.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png" },
-            { "channel_name": "BEIN SPORT 5", "url": "http://45.67.56.78/Sport5/index.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png" },
-            { "channel_name": "BEIN SPORT 6", "url": "http://45.67.56.78/Sport6/index.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png" },
-            { "channel_name": "BEIN SPORT 7", "url": "http://45.67.56.78/Sport7/index.m3u8", "logo_url": "https://h.top4top.io/p_3700190ik0.png" },
-            { "channel_name": "BEIN SPORT 8", "url": "http://45.67.56.78/Sport8/index.m3u8", "logo_url": "https://l.top4top.io/p_37005r7hh0.png" },
-            { "channel_name": "BEIN SPORT 9", "url": "go:J9", "logo_url": "https://d.top4top.io/p_3700ipjm90.png" }
+            { "channel_name": "BEIN SPORT 1", "url": "http://45.67.56.78/Sport1/index.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 2", "url": "http://45.67.56.78/Sport2/index.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 3", "url": "http://45.67.56.78/Sport3/index.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 4", "url": "http://45.67.56.78/Sport4/index.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 5", "url": "http://45.67.56.78/Sport5/index.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 6", "url": "http://45.67.56.78/Sport6/index.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 7", "url": "http://45.67.56.78/Sport7/index.m3u8", "logo_url": "https://h.top4top.io/p_3700190ik0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 8", "url": "http://45.67.56.78/Sport8/index.m3u8", "logo_url": "https://l.top4top.io/p_37005r7hh0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 9", "url": "go:J9", "logo_url": "https://d.top4top.io/p_3700ipjm90.png", "drm_key": "", "user_agent": "", "referer": "" }
           ]
         },
         {
           "sub_category_name": "BEIN SPORT GOOD",
           "sub_category_logo": "https://k.top4top.io/p_3671qj8qr1.jpg",
           "channels": [
-            { "channel_name": "BEIN SPORT 1", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/527418.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png" },
-            { "channel_name": "BEIN SPORT 2", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/235756.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png" },
-            { "channel_name": "BEIN SPORT 3", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/423346.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png" },
-            { "channel_name": "BEIN SPORT 4", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/729735.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png" },
-            { "channel_name": "BEIN SPORT 5", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/844940.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png" },
-            { "channel_name": "BEIN SPORT 6", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/984150.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png" },
-            { "channel_name": "BEIN SPORT 7", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/882382.m3u8", "logo_url": "https://h.top4top.io/p_3700190ik0.png" },
-            { "channel_name": "BEIN SPORT 8", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/481393.m3u8", "logo_url": "https://l.top4top.io/p_37005r7hh0.png" },
-            { "channel_name": "BEIN SPORT 9", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/574944.m3u8", "logo_url": "https://d.top4top.io/p_3700ipjm90.png" }
+            { "channel_name": "BEIN SPORT 1", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/527418.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 2", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/235756.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 3", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/423346.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 4", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/729735.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 5", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/844940.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 6", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/984150.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 7", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/882382.m3u8", "logo_url": "https://h.top4top.io/p_3700190ik0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 8", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/481393.m3u8", "logo_url": "https://l.top4top.io/p_37005r7hh0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 9", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/574944.m3u8", "logo_url": "https://d.top4top.io/p_3700ipjm90.png", "drm_key": "", "user_agent": "", "referer": "" }
           ]
         },
         {
           "sub_category_name": "BEIN SPORT TOP",
           "sub_category_logo": "https://k.top4top.io/p_3671qj8qr1.jpg",
           "channels": [
-            { "channel_name": "BEIN SPORT 1", "url": "http://h42.reelpush.online/live/918454578001/index.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png" },
-            { "channel_name": "BEIN SPORT 2", "url": "http://h42.reelpush.online/live/69854211/index.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png" },
-            { "channel_name": "BEIN SPORT 3", "url": "http://h42.reelpush.online/live/645587700/index.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png" },
-            { "channel_name": "BEIN SPORT 4", "url": "http://h42.reelpush.online/live/9787488847/index.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png" },
-            { "channel_name": "BEIN SPORT 5", "url": "http://h42.reelpush.online/live/610303030/index.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png" },
-            { "channel_name": "BEIN SPORT 6", "url": "http://h42.reelpush.online/live/1515000000/index.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png" },
-            { "channel_name": "BEIN SPORT 7", "url": "http://h42.reelpush.online/live/33523510/index.m3u8", "logo_url": "https://h.top4top.io/p_3700190ik0.png" },
-            { "channel_name": "BEIN SPORT 8", "url": "http://h42.reelpush.online/live/996251000/index.m3u8", "logo_url": "https://l.top4top.io/p_37005r7hh0.png" },
-            { "channel_name": "BEIN SPORT 9", "url": "http://h42.reelpush.online/live/1515000000/index.m3u8", "logo_url": "https://d.top4top.io/p_3700ipjm90.png" }
+            { "channel_name": "BEIN SPORT 1", "url": "http://h42.reelpush.online/live/918454578001/index.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 2", "url": "http://h42.reelpush.online/live/69854211/index.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 3", "url": "http://h42.reelpush.online/live/645587700/index.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 4", "url": "http://h42.reelpush.online/live/9787488847/index.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 5", "url": "http://h42.reelpush.online/live/610303030/index.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 6", "url": "http://h42.reelpush.online/live/1515000000/index.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 7", "url": "http://h42.reelpush.online/live/33523510/index.m3u8", "logo_url": "https://h.top4top.io/p_3700190ik0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 8", "url": "http://h42.reelpush.online/live/996251000/index.m3u8", "logo_url": "https://l.top4top.io/p_37005r7hh0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 9", "url": "http://h42.reelpush.online/live/1515000000/index.m3u8", "logo_url": "https://d.top4top.io/p_3700ipjm90.png", "drm_key": "", "user_agent": "", "referer": "" }
           ]
         },
         {
           "sub_category_name": "BEIN SPORT NORMAL",
           "sub_category_logo": "https://k.top4top.io/p_3671qj8qr1.jpg",
           "channels": [
-            { "channel_name": "BEIN SPORT 1", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png" },
-            { "channel_name": "BEIN SPORT 2", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png" },
-            { "channel_name": "BEIN SPORT 3", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein3.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png" },
-            { "channel_name": "BEIN SPORT 4", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein4.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png" },
-            { "channel_name": "BEIN SPORT 5", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein5.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png" },
-            { "channel_name": "BEIN SPORT 6", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein6.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png" },
-            { "channel_name": "BEIN SPORT 7", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8", "logo_url": "https://h.top4top.io/p_3700190ik0.png" },
-            { "channel_name": "BEIN SPORT 8", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein8.m3u8", "logo_url": "https://l.top4top.io/p_37005r7hh0.png" },
-            { "channel_name": "BEIN SPORT 9", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein9.m3u8", "logo_url": "https://d.top4top.io/p_3700ipjm90.png" }
+            { "channel_name": "BEIN SPORT 1", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 2", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 3", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein3.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 4", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein4.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 5", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein5.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 6", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein6.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 7", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8", "logo_url": "https://h.top4top.io/p_3700190ik0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 8", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein8.m3u8", "logo_url": "https://l.top4top.io/p_37005r7hh0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 9", "url": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein9.m3u8", "logo_url": "https://d.top4top.io/p_3700ipjm90.png", "drm_key": "", "user_agent": "", "referer": "" }
           ]
         },
         {
           "sub_category_name": "BEIN EARTHLINK",
           "sub_category_logo": "https://k.top4top.io/p_3671qj8qr1.jpg",
           "channels": [
-            { "channel_name": "BEIN SPORT 1", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png" },
-            { "channel_name": "BEIN SPORT 2", "url": "https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/adaptive.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png" },
-            { "channel_name": "BEIN SPORT 3", "url": "https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/adaptive.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png" },
-            { "channel_name": "BEIN SPORT 4", "url": "https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/adaptive.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png" },
-            { "channel_name": "BEIN SPORT 5", "url": "https://stream.supertv.gg:3005/supertv/sport/stv5/ch5/adaptive.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png" },
-            { "channel_name": "BEIN SPORT 6", "url": "https://stream.supertv.gg:3006/supertv/sport/stv6/ch6/adaptive.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png" },
-            { "channel_name": "BEIN SPORT 7", "url": "https://stream.supertv.gg:3007/supertv/sport/stv7/ch7/adaptive.m3u8", "logo_url": "https://h.top4top.io/p_3700190ik0.png" },
-            { "channel_name": "BEIN SPORT 8", "url": "https://stream.supertv.gg:3008/supertv/sport/stv8/ch8/adaptive.m3u8", "logo_url": "https://l.top4top.io/p_37005r7hh0.png" },
-            { "channel_name": "BEIN SPORT 9", "url": "https://stream.supertv.gg:3009/supertv/sport/stv9/ch9/adaptive.m3u8", "logo_url": "https://d.top4top.io/p_3700ipjm90.png" }
+            { "channel_name": "BEIN SPORT 1", "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 2", "url": "https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/adaptive.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 3", "url": "https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/adaptive.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 4", "url": "https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/adaptive.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 5", "url": "https://stream.supertv.gg:3005/supertv/sport/stv5/ch5/adaptive.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 6", "url": "https://stream.supertv.gg:3006/supertv/sport/stv6/ch6/adaptive.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 7", "url": "https://stream.supertv.gg:3007/supertv/sport/stv7/ch7/adaptive.m3u8", "logo_url": "https://h.top4top.io/p_3700190ik0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 8", "url": "https://stream.supertv.gg:3008/supertv/sport/stv8/ch8/adaptive.m3u8", "logo_url": "https://l.top4top.io/p_37005r7hh0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 9", "url": "https://stream.supertv.gg:3009/supertv/sport/stv9/ch9/adaptive.m3u8", "logo_url": "https://d.top4top.io/p_3700ipjm90.png", "drm_key": "", "user_agent": "", "referer": "" }
           ]
         },
         {
           "sub_category_name": "BEIN SPORT OSTORA",
           "sub_category_logo": "https://k.top4top.io/p_3671qj8qr1.jpg",
           "channels": [
-            { "channel_name": "BEIN SPORT 1", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116900&cat=4524", "logo_url": "https://k.top4top.io/p_3700fjmub0.png" },
-            { "channel_name": "BEIN SPORT 2", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116901&cat=4524", "logo_url": "https://g.top4top.io/p_3700xfrux0.png" },
-            { "channel_name": "BEIN SPORT 3", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116902&cat=4524", "logo_url": "https://h.top4top.io/p_3700w1wr20.png" },
-            { "channel_name": "BEIN SPORT 4", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116903&cat=4524", "logo_url": "https://l.top4top.io/p_3700cao830.png" },
-            { "channel_name": "BEIN SPORT 5", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116904&cat=4524", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png" },
-            { "channel_name": "BEIN SPORT 6", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116905&cat=4524", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png" },
-            { "channel_name": "BEIN SPORT 7", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116906&cat=4524", "logo_url": "https://h.top4top.io/p_3700190ik0.png" },
-            { "channel_name": "BEIN SPORT 8", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116907&cat=4524", "logo_url": "https://l.top4top.io/p_37005r7hh0.png" },
-            { "channel_name": "BEIN SPORT 9", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116908&cat=4524", "logo_url": "https://d.top4top.io/p_3700ipjm90.png" }
+            { "channel_name": "BEIN SPORT 1", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116900&cat=4524", "logo_url": "https://k.top4top.io/p_3700fjmub0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 2", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116901&cat=4524", "logo_url": "https://g.top4top.io/p_3700xfrux0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 3", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116902&cat=4524", "logo_url": "https://h.top4top.io/p_3700w1wr20.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 4", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116903&cat=4524", "logo_url": "https://l.top4top.io/p_3700cao830.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 5", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116904&cat=4524", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 6", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116905&cat=4524", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 7", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116906&cat=4524", "logo_url": "https://h.top4top.io/p_3700190ik0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 8", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116907&cat=4524", "logo_url": "https://l.top4top.io/p_37005r7hh0.png", "drm_key": "", "user_agent": "", "referer": "" },
+            { "channel_name": "BEIN SPORT 9", "url": "http://matchnow.optikl.ink/super/play.m3u8?id=116908&cat=4524", "logo_url": "https://d.top4top.io/p_3700ipjm90.png", "drm_key": "", "user_agent": "", "referer": "" }
           ]
         }
       ]
@@ -124,153 +124,152 @@
       "category_name": "STARZPLAY SPORT",
       "category_logo": "https://d.top4top.io/p_3671ihxa01.png",
       "channels": [
-        { "channel_name": "STARZPLAY SPORT 1", "url": "https://tv.vodu.me:1995/live/ad-sport1/mono.m3u8", "logo_url": "https://c.top4top.io/p_37004q9gf0.png" },
-        { "channel_name": "STARZPLAY SPORT 2", "url": "https://tv.vodu.me:1995/live/ad-sport2/mono.m3u8", "logo_url": "https://j.top4top.io/p_3700f5e8t0.png" },
-        { "channel_name": "starzplay1 multi", "url": "go:STW1", "logo_url": "https://c.top4top.io/p_37004q9gf0.png" },
-        { "channel_name": "starzplay 2 multi", "url": "https://iq.ashur-iraq-4g.online/live/laith/111222/54.m3u8", "logo_url": "https://j.top4top.io/p_3700f5e8t0.png" },
-        { "channel_name": "STARZPLAY SPORT 1 (سيرفر 2)", "url": "go:ST1", "logo_url": "https://c.top4top.io/p_37004q9gf0.png" },
-        { "channel_name": "STARZPLAY SPORT 2 (سيرفر 2)", "url": "go:ST2", "logo_url": "https://j.top4top.io/p_3700f5e8t0.png" },
-        { "channel_name": "STC SPORT 1", "url": "go:ST3", "logo_url": "https://j.top4top.io/p_3685x17pp1.png" },
-        { "channel_name": "STC SPORT 2", "url": "go:ST4", "logo_url": "https://k.top4top.io/p_3685p7sxi1.png" },
-        { "channel_name": "STC SPORT 3", "url": "go:ST5", "logo_url": "https://a.top4top.io/p_368528jfz1.png" },
-        { "channel_name": "STC SPORT 4", "url": "go:ST6", "logo_url": "https://b.top4top.io/p_36855q02k1.png" },
-        { "channel_name": "ابو ظبي الرياضية 1", "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8", "logo_url": "https://a.top4top.io/p_3674f0hnb1.png" },
-        { "channel_name": "ابو ظبي الرياضية 2", "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8", "logo_url": "https://f.top4top.io/p_3674rbvlu1.png" }
+        { "channel_name": "STARZPLAY SPORT 1", "url": "https://tv.vodu.me:1995/live/ad-sport1/mono.m3u8", "logo_url": "https://c.top4top.io/p_37004q9gf0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "STARZPLAY SPORT 2", "url": "https://tv.vodu.me:1995/live/ad-sport2/mono.m3u8", "logo_url": "https://j.top4top.io/p_3700f5e8t0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "starzplay1 multi", "url": "go:STW1", "logo_url": "https://c.top4top.io/p_37004q9gf0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "starzplay 2 multi", "url": "https://iq.ashur-iraq-4g.online/live/laith/111222/54.m3u8", "logo_url": "https://j.top4top.io/p_3700f5e8t0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "STARZPLAY SPORT 1 (سيرفر 2)", "url": "go:ST1", "logo_url": "https://c.top4top.io/p_37004q9gf0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "STARZPLAY SPORT 2 (سيرفر 2)", "url": "go:ST2", "logo_url": "https://j.top4top.io/p_3700f5e8t0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "STC SPORT 1", "url": "go:ST3", "logo_url": "https://j.top4top.io/p_3685x17pp1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "STC SPORT 2", "url": "go:ST4", "logo_url": "https://k.top4top.io/p_3685p7sxi1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "STC SPORT 3", "url": "go:ST5", "logo_url": "https://a.top4top.io/p_368528jfz1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "STC SPORT 4", "url": "go:ST6", "logo_url": "https://b.top4top.io/p_36855q02k1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "ابو ظبي الرياضية 1", "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8", "logo_url": "https://a.top4top.io/p_3674f0hnb1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "ابو ظبي الرياضية 2", "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8", "logo_url": "https://f.top4top.io/p_3674rbvlu1.png", "drm_key": "", "user_agent": "", "referer": "" }
       ]
     },
     {
       "category_name": "شاهد سبورت - ثمانية",
       "category_logo": "https://d.top4top.io/p_36715szf81.png",
       "channels": [
-        { "channel_name": "شاهد سبورت 1", "url": "go:SH1", "logo_url": "https://l.top4top.io/p_37006wv9c0.png" },
-        { "channel_name": "شاهد سبورت 2", "url": "go:SH2", "logo_url": "https://c.top4top.io/p_3700gqr490.png" },
-        { "channel_name": "شاهد سبورت 3", "url": "go:SH3", "logo_url": "https://j.top4top.io/p_3700ykqfb0.png" },
-        { "channel_name": "شاهد سبورت 4", "url": "go:SH4", "logo_url": "https://d.top4top.io/p_3700tzuuj0.png" },
-        { "channel_name": "شاهد سبورت 5", "url": "go:SH5", "logo_url": "https://e.top4top.io/p_3700d1sxi0.png" },
-        { "channel_name": "ثمانية سبورت 1", "url": "https://tv.vodu.me:1995/live/thmanyah-1/tracks-v1a1/mono.m3u8", "logo_url": "https://i.top4top.io/p_37000ore30.png" },
-        { "channel_name": "ثمانية سبورت 2", "url": "https://tv.vodu.me:1995/live/thmanyah-2/tracks-v1a1/mono.m3u8", "logo_url": "https://j.top4top.io/p_3700nja7t0.png" },
-        { "channel_name": "ثمانية سبورت 3", "url": "https://tv.vodu.me:1995/live/thmanyah-3/tracks-v1a1/mono.m3u8", "logo_url": "https://h.top4top.io/p_3700damv40.png" },
-        { "channel_name": "ثمانية 1 متعدد الجودة", "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd", "logo_url": "https://i.top4top.io/p_37000ore30.png" },
-        { "channel_name": "ثمانية 2 متعدد الجودة", "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd", "logo_url": "https://j.top4top.io/p_3700nja7t0.png" },
-        { "channel_name": "ثمانية 3 متعدد الجودة", "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd", "logo_url": "https://h.top4top.io/p_3700damv40.png" },
-        { "channel_name": "بوست سبورت 1", "url": "go:P1", "logo_url": "https://g.top4top.io/p_3673qmtxs1.png" },
-        { "channel_name": "بوست سبورت 2", "url": "go:P2", "logo_url": "https://i.top4top.io/p_36739gqlc1.png" },
-        { "channel_name": "بوست سبورت 3", "url": "go:P3", "logo_url": "https://c.top4top.io/p_367338rba1.png" },
-        { "channel_name": "بوست سبورت 4", "url": "go:P4", "logo_url": "https://d.top4top.io/p_3673wetbt1.png" },
-        { "channel_name": "بوست سبورت 5", "url": "go:P5", "logo_url": "https://g.top4top.io/p_3673osxrm1.png" },
-        { "channel_name": "بوست سبورت 6", "url": "https://cdn3-mejarhosting.cfd/2025-posttv720p-ch06/stream_0.m3u8", "logo_url": "https://i.top4top.io/p_3673kgcsj1.png" }
+        { "channel_name": "شاهد سبورت 1", "url": "go:SH1", "logo_url": "https://l.top4top.io/p_37006wv9c0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "شاهد سبورت 2", "url": "go:SH2", "logo_url": "https://c.top4top.io/p_3700gqr490.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "شاهد سبورت 3", "url": "go:SH3", "logo_url": "https://j.top4top.io/p_3700ykqfb0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "شاهد سبورت 4", "url": "go:SH4", "logo_url": "https://d.top4top.io/p_3700tzuuj0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "شاهد سبورت 5", "url": "go:SH5", "logo_url": "https://e.top4top.io/p_3700d1sxi0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "ثمانية سبورت 1", "url": "https://tv.vodu.me:1995/live/thmanyah-1/tracks-v1a1/mono.m3u8", "logo_url": "https://i.top4top.io/p_37000ore30.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "ثمانية سبورت 2", "url": "https://tv.vodu.me:1995/live/thmanyah-2/tracks-v1a1/mono.m3u8", "logo_url": "https://j.top4top.io/p_3700nja7t0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "ثمانية سبورت 3", "url": "https://tv.vodu.me:1995/live/thmanyah-3/tracks-v1a1/mono.m3u8", "logo_url": "https://h.top4top.io/p_3700damv40.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "ثمانية 1 متعدد الجودة", "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd", "logo_url": "https://i.top4top.io/p_37000ore30.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "ثمانية 2 متعدد الجودة", "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd", "logo_url": "https://j.top4top.io/p_3700nja7t0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "ثمانية 3 متعدد الجودة", "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd", "logo_url": "https://h.top4top.io/p_3700damv40.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "بوست سبورت 1", "url": "go:P1", "logo_url": "https://g.top4top.io/p_3673qmtxs1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "بوست سبورت 2", "url": "go:P2", "logo_url": "https://i.top4top.io/p_36739gqlc1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "بوست سبورت 3", "url": "go:P3", "logo_url": "https://c.top4top.io/p_367338rba1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "بوست سبورت 4", "url": "go:P4", "logo_url": "https://d.top4top.io/p_3673wetbt1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "بوست سبورت 5", "url": "go:P5", "logo_url": "https://g.top4top.io/p_3673osxrm1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "بوست سبورت 6", "url": "https://cdn3-mejarhosting.cfd/2025-posttv720p-ch06/stream_0.m3u8", "logo_url": "https://i.top4top.io/p_3673kgcsj1.png", "drm_key": "", "user_agent": "", "referer": "" }
       ]
     },
     {
       "category_name": "الفجر - الوان سبورت",
       "category_logo": "https://d.top4top.io/p_3775xzlkq1.png",
       "channels": [
-        { "channel_name": "الفجر 1 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1114.m3u8", "logo_url": "https://j.top4top.io/p_3700znf5d0.png" },
-        { "channel_name": "الفجر 2 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1113.m3u8", "logo_url": "https://l.top4top.io/p_3700vokrk0.png" },
-        { "channel_name": "الفجر 3 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1112.m3u8", "logo_url": "https://a.top4top.io/p_37757nlw91.png" },
-        { "channel_name": "الفجر 4 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1111.m3u8", "logo_url": "https://i.top4top.io/p_3700bolw00.png" },
-        { "channel_name": "الفجر 5 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1110.m3u8", "logo_url": "https://f.top4top.io/p_3700v72hn0.png" },
-        { "channel_name": "الوان سبورت 1", "url": "http://virtualdbxv.com:8080/alwan1hd/index.m3u8", "logo_url": "https://d.top4top.io/p_3700lzycx0.png" },
-        { "channel_name": "الوان سبورت 2", "url": "http://virtualdbxv.com:8080/alwan2hd/index.m3u8", "logo_url": "https://c.top4top.io/p_3700pe1tk0.png" },
-        { "channel_name": "الوان سبورت 3", "url": "http://virtualdbxv.com:8080/alwan3hd/index.m3u8", "logo_url": "https://f.top4top.io/p_3700qy03p0.png" },
-        { "channel_name": "الوان سبورت 4", "url": "http://virtualdbxv.com:8080/alwan4hd/index.m3u8", "logo_url": "https://f.top4top.io/p_3700f8nij0.png" },
-        { "channel_name": "الوان سبورت 5", "url": "http://virtualdbxv.com:8080/alwan5hd/index.m3u8", "logo_url": "https://i.top4top.io/p_3700ozygg0.png" },
-        { "channel_name": "الوان سبورت 6", "url": "http://virtualdbxv.com:8080/alwan6hd/index.m3u8", "logo_url": "https://l.top4top.io/p_3700z51h80.png" }
+        { "channel_name": "الفجر 1 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1114.m3u8", "logo_url": "https://j.top4top.io/p_3700znf5d0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الفجر 2 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1113.m3u8", "logo_url": "https://l.top4top.io/p_3700vokrk0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الفجر 3 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1112.m3u8", "logo_url": "https://a.top4top.io/p_37757nlw91.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الفجر 4 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1111.m3u8", "logo_url": "https://i.top4top.io/p_3700bolw00.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الفجر 5 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1110.m3u8", "logo_url": "https://f.top4top.io/p_3700v72hn0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الوان سبورت 1", "url": "http://virtualdbxv.com:8080/alwan1hd/index.m3u8", "logo_url": "https://d.top4top.io/p_3700lzycx0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الوان سبورت 2", "url": "http://virtualdbxv.com:8080/alwan2hd/index.m3u8", "logo_url": "https://c.top4top.io/p_3700pe1tk0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الوان سبورت 3", "url": "http://virtualdbxv.com:8080/alwan3hd/index.m3u8", "logo_url": "https://f.top4top.io/p_3700qy03p0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الوان سبورت 4", "url": "http://virtualdbxv.com:8080/alwan4hd/index.m3u8", "logo_url": "https://f.top4top.io/p_3700f8nij0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الوان سبورت 5", "url": "http://virtualdbxv.com:8080/alwan5hd/index.m3u8", "logo_url": "https://i.top4top.io/p_3700ozygg0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الوان سبورت 6", "url": "http://virtualdbxv.com:8080/alwan6hd/index.m3u8", "logo_url": "https://l.top4top.io/p_3700z51h80.png", "drm_key": "", "user_agent": "", "referer": "" }
       ]
     },
     {
       "category_name": "قنوات الكاس",
       "category_logo": "https://c.top4top.io/p_36858nd8x1.jpeg",
       "channels": [
-        { "channel_name": "الكاس 1", "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8", "logo_url": "https://b.top4top.io/p_3674by6yt1.png" },
-        { "channel_name": "الكاس 2", "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8", "logo_url": "https://d.top4top.io/p_36740txay1.png" },
-        { "channel_name": "الكاس 3", "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8", "logo_url": "https://f.top4top.io/p_3674niofu1.png" },
-        { "channel_name": "الكاس 4", "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8", "logo_url": "https://g.top4top.io/p_3674ks3581.png" },
-        { "channel_name": "الكاس 5", "url": "http://37.49.225.174:8080/live/05316097414/99663356557/408560.m3u8?token=aaXfyd.yUfyycc.y.yUaHdzb.yczHbdcU.X.y.IQ.m3u8.1bc3f4c559575f45a5ec4112b8a06ba1fa015ccf63234497687ba5b1d336ab04", "logo_url": "https://a.top4top.io/p_36742vjaj1.png" },
-        { "channel_name": "الكاس 6", "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8", "logo_url": "https://b.top4top.io/p_36747s63c1.png" }
+        { "channel_name": "الكاس 1", "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8", "logo_url": "https://b.top4top.io/p_3674by6yt1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الكاس 2", "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8", "logo_url": "https://d.top4top.io/p_36740txay1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الكاس 3", "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8", "logo_url": "https://f.top4top.io/p_3674niofu1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الكاس 4", "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8", "logo_url": "https://g.top4top.io/p_3674ks3581.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الكاس 5", "url": "http://37.49.225.174:8080/live/05316097414/99663356557/408560.m3u8?token=aaXfyd.yUfyycc.y.yUaHdzb.yczHbdcU.X.y.IQ.m3u8.1bc3f4c559575f45a5ec4112b8a06ba1fa015ccf63234497687ba5b1d336ab04", "logo_url": "https://a.top4top.io/p_36742vjaj1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الكاس 6", "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8", "logo_url": "https://b.top4top.io/p_36747s63c1.png", "drm_key": "", "user_agent": "", "referer": "" }
       ]
     },
     {
       "category_name": "قنوات الرابعة",
       "category_logo": "https://j.top4top.io/p_3775y2jho1.png",
       "channels": [
-        { "channel_name": "العراقية الرياضية", "url": "https://tv.vodu.me:1995/live/iraqia-sport/tracks-v1a1/mono.m3u8", "logo_url": "https://i.top4top.io/p_3674secqr1.jpg" },
-        { "channel_name": "الرابعة الرياضية 1", "url": "https://bladisport.lovable.app/api/public/stream?t=eyJjaWQiOiIxLTRrIiwiZXhwIjoxNzgwMjM3ODA4MDkwLCJpcCI6IjE4OC43Mi40Ni4yMTkiLCJraW5kIjoicHJveHkifQ.-5aV1xxnPnu1ZUEvZNUVfWWAbCiBpgQJ9ijgCd6KrTc#.m3u8", "logo_url": "https://i.top4top.io/p_3674ndjez1.png" },
-        { "channel_name": "الرابعة الرياضية 2", "url": "http://ur4k.me:8080/live/houmid738/1a1dbbe35/353412.ts", "logo_url": "https://f.top4top.io/p_3674hxwkk1.png" },
-        { "channel_name": "الرابعة الرياضية +1", "url": "http://ur4k.me:8080/live/houmid738/1a1dbbe35/353408.ts", "logo_url": "https://e.top4top.io/p_36744s1u41.png" },
-        { "channel_name": "الرابعة الرياضية +2", "url": "http://ur4k.me:8080/live/houmid738/1a1dbbe35/353407.ts", "logo_url": "https://l.top4top.io/p_3674wvncf1.png" },
-        { "channel_name": "DUHOK SPORT", "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/268211.m3u8", "logo_url": "https://a.top4top.io/p_3715vircw0.jpg" }
+        { "channel_name": "العراقية الرياضية", "url": "https://tv.vodu.me:1995/live/iraqia-sport/tracks-v1a1/mono.m3u8", "logo_url": "https://i.top4top.io/p_3674secqr1.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الرابعة الرياضية 1", "url": "https://bladisport.lovable.app/api/public/stream?t=eyJjaWQiOiIxLTRrIiwiZXhwIjoxNzgwMjM3ODA4MDkwLCJpcCI6IjE4OC43Mi40Ni4yMTkiLCJraW5kIjoicHJveHkifQ.-5aV1xxnPnu1ZUEvZNUVfWWAbCiBpgQJ9ijgCd6KrTc#.m3u8", "logo_url": "https://i.top4top.io/p_3674ndjez1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الرابعة الرياضية 2", "url": "http://ur4k.me:8080/live/houmid738/1a1dbbe35/353412.ts", "logo_url": "https://f.top4top.io/p_3674hxwkk1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الرابعة الرياضية +1", "url": "http://ur4k.me:8080/live/houmid738/1a1dbbe35/353408.ts", "logo_url": "https://e.top4top.io/p_36744s1u41.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الرابعة الرياضية +2", "url": "http://ur4k.me:8080/live/houmid738/1a1dbbe35/353407.ts", "logo_url": "https://l.top4top.io/p_3674wvncf1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "DUHOK SPORT", "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/268211.m3u8", "logo_url": "https://a.top4top.io/p_3715vircw0.jpg", "drm_key": "", "user_agent": "", "referer": "" }
       ]
     },
     {
       "category_name": "قنوات رياضية عالمية",
       "category_logo": "https://k.top4top.io/p_36855lfuh1.jpg",
       "channels": [
-        { "channel_name": "NOVA SPORT 1", "url": "go:EN1", "logo_url": "https://j.top4top.io/p_3684jb0my1.png" },
-        { "channel_name": "NOVA SPORT 2", "url": "go:EN2", "logo_url": "https://j.top4top.io/p_3684ov4c61.png" },
-        { "channel_name": "NOVA SPORT CT", "url": "go:EN3", "logo_url": "https://h.top4top.io/p_3684k9gw71.png" },
-        { "channel_name": "laliga", "url": "go:EN4", "logo_url": "https://i.top4top.io/p_3711cqxju1.jpg" },
-        { "channel_name": "CANAL SPORT", "url": "go:EN6", "logo_url": "https://d.top4top.io/p_37153owbj0.png" },
-        { "channel_name": "TNT SPORT 1", "url": "go:EN7", "logo_url": "https://j.top4top.io/p_3684orrum1.jpg" },
-        { "channel_name": "TNT SPORT 2", "url": "go:EN8", "logo_url": "https://b.top4top.io/p_3684eme021.jpg" },
-        { "channel_name": "TNT SPORT 3", "url": "go:EN9", "logo_url": "https://d.top4top.io/p_3684rr4aj1.jpg" },
-        { "channel_name": "TNT SPORT 4", "url": "go:EN10", "logo_url": "https://i.top4top.io/p_3684nvuwr1.jpg" },
-        { "channel_name": "PREMIER SPORT 1", "url": "go:EN11", "logo_url": "https://f.top4top.io/p_3684lhhk01.jpg" },
-        { "channel_name": "PREMIER SPORT 2", "url": "go:EN12", "logo_url": "https://i.top4top.io/p_3684uf6r31.jpg" },
-        { "channel_name": "SKY SPORT LALIGA", "url": "go:EN13", "logo_url": "https://d.top4top.io/p_3684lq9101.jpg" },
-        { "channel_name": "ELEVEN SPORT 1", "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd", "logo_url": "https://e.top4top.io/p_3769fjhxb1.png" },
-        { "channel_name": "ELEVEN SPORT 2", "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd", "logo_url": "https://l.top4top.io/p_3769vtn7r1.png" },
-        { "channel_name": "ELEVEN SPORT 3", "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd", "logo_url": "https://h.top4top.io/p_3769xyvy61.png" }
+        { "channel_name": "NOVA SPORT 1", "url": "go:EN1", "logo_url": "https://j.top4top.io/p_3684jb0my1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "NOVA SPORT 2", "url": "go:EN2", "logo_url": "https://j.top4top.io/p_3684ov4c61.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "NOVA SPORT CT", "url": "go:EN3", "logo_url": "https://h.top4top.io/p_3684k9gw71.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "laliga", "url": "go:EN4", "logo_url": "https://i.top4top.io/p_3711cqxju1.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "CANAL SPORT", "url": "go:EN6", "logo_url": "https://d.top4top.io/p_37153owbj0.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "TNT SPORT 1", "url": "go:EN7", "logo_url": "https://j.top4top.io/p_3684orrum1.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "TNT SPORT 2", "url": "go:EN8", "logo_url": "https://b.top4top.io/p_3684eme021.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "TNT SPORT 3", "url": "go:EN9", "logo_url": "https://d.top4top.io/p_3684rr4aj1.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "TNT SPORT 4", "url": "go:EN10", "logo_url": "https://i.top4top.io/p_3684nvuwr1.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "PREMIER SPORT 1", "url": "go:EN11", "logo_url": "https://f.top4top.io/p_3684lhhk01.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "PREMIER SPORT 2", "url": "go:EN12", "logo_url": "https://i.top4top.io/p_3684uf6r31.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "SKY SPORT LALIGA", "url": "go:EN13", "logo_url": "https://d.top4top.io/p_3684lq9101.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "ELEVEN SPORT 1", "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd", "logo_url": "https://e.top4top.io/p_3769fjhxb1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "ELEVEN SPORT 2", "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd", "logo_url": "https://l.top4top.io/p_3769vtn7r1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "ELEVEN SPORT 3", "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd", "logo_url": "https://h.top4top.io/p_3769xyvy61.png", "drm_key": "", "user_agent": "", "referer": "" }
       ]
     },
     {
       "category_name": "أفلام و مسلسلات",
       "category_logo": "https://f.top4top.io/p_36857l0uj1.jpg",
       "channels": [
-        { "channel_name": "شاهد افلام 1", "url": "http://showplustv.pro/live/Hamdo627/63999766/46947.m3u8", "logo_url": "https://l.top4top.io/p_36756efa21.png" },
-        { "channel_name": "شاهد افلام 2", "url": "http://showplustv.pro/live/Hamdo627/63999766/46946.m3u8", "logo_url": "https://a.top4top.io/p_36757mwez1.png" },
-        { "channel_name": "شاهد سينما", "url": "http://showplustv.pro/live/Hamdo627/63999766/46945.m3u8", "logo_url": "https://h.top4top.io/p_3675tv2ra1.png" },
-        { "channel_name": "نت فليكس دراما", "url": "http://showplustv.pro/live/Hamdo627/63999766/46951.m3u8", "logo_url": "https://k.top4top.io/p_3675qa6hf1.png" },
-        { "channel_name": "ACTION", "url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8", "logo_url": "https://d.top4top.io/p_3675fyi961.jpg" },
-        { "channel_name": "TOP MOVIES", "url": "http://showplustv.pro/live/Hamdo627/63999766/58465.m3u8", "logo_url": "https://i.top4top.io/p_36756ei6k1.jpg" }
+        { "channel_name": "شاهد افلام 1", "url": "http://showplustv.pro/live/Hamdo627/63999766/46947.m3u8", "logo_url": "https://l.top4top.io/p_36756efa21.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "شاهد افلام 2", "url": "http://showplustv.pro/live/Hamdo627/63999766/46946.m3u8", "logo_url": "https://a.top4top.io/p_36757mwez1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "شاهد سينما", "url": "http://showplustv.pro/live/Hamdo627/63999766/46945.m3u8", "logo_url": "https://h.top4top.io/p_3675tv2ra1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "نت فليكس دراما", "url": "http://showplustv.pro/live/Hamdo627/63999766/46951.m3u8", "logo_url": "https://k.top4top.io/p_3675qa6hf1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "ACTION", "url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8", "logo_url": "https://d.top4top.io/p_3675fyi961.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "TOP MOVIES", "url": "http://showplustv.pro/live/Hamdo627/63999766/58465.m3u8", "logo_url": "https://i.top4top.io/p_36756ei6k1.jpg", "drm_key": "", "user_agent": "", "referer": "" }
       ]
     },
     {
       "category_name": "قنوات MBC",
       "category_logo": "https://c.top4top.io/p_36851ecmq1.jpg",
       "channels": [
-        { "channel_name": "MBC 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8", "logo_url": "https://h.top4top.io/p_3675kef811.jpg" },
-        { "channel_name": "MBC 2", "url": "go:MB2", "logo_url": "https://g.top4top.io/p_36755xaw11.png" },
-        { "channel_name": "MBC 3", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8", "logo_url": "https://c.top4top.io/p_36758rk121.jpg" },
-        { "channel_name": "MBC 4", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8", "logo_url": "https://h.top4top.io/p_36759jasf1.jpg" },
-        { "channel_name": "MBC ACTION", "url": "https://tv.vodu.me:1995/nile2/MBCAction/tracks-v1a1/mono.m3u8", "logo_url": "https://a.top4top.io/p_36759j5q71.jpg" },
-        { "channel_name": "MBC DRAMA", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8", "logo_url": "https://j.top4top.io/p_3675yuuby1.jpg" },
-        { "channel_name": "MBC IRAQ", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8", "logo_url": "https://e.top4top.io/p_3675mkh9v1.jpg" },
-        { "channel_name": "MBC MASER 1", "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8", "logo_url": "https://h.top4top.io/p_36758og3p1.png" },
-        { "channel_name": "MBC MASER 2", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8", "logo_url": "https://k.top4top.io/p_3675pu4w11.png" }
+        { "channel_name": "MBC 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8", "logo_url": "https://h.top4top.io/p_3675kef811.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "MBC 2", "url": "go:MB2", "logo_url": "https://g.top4top.io/p_36755xaw11.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "MBC 3", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8", "logo_url": "https://c.top4top.io/p_36758rk121.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "MBC 4", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8", "logo_url": "https://h.top4top.io/p_36759jasf1.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "MBC ACTION", "url": "https://tv.vodu.me:1995/nile2/MBCAction/tracks-v1a1/mono.m3u8", "logo_url": "https://a.top4top.io/p_36759j5q71.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "MBC DRAMA", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8", "logo_url": "https://j.top4top.io/p_3675yuuby1.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "MBC IRAQ", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8", "logo_url": "https://e.top4top.io/p_3675mkh9v1.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "MBC MASER 1", "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8", "logo_url": "https://h.top4top.io/p_36758og3p1.png", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "MBC MASER 2", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8", "logo_url": "https://k.top4top.io/p_3675pu4w11.png", "drm_key": "", "user_agent": "", "referer": "" }
       ]
     },
     {
       "category_name": "قنوات عراقية وعربية",
       "category_logo": "https://k.top4top.io/p_3685icmcg1.png",
       "channels": [
-        { "channel_name": "ALSHARQIYA", "url": "https://tv.vodu.me:1995/nile2/alsharqiya/mono.m3u8", "logo_url": "https://b.top4top.io/p_3675dveqm1.jpg" },
-        { "channel_name": "Al-SUMARIA", "url": "https://tv.vodu.me:1995/nile3/AlSumaria/tracks-v1a1/mono.m3u8", "logo_url": "https://f.top4top.io/p_36754clht1.jpg" },
-        { "channel_name": "IRAQIA", "url": "https://tv.vodu.me:1995/nile/aliraqia/tracks-v1a1/mono.m3u8", "logo_url": "https://i.top4top.io/p_36751ddrk1.jpg" },
-        { "channel_name": "RT Arab", "url": "https://tv.vodu.me:1995/live/RT-Arab/tracks-v1a1/mono.m3u8", "logo_url": "https://i.top4top.io/p_3675ci5mp1.jpg" }
+        { "channel_name": "ALSHARQIYA", "url": "https://tv.vodu.me:1995/nile2/alsharqiya/mono.m3u8", "logo_url": "https://b.top4top.io/p_3675dveqm1.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "Al-SUMARIA", "url": "https://tv.vodu.me:1995/nile3/AlSumaria/tracks-v1a1/mono.m3u8", "logo_url": "https://f.top4top.io/p_36754clht1.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "IRAQIA", "url": "https://tv.vodu.me:1995/nile/aliraqia/tracks-v1a1/mono.m3u8", "logo_url": "https://i.top4top.io/p_36751ddrk1.jpg", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "RT Arab", "url": "https://tv.vodu.me:1995/live/RT-Arab/tracks-v1a1/mono.m3u8", "logo_url": "https://i.top4top.io/p_3675ci5mp1.jpg", "drm_key": "", "user_agent": "", "referer": "" }
       ]
     },
     {
       "category_name": "باقة كاس العالم",
       "category_logo": "https://j.top4top.io/p_3794lr1i81.jpg",
-      "user_agent": "TDMPlayer/1.9.6",
       "channels": [
-        { "channel_name": "BEIN SPORT 1", "url": "https://w.myychann.store/live/egbrazil/97569432/782.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png" },
-        { "channel_name": "BEIN SPORT 2", "url": "https://w.myychann.store/live/egbrazil/97569432/677.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png" },
-        { "channel_name": "BEIN SPORT 3", "url": "https://w.myychann.store/live/egbrazil/97569432/680.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png" },
-        { "channel_name": "BEIN SPORT 4", "url": "https://w.myychann.store/live/egbrazil/97569432/683.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png" },
-        { "channel_name": "BEIN SPORT 5", "url": "https://w.myychann.store/live/egbrazil/97569432/686.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png" },
-        { "channel_name": "BEIN SPORT 6", "url": "https://w.myychann.store/live/egbrazil/97569432/689.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png" }
+        { "channel_name": "BEIN SPORT 1", "url": "https://w.myychann.store/live/egbrazil/97569432/782.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png", "drm_key": "", "user_agent": "TDMPlayer/1.9.6", "referer": "" },
+        { "channel_name": "BEIN SPORT 2", "url": "https://w.myychann.store/live/egbrazil/97569432/677.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png", "drm_key": "", "user_agent": "TDMPlayer/1.9.6", "referer": "" },
+        { "channel_name": "BEIN SPORT 3", "url": "https://w.myychann.store/live/egbrazil/97569432/680.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png", "drm_key": "", "user_agent": "TDMPlayer/1.9.6", "referer": "" },
+        { "channel_name": "BEIN SPORT 4", "url": "https://w.myychann.store/live/egbrazil/97569432/683.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png", "drm_key": "", "user_agent": "TDMPlayer/1.9.6", "referer": "" },
+        { "channel_name": "BEIN SPORT 5", "url": "https://w.myychann.store/live/egbrazil/97569432/686.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png", "drm_key": "", "user_agent": "TDMPlayer/1.9.6", "referer": "" },
+        { "channel_name": "BEIN SPORT 6", "url": "https://w.myychann.store/live/egbrazil/97569432/689.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png", "drm_key": "", "user_agent": "TDMPlayer/1.9.6", "referer": "" }
       ]
     }
   ]
