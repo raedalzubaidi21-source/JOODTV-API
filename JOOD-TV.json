@@ -264,12 +264,12 @@
       "category_name": "باقة كاس العالم",
       "category_logo": "https://j.top4top.io/p_3794lr1i81.jpg",
       "channels": [
-        { "channel_name": "BEIN SPORT 1", "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Qn7Y00uqDKPXS8N0x_rbKFYM0igweXIqGVU7HFL4E66kAvspacW4yTkA51DlyfZPgQtXFxb0KCHooA50CiIwqw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live", "logo_url": "https://k.top4top.io/p_3700fjmub0.png" },
-        { "channel_name": "BEIN SPORT 2", "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/zJj5EIrprdD-H3OtSIQ1FY-245E6F3ByOVsi8tStKeRJ2iVUf0SmBRzgsZMamSJX522ejQ5fyzvQB76WJiicQQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live", "logo_url": "https://g.top4top.io/p_3700xfrux0.png" },
-        { "channel_name": "BEIN SPORT 3", "url": "go:cup3", "logo_url": "https://h.top4top.io/p_3700w1wr20.png" },
-        { "channel_name": "BEIN SPORT 4", "url": "go:cup4", "logo_url": "https://l.top4top.io/p_3700cao830.png" },
-        { "channel_name": "BEIN SPORT 5", "url": "go:cup5", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png" },
-        { "channel_name": "BEIN SPORT 6", "url": "go:cup6", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png" }
+        { "channel_name": "BEIN SPORT 1", "url": "https://w.myychann.store/live/egbrazil/97569432/782.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png" },
+        { "channel_name": "BEIN SPORT 2", "url": "https://w.myychann.store/live/egbrazil/97569432/677.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png" },
+        { "channel_name": "BEIN SPORT 3", "url": "https://w.myychann.store/live/egbrazil/97569432/680.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png" },
+        { "channel_name": "BEIN SPORT 4", "url": "https://w.myychann.store/live/egbrazil/97569432/683.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png" },
+        { "channel_name": "BEIN SPORT 5", "url": "https://w.myychann.store/live/egbrazil/97569432/686.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png" },
+        { "channel_name": "BEIN SPORT 6", "url": "https://w.myychann.store/live/egbrazil/97569432/689.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png" }
       ]
     }
   ]
