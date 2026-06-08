@@ -1,4 +1,27 @@
 {
+  "subscription_system": {
+    "admin_code": "19891989Rd",
+    "code_pattern": "^[TDMWRY]\\d{3}$",
+    "durations_ms": {
+      "T": 3600000,
+      "D": 86400000,
+      "W": 604800000,
+      "M": 2592000000,
+      "R": 7776000000,
+      "Y": 31536000000
+    },
+    "durations_text": {
+      "T": "ساعة",
+      "D": "يوم",
+      "W": "أسبوع",
+      "M": "شهر",
+      "R": "3 أشهر",
+      "Y": "سنة"
+    },
+    "codes": {},
+    "active_sessions": {},
+    "logs": []
+  },
   "categories": [
     {
       "category_name": "BEIN SPORT FULL HD",
