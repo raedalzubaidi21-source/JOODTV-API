@@ -142,7 +142,7 @@
       "category_name": "شاهد سبورت - ثمانية",
       "category_logo": "https://d.top4top.io/p_36715szf81.png",
       "channels": [
-        { "channel_name": "شاهد سبورت 1", "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd", "logo_url": "https://l.top4top.io/p_37006wv9c0.png", "ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9": "", "user_agent": "", "referer": "" },
+        { "channel_name": "شاهد سبورت 1", "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd", "logo_url": "https://l.top4top.io/p_37006wv9c0.png",  "drm_key": "ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9": "", "user_agent": "", "referer": "" },
         { "channel_name": "شاهد سبورت 2", "url": "go:SH2", "logo_url": "https://c.top4top.io/p_3700gqr490.png", "drm_key": "", "user_agent": "", "referer": "" },
         { "channel_name": "شاهد سبورت 3", "url": "go:SH3", "logo_url": "https://j.top4top.io/p_3700ykqfb0.png", "drm_key": "", "user_agent": "", "referer": "" },
         { "channel_name": "شاهد سبورت 4", "url": "go:SH4", "logo_url": "https://d.top4top.io/p_3700tzuuj0.png", "drm_key": "", "user_agent": "", "referer": "" },
