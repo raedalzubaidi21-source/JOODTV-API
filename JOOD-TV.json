@@ -165,17 +165,17 @@
       "category_name": "الفجر - الوان سبورت",
       "category_logo": "https://d.top4top.io/p_3775xzlkq1.png",
       "channels": [
-        { "channel_name": "الفجر 1 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1114.m3u8", "logo_url": "https://j.top4top.io/p_3700znf5d0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
-        { "channel_name": "الفجر 2 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1113.m3u8", "logo_url": "https://l.top4top.io/p_3700vokrk0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
-        { "channel_name": "الفجر 3 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1112.m3u8", "logo_url": "https://a.top4top.io/p_37757nlw91.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
-        { "channel_name": "الفجر 4 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1111.m3u8", "logo_url": "https://i.top4top.io/p_3700bolw00.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
-        { "channel_name": "الفجر 5 احتياط", "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1110.m3u8", "logo_url": "https://f.top4top.io/p_3700v72hn0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
-        { "channel_name": "الوان سبورت 1", "url": "http://virtualdbxv.com:8080/alwan1hd/index.m3u8", "logo_url": "https://d.top4top.io/p_3700lzycx0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
-        { "channel_name": "الوان سبورت 2", "url": "http://virtualdbxv.com:8080/alwan2hd/index.m3u8", "logo_url": "https://c.top4top.io/p_3700pe1tk0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
-        { "channel_name": "الوان سبورت 3", "url": "http://virtualdbxv.com:8080/alwan3hd/index.m3u8", "logo_url": "https://f.top4top.io/p_3700qy03p0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
-        { "channel_name": "الوان سبورت 4", "url": "http://virtualdbxv.com:8080/alwan4hd/index.m3u8", "logo_url": "https://f.top4top.io/p_3700f8nij0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
-        { "channel_name": "الوان سبورت 5", "url": "http://virtualdbxv.com:8080/alwan5hd/index.m3u8", "logo_url": "https://i.top4top.io/p_3700ozygg0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
-        { "channel_name": "الوان سبورت 6", "url": "http://virtualdbxv.com:8080/alwan6hd/index.m3u8", "logo_url": "https://l.top4top.io/p_3700z51h80.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" }
+        { "channel_name": "الفجر 1 احتياط", "url": "https://cdn3-mejarhosting.cfd/ftv1_720p/index.mpd", "logo_url": "https://j.top4top.io/p_3700znf5d0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الفجر 2 احتياط", "url": "https://cdn3-mejarhosting.cfd/ftv2_720p/index.mpd", "logo_url": "https://l.top4top.io/p_3700vokrk0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الفجر 3 احتياط", "url": "https://cdn3-mejarhosting.cfd/ftv3_720p/index.mpd", "logo_url": "https://a.top4top.io/p_37757nlw91.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الفجر 4 احتياط", "url": "https://cdn3-mejarhosting.cfd/ftv4_720p/index.mpd", "logo_url": "https://i.top4top.io/p_3700bolw00.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الفجر 5 احتياط", "url": "https://cdn3-mejarhosting.cfd/ftv5_720p/index.mpd", "logo_url": "https://f.top4top.io/p_3700v72hn0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الوان سبورت 1", "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237015.m3u8", "logo_url": "https://d.top4top.io/p_3700lzycx0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الوان سبورت 2", "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237018.m3u8", "logo_url": "https://c.top4top.io/p_3700pe1tk0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الوان سبورت 3", "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237021.m3u8", "logo_url": "https://f.top4top.io/p_3700qy03p0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الوان سبورت 4", "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237024.m3u8", "logo_url": "https://f.top4top.io/p_3700f8nij0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الوان سبورت 5", "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237027.m3u8", "logo_url": "https://i.top4top.io/p_3700ozygg0.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" },
+        { "channel_name": "الوان سبورت 6", "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237030.m3u8", "logo_url": "https://l.top4top.io/p_3700z51h80.png", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "" }
       ]
     },
     {
