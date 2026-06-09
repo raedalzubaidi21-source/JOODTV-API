@@ -301,7 +301,7 @@
       "category_name": "باقة كاس العالم",
       "category_logo": "https://j.top4top.io/p_3794lr1i81.jpg",
       "channels": [
-        { "channel_name": "BEIN SPORT 1", "url": "https://w.myychann.store/live/oscar123/32682313/776.m3u8", "logo_url": "https://k.top4top.io/p_3700fjmub0.png", "drm_id": "", "drm_key": "", "user_agent": "TDMPlayer/1.9.6", "referer": "" },
+        { "channel_name": "BEIN SPORT 1", "url": "http://64.31.29.62:8080/live/oscar123/32682313/776.m3u8?token=VElpRWNZelVUNWtiTFJw", "logo_url": "https://k.top4top.io/p_3700fjmub0.png", "drm_id": "", "drm_key": "", "user_agent": "TDMPlayer/1.9.6", "referer": "" },
         { "channel_name": "BEIN SPORT 2", "url": "https://w.myychann.store/live/egbrazil/97569432/677.m3u8", "logo_url": "https://g.top4top.io/p_3700xfrux0.png", "drm_id": "", "drm_key": "", "user_agent": "TDMPlayer/1.9.6", "referer": "" },
         { "channel_name": "BEIN SPORT 3", "url": "https://w.myychann.store/live/egbrazil/97569432/680.m3u8", "logo_url": "https://h.top4top.io/p_3700w1wr20.png", "drm_id": "", "drm_key": "", "user_agent": "TDMPlayer/1.9.6", "referer": "" },
         { "channel_name": "BEIN SPORT 4", "url": "https://w.myychann.store/live/egbrazil/97569432/683.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png", "drm_id": "", "drm_key": "", "user_agent": "TDMPlayer/1.9.6", "referer": "" },
