@@ -278,60 +278,12 @@
       "category_name": "باقة كاس العالم",
       "category_logo": "https://j.top4top.io/p_3794lr1i81.jpg",
       "channels": [
-        {
-          "channel_name": "BEIN SPORT 1",
-          "url": "http://het129b.ycn-redirect.com/live/610303030/index.m3u8?t=hqKO3HtuQ965qFWzYEC9yw&e=1781123222",
-          "logo_url": "https://k.top4top.io/p_3700fjmub0.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-          "referer": ""
-        },
-        {
-          "channel_name": "BEIN SPORT 2",
-          "url": "http://het136c.ycn-redirect.com/live/1515000000/index.m3u8?t=B3NsC56UiqGnNHUjEYyMSw&e=1781123232",
-          "logo_url": "https://g.top4top.io/p_3700xfrux0.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-          "referer": ""
-        },
-        {
-          "channel_name": "BEIN SPORT 3",
-          "url": "http://het103b.ycn-redirect.com/live/33523510/index.m3u8?t=3F8oDE3u9aSL9FHq0xfacg&e=1781123232",
-          "logo_url": "https://h.top4top.io/p_3700w1wr20.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-          "referer": ""
-        },
-        {
-          "channel_name": "BEIN SPORT 4",
-          "url": "https://w.myychann.store/live/egbrazil/97569432/683.m3u8",
-          "logo_url": "https://l.top4top.io/p_3700cao830.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-          "referer": "https://www.google.com/"
-        },
-        {
-          "channel_name": "BEIN SPORT 5",
-          "url": "https://w.myychann.store/live/egbrazil/97569432/686.m3u8",
-          "logo_url": "https://k.top4top.io/p_3700c1kpk0.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-          "referer": "https://www.google.com/"
-        },
-        {
-          "channel_name": "BEIN SPORT 6",
-          "url": "https://w.myychann.store/live/egbrazil/97569432/689.m3u8",
-          "logo_url": "https://d.top4top.io/p_3700tsj2x0.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-          "referer": "https://www.google.com/"
-        }
+        { "channel_name": "BEIN SPORT 1", "url": "http://het129b.ycn-redirect.com/live/610303030/index.m3u8?t=hqKO3HtuQ965qFWzYEC9yw&e=1781123222", "logo_url": "https://k.top4top.io/p_3700fjmub0.png", "drm_id": "", "drm_key": "", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "" },
+        { "channel_name": "BEIN SPORT 2", "url": "http://het136c.ycn-redirect.com/live/1515000000/index.m3u8?t=B3NsC56UiqGnNHUjEYyMSw&e=1781123232", "logo_url": "https://g.top4top.io/p_3700xfrux0.png", "drm_id": "", "drm_key": "", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "" },
+        { "channel_name": "BEIN SPORT 3", "url": "http://het103b.ycn-redirect.com/live/33523510/index.m3u8?t=3F8oDE3u9aSL9FHq0xfacg&e=1781123232", "logo_url": "https://h.top4top.io/p_3700w1wr20.png", "drm_id": "", "drm_key": "", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "" },
+        { "channel_name": "BEIN SPORT 4", "url": "https://w.myychann.store/live/egbrazil/97569432/683.m3u8", "logo_url": "https://l.top4top.io/p_3700cao830.png", "drm_id": "", "drm_key": "", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "" },
+        { "channel_name": "BEIN SPORT 5", "url": "https://w.myychann.store/live/egbrazil/97569432/686.m3u8", "logo_url": "https://k.top4top.io/p_3700c1kpk0.png", "drm_id": "", "drm_key": "", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "" },
+        { "channel_name": "BEIN SPORT 6", "url": "https://w.myychann.store/live/egbrazil/97569432/689.m3u8", "logo_url": "https://d.top4top.io/p_3700tsj2x0.png", "drm_id": "", "drm_key": "", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "" }
       ]
     }
   ]
