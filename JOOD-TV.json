@@ -285,7 +285,7 @@
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-          "referer": "https://www.google.com/"
+          "referer": ""
         },
         {
           "channel_name": "BEIN SPORT 2",
@@ -294,7 +294,7 @@
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-          "referer": "https://www.google.com/"
+          "referer": ""
         },
         {
           "channel_name": "BEIN SPORT 3",
@@ -303,7 +303,7 @@
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-          "referer": "https://www.google.com/"
+          "referer": ""
         },
         {
           "channel_name": "BEIN SPORT 4",
