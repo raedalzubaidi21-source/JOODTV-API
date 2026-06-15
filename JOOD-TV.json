@@ -1731,15 +1731,6 @@
           "referer": ""
         },
         {
-          "channel_name": "Falcon Sport 4",
-          "url": "https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Falcon4.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": ""
-        },
-        {
           "channel_name": "Falcon Sport 5",
           "url": "https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Falcon5.m3u8",
           "logo_url": "",
