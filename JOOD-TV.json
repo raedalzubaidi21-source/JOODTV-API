@@ -1741,12 +1741,12 @@
         },
         {
           "channel_name": "blue sport 2",
-          "url": "https://15cup-live.s3.eu-north-1.amazonaws.com/max1/max1_720p/index.m3u8",
+          "url": "https://a8.kora-plus.app/watch/alwan1.m3u8?token=pJX4roWMc-6krEz8iV6W3C-rrKc&exp=1781562600",
           "logo_url": "https://i.top4top.io/p_38108sfjt0.png",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://z1.depoooo.com"
+          "referer": "https://a8.kora-plus.app/sw.js"
         }
       ]
     }
