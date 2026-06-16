@@ -1745,8 +1745,8 @@
           "logo_url": "https://i.top4top.io/p_38108sfjt0.png",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "",
-          "referer": ""
+          "user_agent": "Mozilla/5.0",
+          "referer": "https://x.com"
         },
         {
           "channel_name": "beIN MAX 1",
