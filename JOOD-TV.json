@@ -1765,6 +1765,15 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
           "referer": ""
+        },
+        {
+          "channel_name": "beIN MAX 3",
+          "url": "http://het140c.ycn-redirect.com/live/33523510/index.m3u8",
+          "logo_url": "https://f.top4top.io/p_3818lus8k2.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": ""
         }
       ]
     }
