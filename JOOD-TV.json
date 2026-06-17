@@ -1990,6 +1990,16 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "referer": "https://39.256529.sbs/",
           "order": 17
+        },
+        {
+          "channel_name": "Kora city",
+          "url": "https://live.kooran53.cfd/goolato3_360/1781725629242.ts",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "https://23.streemach.site/",
+          "order": 18
         }
       ]
     }
