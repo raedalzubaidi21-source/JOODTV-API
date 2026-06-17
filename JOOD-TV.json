@@ -1972,13 +1972,13 @@
           "order": 15
         },
         {
-          "channel_name": "Livekora vip 1",
-          "url": "https://1.078945.dpdns.org/hls/1/stream.m3u8",
+          "channel_name": "beIN MAX 1 - 2K",
+          "url": "https://stream.liveostora.com/sportinaapp1/index.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "referer": "https://39.256529.sbs/",
+          "user_agent": "",
+          "referer": "",
           "order": 16
         },
         {
