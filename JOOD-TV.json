@@ -2010,6 +2010,26 @@
           "user_agent": "",
           "referer": "",
           "order": 19
+        },
+        {
+          "channel_name": "beIN MX 1 HD",
+          "url": "https://super-tv.vercel.app/api/play.m3u8?id=bmax1_720",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "SUPER2026",
+          "referer": "",
+          "order": 20
+        },
+        {
+          "channel_name": "beIN MX 2 HD",
+          "url": "https://super-tv.vercel.app/api/play.m3u8?id=bmax2_720",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "SUPER2026",
+          "referer": "",
+          "order": 21
         }
       ]
     }
