@@ -2000,16 +2000,6 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
           "referer": "https://23.streemach.site/",
           "order": 18
-        },
-        {
-          "channel_name": "تجريبي",
-          "url": "https://bladisport1.lovable.app/api/public/stream?t=eyJjaWQiOiJjaC0xLW1xaGNhMmhmIiwiZXhwIjoxNzgxODk4NjAwMDAwLCJpcCI6IjEyMi4xMDIuMTE5LjYyIiwia2luZCI6InByb3h5In0.5LWPbY-LxKL0JrvWEYa0kEJjPxS1IR2JK5w9tgsSXB4",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://bladisport1.lovable.app/",
-          "order": 19
         }
       ]
     }
