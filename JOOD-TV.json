@@ -1962,9 +1962,9 @@
           "order": 14
         },
         {
-          "channel_name": "blue sport 1 (نسخة)",
-          "url": "https://bluesport.live/live/blue_sport_1/index.m3u8",
-          "logo_url": "https://h.top4top.io/p_3810koo0m0.png",
+          "channel_name": "blue sport 3",
+          "url": "https://bluesport.live/live/blue_sport_3/index.m3u8",
+          "logo_url": "",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0",
