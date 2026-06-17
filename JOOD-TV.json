@@ -1990,6 +1990,16 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "referer": "https://39.256529.sbs/",
           "order": 17
+        },
+        {
+          "channel_name": "يلا كورة 1",
+          "url": "https://v1.site22.top/broadcast/yAQCZeL2fjAdw3fgGLqEdA/1781724175/1781723914/1/max1.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "referer": "https://kora24.site88.one/",
+          "order": 18
         }
       ]
     }
