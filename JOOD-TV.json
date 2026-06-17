@@ -2030,6 +2030,26 @@
           "user_agent": "SUPER2026",
           "referer": "",
           "order": 21
+        },
+        {
+          "channel_name": "beIN MX 3 HD",
+          "url": "https://super-tv.vercel.app/api/play.m3u8?id=bmax3_720",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "SUPER2026",
+          "referer": "",
+          "order": 22
+        },
+        {
+          "channel_name": "beIN MX 4 HD",
+          "url": "https://super-tv.vercel.app/api/play.m3u8?id=bmax4_720",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "SUPER2026",
+          "referer": "",
+          "order": 23
         }
       ]
     }
