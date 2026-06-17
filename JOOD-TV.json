@@ -775,7 +775,7 @@
         },
         {
           "channel_name": "بوست سبورت 2",
-          "url": "go:P2",
+          "url": "http://na-drtv.org/live/jaouad_896519/0JgpILgu/1630676.m3u8",
           "logo_url": "https://i.top4top.io/p_36739gqlc1.png",
           "drm_id": "",
           "drm_key": "",
@@ -1063,7 +1063,7 @@
         },
         {
           "channel_name": "DUHOK SPORT",
-          "url": "http://sharkiptv.vip/0661090770/8725012301/98940",
+          "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/268211.m3u8",
           "logo_url": "https://a.top4top.io/p_3715vircw0.jpg",
           "drm_id": "",
           "drm_key": "",
@@ -2000,6 +2000,16 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
           "referer": "https://23.streemach.site/",
           "order": 18
+        },
+        {
+          "channel_name": "SHNA SPORT",
+          "url": "https://ndlive.host247.net/live/shna3/playlist.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 19
         }
       ]
     }
