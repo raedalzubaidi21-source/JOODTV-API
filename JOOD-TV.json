@@ -1992,13 +1992,13 @@
           "order": 17
         },
         {
-          "channel_name": "Kora city",
-          "url": "https://live.kooran53.cfd/goolato3_480/index.m3u8",
+          "channel_name": "beIN MAX 3 - 2K",
+          "url": "http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/460867.ts",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://23.streemach.site/",
+          "user_agent": "",
+          "referer": "",
           "order": 18
         },
         {
