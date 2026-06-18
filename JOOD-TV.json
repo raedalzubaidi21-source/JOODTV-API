@@ -2052,13 +2052,13 @@
           "order": 23
         },
         {
-          "channel_name": "beIN MAX1 TOD",
-          "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/HMIq3FHTtpMsboa1XJEf54z_vhnUDJAxgypBeXVR4_UwmpJGV3whIS5mt2KzojeC7AZibGBNry2QWpxvK0VdMA/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
+          "channel_name": "beIN MAX1 live",
+          "url": "https://8nwwqrar.12703830.net:8443/hls/86xjlavglp69n.m3u8?s=9qfJU28F3s1NMjXk_69MMw&e=1781833792",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "",
-          "referer": "",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+          "referer": "https://a6b658d79bb9da14bffac0a0a70b44f2.dyngutter.net",
           "order": 24
         }
       ]
