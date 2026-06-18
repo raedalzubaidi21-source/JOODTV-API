@@ -2013,17 +2013,17 @@
         },
         {
           "channel_name": "beIN MX 1 HD",
-          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255236.ts",
+          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255236.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "com.boostvision.player.iptv",
+          "user_agent": "",
           "referer": "",
           "order": 20
         },
         {
           "channel_name": "beIN MX 2 HD",
-          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255237.ts",
+          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255237.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
@@ -2033,7 +2033,7 @@
         },
         {
           "channel_name": "beIN MX 3 HD",
-          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255238.ts",
+          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255238.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
@@ -2043,7 +2043,7 @@
         },
         {
           "channel_name": "beIN MX 4 HD",
-          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255239.ts",
+          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255239.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
