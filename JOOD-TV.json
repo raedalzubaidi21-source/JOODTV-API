@@ -830,8 +830,8 @@
       "category_logo": "https://d.top4top.io/p_3775xzlkq1.png",
       "channels": [
         {
-          "channel_name": "الفجر 1 احتياط",
-          "url": "https://cdn3-mejarhosting.cfd/ftv1_720p/index.mpd",
+          "channel_name": "الفجر 1",
+          "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/264250.m3u8.ts",
           "logo_url": "https://j.top4top.io/p_3700znf5d0.png",
           "drm_id": "",
           "drm_key": "",
@@ -840,8 +840,8 @@
           "order": 0
         },
         {
-          "channel_name": "الفجر 2 احتياط",
-          "url": "https://cdn3-mejarhosting.cfd/ftv2_720p/index.mpd",
+          "channel_name": "الفجر 2",
+          "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/268229.m3u8",
           "logo_url": "https://l.top4top.io/p_3700vokrk0.png",
           "drm_id": "",
           "drm_key": "",
@@ -850,8 +850,8 @@
           "order": 1
         },
         {
-          "channel_name": "الفجر 3 احتياط",
-          "url": "https://cdn3-mejarhosting.cfd/ftv3_720p/index.mpd",
+          "channel_name": "الفجر 3",
+          "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/268227.m3u8",
           "logo_url": "https://a.top4top.io/p_37757nlw91.png",
           "drm_id": "",
           "drm_key": "",
@@ -860,8 +860,8 @@
           "order": 2
         },
         {
-          "channel_name": "الفجر 4 احتياط",
-          "url": "https://cdn3-mejarhosting.cfd/ftv4_720p/index.mpd",
+          "channel_name": "الفجر 4",
+          "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/268225.m3u8",
           "logo_url": "https://i.top4top.io/p_3700bolw00.png",
           "drm_id": "",
           "drm_key": "",
@@ -870,8 +870,8 @@
           "order": 3
         },
         {
-          "channel_name": "الفجر 5 احتياط",
-          "url": "https://cdn3-mejarhosting.cfd/ftv5_720p/index.mpd",
+          "channel_name": "الفجر 5",
+          "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/268223.m3u8",
           "logo_url": "https://f.top4top.io/p_3700v72hn0.png",
           "drm_id": "",
           "drm_key": "",
