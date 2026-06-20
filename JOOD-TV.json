@@ -629,7 +629,7 @@
         },
         {
           "channel_name": "ابو ظبي الرياضية 1",
-          "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/AD1/AD1.isml/manifest.mpd",
           "logo_url": "https://a.top4top.io/p_3674f0hnb1.png",
           "drm_id": "",
           "drm_key": "",
@@ -639,7 +639,7 @@
         },
         {
           "channel_name": "ابو ظبي الرياضية 2",
-          "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/AD2/AD2.isml/manifest.mpd",
           "logo_url": "https://f.top4top.io/p_3674rbvlu1.png",
           "drm_id": "",
           "drm_key": "",
