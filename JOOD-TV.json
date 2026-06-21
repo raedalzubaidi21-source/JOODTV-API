@@ -1189,10 +1189,10 @@
         },
         {
           "channel_name": "SKY SPORT LALIGA",
-          "url": "go:EN13",
+          "url": "https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd",
           "logo_url": "https://d.top4top.io/p_3684lq9101.jpg",
-          "drm_id": "",
-          "drm_key": "",
+          "drm_id": "c88dc6c668cac3b468d4a4c7e176ff3d",
+          "drm_key": "1aeb739de2c14ed0ad658ca8043208d8",
           "user_agent": "",
           "referer": "",
           "order": 11
