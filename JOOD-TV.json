@@ -1079,10 +1079,10 @@
       "channels": [
         {
           "channel_name": "NOVA SPORT 1",
-          "url": "go:EN1",
+          "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
           "logo_url": "https://j.top4top.io/p_3684jb0my1.png",
-          "drm_id": "",
-          "drm_key": "",
+          "drm_id": "11223344556677889900112233445566",
+          "drm_key": "4b80724d0ef86bcb2c21f7999d67739d",
           "user_agent": "",
           "referer": "",
           "order": 0
