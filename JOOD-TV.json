@@ -1933,11 +1933,11 @@
         },
         {
           "channel_name": "beIN MX 1 HD",
-          "url": "http://185.160.192.14/live/171348492752/5S6HGsea3j/255236.m3u8",
+          "url": "http://login12.saymynamehizen.com/live/ammar33/670990/724615.m3u8?_proxy_ts=1782040917424&token=NEhiV3czM2RKN2JvN0Vq",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "",
+          "user_agent": "Mozilla/5.0 (Linux; Android 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
           "referer": "",
           "order": 12
         },
