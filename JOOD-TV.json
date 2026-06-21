@@ -1169,22 +1169,22 @@
         },
         {
           "channel_name": "PREMIER SPORT 1",
-          "url": "go:EN11",
+          "url": "https://a166aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd",
           "logo_url": "https://f.top4top.io/p_3684lhhk01.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
+          "drm_id": "1444f4235529f183f0a5a486befe9cdb",
+          "drm_key": "e5e3fec67a1bb3472a2089c8a0a2557f",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0",
+          "referer": "https://foootfy.site/",
           "order": 9
         },
         {
           "channel_name": "PREMIER SPORT 2",
-          "url": "go:EN12",
+          "url": "https://a205aivottlinear-a.akamaihd.net/IAD/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
           "logo_url": "https://i.top4top.io/p_3684uf6r31.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
+          "drm_id": "1a5df53609ebc9857898c490f4724918",
+          "drm_key": "77f62980d582ec541280796acf8b2d19",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+          "referer": "https://foootfy.site/",
           "order": 10
         },
         {
