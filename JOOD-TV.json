@@ -1933,11 +1933,11 @@
         },
         {
           "channel_name": "beIN MX 1 HD",
-          "url": "http://ibqng.vipservicex.com/live/3581639174524/2863501735837/488868.m3u8",
+          "url": "https://oottoo.online/max1--g/mono.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+          "user_agent": "",
           "referer": "",
           "order": 12
         },
