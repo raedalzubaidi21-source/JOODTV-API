@@ -1109,10 +1109,10 @@
         },
         {
           "channel_name": "laliga",
-          "url": "go:EN4",
+          "url": "https://a122aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
           "logo_url": "https://i.top4top.io/p_3711cqxju1.jpg",
-          "drm_id": "",
-          "drm_key": "",
+          "drm_id": "620e51b82596475517a27aa425c52280",
+          "drm_key": "2b9ba811e9c5aeafc8ae1b71cdca4d6a",
           "user_agent": "",
           "referer": "",
           "order": 3
