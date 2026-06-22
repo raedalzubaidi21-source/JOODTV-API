@@ -1988,7 +1988,7 @@
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://www.krdtv.online/player/alwansport1",
+          "referer": "/https://www.krdtv.online/player/alwansport1",
           "order": 17
         }
       ]
