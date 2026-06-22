@@ -2033,12 +2033,12 @@
         },
         {
           "channel_name": "العراق x فرنسا",
-          "url": "https://www.majed-koora.live/stream.php?channel=falahhkr1&file=stream.m3u8",
+          "url": "https://use23.playlist.ttvnw.net/v1/playlist/CuEEohLTdWLkYIBjd_aZR7VcaJU3t4rQyCBHi7J69bGJhcsFXlBarI0JKQkA92qn4Ktz5mmVrbk-BnuHCtQIMbMNXALCCHW52bZRm10QV4uU0dM9CinQFA2JXsqaDKuvEsRznqawFwJcoIHBGWF-HWQKwjzfpSN4xf6K7alkakJ3yT4XsHOKNNTdtp7XUpdMnyroGdykN1wtmjsDh7MpCkS4mgWMxtd0eAu10CO5l-VtgUO5HeMPoTEazOczxmy8KMVQMqnUb5QSgG1A4tWniHOnfhzf5GufgI9jCLWf0MpW3oAWOMy-NaKKqtHVMrWaCa9xW3vxKm2k8YnUMy-ZY11UD22AcRllNUteIcW-nB0A2G7a2_hFtcLdxcuPSLd0PaiQkEQH0kb-u5y_y1_-82cvD18v3ColDC--S-dGhTMqNHG_h1Xgh4m9zteoAm_aFKSrgCmX_oOUDOyjaiaEVwJ3cYvyFjnGr0G43SlcOPiMKweB77BL7gE09NCArOLksMotGEABIyBY7OzTbhZyND5rT59hwu2sh7Z6hFeWA3lYLPui39Yz9Gr4SV4IGJD9Hala9FYmOKWh69D4P-4t-rYeG2jO3i9LFqo1UCL224W-TPF-rQZr5NU1npzmvyy7wjsqBLeEdDQKfFNh7LArey3Lym6Q4urm5PEEv6NGkqlp6fjyvFmPkPLq2TMGekLWsNIGn-yej_VKi8fkQQPqMmTQ1V0lOWCW9HzpRPwaRamBSKx1J-S6DdzxsvP4tE0bhFoZ-uWOGnn-6Jd_8rd6yRkpBuf-3eI9EOiQQ83ZMCRoQ8dQGgxm3Ort3bcskMrKTGIgASoJdXMtZWFzdC0yMLUP.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "",
-          "referer": "",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+          "referer": "https://www.majed-koora.live/",
           "order": 22
         }
       ]
