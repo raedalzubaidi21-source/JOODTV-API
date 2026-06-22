@@ -2043,12 +2043,12 @@
         },
         {
           "channel_name": "العراق x فرنسا",
-          "url": "https://restream-app.hima-sabry2015.workers.dev/live/14863707479574.m3u8",
+          "url": "https://ed.omener.xyz/qoozn2_720/index.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "",
-          "referer": "",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vip.worldkoora.com/",
           "order": 23
         }
       ]
