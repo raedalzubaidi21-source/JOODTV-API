@@ -1960,6 +1960,16 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
           "referer": "https://majed-koora.co/stream.php?channel=chche93&file=stream.m3u8",
           "order": 14
+        },
+        {
+          "channel_name": "كاس العالم 2",
+          "url": "https://1.bb1.dpdns.org/hls/0/stream.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+          "referer": "https://live.bb6.dpdns.org",
+          "order": 15
         }
       ]
     }
