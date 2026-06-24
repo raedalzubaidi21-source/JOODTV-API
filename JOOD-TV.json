@@ -1970,6 +1970,16 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
           "referer": "https://live.bb6.dpdns.org",
           "order": 15
+        },
+        {
+          "channel_name": "كاس العالم 3",
+          "url": "https://sh.clouata.space/wooorle2_480/index.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+          "referer": "https://new.poiy.online/",
+          "order": 16
         }
       ]
     }
