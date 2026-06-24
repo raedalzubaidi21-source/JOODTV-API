@@ -1902,36 +1902,6 @@
           "order": 8
         },
         {
-          "channel_name": "beIN MAX 1 - 2K",
-          "url": "https://stream.liveostora.com/sportinaapp1/index.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 9
-        },
-        {
-          "channel_name": "beIN MAX 2 - 2K",
-          "url": "http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/460864.ts",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 10
-        },
-        {
-          "channel_name": "beIN MAX 3 - 2K",
-          "url": "http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/460867.ts",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 11
-        },
-        {
           "channel_name": "beIN MX 1 HD",
           "url": "https://oottoo.online/max1--g/mono.m3u8",
           "logo_url": "",
@@ -1939,7 +1909,7 @@
           "drm_key": "",
           "user_agent": "Dalvik/2.1.0 (Linux; U; Android 15; TECNO CL6 Build/AP3A.240905.015.A2)",
           "referer": "",
-          "order": 12
+          "order": 9
         },
         {
           "channel_name": "beIN MX 2 HD",
@@ -1949,7 +1919,7 @@
           "drm_key": "",
           "user_agent": "Dalvik/2.1.0 (Linux; U; Android 15; TECNO CL6 Build/AP3A.240905.015.A2)",
           "referer": "",
-          "order": 13
+          "order": 10
         },
         {
           "channel_name": "beIN MX 3 HD",
@@ -1959,7 +1929,7 @@
           "drm_key": "",
           "user_agent": "SUPER2026",
           "referer": "",
-          "order": 14
+          "order": 11
         },
         {
           "channel_name": "beIN MX 4 HD",
@@ -1969,7 +1939,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 15
+          "order": 12
         },
         {
           "channel_name": "قناة زنده ايران",
@@ -1979,77 +1949,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 16
-        },
-        {
-          "channel_name": "كاس العالم 1",
-          "url": "https://2.bb1.dpdns.org/hls/1/stream.m3u8",
-          "logo_url": "https://b.top4top.io/p_382664xo71.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://33.254564.sbs/",
-          "order": 17
-        },
-        {
-          "channel_name": "كاس العالم 2",
-          "url": "https://3.bb2.dpdns.org/stream.m3u8",
-          "logo_url": "https://b.top4top.io/p_382664xo71.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://33.254564.sbs/",
-          "order": 18
-        },
-        {
-          "channel_name": "كاس العالم 3",
-          "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=DCKGPv78sAOTYtYpIXCmaXlrYns4MN2Dct51ek_2a8E&e=1782246839",
-          "logo_url": "https://b.top4top.io/p_382664xo71.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://streams.center/",
-          "order": 19
-        },
-        {
-          "channel_name": "كاس العالم 4",
-          "url": "https://karimo23.sbs/hls/ch3.m3u8?v=stable",
-          "logo_url": "https://b.top4top.io/p_382664xo71.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://www.world-cup.pro/",
-          "order": 20
-        },
-        {
-          "channel_name": "كاس العالم 5",
-          "url": "https://oottoo.online/max2--g/tracks-v1a1/mono.m3u8",
-          "logo_url": "https://b.top4top.io/p_382664xo71.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 21
-        },
-        {
-          "channel_name": "كاس العالم 6",
-          "url": "https://use23.playlist.ttvnw.net/v1/playlist/Cs8E3ODcuJaQ_GebfhTadvTDm1jHUFuZIwOz2tzVpseS_RztzmiLGWL8SnwtcsgIJqV7xHp7ozXzUizdCQoTgsC1AHmq0jlTlHUqzGU5AW478BgKcGk6mQMXxbaXRi_oWE9knEIaT1I2rheCx7jjdkTNFWrcsSHR-vTyLKr4oAu4iO73CGECUNW6xj6svY0lbs9d9NKzBvlpoZ2cT4TPGjDMJZ4dtZdNcuyNwh55mHGf_pCt9Gd6XZ-WSUQPgNLbq2V-b0EhrHKf7bmoImuM_sKDkrpBQRsNp7CBBxM8krDX8JL-khnJPiEvGNgKEOmAHeVfVWASD1IpAz0GiQjBHXs3NHEswKXY-FUv5EgpvXQUaCy8QcA9l31blR_LKMndbhyREKW4piN0Lp97ri6bXVOPE4rn9PquBKiMjT-dN31QkWVpVJt2aq4dHmH5Z1nyhYouMT4FyFOGotDNCq0AoUte3C_oaUY74YHyeZ4r8zkxLZjRtta5oSaP_0-BoGoqV4vqpwsKl-VKg9hkH8QpPYTh36NUBnVrcbYC5OOWVHujRvIPPwAa3Qy0GPySVPGSgQzhvhrakssh6SY9atqYVM2thrgqwqvWtmnDPRotWX3D8Fh8hrs90AVx9tQKX--Nc97PIWWaTCv8dyK4ZFNKSO49SnczWxIK89ocAnQt8cOowlD5vIxVSuBOtko4zbD9HL3vx0YoDs7zjSSUkJUAVYnLXIZHhcuzPfKezsocWOi98yvYCGkmsJIXLV1qqHG54RNZPf40MImScGac0PGmYzTRGgzxk_xlR2z6Ghkgiu4gASoJdXMtZWFzdC0yMLYP.m3u8",
-          "logo_url": "https://b.top4top.io/p_382664xo71.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://www.majed-koora.live/",
-          "order": 22
-        },
-        {
-          "channel_name": "كاس العالم 7",
-          "url": "https://use23.playlist.ttvnw.net/v1/playlist/CuoEebipKuUSjAP0-84_jAv0xU2V0IUNAbFEGGDlOEUCCOwDWCSOxyppXbmBUzFhJbcM-JS9iFFwiKnXTVdqLmS8D7rd3Ayttqs760pVc9TrBFNLjkVKUZZvu0fp5ZOD_rdWuH-CGPk9gEJw7DnkgIX9b5DzJtDbGjH5empC6NtAN0AiEriLlh7s7qJANLhijOtiwP2Vu0zP-3xOoMn_3UAQOtZ-W6qGRJhZQbyDKqP7GA9eevIGNGqTNimjbYAZzgbl2SFurdtNKL-uzEWMOT9hIZUMEB9YyEJCOR_l2foacCbwM00Kli0-8S4BiA5-VpZl6CO7YhnPAW8KjDFSygzl9X3Xyk_WnFhs2ngzh3MN0LmVUthe0sDXP0QTnorSIDFqvGG7G43o6PEsMvYnAhP2fiSeA3hExgx2suvQFj4GOaIO9tGSWbYemc_3GfVL9MEDkNn_uZvHnI3R0XUkO2xjWwc05Pp-fYWvN1bSeujyDDvD4m_-7P6n-HOdowyWIs6ni10eRYc4EpWwmGOJcNjwY3Q_g0nPFmL7gSoD7RK71W1w9eDO5fcAw9SU6PghSbpQTmtFm4aiZeMVMwM6GYFR7FBKwjxTAzWyMLxaKJvnUNuipbjswzseO1oi8HpkFfcTQ8hAYs_4ydV1aw2Y0famkkpYxZDOO-mBAgrjaNDIiCMvRUYCIr-qriizuUaaoYTKpyU3iZL-Z56Nxt4aysJOzN9EBZO4Usv_QrDUTj9yNSze5pjfaBrKK-ith0VakEhS0C1M3RR5owUO2ck20XIBvRpBbrZpBTxpGcpLF5SHMUSbq-X98Gh4ZiJOGgyxnumyFLRJ5WdVp2MgASoJdXMtZWFzdC0yMLYP.m3u8",
-          "logo_url": "https://b.top4top.io/p_382664xo71.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://majed-koora.co/",
-          "order": 23
+          "order": 13
         }
       ]
     }
