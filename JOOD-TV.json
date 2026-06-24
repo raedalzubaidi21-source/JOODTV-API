@@ -881,12 +881,12 @@
         },
         {
           "channel_name": "الوان سبورت 1",
-          "url": "http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/418111.ts",
+          "url": "https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2Fo9rGbR6FGRnW2kvzC751ILJEq1TJveCBSOnLUsnogRYSSDxenc8Aiv-UflFjMuAZf1KSYahBVfR6WQ1-srqqnA%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_playlist.m3u8%3Ftype%3Dlive",
           "logo_url": "https://d.top4top.io/p_3700lzycx0.png",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "Mozilla/5.0",
-          "referer": "",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+          "referer": "https://www.krdtv.online/player/alwansport1",
           "order": 5
         },
         {
