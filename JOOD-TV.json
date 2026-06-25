@@ -589,12 +589,12 @@
       "channels": [
         {
           "channel_name": "STARZPLAY SPORT 1",
-          "url": "https://tv.vodu.me:1995/live/ad-sport1/mono.m3u8",
+          "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
           "logo_url": "https://c.top4top.io/p_37004q9gf0.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
+          "drm_id": "b253c726c24c7c94a3ddf9b1907e2c76",
+          "drm_key": "097963d6ad73c3d712a104981de0ed42",
+          "user_agent": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "referer": "https://www.elahmad.ch",
           "order": 0
         },
         {
