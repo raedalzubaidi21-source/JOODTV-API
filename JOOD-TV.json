@@ -1990,6 +1990,16 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
           "referer": "https://customer-xnyp0i3qki5poety.cloudflarestream.com/a43fd284ab5508f8fc396c19d552c945/iframe",
           "order": 17
+        },
+        {
+          "channel_name": "العراق x السنغال ",
+          "url": "https://majed-koora.co/stream.php?channel=majed13majed&file=stream.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 18
         }
       ]
     }
