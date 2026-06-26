@@ -1980,6 +1980,16 @@
           "user_agent": "",
           "referer": "",
           "order": 16
+        },
+        {
+          "channel_name": "مباراة العراق سريع",
+          "url": "https://web.facebook.com/video/playback/playlist.m3u8?v=924025193645959&u=Adx4cSp-gNG5d6uuqkwhhgQcc3vEK6FR7Mo_2IZnEJ9wRXQK_Qyvl8MQfQuOJNU-jnIFaI31HRk&s=AdxPKdIiWT4zifHuKR1ihg8-2ao&a=0",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X)  AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 AppHash/605f110f",
+          "referer": "",
+          "order": 17
         }
       ]
     }
