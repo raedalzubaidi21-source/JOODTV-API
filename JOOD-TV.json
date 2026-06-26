@@ -1953,43 +1953,13 @@
         },
         {
           "channel_name": "كاس العالم 1",
-          "url": "https://we.smarop.store/spoos1_480/index.m3u8",
+          "url": "https://video.fisu9-2.fna.fbcdn.net/hvideo-cco-frc/_nc_cat-105/_nc_sr_t-4/v/rASdd-hIxa3r21tMk3d-Ab0DX7Q_LIZywt9Xw7IwyrxCRVA/_nc_ohc-IJxGnws88r0Q7kNvwFjS-DN/live-hls/live-qd/1800216504683056__v__.m3u8?_nc_zt=28&ccb=2-4&ms=m_CN&sc_t=1&oh=00_Af925xTRyx6VyJm70L_kZ3LdZ43doGe0JbS8C5CL8KObng&oe=6A40C2B9",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://hd.muesra.sbs",
+          "referer": "",
           "order": 14
-        },
-        {
-          "channel_name": "كاس العالم 2",
-          "url": "https://1.bb1.dpdns.org/hls/0/stream.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://live.bb6.dpdns.org",
-          "order": 15
-        },
-        {
-          "channel_name": "كاس العالم 3",
-          "url": "https://sh.clouata.space/wooorle2_480/index.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://new.poiy.online/",
-          "order": 16
-        },
-        {
-          "channel_name": "كاس العالم 4",
-          "url": "https://customer-xnyp0i3qki5poety.cloudflarestream.com/a43fd284ab5508f8fc396c19d552c945/manifest/stream_t813af7b18a8dad5cffacb8aa8312239d_r1758813726.m3u8?llhlsHBs=0.9&CMCD=cid%3D%22Cloudflare%20Stream%20Player%20a8846b6%22%2Cmtp%3D2000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a73f7a98-3d35-4a5f-9dcc-5be8e8ad813b%22",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://customer-xnyp0i3qki5poety.cloudflarestream.com/a43fd284ab5508f8fc396c19d552c945/iframe",
-          "order": 17
         },
         {
           "channel_name": "العراق x السنغال ",
@@ -1999,7 +1969,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
           "referer": "https://live.bb6.dpdns.org/",
-          "order": 18
+          "order": 15
         },
         {
           "channel_name": "العراق ضد السنغال ",
@@ -2009,7 +1979,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 19
+          "order": 16
         }
       ]
     }
