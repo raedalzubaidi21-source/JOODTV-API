@@ -831,7 +831,7 @@
       "channels": [
         {
           "channel_name": "الفجر 1",
-          "url": "http://185.191.126.127:8080/live///357643467990765&&/Ofgo3yz8CH/463532.ts",
+          "url": "https://stm.linkip.org/live/1114_.m3u8",
           "logo_url": "https://j.top4top.io/p_3700znf5d0.png",
           "drm_id": "",
           "drm_key": "",
@@ -841,7 +841,7 @@
         },
         {
           "channel_name": "الفجر 2",
-          "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1113.m3u8",
+          "url": "https://stm.linkip.org/live/1113_.m3u8",
           "logo_url": "https://l.top4top.io/p_3700vokrk0.png",
           "drm_id": "",
           "drm_key": "",
@@ -851,7 +851,7 @@
         },
         {
           "channel_name": "الفجر 3",
-          "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1112.m3u8",
+          "url": "https://stm.linkip.org/live/1112_.m3u8",
           "logo_url": "https://a.top4top.io/p_37757nlw91.png",
           "drm_id": "",
           "drm_key": "",
@@ -861,7 +861,7 @@
         },
         {
           "channel_name": "الفجر 4",
-          "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1111.m3u8",
+          "url": "https://stm.linkip.org/live/1111_.m3u8",
           "logo_url": "https://i.top4top.io/p_3700bolw00.png",
           "drm_id": "",
           "drm_key": "",
@@ -871,7 +871,7 @@
         },
         {
           "channel_name": "الفجر 5",
-          "url": "https://es.egys.gs/live/abdoyasser112/01032783778/1110.m3u8",
+          "url": "https://stm.linkip.org/live/1110_.m3u8",
           "logo_url": "https://f.top4top.io/p_3700v72hn0.png",
           "drm_id": "",
           "drm_key": "",
