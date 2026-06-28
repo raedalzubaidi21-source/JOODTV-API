@@ -938,6 +938,16 @@
           "user_agent": "",
           "referer": "",
           "order": 10
+        },
+        {
+          "channel_name": "Fajer 1 ",
+          "url": "http://hynour.com/live/youssef1987/731586904/336097.m3u8",
+          "logo_url": "https://j.top4top.io/p_3700znf5d0.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 11
         }
       ]
     },
