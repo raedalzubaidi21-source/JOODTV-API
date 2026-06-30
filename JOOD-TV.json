@@ -1922,6 +1922,16 @@
           "order": 3
         },
         {
+          "channel_name": "beIN SPORT MAX 4K",
+          "url": "https://next.badinan.xyz/nexttv/FHD/playlist.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 4
+        },
+        {
           "channel_name": "BEIN SPORT 1",
           "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
           "logo_url": "https://h.top4top.io/p_3818hhjbq0.jpg",
@@ -1929,7 +1939,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 4
+          "order": 5
         },
         {
           "channel_name": "BEIN SPORT 2",
@@ -1939,7 +1949,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 5
+          "order": 6
         },
         {
           "channel_name": "beIN MAX 1",
@@ -1949,7 +1959,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
           "referer": "https://x.com/",
-          "order": 6
+          "order": 7
         },
         {
           "channel_name": "beIN MAX 2",
@@ -1959,7 +1969,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
           "referer": "",
-          "order": 7
+          "order": 8
         },
         {
           "channel_name": "beIN MAX 3",
@@ -1969,7 +1979,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
           "referer": "",
-          "order": 8
+          "order": 9
         },
         {
           "channel_name": "beIN MX 1 HD",
@@ -1979,7 +1989,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 9
+          "order": 10
         },
         {
           "channel_name": "beIN MX 2 HD",
@@ -1989,7 +1999,7 @@
           "drm_key": "",
           "user_agent": "Dalvik/2.1.0 (Linux; U; Android 15; TECNO CL6 Build/AP3A.240905.015.A2)",
           "referer": "",
-          "order": 10
+          "order": 11
         },
         {
           "channel_name": "beIN MX 3 HD",
@@ -1999,7 +2009,7 @@
           "drm_key": "",
           "user_agent": "SUPER2026",
           "referer": "",
-          "order": 11
+          "order": 12
         },
         {
           "channel_name": "beIN MX 4 HD",
@@ -2009,7 +2019,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 12
+          "order": 13
         },
         {
           "channel_name": "قناة زنده ايران",
@@ -2019,7 +2029,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 13
+          "order": 14
         },
         {
           "channel_name": "beIN MAX F1",
@@ -2029,7 +2039,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 14
+          "order": 15
         },
         {
           "channel_name": "beIN MAX F2",
@@ -2039,7 +2049,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 15
+          "order": 16
         },
         {
           "channel_name": "BeIN X1",
@@ -2049,7 +2059,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 16
+          "order": 17
         },
         {
           "channel_name": "BeIN X2",
@@ -2059,7 +2069,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 17
+          "order": 18
         },
         {
           "channel_name": "Fox SPORT 1",
@@ -2069,7 +2079,7 @@
           "drm_key": "bdd79b72d8e48ed483aa623cc38a8a16",
           "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
           "referer": "",
-          "order": 18
+          "order": 19
         },
         {
           "channel_name": "Fox SPORT 2",
@@ -2079,7 +2089,7 @@
           "drm_key": "98cff9600995fa381c76fdacf3c7edae",
           "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
           "referer": "",
-          "order": 19
+          "order": 20
         }
       ]
     }
