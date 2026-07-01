@@ -2120,6 +2120,16 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
           "referer": "",
           "order": 23
+        },
+        {
+          "channel_name": "MATCH FOOTBALL 1",
+          "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+          "logo_url": "",
+          "drm_id": "9145a6e0f778e61866f573d4944dd533",
+          "drm_key": "d02173d40515fea5c83944f21d0f3114",
+          "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+          "referer": "",
+          "order": 24
         }
       ]
     }
