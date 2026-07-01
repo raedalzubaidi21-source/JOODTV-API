@@ -2110,6 +2110,16 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
           "referer": "",
           "order": 22
+        },
+        {
+          "channel_name": "SPORTV 2",
+          "url": "8823f713ba6fdb9bbe0a2ad82d309a4b",
+          "logo_url": "",
+          "drm_id": "9009b7189e3e68cc09d17811f2beb55a",
+          "drm_key": "dd3f96a94c909da48ff40c92aabf8cf3",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
+          "referer": "",
+          "order": 23
         }
       ]
     }
