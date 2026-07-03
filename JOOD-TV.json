@@ -1993,11 +1993,11 @@
         },
         {
           "channel_name": "beIN MX 2 HD",
-          "url": "http://kalaasmr.blog:8080/live/1793416520/3146985400/1246119.m3u8",
+          "url": "https://edge19.776740.ir.cdn.ir/hls2/sport.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "Mozilla/5.0",
+          "user_agent": "",
           "referer": "",
           "order": 11
         },
@@ -2120,16 +2120,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
           "referer": "",
           "order": 23
-        },
-        {
-          "channel_name": "MATCH FOOTBALL 1",
-          "url": "https://bksmos13.beeline.tv/t0djtmei5aaaaaaaaabesybaaaaaaaaaaaamu0ygvjoidzqi/0004845/live/d/channel319.isml/manifest-stb.mpd?bk-teardown=1",
-          "logo_url": "",
-          "drm_id": "9145a6e0f778e61866f573d4944dd533",
-          "drm_key": "d02173d40515fea5c83944f21d0f3114",
-          "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
-          "referer": "",
-          "order": 24
         }
       ]
     }
