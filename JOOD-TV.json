@@ -1953,31 +1953,31 @@
         },
         {
           "channel_name": "beIN MAX 1",
-          "url": "http://het108c.ycn-redirect.com/live/610303030/index.m3u8",
+          "url": "https://es.egys.gs/live/abdoyasser112/01032783778/419500.m3u8",
           "logo_url": "https://d.top4top.io/p_3818m6anj0.png",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-          "referer": "https://x.com/",
+          "user_agent": "",
+          "referer": "",
           "order": 7
         },
         {
           "channel_name": "beIN MAX 2",
-          "url": "http://het124c.ycn-redirect.com/live/1515000000/index.m3u8",
+          "url": "https://es.egys.gs/live/abdoyasser112/01032783778/922580.m3u8",
           "logo_url": "https://e.top4top.io/p_38183tj0q1.png",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+          "user_agent": "",
           "referer": "",
           "order": 8
         },
         {
           "channel_name": "beIN MAX 3",
-          "url": "http://het140c.ycn-redirect.com/live/33523510/index.m3u8",
+          "url": "https://es.egys.gs/live/abdoyasser112/01032783778/530956.m3u8",
           "logo_url": "https://f.top4top.io/p_3818lus8k2.png",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+          "user_agent": "",
           "referer": "",
           "order": 9
         },
