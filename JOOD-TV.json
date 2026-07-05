@@ -2130,6 +2130,16 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
           "referer": "",
           "order": 24
+        },
+        {
+          "channel_name": "kurd sport",
+          "url": "http://188.72.5.30:8080/alsard/555666/5171",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 25
         }
       ]
     }
