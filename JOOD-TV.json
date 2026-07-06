@@ -2080,6 +2080,16 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
           "referer": "",
           "order": 19
+        },
+        {
+          "channel_name": "BEIN MAX Y1",
+          "url": "http://h32.visionmakers.online/live/610303030/index.m3u8?t=JTVAMqNjMPd9hqbKbCY38w&e=1783399376",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 20
         }
       ]
     }
