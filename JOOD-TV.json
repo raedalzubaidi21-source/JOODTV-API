@@ -1372,6 +1372,56 @@
           "user_agent": "",
           "referer": "",
           "order": 6
+        },
+        {
+          "channel_name": "BOX OFFICE 1",
+          "url": "https://blc2cr.linkip.org/live/90013_.m3u8?play=",
+          "logo_url": "https://j.top4top.io/p_3839x7uv80.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 7
+        },
+        {
+          "channel_name": "BOX OFFICE 2",
+          "url": "https://blc2cr.linkip.org/live/90014_.m3u8?play=",
+          "logo_url": "https://j.top4top.io/p_3839x7uv80.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 8
+        },
+        {
+          "channel_name": "BOX OFFICE 3",
+          "url": "https://blc2cr.linkip.org/live/90015_.m3u8?play=",
+          "logo_url": "https://j.top4top.io/p_3839x7uv80.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 9
+        },
+        {
+          "channel_name": "BOX OFFICE 4",
+          "url": "https://blc2cr.linkip.org/live/90016_.m3u8?play=",
+          "logo_url": "https://j.top4top.io/p_3839x7uv80.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 10
+        },
+        {
+          "channel_name": "BOX OFFICE 5",
+          "url": "https://blc2cr.linkip.org/live/90017_.m3u8?play=",
+          "logo_url": "https://j.top4top.io/p_3839x7uv80.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 11
         }
       ]
     },
