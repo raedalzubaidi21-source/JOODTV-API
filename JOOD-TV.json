@@ -1482,6 +1482,16 @@
           "user_agent": "",
           "referer": "",
           "order": 17
+        },
+        {
+          "channel_name": "شاهد عربي",
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx001/720p-d/index.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 18
         }
       ]
     },
