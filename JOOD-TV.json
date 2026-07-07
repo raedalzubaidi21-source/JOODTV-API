@@ -2311,6 +2311,16 @@
           "user_agent": "",
           "referer": "",
           "order": 3
+        },
+        {
+          "channel_name": "قناة سبيستون",
+          "url": "http://hydratv.co/live/saber5827278/7875758758755/34182.ts",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 4
         }
       ],
       "sub_categories": [],
