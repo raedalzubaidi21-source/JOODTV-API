@@ -1472,6 +1472,16 @@
           "user_agent": "",
           "referer": "",
           "order": 16
+        },
+        {
+          "channel_name": "Majestic actions",
+          "url": "https://blc2cr.linkip.org/live/90120_.m3u8?play=",
+          "logo_url": "https://d.top4top.io/p_3839ykpva0.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 17
         }
       ]
     },
