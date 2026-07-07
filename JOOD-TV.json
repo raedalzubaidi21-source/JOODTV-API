@@ -2331,6 +2331,16 @@
           "user_agent": "",
           "referer": "",
           "order": 5
+        },
+        {
+          "channel_name": "قناة براعم",
+          "url": "http://hydratv.co/live/saber5827278/7875758758755/36933.ts",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 6
         }
       ],
       "sub_categories": [],
