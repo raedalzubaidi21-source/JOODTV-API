@@ -1492,6 +1492,16 @@
           "user_agent": "",
           "referer": "",
           "order": 18
+        },
+        {
+          "channel_name": "شاهد اكشن",
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8",
+          "logo_url": "https://a.top4top.io/p_3840dyllh1.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 19
         }
       ]
     },
