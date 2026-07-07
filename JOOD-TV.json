@@ -1422,6 +1422,26 @@
           "user_agent": "",
           "referer": "",
           "order": 11
+        },
+        {
+          "channel_name": "STARZ CINEMA",
+          "url": "https://blc2cr.linkip.org/live/90155_.m3u8?play=",
+          "logo_url": "https://i.top4top.io/p_38396oc8v0.jpeg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 12
+        },
+        {
+          "channel_name": "STARZ THRILLER ",
+          "url": "https://blc2cr.linkip.org/live/90157_.m3u8?play=",
+          "logo_url": "https://i.top4top.io/p_38396oc8v0.jpeg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 13
         }
       ]
     },
