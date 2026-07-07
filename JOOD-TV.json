@@ -2301,6 +2301,16 @@
           "user_agent": "",
           "referer": "",
           "order": 2
+        },
+        {
+          "channel_name": "قناة طه",
+          "url": "http://hydratv.co/live/saber5827278/7875758758755/34181.ts",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 3
         }
       ],
       "sub_categories": [],
