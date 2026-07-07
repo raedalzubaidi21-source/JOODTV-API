@@ -2361,6 +2361,16 @@
           "user_agent": "",
           "referer": "",
           "order": 8
+        },
+        {
+          "channel_name": "OSN KIDS",
+          "url": "http://hydratv.co/live/saber5827278/7875758758755/482840.ts",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 9
         }
       ],
       "sub_categories": [],
