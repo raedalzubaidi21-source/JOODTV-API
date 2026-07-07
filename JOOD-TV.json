@@ -2271,7 +2271,38 @@
     },
     {
       "category_name": "باقة الاطفال",
-      "channels": [],
+      "channels": [
+        {
+          "channel_name": "توم وجيري",
+          "url": "http://hydratv.co/live/saber5827278/7875758758755/34177.ts",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 0
+        },
+        {
+          "channel_name": "قناة الهدهد",
+          "url": "http://hydratv.co/live/saber5827278/7875758758755/34178.ts",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 1
+        },
+        {
+          "channel_name": "طيور الجنة",
+          "url": "http://hydratv.co/live/saber5827278/7875758758755/34180.ts",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 2
+        }
+      ],
       "sub_categories": [],
       "image": ""
     }
