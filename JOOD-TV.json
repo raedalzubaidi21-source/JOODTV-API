@@ -2351,6 +2351,16 @@
           "user_agent": "",
           "referer": "",
           "order": 7
+        },
+        {
+          "channel_name": "قناة سبونج بوب",
+          "url": "http://hydratv.co/live/saber5827278/7875758758755/283941.ts",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 8
         }
       ],
       "sub_categories": [],
