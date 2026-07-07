@@ -1442,6 +1442,16 @@
           "user_agent": "",
           "referer": "",
           "order": 13
+        },
+        {
+          "channel_name": "Majestic cinema ",
+          "url": "https://blc2cr.linkip.org/live/90108_.m3u8?play=",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 14
         }
       ]
     },
