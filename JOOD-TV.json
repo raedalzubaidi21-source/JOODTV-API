@@ -2276,6 +2276,36 @@
           "user_agent": "",
           "referer": "",
           "order": 24
+        },
+        {
+          "channel_name": "beIN SPORT MAX 2",
+          "url": "http://188.72.5.30:8080/alsard/555666/12198",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 25
+        },
+        {
+          "channel_name": "beIN SPORT MAX 3",
+          "url": "http://188.72.5.30:8080/alsard/555666/12199",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 26
+        },
+        {
+          "channel_name": "beIN SPORT MAX 4",
+          "url": "http://188.72.5.30:8080/alsard/555666/12200",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 27
         }
       ]
     },
