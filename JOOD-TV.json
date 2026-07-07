@@ -2090,6 +2090,36 @@
           "user_agent": "",
           "referer": "",
           "order": 20
+        },
+        {
+          "channel_name": "BEIN MAX Y2",
+          "url": "http://re.apk-api.com/live/1515000000/index.m3u8?t=BixEizeEKX5R4ntQEOaRcA&e=1783399384",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 21
+        },
+        {
+          "channel_name": "BEIN MAX Y3",
+          "url": "http://h31.streampeaklab.online/live/33523510/index.m3u8?t=sXiO3C-EJBFPKS0Wjurlbg&e=1783399388",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 22
+        },
+        {
+          "channel_name": "BEIN MAX Y4",
+          "url": "http://h30.cinenetcdn.online/live/918454578001/index.m3u8?t=LBr2ZgsT58FM3NH9alXJsQ&e=1783399392",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 23
         }
       ]
     }
