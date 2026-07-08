@@ -1528,6 +1528,16 @@
           "user_agent": "",
           "referer": "",
           "order": 21
+        },
+        {
+          "channel_name": "OSN YA OULA",
+          "url": "",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 22
         }
       ]
     },
