@@ -1558,6 +1558,16 @@
           "user_agent": "",
           "referer": "",
           "order": 24
+        },
+        {
+          "channel_name": "OSN MOVIES ACTION",
+          "url": "http://194.60.93.182/stream?url=http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/313366.ts",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 25
         }
       ]
     },
