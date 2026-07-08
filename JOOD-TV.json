@@ -768,66 +768,6 @@
           "user_agent": "",
           "referer": "",
           "order": 10
-        },
-        {
-          "channel_name": "بوست سبورت 1",
-          "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/702013.ts",
-          "logo_url": "https://g.top4top.io/p_3673qmtxs1.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 11
-        },
-        {
-          "channel_name": "بوست سبورت 2",
-          "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/702014.ts",
-          "logo_url": "https://i.top4top.io/p_36739gqlc1.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 12
-        },
-        {
-          "channel_name": "بوست سبورت 3",
-          "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/702015.ts",
-          "logo_url": "https://c.top4top.io/p_367338rba1.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 13
-        },
-        {
-          "channel_name": "بوست سبورت 4",
-          "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/702016.ts",
-          "logo_url": "https://d.top4top.io/p_3673wetbt1.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 14
-        },
-        {
-          "channel_name": "بوست سبورت 5",
-          "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/702017.ts",
-          "logo_url": "https://g.top4top.io/p_3673osxrm1.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 15
-        },
-        {
-          "channel_name": "بوست سبورت 6",
-          "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/702018.ts",
-          "logo_url": "https://i.top4top.io/p_3673kgcsj1.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 16
         }
       ]
     },
@@ -994,6 +934,66 @@
           "user_agent": "",
           "referer": "",
           "order": 15
+        },
+        {
+          "channel_name": "بوست سبورت 1",
+          "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/702013.ts",
+          "logo_url": "https://g.top4top.io/p_3673qmtxs1.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 16
+        },
+        {
+          "channel_name": "بوست سبورت 2",
+          "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/702014.ts",
+          "logo_url": "https://i.top4top.io/p_36739gqlc1.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 17
+        },
+        {
+          "channel_name": "بوست سبورت 3",
+          "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/702015.ts",
+          "logo_url": "https://c.top4top.io/p_367338rba1.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 18
+        },
+        {
+          "channel_name": "بوست سبورت 4",
+          "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/702016.ts",
+          "logo_url": "https://d.top4top.io/p_3673wetbt1.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 19
+        },
+        {
+          "channel_name": "بوست سبورت 5",
+          "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/702017.ts",
+          "logo_url": "https://g.top4top.io/p_3673osxrm1.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 20
+        },
+        {
+          "channel_name": "بوست سبورت 6",
+          "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/702018.ts",
+          "logo_url": "https://i.top4top.io/p_3673kgcsj1.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 21
         }
       ]
     },
