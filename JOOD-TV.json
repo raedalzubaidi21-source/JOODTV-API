@@ -595,7 +595,7 @@
       "channels": [
         {
           "channel_name": "STARZPLAY SPORT 1",
-          "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+          "url": "http://iptvch.com:2082/live/Ahmadhaj51/tZAP8FPD5kf4/229224.m3u8",
           "logo_url": "https://c.top4top.io/p_37004q9gf0.png",
           "drm_id": "b253c726c24c7c94a3ddf9b1907e2c76",
           "drm_key": "097963d6ad73c3d712a104981de0ed42",
@@ -605,7 +605,7 @@
         },
         {
           "channel_name": "STARZPLAY SPORT 2",
-          "url": "https://tv.vodu.me:1995/live/ad-sport2/mono.m3u8",
+          "url": "http://iptvch.com:2082/live/Ahmadhaj51/tZAP8FPD5kf4/229225.m3u8",
           "logo_url": "https://j.top4top.io/p_3700f5e8t0.png",
           "drm_id": "",
           "drm_key": "",
