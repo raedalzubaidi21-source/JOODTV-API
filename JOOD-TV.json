@@ -2586,6 +2586,16 @@
           "user_agent": "",
           "referer": "",
           "order": 49
+        },
+        {
+          "channel_name": "فارزيش الايرانيه",
+          "url": "https://cp11.adabmedia.com/hls2/varzeshtest.m3u8",
+          "logo_url": "https://d.top4top.io/p_3843fxit61.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 50
         }
       ]
     },
