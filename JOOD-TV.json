@@ -2139,12 +2139,12 @@
         },
         {
           "channel_name": "BEIN SPORT 1",
-          "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=CyBzAyXlvayNZZb5V2g_pUUZOx7wVtplir7PSxEA1NM&e=1783042694",
+          "url": "http://mydroon.com/live/Ghalabsimo3/t0w5dwsnfm/248600.m3u8",
           "logo_url": "https://h.top4top.io/p_3818hhjbq0.jpg",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-          "referer": "https://streams.center/",
+          "user_agent": "com.boostvision.player.iptv",
+          "referer": "https://mydroon.com/",
           "order": 5
         },
         {
