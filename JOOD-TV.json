@@ -826,66 +826,6 @@
           "order": 4
         },
         {
-          "channel_name": "الوان سبورت 1",
-          "url": "http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339223.m3u8",
-          "logo_url": "https://d.top4top.io/p_3700lzycx0.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
-          "referer": "https://xyzstreams.st/",
-          "order": 5
-        },
-        {
-          "channel_name": "الوان سبورت 2",
-          "url": "http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339224.m3u8",
-          "logo_url": "https://c.top4top.io/p_3700pe1tk0.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
-          "referer": "https://xyzstreams.st/",
-          "order": 6
-        },
-        {
-          "channel_name": "الوان سبورت 3",
-          "url": "http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339225.m3u8",
-          "logo_url": "https://f.top4top.io/p_3700qy03p0.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
-          "referer": "https://xyzstreams.st/",
-          "order": 7
-        },
-        {
-          "channel_name": "الوان سبورت 4",
-          "url": "http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339226.m3u8",
-          "logo_url": "https://f.top4top.io/p_3700f8nij0.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
-          "referer": "https://xyzstreams.st/",
-          "order": 8
-        },
-        {
-          "channel_name": "الوان سبورت 5",
-          "url": "http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339227.m3u8",
-          "logo_url": "https://i.top4top.io/p_3700ozygg0.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
-          "referer": "https://xyzstreams.st/",
-          "order": 9
-        },
-        {
-          "channel_name": "الوان سبورت 6",
-          "url": "http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339227.m3u8",
-          "logo_url": "https://l.top4top.io/p_3700z51h80.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
-          "referer": "https://xyzstreams.st/",
-          "order": 10
-        },
-        {
           "channel_name": "Fajer 1",
           "url": "http://hynour.com/live/youssef1987/731586904/336105.m3u8",
           "logo_url": "https://j.top4top.io/p_3700znf5d0.png",
@@ -893,7 +833,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 11
+          "order": 5
         },
         {
           "channel_name": "Fajer 2",
@@ -903,7 +843,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 12
+          "order": 6
         },
         {
           "channel_name": "Fajer 3",
@@ -913,7 +853,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 13
+          "order": 7
         },
         {
           "channel_name": "Fajer 4",
@@ -923,7 +863,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 14
+          "order": 8
         },
         {
           "channel_name": "Fajer 5",
@@ -933,7 +873,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 15
+          "order": 9
         },
         {
           "channel_name": "بوست سبورت 1",
@@ -943,7 +883,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 16
+          "order": 10
         },
         {
           "channel_name": "بوست سبورت 2",
@@ -953,7 +893,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 17
+          "order": 11
         },
         {
           "channel_name": "بوست سبورت 3",
@@ -963,7 +903,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 18
+          "order": 12
         },
         {
           "channel_name": "بوست سبورت 4",
@@ -973,7 +913,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 19
+          "order": 13
         },
         {
           "channel_name": "بوست سبورت 5",
@@ -983,7 +923,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 20
+          "order": 14
         },
         {
           "channel_name": "بوست سبورت 6",
@@ -993,7 +933,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 21
+          "order": 15
         }
       ]
     },
@@ -2536,6 +2476,66 @@
           "user_agent": "",
           "referer": "",
           "order": 44
+        },
+        {
+          "channel_name": "الوان سبورت 1",
+          "url": "http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339223.m3u8",
+          "logo_url": "https://d.top4top.io/p_3700lzycx0.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+          "referer": "https://xyzstreams.st/",
+          "order": 45
+        },
+        {
+          "channel_name": "الوان سبورت 2",
+          "url": "http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339224.m3u8",
+          "logo_url": "https://c.top4top.io/p_3700pe1tk0.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+          "referer": "https://xyzstreams.st/",
+          "order": 46
+        },
+        {
+          "channel_name": "الوان سبورت 3",
+          "url": "http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339225.m3u8",
+          "logo_url": "https://f.top4top.io/p_3700qy03p0.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+          "referer": "https://xyzstreams.st/",
+          "order": 47
+        },
+        {
+          "channel_name": "الوان سبورت 4",
+          "url": "http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339226.m3u8",
+          "logo_url": "https://f.top4top.io/p_3700f8nij0.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+          "referer": "https://xyzstreams.st/",
+          "order": 48
+        },
+        {
+          "channel_name": "الوان سبورت 5",
+          "url": "http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339227.m3u8",
+          "logo_url": "https://i.top4top.io/p_3700ozygg0.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+          "referer": "https://xyzstreams.st/",
+          "order": 49
+        },
+        {
+          "channel_name": "الوان سبورت 6",
+          "url": "http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339227.m3u8",
+          "logo_url": "https://l.top4top.io/p_3700z51h80.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
+          "referer": "https://xyzstreams.st/",
+          "order": 50
         }
       ]
     },
