@@ -2249,12 +2249,12 @@
         },
         {
           "channel_name": "BEIN MAX Y2",
-          "url": "http://194.42.205.115:25461/live/Ahmadhaj51/tZAP8FPD5kf4/316581.m3u8?token=SxRYWRUKFwgbVQEBUgYGUABTVAUOVwENBgMPVApUAFYFAAMLVlYCCw0VGRsRFkcHWQtpD1xBDQsHBA1ZAxkbFkNTQmcPBhcIGwYHCFFRBkAUREIPVQYVAgYeGhFbURtZEgQCCVBQFx4bUk1NBxBbA1Q5UgNOClRdFAhWFF5ZFUFfWG9cAw9UXF0VDxtSQBlAURVGRAINQlRaHhoDW0FLAkRTEgJEVgcFGxsXWg0XWxZKHxRcGipmGhoQXRlGUFcQWVleGlxAWAFMDxcVQAtGPUoDRRJKBlZVU0AaWxAFG08SW1FAOQFaXFdSVk0LDVsRGlwUVxpPFVVZXFEVXUdmE1lSEgJEUwEBDAIXRA==",
+          "url": "https://primeott.sytes.net/live/prime/tv/0ed6d81cde3b.m3u8",
           "logo_url": "https://h.top4top.io/p_384018cer0.png",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "",
-          "referer": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "referer": "https://primeott.sytes.net/",
           "order": 22
         },
         {
