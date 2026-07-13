@@ -2536,6 +2536,16 @@
           "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
           "referer": "https://xyzstreams.st/",
           "order": 50
+        },
+        {
+          "channel_name": "TRT SPORT",
+          "url": "https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8",
+          "logo_url": "https://f.top4top.io/p_3845i3gb90.jpeg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 51
         }
       ]
     },
