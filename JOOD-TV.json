@@ -2141,26 +2141,6 @@
           "order": 10
         },
         {
-          "channel_name": "beIN MX 1 HD",
-          "url": "https://netfly-asia217.autiv.in/bein_max_1/index.mpd",
-          "logo_url": "https://h.top4top.io/p_384018cer0.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 11
-        },
-        {
-          "channel_name": "beIN MX 2 HD",
-          "url": "https://netfly-asia217.autiv.in/bein_max_2/index.mpd",
-          "logo_url": "https://h.top4top.io/p_384018cer0.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 12
-        },
-        {
           "channel_name": "قناة زنده ايران",
           "url": "https://live-aburayhan1107.telewebion.ir/ek/faratar/live/720p/index.m3u8",
           "logo_url": "https://k.top4top.io/p_3824yskqf0.jpg",
@@ -2168,7 +2148,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 13
+          "order": 11
         },
         {
           "channel_name": "فارزيش الايرانيه",
@@ -2178,7 +2158,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 14
+          "order": 12
         },
         {
           "channel_name": "Fox SPORT 1",
@@ -2188,7 +2168,7 @@
           "drm_key": "bdd79b72d8e48ed483aa623cc38a8a16",
           "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
           "referer": "",
-          "order": 15
+          "order": 13
         },
         {
           "channel_name": "Fox SPORT 2",
@@ -2198,7 +2178,7 @@
           "drm_key": "98cff9600995fa381c76fdacf3c7edae",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
           "referer": "",
-          "order": 16
+          "order": 14
         },
         {
           "channel_name": "SPORTV 1",
@@ -2208,7 +2188,7 @@
           "drm_key": "8823f713ba6fdb9bbe0a2ad82d309a4b",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
           "referer": "",
-          "order": 17
+          "order": 15
         },
         {
           "channel_name": "SPORTV 2",
@@ -2218,7 +2198,7 @@
           "drm_key": "dd3f96a94c909da48ff40c92aabf8cf3",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
           "referer": "",
-          "order": 18
+          "order": 16
         },
         {
           "channel_name": "BEIN MAX Y1",
@@ -2228,7 +2208,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "referer": "https://primeott.sytes.net/",
-          "order": 19
+          "order": 17
         },
         {
           "channel_name": "BEIN MAX Y2",
@@ -2238,7 +2218,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "referer": "https://primeott.sytes.net/",
-          "order": 20
+          "order": 18
         },
         {
           "channel_name": "BEIN MAX Y3",
@@ -2248,7 +2228,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 21
+          "order": 19
         },
         {
           "channel_name": "BEIN MAX Y4",
@@ -2258,7 +2238,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 22
+          "order": 20
         },
         {
           "channel_name": "beIN SPORT MAX 1",
@@ -2268,7 +2248,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X)  AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 AppHash/605f110f",
           "referer": "https://buztv.com",
-          "order": 23
+          "order": 21
         },
         {
           "channel_name": "beIN SPORT MAX 2",
@@ -2278,7 +2258,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 24
+          "order": 22
         },
         {
           "channel_name": "beIN SPORT MAX 3",
@@ -2288,7 +2268,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 25
+          "order": 23
         },
         {
           "channel_name": "beIN SPORT MAX 4",
@@ -2298,7 +2278,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 26
+          "order": 24
         },
         {
           "channel_name": "الفجر 1",
@@ -2308,7 +2288,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 27
+          "order": 25
         },
         {
           "channel_name": "الفجر 2",
@@ -2318,7 +2298,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 28
+          "order": 26
         },
         {
           "channel_name": "الفجر 3",
@@ -2328,7 +2308,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 29
+          "order": 27
         },
         {
           "channel_name": "الفجر 4",
@@ -2338,7 +2318,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 30
+          "order": 28
         },
         {
           "channel_name": "الفجر 5",
@@ -2348,7 +2328,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 31
+          "order": 29
         },
         {
           "channel_name": "Fajer 1",
@@ -2358,7 +2338,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 32
+          "order": 30
         },
         {
           "channel_name": "Fajer 2",
@@ -2368,7 +2348,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 33
+          "order": 31
         },
         {
           "channel_name": "Fajer 3",
@@ -2378,7 +2358,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 34
+          "order": 32
         },
         {
           "channel_name": "Fajer 4",
@@ -2388,7 +2368,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 35
+          "order": 33
         },
         {
           "channel_name": "Fajer 5",
@@ -2398,7 +2378,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 36
+          "order": 34
         },
         {
           "channel_name": "الوان سبورت 1",
@@ -2408,7 +2388,7 @@
           "drm_key": "",
           "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
           "referer": "https://xyzstreams.st/",
-          "order": 37
+          "order": 35
         },
         {
           "channel_name": "الوان سبورت 2",
@@ -2418,7 +2398,7 @@
           "drm_key": "",
           "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
           "referer": "https://xyzstreams.st/",
-          "order": 38
+          "order": 36
         },
         {
           "channel_name": "الوان سبورت 3",
@@ -2428,7 +2408,7 @@
           "drm_key": "",
           "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
           "referer": "https://xyzstreams.st/",
-          "order": 39
+          "order": 37
         },
         {
           "channel_name": "الوان سبورت 4",
@@ -2438,7 +2418,7 @@
           "drm_key": "",
           "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
           "referer": "https://xyzstreams.st/",
-          "order": 40
+          "order": 38
         },
         {
           "channel_name": "الوان سبورت 5",
@@ -2448,7 +2428,7 @@
           "drm_key": "",
           "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
           "referer": "https://xyzstreams.st/",
-          "order": 41
+          "order": 39
         },
         {
           "channel_name": "الوان سبورت 6",
@@ -2458,7 +2438,7 @@
           "drm_key": "",
           "user_agent": "VLC/3.0.18 LibVLC/3.0.18",
           "referer": "https://xyzstreams.st/",
-          "order": 42
+          "order": 40
         },
         {
           "channel_name": "TRT SPORT",
@@ -2468,7 +2448,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 43
+          "order": 41
         }
       ]
     },
