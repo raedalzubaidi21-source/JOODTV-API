@@ -898,11 +898,21 @@
           "channel_name": "Directv Sport 1",
           "url": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash-sd/enc/gvy1a4vy7l/out/v1/f2b9732c6f04452492e03f1f849093e7/cenc-sd.mpd",
           "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
+          "drm_id": "a3c7199dc2c8b2bdc51128d0c9254144",
+          "drm_key": "4daf455bb721a9076b1ecceed5c95119",
           "user_agent": "a3c7199dc2c8b2bdc51128d0c9254144",
           "referer": "4daf455bb721a9076b1ecceed5c95119",
           "order": 22
+        },
+        {
+          "channel_name": "Directv Sport 2",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash-sd/enc/amz5dwei2a/out/v1/3140ebc29a9e4683b480e5dba8588608/cenc-sd.mpd",
+          "logo_url": "",
+          "drm_id": "022f1d774371be165dea59f9efbd3052",
+          "drm_key": "7ab55284ac60d0479bb55b08f0a97ee1",
+          "user_agent": "",
+          "referer": "",
+          "order": 23
         }
       ],
       "image": "https://f.top4top.io/p_3847tk4b60.jpg"
