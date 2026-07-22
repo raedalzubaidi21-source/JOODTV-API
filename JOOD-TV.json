@@ -1190,6 +1190,16 @@
           "user_agent": "",
           "referer": "",
           "order": 26
+        },
+        {
+          "channel_name": "Balance 2",
+          "url": "https://blc2cr.linkip.org/live/90128_.m3u8?play=",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 27
         }
       ]
     },
