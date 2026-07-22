@@ -1219,7 +1219,7 @@
         },
         {
           "channel_name": "MBC 4",
-          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264",
           "logo_url": "https://h.top4top.io/p_36759jasf1.jpg",
           "drm_id": "",
           "drm_key": "",
