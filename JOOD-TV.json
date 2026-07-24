@@ -1229,7 +1229,7 @@
         },
         {
           "channel_name": "MBC 3",
-          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+          "url": "https://tv.vodu.me:1995/nile3/MBC3HD/playlist.m3u8",
           "logo_url": "https://c.top4top.io/p_36758rk121.jpg",
           "drm_id": "",
           "drm_key": "",
@@ -1239,7 +1239,7 @@
         },
         {
           "channel_name": "MBC 4",
-          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264",
+          "url": "https://tv.vodu.me:1995/nile/MBC4HD/playlist.m3u8",
           "logo_url": "https://h.top4top.io/p_36759jasf1.jpg",
           "drm_id": "",
           "drm_key": "",
@@ -1259,7 +1259,7 @@
         },
         {
           "channel_name": "MBC ACTION",
-          "url": "https://tv.vodu.me:1995/nile2/MBCAction/tracks-v1a1/mono.m3u8",
+          "url": "https://tv.vodu.me:1995/nile2/MBCAction/playlist.m3u8",
           "logo_url": "https://a.top4top.io/p_36759j5q71.jpg",
           "drm_id": "",
           "drm_key": "",
@@ -1269,7 +1269,7 @@
         },
         {
           "channel_name": "MBC MAX",
-          "url": "go:MBX",
+          "url": "https://tv.vodu.me:1995/live/MBCMAX/playlist.m3u8",
           "logo_url": "https://g.top4top.io/p_36859offy0.png",
           "drm_id": "",
           "drm_key": "",
@@ -1279,7 +1279,7 @@
         },
         {
           "channel_name": "MBC DRAMA",
-          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8",
+          "url": "https://tv.vodu.me:1995/nile3/mbcdrama/playlist.m3u8",
           "logo_url": "https://j.top4top.io/p_3675yuuby1.jpg",
           "drm_id": "",
           "drm_key": "",
@@ -1309,7 +1309,7 @@
         },
         {
           "channel_name": "MBC BOLLYWOOD",
-          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
+          "url": "https://tv.vodu.me:1995/live/MBCbollywood/playlist.m3u8",
           "logo_url": "https://up6.cc/2026/07/178493314754371.jpg",
           "drm_id": "",
           "drm_key": "",
@@ -1319,7 +1319,7 @@
         },
         {
           "channel_name": "MBC MASER 1",
-          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8",
+          "url": "https://tv.vodu.me:1995/live/mbc_maser1/playlist.m3u8",
           "logo_url": "https://h.top4top.io/p_36758og3p1.png",
           "drm_id": "",
           "drm_key": "",
@@ -1329,7 +1329,7 @@
         },
         {
           "channel_name": "MBC MASER 2",
-          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+          "url": "https://tv.vodu.me:1995/live/mbcmaser2/playlist.m3u8",
           "logo_url": "https://k.top4top.io/p_3675pu4w11.png",
           "drm_id": "",
           "drm_key": "",
