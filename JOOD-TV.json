@@ -1209,7 +1209,7 @@
       "channels": [
         {
           "channel_name": "MBC 1",
-          "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264&video_height=144-576&video_codec=H264",
+          "url": "https://tv.vodu.me:1995/nile/MBC1HD/playlist.m3u8",
           "logo_url": "https://h.top4top.io/p_3675kef811.jpg",
           "drm_id": "",
           "drm_key": "",
@@ -1219,7 +1219,7 @@
         },
         {
           "channel_name": "MBC 2",
-          "url": "go:MB2",
+          "url": "https://tv.vodu.me:1995/nile2/MBC2HD/playlist.m3u8",
           "logo_url": "https://g.top4top.io/p_36755xaw11.png",
           "drm_id": "",
           "drm_key": "",
@@ -1310,32 +1310,12 @@
         {
           "channel_name": "MBC BOLLYWOOD",
           "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
-          "logo_url": "",
+          "logo_url": "https://up6.cc/2026/07/178493314754371.jpg",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "",
           "referer": "",
           "order": 10
-        },
-        {
-          "channel_name": "MBC MOVIES",
-          "url": "http://nvpro.tv/live/78541209as/780962280d/893.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 11
-        },
-        {
-          "channel_name": "MBC HORROR",
-          "url": "http://nvpro.tv/live/78541209as/780962280d/888.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 12
         },
         {
           "channel_name": "MBC MASER 1",
@@ -1345,7 +1325,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 13
+          "order": 11
         },
         {
           "channel_name": "MBC MASER 2",
@@ -1355,7 +1335,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 14
+          "order": 12
         },
         {
           "channel_name": "MBC IRAQ",
@@ -1365,7 +1345,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; TECNO CL6 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.47 Mobile Safari/537.36",
           "referer": "",
-          "order": 15
+          "order": 13
         }
       ]
     },
