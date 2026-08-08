@@ -467,6 +467,16 @@
           "user_agent": "",
           "referer": "",
           "order": 8
+        },
+        {
+          "channel_name": "STC SPORT 2",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1/wv-pr/manifest.mpd",
+          "logo_url": "",
+          "drm_id": "e74c7d697bd26595b196c6b96e2d4f5b",
+          "drm_key": "e288110233737502e8af9184098ab50b",
+          "user_agent": "",
+          "referer": "",
+          "order": 9
         }
       ]
     },
