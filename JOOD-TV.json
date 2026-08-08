@@ -344,12 +344,12 @@
         },
         {
           "channel_name": "ابو ظبي الرياضية 1",
-          "url": "http://13.140.138.243:85/prime/local/242233.m3u8",
+          "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
           "logo_url": "https://up6.cc/2026/07/178450531718671.jpeg",
-          "drm_id": "2810c600349a0cd3a920c7d99bbe00b1",
-          "drm_key": "3911049bf0e342e70e0fba2cba6aa628",
-          "user_agent": "",
-          "referer": "",
+          "drm_id": "e78769d87a41e15036a4fb8bfdf1371e",
+          "drm_key": "37be0375dc9fe544c3c6de6a105f7c0a",
+          "user_agent": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
+          "referer": "https://www.elahmad.ru",
           "order": 4
         },
         {
