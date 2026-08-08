@@ -457,6 +457,16 @@
           "user_agent": "",
           "referer": "",
           "order": 7
+        },
+        {
+          "channel_name": "STC SPORT 1",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC/wv-pr/manifest.mpd",
+          "logo_url": "",
+          "drm_id": "47f0ab58f5a81c20b5b69dc494cbe102",
+          "drm_key": "1e0719da653c2b4652f0b0bf84d96c74",
+          "user_agent": "",
+          "referer": "",
+          "order": 8
         }
       ]
     },
