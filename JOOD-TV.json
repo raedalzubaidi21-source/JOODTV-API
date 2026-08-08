@@ -1834,6 +1834,16 @@
           "user_agent": "",
           "referer": "",
           "order": 2
+        },
+        {
+          "channel_name": "برشلونة ضد اودينيزي",
+          "url": "https://tv.vodu.me:1995/nile2/MBCAction/playlist.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 3
         }
       ],
       "sub_categories": [],
