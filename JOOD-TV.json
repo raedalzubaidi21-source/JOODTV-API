@@ -1814,6 +1814,16 @@
           "user_agent": "",
           "referer": "",
           "order": 0
+        },
+        {
+          "channel_name": "مباراة ريال مدريد",
+          "url": "https://l.njklokkmlgfgyggfdftjugsrtdfy.dpdns.org/hls/0/stream.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 1
         }
       ],
       "sub_categories": [],
