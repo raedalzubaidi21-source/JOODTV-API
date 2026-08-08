@@ -323,8 +323,8 @@
           "order": 1
         },
         {
-          "channel_name": "STARZPLAY 1 (ADSP1)",
-          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd",
+          "channel_name": "STARZPLAY 1 MULTI",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP1/wv-pr/manifest.mpd",
           "logo_url": "https://d.top4top.io/p_3847nthl80.png",
           "drm_id": "eb5a3a48f3e191a00e3ac1e2d470c491",
           "drm_key": "2c8b7198563527e524d66628c092ef1f",
