@@ -343,6 +343,16 @@
           "order": 3
         },
         {
+          "channel_name": "STARZPLAY 3 MULTI",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/SPZ/wv-pr/manifest.mpd",
+          "logo_url": "https://d.top4top.io/p_3847nthl80.png",
+          "drm_id": "42d7a462640c6748371d39f23e4a18c3",
+          "drm_key": "f4bef9f080f4a3a52dd55d5c3b8b81e2",
+          "user_agent": "",
+          "referer": "",
+          "order": 4
+        },
+        {
           "channel_name": "ابو ظبي الرياضية 1",
           "url": "https://l.njklokkmlgfgyggfdftjugsrtdfy.dpdns.org/hls/0/stream.m3u8",
           "logo_url": "https://up6.cc/2026/07/178450531718671.jpeg",
@@ -350,7 +360,7 @@
           "drm_key": "37be0375dc9fe544c3c6de6a105f7c0a",
           "user_agent": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
           "referer": "https://www.elahmad.ru",
-          "order": 4
+          "order": 5
         },
         {
           "channel_name": "ابو ظبي الرياضية 2",
@@ -358,16 +368,6 @@
           "logo_url": "https://up6.cc/2026/07/178450531718671.jpeg",
           "drm_id": "7295fc09a7633fd460808f1ed854a8b6",
           "drm_key": "5b4c9115617286036232fbb0d583a6",
-          "user_agent": "",
-          "referer": "",
-          "order": 5
-        },
-        {
-          "channel_name": "STARZPLAY 3 MULTI",
-          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/SPZ/wv-pr/manifest.mpd",
-          "logo_url": "https://d.top4top.io/p_3847nthl80.png",
-          "drm_id": "42d7a462640c6748371d39f23e4a18c3",
-          "drm_key": "f4bef9f080f4a3a52dd55d5c3b8b81e2",
           "user_agent": "",
           "referer": "",
           "order": 6
