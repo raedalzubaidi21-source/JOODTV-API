@@ -333,8 +333,8 @@
           "order": 2
         },
         {
-          "channel_name": "STARZPLAY 2 (JAW1)",
-          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd",
+          "channel_name": "STARZPLAY 2 MULTI",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd",
           "logo_url": "https://d.top4top.io/p_3847nthl80.png",
           "drm_id": "e74c7d697bd26595b196c6b96e2d4f5b",
           "drm_key": "e288110233737502e8af9184098ab50b",
