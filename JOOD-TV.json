@@ -308,6 +308,16 @@
               "user_agent": "",
               "referer": "",
               "order": 0
+            },
+            {
+              "channel_name": "BEIN SPORTS 2",
+              "url": "http://h32.lanexa.online/live/69854211/index.m3u8?t=7LdszgnEsxY518hp9CkNLg&e=1786682975",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 1
             }
           ],
           "image": ""
