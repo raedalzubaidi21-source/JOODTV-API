@@ -318,6 +318,26 @@
               "user_agent": "",
               "referer": "",
               "order": 1
+            },
+            {
+              "channel_name": "BEIN SPORTS 3",
+              "url": "http://h21.frameedgeflux.online/live/33523510/index.m3u8?t=fMXZuD5xVH_4AVebS_YYwg&e=1786683103",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 2
+            },
+            {
+              "channel_name": "BEIN SPORTS 4",
+              "url": "http://re.new-redirect.online/live/9787488847/index.m3u8?t=8KAjhBnzfl25fYoNOz73Uw&e=1786683151",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 3
             }
           ],
           "image": ""
