@@ -533,6 +533,66 @@
           "user_agent": "",
           "referer": "",
           "order": 4
+        },
+        {
+          "channel_name": "ALWAN 1",
+          "url": "https://blcco.linkip.org/live/3461_.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 5
+        },
+        {
+          "channel_name": "ALWAN 2",
+          "url": "https://blcco.linkip.org/live/3460_.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 6
+        },
+        {
+          "channel_name": "ALWAN 3",
+          "url": "https://blcco.linkip.org/live/3459_.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 7
+        },
+        {
+          "channel_name": "ALWAN 4",
+          "url": "https://blcco.linkip.org/live/3458_.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 8
+        },
+        {
+          "channel_name": "ALWAN 5",
+          "url": "https://blcco.linkip.org/live/3457_.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 9
+        },
+        {
+          "channel_name": "ALWAN 6",
+          "url": "https://blcco.linkip.org/live/3456_.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 10
         }
       ]
     },
