@@ -642,7 +642,7 @@
         },
         {
           "channel_name": "تجريبي",
-          "url": "https://vsd115.okcdn.ru/hls/18095066974906.m3u8/sig/7e-9vXZxBZI/expires/1786786229601/srcIp/122.102.119.59/urls/95.163.35.73/clientType/0/srcAg/CHROME/mid/16505531408058/18095066974906_low/index.m3u8",
+          "url": "https://vsd115.okcdn.ru/hls/18095066974906_115588.m3u8/sig/7e-9vXZxBZI/expires/1786786229601/srcIp/122.102.119.59/urls/95.163.35.73/clientType/0/srcAg/CHROME/mid/16505531408058/18095066974906_high/index.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
