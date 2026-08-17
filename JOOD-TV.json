@@ -1871,53 +1871,6 @@
       ],
       "sub_categories": [],
       "image": "https://g.top4top.io/p_3840y8v6v0.jpg"
-    },
-    {
-      "category_name": "مباريات ودية للاندية",
-      "channels": [
-        {
-          "channel_name": "برشلونه ضد اودينزي",
-          "url": "https://2.njklokkmlgfgyggfdftjugsrtdfy.dpdns.org/hls/0/stream.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 0
-        },
-        {
-          "channel_name": "مباراة ريال مدريد",
-          "url": "https://l.njklokkmlgfgyggfdftjugsrtdfy.dpdns.org/hls/0/stream.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 1
-        },
-        {
-          "channel_name": "باريس ضد مان يونايتد",
-          "url": "https://2.njklokkmlgfgyggfdftjugsrtdfy.dpdns.org/hls/0/stream.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 2
-        },
-        {
-          "channel_name": "برشلونة ضد اودينيزي",
-          "url": "https://tv.vodu.me:1995/nile2/MBCAction/playlist.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 3
-        }
-      ],
-      "sub_categories": [],
-      "image": ""
     }
   ]
 }
