@@ -380,7 +380,7 @@
       "channels": [
         {
           "channel_name": "شاهد سبورت 1",
-          "url": "https://gslb.shalltry.com/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
+          "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
           "logo_url": "https://a.top4top.io/p_3847l3pyo0.png",
           "drm_id": "ab081a704aad41829b1123b09b6ecafd",
           "drm_key": "dd51609092fff15e68b91debf5d591f9",
@@ -593,26 +593,6 @@
           "user_agent": "",
           "referer": "",
           "order": 10
-        },
-        {
-          "channel_name": "تجريبي",
-          "url": "https://xameleon.phantemlis.top/four/secure/26afef246daf3220d61d88166bdafb5f/1786712234/premium91/index.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
-          "referer": "https://hamis.romponalis.st/",
-          "order": 11
-        },
-        {
-          "channel_name": "DUHOK SPORT",
-          "url": "http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMTVscElhSFhuQzl3RWkzVVRCcWtPOD0",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 12
         }
       ]
     },
