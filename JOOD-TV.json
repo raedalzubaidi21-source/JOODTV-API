@@ -603,6 +603,16 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
           "referer": "https://hamis.romponalis.st/",
           "order": 11
+        },
+        {
+          "channel_name": "DUHOK SPORT",
+          "url": "http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMTVscElhSFhuQzl3RWkzVVRCcWtPOD0",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 12
         }
       ]
     },
