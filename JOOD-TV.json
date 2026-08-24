@@ -298,7 +298,118 @@
         },
         {
           "sub_category_name": "قنوات الفجر و الوان",
-          "channels": [],
+          "channels": [
+            {
+              "channel_name": "الفجر 1",
+              "url": "http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/463532",
+              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 0
+            },
+            {
+              "channel_name": "الفجر 2",
+              "url": "http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/463533",
+              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 1
+            },
+            {
+              "channel_name": "الفجر 3",
+              "url": "http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/463534",
+              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 2
+            },
+            {
+              "channel_name": "الفجر 4",
+              "url": "http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/463535",
+              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 3
+            },
+            {
+              "channel_name": "الفجر 5",
+              "url": "http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/463536",
+              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 4
+            },
+            {
+              "channel_name": "ALWAN 1",
+              "url": "https://blcco.linkip.org/live/3461_.m3u8",
+              "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 5
+            },
+            {
+              "channel_name": "ALWAN 2",
+              "url": "https://blcco.linkip.org/live/3460_.m3u8",
+              "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 6
+            },
+            {
+              "channel_name": "ALWAN 3",
+              "url": "https://blcco.linkip.org/live/3459_.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 7
+            },
+            {
+              "channel_name": "ALWAN 4",
+              "url": "https://blcco.linkip.org/live/3458_.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 8
+            },
+            {
+              "channel_name": "ALWAN 5",
+              "url": "https://blcco.linkip.org/live/3457_.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 9
+            },
+            {
+              "channel_name": "ALWAN 6",
+              "url": "https://blcco.linkip.org/live/3456_.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 10
+            }
+          ],
           "image": ""
         }
       ]
@@ -500,118 +611,7 @@
     {
       "category_name": "الفجر - الوان سبورت",
       "category_logo": "https://d.top4top.io/p_3775xzlkq1.png",
-      "channels": [
-        {
-          "channel_name": "الفجر 1",
-          "url": "http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/463532",
-          "logo_url": "https://up6.cc/2026/07/178450190607411.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 0
-        },
-        {
-          "channel_name": "الفجر 2",
-          "url": "http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/463533",
-          "logo_url": "https://up6.cc/2026/07/178450190607411.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 1
-        },
-        {
-          "channel_name": "الفجر 3",
-          "url": "http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/463534",
-          "logo_url": "https://up6.cc/2026/07/178450190607411.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 2
-        },
-        {
-          "channel_name": "الفجر 4",
-          "url": "http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/463535",
-          "logo_url": "https://up6.cc/2026/07/178450190607411.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 3
-        },
-        {
-          "channel_name": "الفجر 5",
-          "url": "http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/463536",
-          "logo_url": "https://up6.cc/2026/07/178450190607411.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 4
-        },
-        {
-          "channel_name": "ALWAN 1",
-          "url": "https://blcco.linkip.org/live/3461_.m3u8",
-          "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 5
-        },
-        {
-          "channel_name": "ALWAN 2",
-          "url": "https://blcco.linkip.org/live/3460_.m3u8",
-          "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 6
-        },
-        {
-          "channel_name": "ALWAN 3",
-          "url": "https://blcco.linkip.org/live/3459_.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 7
-        },
-        {
-          "channel_name": "ALWAN 4",
-          "url": "https://blcco.linkip.org/live/3458_.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 8
-        },
-        {
-          "channel_name": "ALWAN 5",
-          "url": "https://blcco.linkip.org/live/3457_.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 9
-        },
-        {
-          "channel_name": "ALWAN 6",
-          "url": "https://blcco.linkip.org/live/3456_.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 10
-        }
-      ],
+      "channels": [],
       "image": "https://up6.cc/2026/07/178450190607411.png"
     },
     {
