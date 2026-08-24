@@ -108,12 +108,12 @@
           "channels": [
             {
               "channel_name": "BEIN SPORT 1",
-              "url": "http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13682&extension=ts",
+              "url": "http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/460836",
               "logo_url": "https://k.top4top.io/p_3700fjmub0.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
-              "referer": "",
+              "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+              "referer": "http://185.191.126.127:8080/",
               "order": 0
             },
             {
