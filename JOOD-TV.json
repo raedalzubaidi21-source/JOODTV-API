@@ -204,6 +204,16 @@
           "sub_category_logo": "https://k.top4top.io/p_3671qj8qr1.jpg",
           "channels": [
             {
+              "channel_name": "BEIN SPORTS 1",
+              "url": "https://kdntv.tvkaidn.workers.dev/api/stream/1424.m3u8?t=Yacine2026@SecretKey!",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 0
+            },
+            {
               "channel_name": "BEIN SPORT 2",
               "url": "https://ye-m3u8.tofi-xtv.com/stream/5-25-45/index.m3u8?tofiUrlname=%D8%AC%D9%88%D8%AF%D8%A9%20%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
@@ -211,7 +221,7 @@
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
               "referer": "https://x.com/",
-              "order": 0
+              "order": 1
             },
             {
               "channel_name": "BEIN SPORT 3",
@@ -221,7 +231,7 @@
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
               "referer": "https://x.com/",
-              "order": 1
+              "order": 2
             },
             {
               "channel_name": "BEIN SPORT 4",
@@ -231,7 +241,7 @@
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
               "referer": "https://x.com/",
-              "order": 2
+              "order": 3
             },
             {
               "channel_name": "BEIN SPORT 5",
@@ -241,7 +251,7 @@
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
               "referer": "https://x.com/",
-              "order": 3
+              "order": 4
             },
             {
               "channel_name": "BEIN SPORT 6",
@@ -251,7 +261,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 4
+              "order": 5
             },
             {
               "channel_name": "BEIN SPORT 7",
@@ -261,7 +271,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 5
+              "order": 6
             },
             {
               "channel_name": "BEIN SPORT 8",
@@ -271,22 +281,12 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 6
+              "order": 7
             },
             {
               "channel_name": "BEIN SPORT 9",
               "url": "https://stream.supertv.gg:3009/supertv/sport/stv9/ch9/adaptive.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 7
-            },
-            {
-              "channel_name": "BEIN SPORTS 1",
-              "url": "https://kdntv.tvkaidn.workers.dev/api/stream/1424.m3u8?t=Yacine2026@SecretKey!",
-              "logo_url": "",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
