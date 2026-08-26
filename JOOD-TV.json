@@ -774,6 +774,16 @@
           "order": 0
         },
         {
+          "channel_name": "العراقية العامة",
+          "url": "https://tv.vodu.me:1995/nile/aliraqia/playlist.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 1
+        },
+        {
           "channel_name": "الرابعة الرياضية 1",
           "url": "http://185.191.126.127:8080/live/4750034742512197/3177932697568638/371931.ts",
           "logo_url": "https://d.top4top.io/p_3847951zv0.jpg",
@@ -781,7 +791,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 1
+          "order": 2
         },
         {
           "channel_name": "الرابعة الرياضية 2",
@@ -791,7 +801,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 2
+          "order": 3
         },
         {
           "channel_name": "الرابعة الرياضية +1",
@@ -801,7 +811,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 3
+          "order": 4
         },
         {
           "channel_name": "الرابعة الرياضية +2",
@@ -811,22 +821,12 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 4
+          "order": 5
         },
         {
           "channel_name": "DUHOK SPORT",
           "url": "http://max-pro.vip:2052/18885076681336/14648237268240/602828",
           "logo_url": "https://a.top4top.io/p_3715vircw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 5
-        },
-        {
-          "channel_name": "العراقية العامة",
-          "url": "https://tv.vodu.me:1995/nile/aliraqia/playlist.m3u8",
-          "logo_url": "",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "",
