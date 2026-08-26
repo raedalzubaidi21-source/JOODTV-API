@@ -822,6 +822,16 @@
           "user_agent": "",
           "referer": "",
           "order": 5
+        },
+        {
+          "channel_name": "العراقية العامة",
+          "url": "https://tv.vodu.me:1995/nile/aliraqia/playlist.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 6
         }
       ],
       "image": "https://g.top4top.io/p_3847rv9vv0.jpg"
