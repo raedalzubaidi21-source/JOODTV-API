@@ -577,7 +577,7 @@
           "logo_url": "https://a.top4top.io/p_3847l3pyo0.png",
           "drm_id": "ab081a704aad41829b1123b09b6ecafd",
           "drm_key": "dd51609092fff15e68b91debf5d591f9",
-          "user_agent": "app2339028.hax/7.0 (Linux;Android 15) AndroidXMedia3/1.1.1",
+          "user_agent": "",
           "referer": "",
           "order": 0
         },
@@ -677,7 +677,7 @@
           "logo_url": "",
           "drm_id": "ab081a704aad41829b1123b09b6ecafd",
           "drm_key": "dd51609092fff15e68b91debf5d591f9",
-          "user_agent": "kid.tv/9.8 (Linux;Android 15) AndroidXMedia3/1.1.1",
+          "user_agent": "",
           "referer": "",
           "order": 10
         }
