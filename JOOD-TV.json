@@ -765,7 +765,7 @@
       "channels": [
         {
           "channel_name": "العراقية الرياضية",
-          "url": "https://tv.vodu.me:1995/live/iraqia-sport/tracks-v1a1/mono.m3u8",
+          "url": "https://tv.vodu.me:1995/live/iraqia-sport/playlist.m3u8",
           "logo_url": "https://i.top4top.io/p_3674secqr1.jpg",
           "drm_id": "",
           "drm_key": "",
