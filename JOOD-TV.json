@@ -563,6 +563,16 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
           "referer": "https://hamis.romponalis.st/",
           "order": 6
+        },
+        {
+          "channel_name": "تجريبي",
+          "url": "https://www.elahmad.ru/tv/live/shahid_shaka.php?id=abudhabi_premium_1",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 7
         }
       ],
       "image": "https://c.top4top.io/p_3887qo13y8.jpeg"
