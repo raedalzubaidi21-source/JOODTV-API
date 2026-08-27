@@ -543,6 +543,26 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
           "referer": "https://hamis.romponalis.st/",
           "order": 4
+        },
+        {
+          "channel_name": "STARZPLAY 1",
+          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229224.ts",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 5
+        },
+        {
+          "channel_name": "STARZPLAY 2",
+          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229225.ts",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 6
         }
       ],
       "image": "https://c.top4top.io/p_3887qo13y8.jpeg"
