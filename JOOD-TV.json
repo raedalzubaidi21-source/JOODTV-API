@@ -205,7 +205,7 @@
           "channels": [
             {
               "channel_name": "BEIN SPORT 1",
-              "url": "https://kdntv.tvkaidn.workers.dev/api/stream/1424.m3u8?t=Yacine2026@SecretKey!",
+              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1424.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -215,7 +215,7 @@
             },
             {
               "channel_name": "BEIN SPORT 2",
-              "url": "https://kdntv.tvkaidn.workers.dev/api/stream/1425.m3u8?t=Yacine2026@SecretKey!",
+              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1425.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -225,7 +225,7 @@
             },
             {
               "channel_name": "BEIN SPORT 3",
-              "url": "https://kdntv.tvkaidn.workers.dev/api/stream/1426.m3u8?t=Yacine2026@SecretKey!",
+              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1426.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -235,7 +235,7 @@
             },
             {
               "channel_name": "BEIN SPORT 4",
-              "url": "https://kdntv.tvkaidn.workers.dev/api/stream/1427.m3u8?t=Yacine2026@SecretKey!",
+              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1427.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -245,7 +245,7 @@
             },
             {
               "channel_name": "BEIN SPORT 5",
-              "url": "https://kdntv.tvkaidn.workers.dev/api/stream/1428.m3u8?t=Yacine2026@SecretKey",
+              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1428.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -255,7 +255,7 @@
             },
             {
               "channel_name": "BEIN SPORT 6",
-              "url": "https://kdntv.tvkaidn.workers.dev/api/stream/1429.m3u8?t=Yacine2026@SecretKey",
+              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1429.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -265,7 +265,7 @@
             },
             {
               "channel_name": "BEIN SPORT 7",
-              "url": "https://kdntv.tvkaidn.workers.dev/api/stream/1430.m3u8?t=Yacine2026@SecretKey",
+              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1430.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
