@@ -525,6 +525,26 @@
           "order": 2
         },
         {
+          "channel_name": "STARZPLAY 1",
+          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229224.ts",
+          "logo_url": "https://a.top4top.io/p_38919p2si9.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 3
+        },
+        {
+          "channel_name": "STARZPLAY 2",
+          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229225.ts",
+          "logo_url": "https://a.top4top.io/p_38919p2si9.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 4
+        },
+        {
           "channel_name": "ابو ظبي الرياضية 1",
           "url": "https://xameleon.phantemlis.top/two/secure/8ead4f82820fb70adaf804d0c6f00d9d/1787231899/premium600/index.m3u8",
           "logo_url": "https://up6.cc/2026/07/178450531718671.jpeg",
@@ -532,7 +552,7 @@
           "drm_key": "37be0375dc9fe544c3c6de6a105f7c0a",
           "user_agent": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0",
           "referer": "https://hamis.romponalis.st/",
-          "order": 3
+          "order": 5
         },
         {
           "channel_name": "ابو ظبي الرياضية 2",
@@ -542,26 +562,6 @@
           "drm_key": "5b4c9115617286036232fbb0d583a6",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
           "referer": "https://hamis.romponalis.st/",
-          "order": 4
-        },
-        {
-          "channel_name": "STARZPLAY 1",
-          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229224.ts",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 5
-        },
-        {
-          "channel_name": "STARZPLAY 2",
-          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229225.ts",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
           "order": 6
         }
       ],
