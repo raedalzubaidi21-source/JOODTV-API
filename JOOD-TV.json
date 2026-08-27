@@ -526,7 +526,7 @@
         },
         {
           "channel_name": "STARZPLAY 1",
-          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229224.ts",
+          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229224.m3u8",
           "logo_url": "https://a.top4top.io/p_38919p2si9.jpg",
           "drm_id": "",
           "drm_key": "",
@@ -536,7 +536,7 @@
         },
         {
           "channel_name": "STARZPLAY 2",
-          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229225.ts",
+          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229225.m3u8",
           "logo_url": "https://a.top4top.io/p_38919p2si9.jpg",
           "drm_id": "",
           "drm_key": "",
