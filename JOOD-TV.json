@@ -578,8 +578,8 @@
           "drm_id": "ab081a704aad41829b1123b09b6ecafd",
           "drm_key": "dd51609092fff15e68b91debf5d591f9",
           "license_url": "https://dev-kdtv.pantheonsite.io/b1.php?keyid=ab081a704aad41829b1123b09b6ecafd&key=dd51609092fff15e68b91debf5d591f9",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
-          "referer": "https://www.elahmad.ru/",
+          "user_agent": "",
+          "referer": "",
           "order": 0
         },
         {
