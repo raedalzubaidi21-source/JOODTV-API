@@ -677,6 +677,16 @@
           "user_agent": "",
           "referer": "",
           "order": 9
+        },
+        {
+          "channel_name": "تجرررريبي",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 10
         }
       ],
       "image": "https://a.top4top.io/p_3847l3pyo0.png"
