@@ -638,20 +638,20 @@
         },
         {
           "channel_name": "ثمانية سبورت 2",
-          "url": "https://tv.vodu.me:1995/live/thmanyah-2/tracks-v1a1/mono.m3u8",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2/wv-pr/manifest.mpd5934f3a8de4358e69eab86c/cenc.mpd",
           "logo_url": "https://a.top4top.io/p_3847pshtl0.png",
-          "drm_id": "",
-          "drm_key": "",
+          "drm_id": "97e293d59ed72db87f12fe7075d8bb4c",
+          "drm_key": "c633955e4477ed5acbae68a2b0f1d216",
           "user_agent": "",
           "referer": "",
           "order": 6
         },
         {
           "channel_name": "ثمانية سبورت 3",
-          "url": "https://tv.vodu.me:1995/live/thmanyah-3/tracks-v1a1/mono.m3u8",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT3/wv-pr/manifest.mpd",
           "logo_url": "https://a.top4top.io/p_3847pshtl0.png",
-          "drm_id": "",
-          "drm_key": "",
+          "drm_id": "4bc8e4e871589a45e7c0c7d245c243c6",
+          "drm_key": "4c5e8108e0f3cea4b588f5727d3de482",
           "user_agent": "",
           "referer": "",
           "order": 7
