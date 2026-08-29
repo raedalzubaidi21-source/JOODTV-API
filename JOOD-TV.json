@@ -108,12 +108,12 @@
           "channels": [
             {
               "channel_name": "BEIN SPORT 1",
-              "url": "http://185.191.126.127:8080///b0:99:d7:15:88:50/3090914536649669/460836",
+              "url": "https://sr.oztvlb.site/bein_sport_1/mono.m3u8",
               "logo_url": "https://c.top4top.io/p_38879oyiq9.png",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-              "referer": "http://185.191.126.127:8080/",
+              "referer": "https://sr.oztvlb.site/",
               "order": 0
             },
             {
