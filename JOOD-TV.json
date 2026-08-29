@@ -388,6 +388,16 @@
               "user_agent": "",
               "referer": "",
               "order": 10
+            },
+            {
+              "channel_name": "DUHOK SPORT",
+              "url": "http://iptvch.com:2082/live/Ahmadhaj51/tZAP8FPD5kf4/300357.ts",
+              "logo_url": "https://a.top4top.io/p_3715vircw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 11
             }
           ],
           "image": "https://a.top4top.io/p_3888nodes9.png"
@@ -821,16 +831,6 @@
           "user_agent": "",
           "referer": "",
           "order": 5
-        },
-        {
-          "channel_name": "DUHOK SPORT",
-          "url": "http://iptvch.com:2082/live/Ahmadhaj51/tZAP8FPD5kf4/300357.ts",
-          "logo_url": "https://a.top4top.io/p_3715vircw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 6
         }
       ],
       "image": "https://g.top4top.io/p_3847rv9vv0.jpg"
