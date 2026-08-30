@@ -707,17 +707,17 @@
       "channels": [
         {
           "channel_name": "الكاس 1",
-          "url": "https://liveeu-gcps.alkassdigital.net/alkass1-p/main.m3u8?hdnts=exp=1787957498~hmac=1dd587186c10bf764be6be4f20f79c3c1960b9daabe8c7e3c3cecece17cc4b1d",
+          "url": "https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8",
           "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
-          "referer": "https://www.elahmad.ru",
+          "user_agent": "",
+          "referer": "",
           "order": 0
         },
         {
           "channel_name": "الكاس 2",
-          "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+          "url": "https://storage.googleapis.com/livealkass-eu/alkass2-p/main.m3u8",
           "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
           "drm_id": "",
           "drm_key": "",
@@ -727,7 +727,7 @@
         },
         {
           "channel_name": "الكاس 3",
-          "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
+          "url": "https://storage.googleapis.com/livealkass-eu/alkass3-p/main.m3u8",
           "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
           "drm_id": "",
           "drm_key": "",
@@ -737,7 +737,7 @@
         },
         {
           "channel_name": "الكاس 4",
-          "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
+          "url": "https://storage.googleapis.com/livealkass-eu/alkass4-p/main.m3u8",
           "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
           "drm_id": "",
           "drm_key": "",
@@ -747,7 +747,7 @@
         },
         {
           "channel_name": "الكاس 5",
-          "url": "http://37.49.225.174:8080/live/05316097414/99663356557/408560.m3u8?token=aaXfyd.yUfyycc.y.yUaHdzb.yczHbdcU.X.y.IQ.m3u8.1bc3f4c559575f45a5ec4112b8a06ba1fa015ccf63234497687ba5b1d336ab04",
+          "url": "https://storage.googleapis.com/livealkass-eu/alkass5-p/main.m3u8",
           "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
           "drm_id": "",
           "drm_key": "",
@@ -757,7 +757,7 @@
         },
         {
           "channel_name": "الكاس 6",
-          "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
+          "url": "https://storage.googleapis.com/livealkass-eu/alkass6-p/main.m3u8",
           "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
           "drm_id": "",
           "drm_key": "",
