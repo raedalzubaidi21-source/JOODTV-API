@@ -1088,6 +1088,16 @@
           "user_agent": "",
           "referer": "",
           "order": 24
+        },
+        {
+          "channel_name": "FUBO SPORT",
+          "url": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+          "referer": "",
+          "order": 25
         }
       ],
       "image": "https://k.top4top.io/p_3891g9to87.jpg"
