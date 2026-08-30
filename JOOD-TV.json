@@ -1090,12 +1090,12 @@
           "order": 24
         },
         {
-          "channel_name": "FUBO SPORT",
-          "url": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd",
+          "channel_name": "TSN SPORT 1",
+          "url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
           "logo_url": "",
           "drm_id": "",
-          "drm_key": "c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+          "drm_key": "https://clkey.vercel.app/api/results.php?keyid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d",
+          "user_agent": "",
           "referer": "",
           "order": 25
         }
