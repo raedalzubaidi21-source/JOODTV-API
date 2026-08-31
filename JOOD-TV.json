@@ -573,6 +573,16 @@
           "user_agent": "",
           "referer": "",
           "order": 6
+        },
+        {
+          "channel_name": "تجريبية",
+          "url": "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
+          "user_agent": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+          "referer": "https://www.elahmad.ru/",
+          "order": 7
         }
       ],
       "image": "https://c.top4top.io/p_3887qo13y8.jpeg"
