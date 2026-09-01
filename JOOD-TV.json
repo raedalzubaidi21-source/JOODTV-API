@@ -384,6 +384,16 @@
               "user_agent": "",
               "referer": "",
               "order": 0
+            },
+            {
+              "channel_name": "بين سبورت 2",
+              "url": "https://es.egys.gs/live/abdoyasser112/01032783778/509057.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 1
             }
           ],
           "image": ""
