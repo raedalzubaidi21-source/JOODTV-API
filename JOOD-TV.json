@@ -404,6 +404,16 @@
               "user_agent": "",
               "referer": "",
               "order": 2
+            },
+            {
+              "channel_name": "بين سبورت 4",
+              "url": "https://es.egys.gs/live/abdoyasser112/01032783778/729735.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 3
             }
           ],
           "image": ""
