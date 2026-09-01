@@ -424,6 +424,16 @@
               "user_agent": "",
               "referer": "",
               "order": 4
+            },
+            {
+              "channel_name": "بين سبورت 6",
+              "url": "https://es.egys.gs/live/abdoyasser112/01032783778/984150.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 5
             }
           ],
           "image": ""
