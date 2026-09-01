@@ -444,6 +444,16 @@
               "user_agent": "",
               "referer": "",
               "order": 6
+            },
+            {
+              "channel_name": "بين سبورت 8",
+              "url": "https://es.egys.gs/live/abdoyasser112/01032783778/481393.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 7
             }
           ],
           "image": ""
