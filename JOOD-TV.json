@@ -596,7 +596,98 @@
         },
         {
           "sub_category_name": "بين سبورت مواقع خارجيه",
-          "channels": [],
+          "channels": [
+            {
+              "channel_name": "بين سبورت 1",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 0
+            },
+            {
+              "channel_name": "بين سبورت 2",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 1
+            },
+            {
+              "channel_name": "بين سبورت 3",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 2
+            },
+            {
+              "channel_name": "بين سبورت 4",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 3
+            },
+            {
+              "channel_name": "بين سبورت 5",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 4
+            },
+            {
+              "channel_name": "بين سبورت 6",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 5
+            },
+            {
+              "channel_name": "بين سبورت 7",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 6
+            },
+            {
+              "channel_name": "بين سبورت 8",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 7
+            },
+            {
+              "channel_name": "بين سبورت 9",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 8
+            }
+          ],
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
         }
       ]
