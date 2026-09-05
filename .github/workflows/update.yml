@@ -2,16 +2,18 @@ name: تحديث بين سبورت اليومي
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 12 * * *'   # الساعة 12 ظهراً بتوقيت جرينتش = 3 عصراً بتوقيت العراق
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # تم التحديث من v3 إلى v4 (الإصدار v4.2.0 أو أحدث يدعم Node.js 24)[reference:3]
+      - uses: actions/checkout@v4
       
-      - uses: actions/setup-python@v4
+      # تم التحديث من v4 إلى v5 (الإصدار v5 يدعم Node.js 24)[reference:4]
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
       
@@ -20,7 +22,8 @@ jobs:
       
       - run: python scraper.py
       
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      # تم التحديث من v4 إلى v7 (الإصدار v5.2.0 فما فوق يدعم Node.js 24)[reference:5][reference:6]
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "تحديث تلقائي لروابط M3U8"
           file_pattern: JOOD-TV.json
