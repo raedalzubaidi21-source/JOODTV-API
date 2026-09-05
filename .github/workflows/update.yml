@@ -2,8 +2,8 @@ name: تحديث بين سبورت اليومي
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # الساعة 12 ظهراً بتوقيت جرينتش = 3 عصراً بتوقيت العراق
-  workflow_dispatch:       # يسمح لك بتشغيله يدوياً عند الحاجة (مثل الآن)
+    - cron: '0 12 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -15,11 +15,12 @@ jobs:
         with:
           python-version: '3.10'
       
-      - run: pip install requests
+      - run: pip install playwright
+      - run: playwright install chromium
       
       - run: python scraper.py
       
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "تحديث تلقائي لروابط بين سبورت - 3 عصراً"
+          commit_message: "تحديث تلقائي لروابط M3U8"
           file_pattern: JOOD-TV.json
