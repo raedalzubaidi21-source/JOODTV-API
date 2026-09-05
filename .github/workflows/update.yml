@@ -9,11 +9,11 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      # تم التحديث من v3 إلى v4 (الإصدار v4.2.0 أو أحدث يدعم Node.js 24)[reference:3]
-      - uses: actions/checkout@v4
+      # ✅ الترقية إلى الإصدار v6 الذي يدعم Node.js 24 رسمياً
+      - uses: actions/checkout@v6
       
-      # تم التحديث من v4 إلى v5 (الإصدار v5 يدعم Node.js 24)[reference:4]
-      - uses: actions/setup-python@v5
+      # ✅ الترقية إلى الإصدار v6 الذي يدعم Node.js 24 رسمياً
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.10'
       
@@ -22,7 +22,7 @@ jobs:
       
       - run: python scraper.py
       
-      # تم التحديث من v4 إلى v7 (الإصدار v5.2.0 فما فوق يدعم Node.js 24)[reference:5][reference:6]
+      # ✅ الإصدار v7 يضمن التوافق مع Node.js 24 (تم إضافة الدعم في الإصدار 7.0.0)[reference:2][reference:3]
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "تحديث تلقائي لروابط M3U8"
