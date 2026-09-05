@@ -599,12 +599,12 @@
           "channels": [
             {
               "channel_name": "بين سبورت 1",
-              "url": "https://pnviyybbbb.yallashoooootlive.online/hls/ch1/live/index.m3u8",
+              "url": "https://cup.kora-live-live.com/albaplayer/sports-1/",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
-              "referer": "https://www.yalla1shot.com/",
+              "referer": "",
               "order": 0
             },
             {
