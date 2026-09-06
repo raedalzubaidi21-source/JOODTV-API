@@ -599,12 +599,12 @@
           "channels": [
             {
               "channel_name": "بث 1",
-              "url": "https://1.sdssfvsdvqa.dpdns.org/live/kora1/index.css",
+              "url": "https://scontent.fisu9-1.fna.fbcdn.net/hvideo-hil-ncg/_nc_cat-1/_nc_sr_t-4/v/rASdL_fhw7ORGJSGF-SRtOC3OQJCZZI98x_RVOPw474hsqw/_nc_ohc-N0U7Jtv91rkQ7kNvwGNdZUH/live-dash/dash-abr-ibr-audio/974228795704619.mpd?_nc_eui2=AeEwa-8MgBAJJ0Y7sYd-iCzTmQa1w7L92IOZBrXDsv3YgyEEIa8vefk34GWb9rQFkxxihgvN7jAehaS3elji-3XV&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPAL&replica=1&sc_t=1&oh=00_AQKvjItJctudYXuvgPJY8m57aHA6f92dpdVH4AwQhCBiZw&oe=6A9F9083",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
-              "referer": "https://pl.matchlivehd.com/",
+              "user_agent": "",
+              "referer": "",
               "order": 0
             },
             {
