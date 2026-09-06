@@ -619,12 +619,12 @@
             },
             {
               "channel_name": "بث 3",
-              "url": "https://pub-09bd8effa913415dbff76725c7f13d9d.r2.dev/live/kora6/index.css",
+              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-nha-prn/_nc_cat-1/_nc_sr_t-4/v/rASeUnKvEmwq9H_O4wYu1XbNKIusPOtiFYiPr5SZYKaD-Cw/_nc_ohc-WPcG1T8-zWQQ7kNvwGHTD4w/live-dash/dash-abr-ibr-audio/122127728463383020.mpd?_nc_eui2=AeEh4PEUIdUvQonrumcDxR1yLau8STSs25Qtq7xJNKzblNgQEqnNUwxbTNJkmvx_VI-mxHsmABGVQsF4McFnMjgy&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQJ-4JcMxVpt63elUNhDImNhGBZadJY9665vlHbxw4WykA&oe=6A9F61CC",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
-              "referer": "https://pl.koralive1.cc/",
+              "user_agent": "",
+              "referer": "",
               "order": 2
             },
             {
