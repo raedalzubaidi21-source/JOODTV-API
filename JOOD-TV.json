@@ -598,7 +598,7 @@
           "sub_category_name": "لايف وقت المباريات",
           "channels": [
             {
-              "channel_name": "بين سبورت 1",
+              "channel_name": "بث 1",
               "url": "https://pub-28039119ab0543f58c6e9acb2761547a.r2.dev/live/kora4/index.css",
               "logo_url": "",
               "drm_id": "",
@@ -608,7 +608,7 @@
               "order": 0
             },
             {
-              "channel_name": "بين سبورت 2",
+              "channel_name": "بث 2",
               "url": "https://pub-4830cb359a644265be4d011dd5d61436.r2.dev/live/kora2/index.css",
               "logo_url": "",
               "drm_id": "",
@@ -618,7 +618,7 @@
               "order": 1
             },
             {
-              "channel_name": "بين سبورت 3",
+              "channel_name": "بث 3",
               "url": "https://pub-09bd8effa913415dbff76725c7f13d9d.r2.dev/live/kora6/index.css",
               "logo_url": "",
               "drm_id": "",
@@ -628,7 +628,7 @@
               "order": 2
             },
             {
-              "channel_name": "بين سبورت 4",
+              "channel_name": "بث 4",
               "url": "https://vsd288.okcdn.ru/hls/19789014633151.m3u8/sig/UsEH5MsTxew/expires/1788782264076/srcIp/188.72.46.71/urls/176.112.172.47/clientType/0/srcAg/CHROME/mid/16609892572863/19789014633151_high/index.m3u8",
               "logo_url": "",
               "drm_id": "",
@@ -638,7 +638,7 @@
               "order": 3
             },
             {
-              "channel_name": "بين سبورت 5",
+              "channel_name": "بث 5",
               "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-prn-ncg/_nc_cat-1/_nc_sr_t-4/v/rASe4pCURBbFiflwehS0X8NARjdY2Q__gaOOq2wE1Yc-WoA/_nc_ohc-pjz0OSEjy-8Q7kNvwEpJ98a/live-dash/dash-abr-ibr-audio/122127417225383020.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQL0w1XOzz2_ZANhU26bvPJj1lbN1QttICExidQWPOFilw&oe=6A9E0A0D",
               "logo_url": "",
               "drm_id": "",
@@ -648,7 +648,7 @@
               "order": 4
             },
             {
-              "channel_name": "بين سبورت 6",
+              "channel_name": "بث 6",
               "url": "",
               "logo_url": "",
               "drm_id": "",
@@ -658,7 +658,7 @@
               "order": 5
             },
             {
-              "channel_name": "بين سبورت 7",
+              "channel_name": "بث 7",
               "url": "",
               "logo_url": "",
               "drm_id": "",
@@ -668,7 +668,7 @@
               "order": 6
             },
             {
-              "channel_name": "بين سبورت 8",
+              "channel_name": "بث 8",
               "url": "",
               "logo_url": "",
               "drm_id": "",
@@ -678,7 +678,7 @@
               "order": 7
             },
             {
-              "channel_name": "بين سبورت 9",
+              "channel_name": "بث 9",
               "url": "",
               "logo_url": "",
               "drm_id": "",
