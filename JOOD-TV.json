@@ -532,12 +532,12 @@
             },
             {
               "channel_name": "بث 4",
-              "url": "https://vsd288.okcdn.ru/hls/19789014633151.m3u8/sig/UsEH5MsTxew/expires/1788782264076/srcIp/188.72.46.71/urls/176.112.172.47/clientType/0/srcAg/CHROME/mid/16609892572863/19789014633151_high/index.m3u8",
+              "url": "https://pub-f02cb1ce129b4676ac255bc0bd8afa9f.r2.dev/live/kora4/index.css",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
-              "referer": "https://ok.ru/live/16609892572863",
+              "referer": "https://pl.matchlivehd.com/",
               "order": 3
             },
             {
