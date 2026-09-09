@@ -691,6 +691,16 @@
               "user_agent": "",
               "referer": "",
               "order": 3
+            },
+            {
+              "channel_name": "برشلونه مباشر 2",
+              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-hil-ldc/_nc_cat-1/_nc_sr_t-4/v/rASe7rtm5T3fqqLhKoYQXT8TvPR1bjqpG-O8Hz2AsJTSnTg/_nc_ohc-LMeQCvubnjwQ7kNvwFeyrV_/live-dash/dash-abr-ibr-audio/122242988168590744.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQKO5hycG8cKWRyMqwxeLPB9HmRaTIk5Zu1Rw08Q1KG49A&oe=6AA35F41",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 4
             }
           ],
           "image": ""
