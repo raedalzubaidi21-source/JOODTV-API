@@ -664,12 +664,12 @@
             },
             {
               "channel_name": "beIN SPORT 1",
-              "url": "https://oklive6-13.vkuser.net/hls/19252570425947.m3u8/sig/kIXGeF86sAg/expires/1789060523800/srcIp/188.72.46.61/urls/176.112.172.114/clientType/0/srcAg/CHROME/mid/16367527534171/19252570425947_high/index.m3u8",
+              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-hil-frc/_nc_cat-1/_nc_sr_t-4/v/rASeUoArxilGjuLn8l4Q8q6NcR6ceEHlp2seck2TSHUWI8Q/_nc_ohc-VVqLX6WaxOcQ7kNvwElmvJn/live-dash/dash-abr-ibr-audio/122251076690274004.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQKP-EunbI1LPPFBylj25S9wBNINJajZE8WUYW6TOh2SfA&oe=6AA37441",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
-              "referer": "https://ok.ru/videoembed/16367527534171?nochat=1",
+              "user_agent": "",
+              "referer": "",
               "order": 1
             }
           ],
