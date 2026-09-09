@@ -501,28 +501,28 @@
           "sub_category_name": "بين سبورت TOP",
           "channels": [
             {
-              "channel_name": "بث 1",
-              "url": "https://pub-7faf175441b148e283a3e8b8274c28d5.r2.dev/live/kora1/index.css",
+              "channel_name": "BEIN TOP. 1",
+              "url": "https://ap-4fd.pages.dev/bein1.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
-              "referer": "https://pl.matchlivehd.com/",
+              "user_agent": "",
+              "referer": "",
               "order": 0
             },
             {
-              "channel_name": "بث 2",
-              "url": "https://pub-a1f4d56a28a1454db645554626935de0.r2.dev/live/kora2/index.css",
+              "channel_name": "BEIN TOP 2",
+              "url": "https://ap-4fd.pages.dev/bein1.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
-              "referer": "https://pl.matchlivehd.com/",
+              "user_agent": "",
+              "referer": "",
               "order": 1
             },
             {
-              "channel_name": "بث 3",
-              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-nha-prn/_nc_cat-1/_nc_sr_t-4/v/rASeUnKvEmwq9H_O4wYu1XbNKIusPOtiFYiPr5SZYKaD-Cw/_nc_ohc-WPcG1T8-zWQQ7kNvwGHTD4w/live-dash/dash-abr-ibr-audio/122127728463383020.mpd?_nc_eui2=AeEh4PEUIdUvQonrumcDxR1yLau8STSs25Qtq7xJNKzblNgQEqnNUwxbTNJkmvx_VI-mxHsmABGVQsF4McFnMjgy&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQJ-4JcMxVpt63elUNhDImNhGBZadJY9665vlHbxw4WykA&oe=6A9F61CC",
+              "channel_name": "BEIN TOP 3",
+              "url": "https://ap-4fd.pages.dev/bein1.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -531,18 +531,18 @@
               "order": 2
             },
             {
-              "channel_name": "بث 4",
-              "url": "https://pub-f02cb1ce129b4676ac255bc0bd8afa9f.r2.dev/live/kora4/index.css",
+              "channel_name": "BEIN TOP 4",
+              "url": "https://ap-4fd.pages.dev/bein4.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
-              "referer": "https://pl.matchlivehd.com/",
+              "user_agent": "",
+              "referer": "",
               "order": 3
             },
             {
-              "channel_name": "بث 5",
-              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-ncg-rva/s1000/_nc_cat-1/_nc_sr_t-4/v/rASfEn21KX5hNSPWtonvC7UIBbWmB1wG43msk94dKRApHmw/_nc_ohc-hbizqfpOn14Q7kNvwHriRGD/live-dash/dash-abr-ibr-audio/1430516372508581.mpd?_nc_eui2=AeEip8_LTzHvdTl5-6FASmU6egNuJ4KMTLx6A24ngoxMvGAvrD8jAopWSLQjHLXsA41gHTH8Se6XSD8SsWOV04Xc&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQLZUDqlBWJLel3qkmkDcuyb_h6FaVQPvSyzUF4A7M4kWA&oe=6AA25CD8",
+              "channel_name": "BEIN TOP 5",
+              "url": "https://ap-4fd.pages.dev/bein5.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -551,8 +551,8 @@
               "order": 4
             },
             {
-              "channel_name": "بث 6",
-              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-lla-odn/_nc_cat-1/_nc_sr_t-4/v/rASfOz4_ci5qGm5-oLjpXlkiemnDGkK6ZgQXdotnwY9r6tw/_nc_ohc-K4qdIoAeqTIQ7kNvwG5a6Px/live-dash/dash-abr-ibr-audio/941472775680465.mpd?_nc_eui2=AeGW3EkfTwstubeZ-y1JmPmRJ9WSYNw8Cj4n1ZJg3DwKPm1QenN94C8-XToSSIXF1HIVX-cb89a6NL9L0v5Fkq3e&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQINlheFROhfk9n1rQDyPvCs3JuVQBo7r2Em6wx1vKHmMA&oe=6AA24C17",
+              "channel_name": "BEIN TOP 6",
+              "url": "https://ap-4fd.pages.dev/bein6.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -561,8 +561,8 @@
               "order": 5
             },
             {
-              "channel_name": "بث 7",
-              "url": "",
+              "channel_name": "BEIN TOP 7",
+              "url": "https://ap-4fd.pages.dev/bein7.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -571,8 +571,8 @@
               "order": 6
             },
             {
-              "channel_name": "بث 8",
-              "url": "",
+              "channel_name": "BEIN TOP 8",
+              "url": "https://ap-4fd.pages.dev/bein8.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -581,8 +581,8 @@
               "order": 7
             },
             {
-              "channel_name": "بث 9",
-              "url": "",
+              "channel_name": "BEIN TOP 9",
+              "url": "https://ap-4fd.pages.dev/bein9.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
