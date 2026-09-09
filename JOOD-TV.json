@@ -98,16 +98,6 @@
               "user_agent": "",
               "referer": "",
               "order": 8
-            },
-            {
-              "channel_name": "برشلونه ضد فاينورد",
-              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-rva-ncg/_nc_cat-1/_nc_sr_t-4/v/rASczk3JYfRVkJbtp8Q6WpnM8sN7F_448oh-bT0RgDa0JTw/_nc_ohc-4tpB-pkydPsQ7kNvwE-ni4M/live-dash/dash-abr-ibr-audio/122197039736432502.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQLms2lAnYudIW_5VSKAEgbpkshJdJoTIixgePqam0xpFA&oe=6AA34ED5",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 9
             }
           ],
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
@@ -204,6 +194,16 @@
               "user_agent": "",
               "referer": "",
               "order": 8
+            },
+            {
+              "channel_name": "برشلونه ضد فاينورد",
+              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-rva-ncg/_nc_cat-1/_nc_sr_t-4/v/rASczk3JYfRVkJbtp8Q6WpnM8sN7F_448oh-bT0RgDa0JTw/_nc_ohc-4tpB-pkydPsQ7kNvwE-ni4M/live-dash/dash-abr-ibr-audio/122197039736432502.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQLms2lAnYudIW_5VSKAEgbpkshJdJoTIixgePqam0xpFA&oe=6AA34ED5",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 9
             }
           ],
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
