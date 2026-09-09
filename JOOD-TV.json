@@ -727,12 +727,12 @@
         },
         {
           "channel_name": "تجريبية",
-          "url": "https://web.telegram.org/k/#@live98sport",
+          "url": "https://web.telegram.org/rtmp/%7B%22_%22%3A%22inputGroupCall%22%2C%22id%22%3A%22-2303710055445392245%22%2C%22access_hash%22%3A%22-2309012261322214014%22%7D?t=1788969547473",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "",
-          "referer": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+          "referer": "https://web.telegram.org/k/",
           "order": 7
         }
       ],
