@@ -653,24 +653,14 @@
           "sub_category_name": "مباريات مباشر",
           "channels": [
             {
-              "channel_name": "برشلونه ضد فاينورد",
-              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-ncg-ftw/_nc_cat-1/_nc_sr_t-4/v/rASeFj5cNpIwBI0Hm7dWiPbv7QA6jHakC1I24E_XXd066ow/_nc_ohc-GbovLBLuxIkQ7kNvwHuTAbe/live-dash/dash-abr-ibr-audio/1104790922071339.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQIie9OgFpLACJajqFXuxe4fpKLIll0FR9RnUiwxOCx9VQ&oe=6AA36A09",
+              "channel_name": "beIN SPORT 1",
+              "url": "http://mhiptv.com:8080/live/hk030/6985423976/2449.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
               "referer": "",
               "order": 0
-            },
-            {
-              "channel_name": "beIN SPORT 1",
-              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-hil-frc/_nc_cat-1/_nc_sr_t-4/v/rASeUoArxilGjuLn8l4Q8q6NcR6ceEHlp2seck2TSHUWI8Q/_nc_ohc-VVqLX6WaxOcQ7kNvwElmvJn/live-dash/dash-abr-ibr-audio/122251076690274004.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQKP-EunbI1LPPFBylj25S9wBNINJajZE8WUYW6TOh2SfA&oe=6AA37441",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 1
             },
             {
               "channel_name": "برشلونه مباشر",
@@ -680,7 +670,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 2
+              "order": 1
             },
             {
               "channel_name": "برشلونه مباشر 1",
@@ -690,7 +680,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 3
+              "order": 2
             },
             {
               "channel_name": "برشلونه مباشر 2",
@@ -700,7 +690,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 4
+              "order": 3
             },
             {
               "channel_name": "برشلونه مباشر 3",
@@ -710,7 +700,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 5
+              "order": 4
             }
           ],
           "image": ""
