@@ -11,7 +11,7 @@
           "channels": [
             {
               "channel_name": "BEIN SPORT 1",
-              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-ncg-ftw/_nc_cat-1/_nc_sr_t-4/v/rASeFj5cNpIwBI0Hm7dWiPbv7QA6jHakC1I24E_XXd066ow/_nc_ohc-GbovLBLuxIkQ7kNvwHuTAbe/live-dash/dash-abr-ibr-audio/1104790922071339.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQIie9OgFpLACJajqFXuxe4fpKLIll0FR9RnUiwxOCx9VQ&oe=6AA36A09",
+              "url": "http://45.67.56.78/Sport1/index.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -671,16 +671,6 @@
               "user_agent": "",
               "referer": "",
               "order": 1
-            },
-            {
-              "channel_name": "ليفربول ضد فولهام 2",
-              "url": "https://instagram.fawz1-1.fna.fbcdn.net/hvideo-vll-prn/_nc_cat-101/v/rAScPfgSNUHpS4xWVjuAaQnLKitsY-ksOIhXwCKuPnli51Q/_nc_ohc-_XbHJqogYlkQ7kNvwH8zH36/live-dash/dash-abr/18112885352594836.mpd?_nc_ad=z-m&_nc_cid=0&_nc_zt=28&ccb=2-4&ms=m_CNP&sc_t=1&oh=00_AQK5FRSQU2t-yuYhCmKjTKrAEf9nuVf5m60ofvOGwEjlZg&oe=6AA74652",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 2
             }
           ],
           "image": "https://k.top4top.io/p_3907bko4i1.jpg"
