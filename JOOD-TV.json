@@ -653,16 +653,6 @@
           "sub_category_name": "مباريات مباشر",
           "channels": [
             {
-              "channel_name": "قناة الوان 1",
-              "url": "http://172.110.216.220:8080/INluV_5Fi8m5A_XE9j1jGm0bp3XVXmb6JjinxSVy7XPCH9CwufRhefKOi01u",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 0
-            },
-            {
               "channel_name": "BEIN SPORTS 1",
               "url": "https://ruyas.store/BeinHD/mono.m3u8?token=f790bc77f769d02ec4c58b53da2825deb81fa538-e0285617a6684e2e68ba735b9ba18830-1789227824-1789217024",
               "logo_url": "",
@@ -670,10 +660,10 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 1
+              "order": 0
             }
           ],
-          "image": ""
+          "image": "https://k.top4top.io/p_3907bko4i1.jpg"
         }
       ]
     },
