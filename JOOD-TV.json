@@ -204,7 +204,7 @@
           "channels": [
             {
               "channel_name": "BEIN SPORT 1",
-              "url": "https://re.new-redirect.online/live/lb2/bs1-multi.m3u8",
+              "url": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/wun0IcS-1iImcFzywuJCaNNL2QvOaYsDlF6pHkU_epn6T7gnTYx1GiBQGUZ_pn1VNXxYX2q3_ODkfjOhb4t2rw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
