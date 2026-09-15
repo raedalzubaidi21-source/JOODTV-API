@@ -651,7 +651,18 @@
         },
         {
           "sub_category_name": "مباريات مباشر",
-          "channels": [],
+          "channels": [
+            {
+              "channel_name": "Test",
+              "url": "https://redperch.space/dramacardinalv2.php?id=alwan1",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Rplayerv2.0.16",
+              "referer": "",
+              "order": 0
+            }
+          ],
           "image": "https://k.top4top.io/p_3907bko4i1.jpg"
         }
       ]
