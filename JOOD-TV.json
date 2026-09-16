@@ -204,17 +204,17 @@
           "channels": [
             {
               "channel_name": "BEIN SPORT 1",
-              "url": "http://re.new-redirect.online/live/918454578001/index.m3u8?t=w-k-Dt_RLQx5YNDvj3Yxrw&e=1789236945",
+              "url": "https://es.egys.gs/live/abdoyasser112/01032783778/527418.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
-              "referer": "https://studio.x.com/",
+              "user_agent": "",
+              "referer": "",
               "order": 0
             },
             {
               "channel_name": "BEIN SPORT 2",
-              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1425.m3u8",
+              "url": "https://es.egys.gs/live/abdoyasser112/01032783778/235756.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -224,7 +224,7 @@
             },
             {
               "channel_name": "BEIN SPORT 3",
-              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1426.m3u8",
+              "url": "https://es.egys.gs/live/abdoyasser112/01032783778/423346.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -234,7 +234,7 @@
             },
             {
               "channel_name": "BEIN SPORT 4",
-              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1427.m3u8",
+              "url": "https://es.egys.gs/live/abdoyasser112/01032783778/729735.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -244,7 +244,7 @@
             },
             {
               "channel_name": "BEIN SPORT 5",
-              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1428.m3u8",
+              "url": "https://es.egys.gs/live/abdoyasser112/01032783778/844940.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -254,7 +254,7 @@
             },
             {
               "channel_name": "BEIN SPORT 6",
-              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1429.m3u8",
+              "url": "https://es.egys.gs/live/abdoyasser112/01032783778/984150.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -264,7 +264,7 @@
             },
             {
               "channel_name": "BEIN SPORT 7",
-              "url": "https://dev-kaidn.pantheonsite.io/kidntv/ya.php?path=stream/1430.m3u8",
+              "url": "https://es.egys.gs/live/abdoyasser112/01032783778/882382.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
