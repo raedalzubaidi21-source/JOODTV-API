@@ -117,7 +117,7 @@
             },
             {
               "channel_name": "BEIN TOP 2",
-              "url": "",
+              "url": "https://kidn.pages.dev/m3u8/151.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -127,37 +127,37 @@
             },
             {
               "channel_name": "BEIN TOP 3",
-              "url": "",
+              "url": "https://kidn.pages.dev/m3u8/153.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "com.boostvision.player.iptv",
               "referer": "",
               "order": 2
             },
             {
               "channel_name": "BEIN TOP 4",
-              "url": "",
+              "url": "https://kidn.pages.dev/m3u8/155.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "com.boostvision.player.iptv",
               "referer": "",
               "order": 3
             },
             {
               "channel_name": "BEIN TOP 5",
-              "url": "",
+              "url": "https://kidn.pages.dev/m3u8/158.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "com.boostvision.player.iptv",
               "referer": "",
               "order": 4
             },
             {
-              "channel_name": "BEIN TOP 7",
-              "url": "",
+              "channel_name": "BEIN TOP 6",
+              "url": "https://kidn.pages.dev/m3u8/161.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -166,12 +166,12 @@
               "order": 5
             },
             {
-              "channel_name": "BEIN TOP 6",
+              "channel_name": "BEIN TOP 7",
               "url": "",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "com.boostvision.player.iptv",
               "referer": "",
               "order": 6
             },
@@ -181,7 +181,7 @@
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "com.boostvision.player.iptv",
               "referer": "",
               "order": 7
             },
@@ -191,7 +191,7 @@
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "com.boostvision.player.iptv",
               "referer": "",
               "order": 8
             }
