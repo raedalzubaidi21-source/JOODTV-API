@@ -204,7 +204,7 @@
           "channels": [
             {
               "channel_name": "BEIN SPORT 1",
-              "url": "https://pub-eb7d3ffcbdf5442ebf1c3adc7cc425ee.r2.dev/live/kora4/index.css",
+              "url": "https://pub-007790c097f3493c871e92df0b27860f.r2.dev/live/kora11/index.css",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -234,12 +234,12 @@
             },
             {
               "channel_name": "BEIN SPORT 4",
-              "url": "http://h29.torvenixnetwork.click/live/9787488847/index.m3u8?t=3nMTCyWRkR9vAUHL5R3-Xw&e=1789833607",
+              "url": "https://pub-eb7d3ffcbdf5442ebf1c3adc7cc425ee.r2.dev/live/kora4/index.css",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-              "referer": "https://x.com/",
+              "user_agent": "",
+              "referer": "",
               "order": 3
             },
             {
