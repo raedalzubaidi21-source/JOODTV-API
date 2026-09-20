@@ -103,102 +103,6 @@
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
         },
         {
-          "sub_category_name": "بين سبورت TOP",
-          "channels": [
-            {
-              "channel_name": "BEIN TOP 1",
-              "url": "https://kidn.pages.dev/m3u8/149.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "com.boostvision.player.iptv",
-              "referer": "",
-              "order": 0
-            },
-            {
-              "channel_name": "BEIN TOP 2",
-              "url": "https://kidn.pages.dev/m3u8/151.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 1
-            },
-            {
-              "channel_name": "BEIN TOP 3",
-              "url": "https://kidn.pages.dev/m3u8/153.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "com.boostvision.player.iptv",
-              "referer": "",
-              "order": 2
-            },
-            {
-              "channel_name": "BEIN TOP 4",
-              "url": "https://kidn.pages.dev/m3u8/155.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "com.boostvision.player.iptv",
-              "referer": "",
-              "order": 3
-            },
-            {
-              "channel_name": "BEIN TOP 5",
-              "url": "https://kidn.pages.dev/m3u8/158.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "com.boostvision.player.iptv",
-              "referer": "",
-              "order": 4
-            },
-            {
-              "channel_name": "BEIN TOP 6",
-              "url": "https://kidn.pages.dev/m3u8/161.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 5
-            },
-            {
-              "channel_name": "BEIN TOP 7",
-              "url": "https://kidn.pages.dev/m3u8/164.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "com.boostvision.player.iptv",
-              "referer": "",
-              "order": 6
-            },
-            {
-              "channel_name": "BEIN TOP 8",
-              "url": "https://kidn.pages.dev/m3u8/167.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "com.boostvision.player.iptv",
-              "referer": "",
-              "order": 7
-            },
-            {
-              "channel_name": "BEIN TOP 9",
-              "url": "https://kidn.pages.dev/m3u8/170.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "com.boostvision.player.iptv",
-              "referer": "",
-              "order": 8
-            }
-          ],
-          "image": "https://e.top4top.io/p_3886b3nvu1.png"
-        },
-        {
           "sub_category_name": "BEIN SPORTS NEW",
           "sub_category_logo": "https://k.top4top.io/p_3671qj8qr1.jpg",
           "channels": [
@@ -365,6 +269,102 @@
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
+              "referer": "",
+              "order": 8
+            }
+          ],
+          "image": "https://e.top4top.io/p_3886b3nvu1.png"
+        },
+        {
+          "sub_category_name": "بين سبورت TOP",
+          "channels": [
+            {
+              "channel_name": "BEIN TOP 1",
+              "url": "https://kidn.pages.dev/m3u8/149.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "com.boostvision.player.iptv",
+              "referer": "",
+              "order": 0
+            },
+            {
+              "channel_name": "BEIN TOP 2",
+              "url": "https://kidn.pages.dev/m3u8/151.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 1
+            },
+            {
+              "channel_name": "BEIN TOP 3",
+              "url": "https://kidn.pages.dev/m3u8/153.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "com.boostvision.player.iptv",
+              "referer": "",
+              "order": 2
+            },
+            {
+              "channel_name": "BEIN TOP 4",
+              "url": "https://kidn.pages.dev/m3u8/155.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "com.boostvision.player.iptv",
+              "referer": "",
+              "order": 3
+            },
+            {
+              "channel_name": "BEIN TOP 5",
+              "url": "https://kidn.pages.dev/m3u8/158.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "com.boostvision.player.iptv",
+              "referer": "",
+              "order": 4
+            },
+            {
+              "channel_name": "BEIN TOP 6",
+              "url": "https://kidn.pages.dev/m3u8/161.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 5
+            },
+            {
+              "channel_name": "BEIN TOP 7",
+              "url": "https://kidn.pages.dev/m3u8/164.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "com.boostvision.player.iptv",
+              "referer": "",
+              "order": 6
+            },
+            {
+              "channel_name": "BEIN TOP 8",
+              "url": "https://kidn.pages.dev/m3u8/167.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "com.boostvision.player.iptv",
+              "referer": "",
+              "order": 7
+            },
+            {
+              "channel_name": "BEIN TOP 9",
+              "url": "https://kidn.pages.dev/m3u8/170.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "com.boostvision.player.iptv",
               "referer": "",
               "order": 8
             }
@@ -648,11 +648,6 @@
             }
           ],
           "image": "https://g.top4top.io/p_3904q4f1b1.png"
-        },
-        {
-          "sub_category_name": "مباريات مباشر",
-          "channels": [],
-          "image": "https://k.top4top.io/p_3907bko4i1.jpg"
         }
       ]
     },
