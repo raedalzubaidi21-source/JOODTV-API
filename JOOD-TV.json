@@ -214,12 +214,12 @@
             },
             {
               "channel_name": "BEIN SPORT 2",
-              "url": "http://h26.xavorionedge.click/live/69854211/index.m3u8?t=Y5YVxOUyu0zPB5tRyONF0g&e=1789833554",
+              "url": "https://pub-57be0c9465e54b56b8fd6b7879e3d888.r2.dev/live/kora2/index.css",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-              "referer": "https://x.com/",
+              "user_agent": "",
+              "referer": "",
               "order": 1
             },
             {
