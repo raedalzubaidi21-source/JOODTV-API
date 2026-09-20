@@ -280,11 +280,11 @@
           "channels": [
             {
               "channel_name": "BEIN TOP 1",
-              "url": "https://kidn.pages.dev/m3u8/149.m3u8",
+              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-hil-ldc/_nc_cat-1/_nc_sr_t-4/v/rASdy2yksxQdcIcPg0j-FPw-v8dZR634GOwbWObzZivvK8g/_nc_ohc-_jDrfgGi9mQQ7kNvwFYqdr-/live-dash/dash-abr-ibr-audio/122172684290665654.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQLEUIkJvPmL0AikVS6ivk4G-mEE-wuinWVSLy7CtoUSFQ&oe=6AB1B93F",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "com.boostvision.player.iptv",
+              "user_agent": "",
               "referer": "",
               "order": 0
             },
