@@ -645,6 +645,16 @@
               "user_agent": "",
               "referer": "",
               "order": 4
+            },
+            {
+              "channel_name": "تجريبي",
+              "url": "https://www2.maziikaaaaa.shop/x1/1_32.json?token=100892d5f8e2ebe56eda84b65e9ac28118cb87fd722b49fab84f5f18fc337c3c&expires=1789968966&exp=3158847189",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+              "referer": "https://ostora.tv/",
+              "order": 5
             }
           ],
           "image": "https://g.top4top.io/p_3904q4f1b1.png"
