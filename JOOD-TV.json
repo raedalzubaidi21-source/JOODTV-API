@@ -300,11 +300,11 @@
           "channels": [
             {
               "channel_name": "BEIN SPORT 1",
-              "url": "http://80.96.109.140/tv?url=http://qwerty8520.online:2052/live/18930884494627/18915303597156/677057.ts",
+              "url": "https://osc.cxtchingpeeta.workers.dev/id=63&go=171&file=.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+              "user_agent": "",
               "referer": "",
               "order": 0
             },
