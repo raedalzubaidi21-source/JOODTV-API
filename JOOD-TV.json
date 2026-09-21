@@ -617,8 +617,8 @@
           "sub_category_name": "بين جودة متوسطة",
           "channels": [
             {
-              "channel_name": "beIN SOLO 1",
-              "url": "http://2k3hoaoi.xmaxcod.sbs/live/hk030/6985423976/288295.m3u8",
+              "channel_name": "beIN 1",
+              "url": "https://alkatlan.xmax1tv.com/live/1.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -627,8 +627,8 @@
               "order": 0
             },
             {
-              "channel_name": "beIN SOLO 2",
-              "url": "http://wiojx9mx.xmaxcod.sbs/live/hk030/6985423976/288302.m3u8",
+              "channel_name": "beIN 2",
+              "url": "https://alkatlan.xmax1tv.com/live/2.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -637,8 +637,8 @@
               "order": 1
             },
             {
-              "channel_name": "beIN SOLO 3",
-              "url": "http://2za77227.xmaxcod.sbs/live/hk030/6985423976/288298.m3u8",
+              "channel_name": "beIN 3",
+              "url": "https://alkatlan.xmax1tv.com/live/3.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -647,8 +647,8 @@
               "order": 2
             },
             {
-              "channel_name": "beIN SOLO 4",
-              "url": "http://2za77227.xmaxcod.sbs/live/hk030/6985423976/288283.m3u8",
+              "channel_name": "beIN 4",
+              "url": "https://alkatlan.xmax1tv.com/live/4.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -657,8 +657,8 @@
               "order": 3
             },
             {
-              "channel_name": "beIN SOLO 5",
-              "url": "http://2za77227.xmaxcod.sbs/live/hk030/6985423976/288279.m3u8",
+              "channel_name": "beIN 5",
+              "url": "https://alkatlan.xmax1tv.com/live/5.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -667,13 +667,13 @@
               "order": 4
             },
             {
-              "channel_name": "تجريبي",
-              "url": "https://www2.maziikaaaaa.shop/x1/1_32.json?token=100892d5f8e2ebe56eda84b65e9ac28118cb87fd722b49fab84f5f18fc337c3c&expires=1789968966&exp=3158847189",
+              "channel_name": "beIN 6",
+              "url": "https://www2.mazihttps://alkatlan.xmax1tv.com/live/6.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
-              "referer": "https://ostora.tv/",
+              "user_agent": "",
+              "referer": "",
               "order": 5
             }
           ],
