@@ -705,46 +705,6 @@
           "order": 1
         },
         {
-          "channel_name": "الكاس 3",
-          "url": "https://storage.googleapis.com/livealkass-eu/alkass3-p/main.m3u8",
-          "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 2
-        },
-        {
-          "channel_name": "الكاس 4",
-          "url": "https://storage.googleapis.com/livealkass-eu/alkass4-p/main.m3u8",
-          "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 3
-        },
-        {
-          "channel_name": "الكاس 5",
-          "url": "https://storage.googleapis.com/livealkass-eu/alkass5-p/main.m3u8",
-          "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 4
-        },
-        {
-          "channel_name": "الكاس 6",
-          "url": "https://storage.googleapis.com/livealkass-eu/alkass6-p/main.m3u8",
-          "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 5
-        },
-        {
           "channel_name": "الكاس 1 -سيرفر 2",
           "url": "http://45.67.56.78/Sport13/index.m3u8",
           "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
@@ -752,7 +712,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 6
+          "order": 2
         },
         {
           "channel_name": "الكاس 2 - سيرفر 2",
@@ -762,7 +722,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 7
+          "order": 3
         },
         {
           "channel_name": "الشارقة سبورت 1",
@@ -772,7 +732,7 @@
           "drm_key": "75deea8e41e389997f34d0ebca3f1fb7",
           "user_agent": "",
           "referer": "",
-          "order": 8
+          "order": 4
         },
         {
           "channel_name": "ابو ظبي سبورت 1",
@@ -782,7 +742,7 @@
           "drm_key": "3911049bf0e342e70e0fba2cba6aa628",
           "user_agent": "",
           "referer": "",
-          "order": 9
+          "order": 5
         },
         {
           "channel_name": "الو ظبي سبورت 2",
@@ -792,7 +752,7 @@
           "drm_key": "5b4c9115617286036232fbb0d583a651",
           "user_agent": "",
           "referer": "",
-          "order": 10
+          "order": 6
         },
         {
           "channel_name": "العراقية الرياضية",
@@ -802,7 +762,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 11
+          "order": 7
         },
         {
           "channel_name": "الكويت الرياضية 1",
@@ -812,7 +772,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 12
+          "order": 8
         },
         {
           "channel_name": "البحرين الرياضية 1",
@@ -822,7 +782,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 13
+          "order": 9
         },
         {
           "channel_name": "البحرين الرياضية 2",
@@ -832,7 +792,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 14
+          "order": 10
         },
         {
           "channel_name": "عمان الرياضية",
@@ -842,7 +802,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 15
+          "order": 11
         }
       ],
       "sub_categories": [],
