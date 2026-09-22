@@ -773,6 +773,16 @@
           "user_agent": "",
           "referer": "",
           "order": 8
+        },
+        {
+          "channel_name": "ابو ظبي سبورت 1",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AD1/wv-pr/manifest.mpd",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "https://clkey.vercel.app/api/results.php?keyid=2810c600349a0cd3a920c7d99bbe00b1&key=3911049bf0e342e70e0fba2cba6aa628",
+          "user_agent": "",
+          "referer": "",
+          "order": 9
         }
       ],
       "sub_categories": [],
