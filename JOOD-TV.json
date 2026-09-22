@@ -823,6 +823,16 @@
           "user_agent": "",
           "referer": "",
           "order": 13
+        },
+        {
+          "channel_name": "البحرين الرياضية 2",
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 14
         }
       ],
       "sub_categories": [],
