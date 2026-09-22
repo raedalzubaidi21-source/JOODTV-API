@@ -682,6 +682,12 @@
       ]
     },
     {
+      "category_name": "بطولة كاس الخليج",
+      "channels": [],
+      "sub_categories": [],
+      "image": "https://b.top4top.io/p_3916ty1180.jpeg"
+    },
+    {
       "category_name": "STARZPLAY SPORT",
       "category_logo": "https://d.top4top.io/p_3671ihxa01.png",
       "channels": [
@@ -2072,12 +2078,6 @@
           "order": 33
         }
       ]
-    },
-    {
-      "category_name": "بطولة كاس الخليج",
-      "channels": [],
-      "sub_categories": [],
-      "image": "https://b.top4top.io/p_3916ty1180.jpeg"
     }
   ]
 }
