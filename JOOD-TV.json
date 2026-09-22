@@ -833,6 +833,16 @@
           "user_agent": "",
           "referer": "",
           "order": 14
+        },
+        {
+          "channel_name": "عمان الرياضية",
+          "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 15
         }
       ],
       "sub_categories": [],
