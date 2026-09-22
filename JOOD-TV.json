@@ -743,6 +743,16 @@
           "user_agent": "",
           "referer": "",
           "order": 5
+        },
+        {
+          "channel_name": "الشارقة سبورت FHD",
+          "url": "https://live.kwikmotion.com/smc4sportslive/smc4tv.smil/smc4sportspublish/smc4tv_source/hdntl=exp=1790122464~acl=%2Fsmc4sportslive%2Fsmc4tv.smil%2F*~data=hdntl~hmac=d572f9bfb4d3500d7f031272f04b3f3dad623316f98f3751be1f3cca3b9a0284/chunks.m3u8",
+          "logo_url": "https://l.top4top.io/p_39161lem60.jpeg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "https://maraya.sba.net.ae",
+          "order": 6
         }
       ],
       "sub_categories": [],
