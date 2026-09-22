@@ -783,6 +783,16 @@
           "user_agent": "",
           "referer": "",
           "order": 9
+        },
+        {
+          "channel_name": "الو ظبي سبورت 2",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AD2/wv-pr/manifest.mpd",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 10
         }
       ],
       "sub_categories": [],
