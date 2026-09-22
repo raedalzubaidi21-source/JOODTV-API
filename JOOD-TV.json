@@ -683,7 +683,68 @@
     },
     {
       "category_name": "بطولة كاس الخليج",
-      "channels": [],
+      "channels": [
+        {
+          "channel_name": "الكاس 1",
+          "url": "https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8",
+          "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 0
+        },
+        {
+          "channel_name": "الكاس 2",
+          "url": "https://storage.googleapis.com/livealkass-eu/alkass2-p/main.m3u8",
+          "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 1
+        },
+        {
+          "channel_name": "الكاس 3",
+          "url": "https://storage.googleapis.com/livealkass-eu/alkass3-p/main.m3u8",
+          "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 2
+        },
+        {
+          "channel_name": "الكاس 4",
+          "url": "https://storage.googleapis.com/livealkass-eu/alkass4-p/main.m3u8",
+          "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 3
+        },
+        {
+          "channel_name": "الكاس 5",
+          "url": "https://storage.googleapis.com/livealkass-eu/alkass5-p/main.m3u8",
+          "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 4
+        },
+        {
+          "channel_name": "الكاس 6",
+          "url": "https://storage.googleapis.com/livealkass-eu/alkass6-p/main.m3u8",
+          "logo_url": "https://c.top4top.io/p_3847x794k0.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 5
+        }
+      ],
       "sub_categories": [],
       "image": "https://b.top4top.io/p_3916ty1180.jpeg"
     },
