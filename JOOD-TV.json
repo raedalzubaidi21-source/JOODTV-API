@@ -746,12 +746,12 @@
         },
         {
           "channel_name": "الشارقة سبورت FHD",
-          "url": "https://live.kwikmotion.com/smc4sportslive/smc4tv.smil/smc4sportspublish/smc4tv_source/hdntl=exp=1790125194~acl=%2Fsmc4sportslive%2Fsmc4tv.smil%2F*~data=hdntl~hmac=c2154badbfbd9c881ecd7bec969112e6837d61c211037e3c34475e5e8a12618a/chunks.m3u8",
+          "url": "https://live.kwikmotion.com/smc4sportslive/smc4tv.smil/smc4sportspublish/smc4tv_source/hdntl=exp=1790126548~acl=%2Fsmc4sportslive%2Fsmc4tv.smil%2F*~data=hdntl~hmac=70059a8c5e747a9a29f847230e1c23561a4914ec90c5afc6723697b8139060f1/chunks.m3u8",
           "logo_url": "https://l.top4top.io/p_39161lem60.jpeg",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
-          "referer": "https://maraya.faulio.com/",
+          "referer": "https://maraya.faulio.com/api/v1.1/channels/2/player",
           "order": 6
         }
       ],
