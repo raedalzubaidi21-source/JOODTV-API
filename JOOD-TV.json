@@ -763,6 +763,16 @@
           "user_agent": "",
           "referer": "",
           "order": 7
+        },
+        {
+          "channel_name": "الشارقة سبورت 1",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/SHS/wv-pr/manifest.mpd",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "https://clkey.vercel.app/api/results.php?keyid=12d37f04317d5c2e5f044a79f967c67e&key=75deea8e41e389997f34d0ebca3f1fb7",
+          "user_agent": "",
+          "referer": "",
+          "order": 8
         }
       ],
       "sub_categories": [],
