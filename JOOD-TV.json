@@ -98,16 +98,6 @@
               "user_agent": "",
               "referer": "",
               "order": 8
-            },
-            {
-              "channel_name": "العراق ضد عمان سريع جدا",
-              "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1790194971/ei/u-Czao2SLIeC6dsP9Oia6Qc/ip/188.72.46.61/id/G35fGRMf-Ak.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/bui/AWzQHwpde2ouuMTAO2psdrtoRNqKf-eqxAzhJsBP7XPFS6LTVlOcBaOcfA5ExYhH7RAMWnQtQd1KYfWP/spc/I-rgIZ8wKAyvouiw7Q5lQ3WoQSM1933xTCIbuIlRkUkTu_jcInsjLQXq-g/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52178456/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgVX92rpyv4LKHovNi2pnC3pafQagQDUIL3--wZ0GWra8CIFX7evFajMQlhfkEngteQw90S-tH683NNnDHI-YP7Iva/file/index.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 9
             }
           ],
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
@@ -873,6 +863,16 @@
           "user_agent": "",
           "referer": "",
           "order": 17
+        },
+        {
+          "channel_name": "العراق ضد عمان سريع جدا",
+          "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1790194971/ei/u-Czao2SLIeC6dsP9Oia6Qc/ip/188.72.46.61/id/G35fGRMf-Ak.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/bui/AWzQHwpde2ouuMTAO2psdrtoRNqKf-eqxAzhJsBP7XPFS6LTVlOcBaOcfA5ExYhH7RAMWnQtQd1KYfWP/spc/I-rgIZ8wKAyvouiw7Q5lQ3WoQSM1933xTCIbuIlRkUkTu_jcInsjLQXq-g/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52178456/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgVX92rpyv4LKHovNi2pnC3pafQagQDUIL3--wZ0GWra8CIFX7evFajMQlhfkEngteQw90S-tH683NNnDHI-YP7Iva/file/index.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 18
         }
       ],
       "sub_categories": [],
