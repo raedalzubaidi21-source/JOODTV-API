@@ -108,16 +108,6 @@
               "user_agent": "",
               "referer": "",
               "order": 9
-            },
-            {
-              "channel_name": "السعودية الرياضية 3",
-              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/KSA_Sports3_HD/DASH/KSA_Sports3_HD.mpd",
-              "logo_url": "",
-              "drm_id": "637dc9620732d390ab2df32e070256f0",
-              "drm_key": "0e47bb47e90258b5f392f8ecb54a8b22",
-              "user_agent": "",
-              "referer": "",
-              "order": 10
             }
           ],
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
@@ -843,6 +833,16 @@
           "user_agent": "",
           "referer": "",
           "order": 13
+        },
+        {
+          "channel_name": "السعودية الرياضية 3",
+          "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/KSA_Sports3_HD/DASH/KSA_Sports3_HD.mpd",
+          "logo_url": "",
+          "drm_id": "637dc9620732d390ab2df32e070256f0",
+          "drm_key": "0e47bb47e90258b5f392f8ecb54a8b22",
+          "user_agent": "",
+          "referer": "",
+          "order": 14
         }
       ],
       "sub_categories": [],
