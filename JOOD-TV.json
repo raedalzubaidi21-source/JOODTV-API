@@ -98,6 +98,16 @@
               "user_agent": "",
               "referer": "",
               "order": 8
+            },
+            {
+              "channel_name": "السعودية الرياضية ذ",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/KSA_Sports1_HD/DASH/KSA_Sports1_HD.mpd",
+              "logo_url": "",
+              "drm_id": "a0723ff5bf2bbbb31dc727e4346b1cc7",
+              "drm_key": "29951a0a48586258ab168f26b3f58daa",
+              "user_agent": "",
+              "referer": "",
+              "order": 9
             }
           ],
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
