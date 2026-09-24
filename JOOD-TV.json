@@ -881,56 +881,6 @@
           "user_agent": "",
           "referer": "",
           "order": 2
-        },
-        {
-          "channel_name": "STARZPLAY 1",
-          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229224.m3u8",
-          "logo_url": "https://a.top4top.io/p_38919p2si9.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 3
-        },
-        {
-          "channel_name": "STARZPLAY 2",
-          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/229225.m3u8",
-          "logo_url": "https://a.top4top.io/p_38919p2si9.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 4
-        },
-        {
-          "channel_name": "ابو ظبي سبورت 1",
-          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/47487.m3u8",
-          "logo_url": "https://i.top4top.io/p_3891dntqr1.jpeg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 5
-        },
-        {
-          "channel_name": "ابو ظبي سبورت 2",
-          "url": "http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/463.m3u8",
-          "logo_url": "https://i.top4top.io/p_3891dntqr1.jpeg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 6
-        },
-        {
-          "channel_name": "تجريبية",
-          "url": "https://web.telegram.org/rtmp/%7B%22_%22%3A%22inputGroupCall%22%2C%22id%22%3A%22-2303710055445392245%22%2C%22access_hash%22%3A%22-2309012261322214014%22%7D?t=1788969547473",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
-          "referer": "https://web.telegram.org/k/",
-          "order": 7
         }
       ],
       "image": "https://c.top4top.io/p_3887qo13y8.jpeg"
