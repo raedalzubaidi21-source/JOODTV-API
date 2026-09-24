@@ -735,26 +735,6 @@
           "order": 4
         },
         {
-          "channel_name": "ابو ظبي سبورت 1",
-          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AD1/wv-pr/manifest.mpd",
-          "logo_url": "https://e.top4top.io/p_3917scmz31.jpg",
-          "drm_id": "2810c600349a0cd3a920c7d99bbe00b1",
-          "drm_key": "3911049bf0e342e70e0fba2cba6aa628",
-          "user_agent": "",
-          "referer": "",
-          "order": 5
-        },
-        {
-          "channel_name": "الو ظبي سبورت 2",
-          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AD2/wv-pr/manifest.mpd",
-          "logo_url": "https://e.top4top.io/p_3917scmz31.jpg",
-          "drm_id": "7295fc09a7633fd460808f1ed854a8b6",
-          "drm_key": "5b4c9115617286036232fbb0d583a651",
-          "user_agent": "",
-          "referer": "",
-          "order": 6
-        },
-        {
           "channel_name": "العراقية الرياضية",
           "url": "https://tv.vodu.me:1995/live/iraqia-sport/playlist.m3u8",
           "logo_url": "https://i.top4top.io/p_3674secqr1.jpg",
@@ -762,7 +742,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 7
+          "order": 5
         },
         {
           "channel_name": "العراقية الرياضية سيرفر 2",
@@ -772,7 +752,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 8
+          "order": 6
         },
         {
           "channel_name": "الكويت الرياضية 1",
@@ -782,7 +762,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 9
+          "order": 7
         },
         {
           "channel_name": "البحرين الرياضية 1",
@@ -792,7 +772,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 10
+          "order": 8
         },
         {
           "channel_name": "البحرين الرياضية 2",
@@ -802,7 +782,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 11
+          "order": 9
         },
         {
           "channel_name": "عمان الرياضية",
@@ -812,7 +792,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 12
+          "order": 10
         },
         {
           "channel_name": "السعودية الرياضية 1",
@@ -822,7 +802,7 @@
           "drm_key": "29951a0a48586258ab168f26b3f58daa",
           "user_agent": "",
           "referer": "",
-          "order": 13
+          "order": 11
         },
         {
           "channel_name": "السعودية الرياضية 2",
@@ -832,7 +812,7 @@
           "drm_key": "f36d37064c1109c107ffab95c0f7532d",
           "user_agent": "",
           "referer": "",
-          "order": 14
+          "order": 12
         },
         {
           "channel_name": "السعودية الرياضية 3",
@@ -842,7 +822,7 @@
           "drm_key": "0e47bb47e90258b5f392f8ecb54a8b22",
           "user_agent": "",
           "referer": "",
-          "order": 15
+          "order": 13
         }
       ],
       "sub_categories": [],
@@ -881,6 +861,26 @@
           "user_agent": "",
           "referer": "",
           "order": 2
+        },
+        {
+          "channel_name": "ابو ظبي سبورت 1",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AD1/wv-pr/manifest.mpd",
+          "logo_url": "https://e.top4top.io/p_3917scmz31.jpg",
+          "drm_id": "2810c600349a0cd3a920c7d99bbe00b1",
+          "drm_key": "3911049bf0e342e70e0fba2cba6aa628",
+          "user_agent": "",
+          "referer": "",
+          "order": 3
+        },
+        {
+          "channel_name": "الو ظبي سبورت 2",
+          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AD2/wv-pr/manifest.mpd",
+          "logo_url": "https://e.top4top.io/p_3917scmz31.jpg",
+          "drm_id": "7295fc09a7633fd460808f1ed854a8b6",
+          "drm_key": "5b4c9115617286036232fbb0d583a651",
+          "user_agent": "",
+          "referer": "",
+          "order": 4
         }
       ],
       "image": "https://c.top4top.io/p_3887qo13y8.jpeg"
