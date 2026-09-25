@@ -1446,6 +1446,16 @@
           "user_agent": "",
           "referer": "",
           "order": 27
+        },
+        {
+          "channel_name": "DIRECTV 3 SPORT",
+          "url": "https://ablvfhaaaaaaaaamisf6uy7d6mtud.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/tyvyvcib0h/out/v1/9e464a5c6e864dfb8641ce3851023452/cenc-sd.mpd",
+          "logo_url": "",
+          "drm_id": "5dd5c144ed82ca5846f67413515c6350",
+          "drm_key": "ec3ff0d2a29e18a34ab19155641f5f2f",
+          "user_agent": "",
+          "referer": "",
+          "order": 28
         }
       ],
       "image": "https://k.top4top.io/p_3891g9to87.jpg"
