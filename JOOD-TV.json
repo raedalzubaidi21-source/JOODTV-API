@@ -901,6 +901,16 @@
           "user_agent": "",
           "referer": "",
           "order": 4
+        },
+        {
+          "channel_name": "Test",
+          "url": "https://www2.maziikaaaaa.shop/x1/1_32.json?token=dc2d3c64454e8d1f8f6e5fb165efafeb9969325e64855e65928826722b39f3a0&expires=1790315389&exp=3158847189",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+          "referer": "https://ostora.tv/",
+          "order": 5
         }
       ],
       "image": "https://c.top4top.io/p_3887qo13y8.jpeg"
