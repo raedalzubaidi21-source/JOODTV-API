@@ -1436,6 +1436,16 @@
           "user_agent": "",
           "referer": "",
           "order": 26
+        },
+        {
+          "channel_name": "DIRECTV 2 SPORT",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash-sd/enc/amz5dwei2a/out/v1/3140ebc29a9e4683b480e5dba8588608/cenc-sd.mpd",
+          "logo_url": "",
+          "drm_id": "022f1d774371be165dea59f9efbd3052",
+          "drm_key": "7ab55284ac60d0479bb55b08f0a97ee1",
+          "user_agent": "",
+          "referer": "",
+          "order": 27
         }
       ],
       "image": "https://k.top4top.io/p_3891g9to87.jpg"
