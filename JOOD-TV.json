@@ -863,6 +863,16 @@
           "user_agent": "",
           "referer": "",
           "order": 17
+        },
+        {
+          "channel_name": "العراق ضد الكويت عالي الدقة 3",
+          "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1790458058/ei/auS3atnNN6Ob6dsPub-luAk/ip/188.72.46.61/id/uUK1oy-c3uA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AWzQHwqFpHUN8AR6kJmGy2zyvMVhLrLnKZHITJa5YT3l4UANFBhuAdEZWZlG21zpPPrbK-aZpuOJpb5z/spc/I-rgIQiWqj1zoUmCKGg795w6IwND1b926o_aU5O5VP-24-G1RhAdOPzrBw/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52178456/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIhAN1s7N0UnNULcWLNqNZMUT-xINaSEoiXQG0PWr-GOgxtAiAE1cjms6OqilRx9Gr0wM-f07p0NzYKbg4vNKrTw2N3Yg%3D%3D/file/index.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 18
         }
       ],
       "sub_categories": [],
