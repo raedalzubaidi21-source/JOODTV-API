@@ -843,6 +843,16 @@
           "user_agent": "",
           "referer": "",
           "order": 15
+        },
+        {
+          "channel_name": "تجريبي",
+          "url": "https://uruk.optikl.ink/ostora/main.php?id=116900&cat=4524",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 16
         }
       ],
       "sub_categories": [],
