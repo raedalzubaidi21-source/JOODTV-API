@@ -224,7 +224,7 @@
             },
             {
               "channel_name": "BEIN TOP 3",
-              "url": "https://live.foxtv7.com/stream/so?ch=bein_sports3&q=HD",
+              "url": "https://def11.ycnapi.com/api/channel/889502712005581716",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -234,7 +234,7 @@
             },
             {
               "channel_name": "BEIN TOP 4",
-              "url": "https://live.foxtv7.com/stream/so?ch=bein_sports4&q=HD",
+              "url": "https://def11.ycnapi.com/api/channel/889502712004751319",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
