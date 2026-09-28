@@ -396,52 +396,52 @@
           "channels": [
             {
               "channel_name": "BEIN 1",
-              "url": "http://rhdurvhroiwurv.legendfly.shop:8080/live/31686050823680/27274098861975/726469.ts",
+              "url": "http://rhdurvhroiwurv.legendfly.shop:8080/live/31686050823680/27274098861975/726469.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
-              "referer": "http://rhdurvhroiwurv.legendfly.shop",
+              "referer": "",
               "order": 0
             },
             {
               "channel_name": "BEIN 2",
-              "url": "http://rhdurvhroiwurv.legendfly.shop:8080/live/31686050823680/27274098861975/726471.ts",
+              "url": "http://rhdurvhroiwurv.legendfly.shop:8080/live/31686050823680/27274098861975/726471.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
-              "referer": "http://rhdurvhroiwurv.legendfly.shop",
+              "referer": "",
               "order": 1
             },
             {
               "channel_name": "BEIN 3",
-              "url": "http://rhdurvhroiwurv.legendfly.shop:8080/live/31686050823680/27274098861975/726473.ts",
+              "url": "http://rhdurvhroiwurv.legendfly.shop:8080/live/31686050823680/27274098861975/726473.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
-              "referer": "http://rhdurvhroiwurv.legendfly.shop",
+              "referer": "",
               "order": 2
             },
             {
               "channel_name": "BEIN 4",
-              "url": "http://rhdurvhroiwurv.legendfly.shop:8080/live/31686050823680/27274098861975/726475.ts",
+              "url": "http://rhdurvhroiwurv.legendfly.shop:8080/live/31686050823680/27274098861975/726475.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
-              "referer": "http://rhdurvhroiwurv.legendfly.shop",
+              "referer": "",
               "order": 3
             },
             {
               "channel_name": "BEIN 5",
-              "url": "http://rhdurvhroiwurv.legendfly.shop:8080/live/31686050823680/27274098861975/726477.ts",
+              "url": "http://rhdurvhroiwurv.legendfly.shop:8080/live/31686050823680/27274098861975/726477.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
-              "referer": "http://rhdurvhroiwurv.legendfly.shop",
+              "referer": "",
               "order": 4
             },
             {
