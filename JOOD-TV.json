@@ -106,7 +106,7 @@
               "drm_id": "b253c726c24c7c94a3ddf9b1907e2c76",
               "drm_key": "097963d6ad73c3d712a104981de0ed42",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
-              "referer": "",
+              "referer": "https://live-tv-116849026166.europe-west1.run.app/",
               "order": 9,
               "headers": {
                 "Origin": "https://live-tv-116849026166.europe-west1.run.app"
