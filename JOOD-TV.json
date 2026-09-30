@@ -261,6 +261,36 @@
               "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 5
+            },
+            {
+              "channel_name": "beIN 7",
+              "url": "https://live.foxtv7.com/stream/so?ch=bein_sports7&q=HD",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "OSCARTV2021",
+              "referer": "",
+              "order": 6
+            },
+            {
+              "channel_name": "beIN 8",
+              "url": "https://live.foxtv7.com/stream/so?ch=bein_sports8&q=HD",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "OSCARTV2021",
+              "referer": "",
+              "order": 7
+            },
+            {
+              "channel_name": "beIN 9",
+              "url": "https://live.foxtv7.com/stream/so?ch=bein_sports9&q=HD",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "OSCARTV2021",
+              "referer": "",
+              "order": 8
             }
           ],
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
