@@ -108,6 +108,86 @@
               "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 9
+            },
+            {
+              "channel_name": "beIN SPORTS 2 - 4K",
+              "url": "",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 10
+            },
+            {
+              "channel_name": "beIN SPORTS 3 - 4K",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 11
+            },
+            {
+              "channel_name": "beIN SPORTS 4 - 4K",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 12
+            },
+            {
+              "channel_name": "beIN SPORTS 5 - 4K",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 13
+            },
+            {
+              "channel_name": "beIN SPORTS 6 - 4K",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 14
+            },
+            {
+              "channel_name": "beIN SPORTS 7 - 4K",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 15
+            },
+            {
+              "channel_name": "beIN SPORTS 8 - 4K",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 16
+            },
+            {
+              "channel_name": "beIN SPORTS 9 - 4K",
+              "url": "",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 17
             }
           ],
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
