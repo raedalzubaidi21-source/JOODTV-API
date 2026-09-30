@@ -393,8 +393,89 @@
         },
         {
           "sub_category_name": "beIN SPORTS - ابراج",
-          "channels": [],
-          "image": ""
+          "channels": [
+            {
+              "channel_name": "BEIN SPORTS 1",
+              "url": "http://h35.infiniteedgehub.live/live/918454578001/index.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 0
+            },
+            {
+              "channel_name": "BEIN SPORTS 2",
+              "url": "http://h35.infiniteedgehub.live/live/69854211/index.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 1
+            },
+            {
+              "channel_name": "BEIN SPORTS 3",
+              "url": "http://h35.infiniteedgehub.live/live/645587700/index.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 2
+            },
+            {
+              "channel_name": "BEIN SPORTS 4",
+              "url": "http://h35.infiniteedgehub.live/live/9787488847/index.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 3
+            },
+            {
+              "channel_name": "BEIN SPORTS 5",
+              "url": "http://h35.infiniteedgehub.live/live/610303030/index.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 4
+            },
+            {
+              "channel_name": "BEIN SPORTS 6",
+              "url": "http://h35.infiniteedgehub.live/live/1515000000/index.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 5
+            },
+            {
+              "channel_name": "BEIN SPORTS 7",
+              "url": "http://h35.infiniteedgehub.live/live/33523510/index.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 6
+            },
+            {
+              "channel_name": "BEIN SPORTS 8",
+              "url": "http://h35.infiniteedgehub.live/live/996251000/index.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 7
+            }
+          ],
+          "image": "https://e.top4top.io/p_3886b3nvu1.png"
         },
         {
           "sub_category_name": "بين سبورت سريع",
