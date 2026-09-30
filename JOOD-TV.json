@@ -204,61 +204,61 @@
           "channels": [
             {
               "channel_name": "beIN 1",
-              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/1",
+              "url": "https://live.foxtv7.com/stream/so?ch=bein_sports1&q=HD",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 0
             },
             {
               "channel_name": "beIN 2",
-              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/2",
+              "url": "https://live.foxtv7.com/stream/so?ch=bein_sports2&q=HD",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 1
             },
             {
               "channel_name": "beIN 3",
-              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/3",
+              "url": "https://live.foxtv7.com/stream/so?ch=bein_sports3&q=HD",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 2
             },
             {
               "channel_name": "beIN 4",
-              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/4",
+              "url": "https://live.foxtv7.com/stream/so?ch=bein_sports4&q=HD",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 3
             },
             {
               "channel_name": "beIN 5",
-              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/5",
+              "url": "https://live.foxtv7.com/stream/so?ch=bein_sports5&q=HD",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 4
             },
             {
               "channel_name": "beIN 6",
-              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/6",
+              "url": "https://live.foxtv7.com/stream/so?ch=bein_sports6&q=HD",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 5
             }
