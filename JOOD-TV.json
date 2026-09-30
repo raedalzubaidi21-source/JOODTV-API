@@ -392,6 +392,11 @@
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
         },
         {
+          "sub_category_name": "beIN SPORTS - ابراج",
+          "channels": [],
+          "image": ""
+        },
+        {
           "sub_category_name": "بين سبورت سريع",
           "channels": [
             {
@@ -708,11 +713,6 @@
             }
           ],
           "image": "https://a.top4top.io/p_3888nodes9.png"
-        },
-        {
-          "sub_category_name": "beIN SPORTS - ابراج",
-          "channels": [],
-          "image": ""
         }
       ]
     },
