@@ -200,6 +200,72 @@
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
         },
         {
+          "sub_category_name": "beIN SPORTS RED",
+          "channels": [
+            {
+              "channel_name": "beIN 1",
+              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/1",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 0
+            },
+            {
+              "channel_name": "beIN 2",
+              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/2",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 1
+            },
+            {
+              "channel_name": "beIN 3",
+              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/3",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 2
+            },
+            {
+              "channel_name": "beIN 4",
+              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/4",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 3
+            },
+            {
+              "channel_name": "beIN 5",
+              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/5",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 4
+            },
+            {
+              "channel_name": "beIN 6",
+              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/6",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 5
+            }
+          ],
+          "image": "https://e.top4top.io/p_3886b3nvu1.png"
+        },
+        {
           "sub_category_name": "beIN SPORTS PRIME",
           "channels": [
             {
@@ -483,72 +549,6 @@
               "user_agent": "",
               "referer": "",
               "order": 8
-            }
-          ],
-          "image": "https://e.top4top.io/p_3886b3nvu1.png"
-        },
-        {
-          "sub_category_name": "beIN SPORTS RED",
-          "channels": [
-            {
-              "channel_name": "beIN 1",
-              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/1",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 0
-            },
-            {
-              "channel_name": "beIN 2",
-              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/2",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 1
-            },
-            {
-              "channel_name": "beIN 3",
-              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/3",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 2
-            },
-            {
-              "channel_name": "beIN 4",
-              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/4",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 3
-            },
-            {
-              "channel_name": "beIN 5",
-              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/5",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 4
-            },
-            {
-              "channel_name": "beIN 6",
-              "url": "http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/6",
-              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 5
             }
           ],
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
