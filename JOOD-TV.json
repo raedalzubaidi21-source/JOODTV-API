@@ -98,6 +98,16 @@
               "user_agent": "",
               "referer": "",
               "order": 8
+            },
+            {
+              "channel_name": "beIN SPORTS 1 -4K",
+              "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1319.css?x=/hls/&token=TnNNc0g1aUZDVng1Mko4",
+              "logo_url": "https://up6.cc/2026/07/178450450380361.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "OSCARTV2021",
+              "referer": "",
+              "order": 9
             }
           ],
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
