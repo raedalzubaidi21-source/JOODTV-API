@@ -300,12 +300,12 @@
           "channels": [
             {
               "channel_name": "BEIN TOP 1",
-              "url": "https://sport.redstv-yahaydeve.workers.dev/live/reds2.m3u8",
+              "url": "https://live-tv-116849026166.europe-west1.run.app/api/yacine/stream/b1/master.m3u8",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
-              "referer": "https://yahya-tv-pro.app/",
+              "referer": "",
               "order": 0
             },
             {
