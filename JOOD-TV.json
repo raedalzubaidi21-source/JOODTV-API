@@ -1113,19 +1113,6 @@
           "user_agent": "",
           "referer": "",
           "order": 4
-        },
-        {
-          "channel_name": "TEST",
-          "url": "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd",
-          "logo_url": "",
-          "drm_id": "b253c726c24c7c94a3ddf9b1907e2c76",
-          "drm_key": "097963d6ad73c3d712a104981de0ed42",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
-          "referer": "https://live-tv-116849026166.europe-west1.run.app/",
-          "order": 5,
-          "headers": {
-            "Origin": "https://live-tv-116849026166.europe-west1.run.app"
-          }
         }
       ],
       "image": "https://c.top4top.io/p_3887qo13y8.jpeg"
