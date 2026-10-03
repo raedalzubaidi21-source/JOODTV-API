@@ -1116,7 +1116,7 @@
         },
         {
           "channel_name": "Bein test",
-          "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8",
+          "url": "http://servx.pro:80/get.php?username=00971552007976&password=mkX2G5&type=m3u_plus&output=ts",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
