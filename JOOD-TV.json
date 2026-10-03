@@ -2458,7 +2458,7 @@
     {
       "category_name": "أفلام",
       "category_logo": "https://k.top4top.io/p_36756efa21.png",
-      "playlist_url": "http://so.ta2al.us/get.php?username=MH12ARBMH12&password=MH12ARBMH12&type=m3u_plus&output=ts&category=VOD"
+      "playlist_url": "https://so.ta2al.us/player_api.php?username=MH12ARBMH12&password=MH12ARBMH12&action=get_vod_streams"
     },
     {
       "category_name": "مسلسلات",
