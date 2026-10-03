@@ -2,7 +2,7 @@ name: Update JOOD-TV
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 3 */3 * *'
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -26,4 +28,5 @@ jobs:
           git config user.email "actions@github.com"
           git add JOOD-TV.json
           git diff --quiet && git diff --staged --quiet || git commit -m "تحديث تلقائي"
+          git pull --rebase origin main
           git push
