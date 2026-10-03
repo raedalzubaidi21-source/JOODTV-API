@@ -55,7 +55,7 @@ def build():
             "channels": channels
         })
 
-    data["categories"].insert(0, {
+    data["categories"].append({
         "category_name": "أفلام",
         "category_logo": "",
         "sub_categories": movie_subs,
@@ -113,7 +113,7 @@ def build():
             })
         time.sleep(0.1)
 
-    data["categories"].insert(1, {
+    data["categories"].append({
         "category_name": "مسلسلات",
         "category_logo": "",
         "sub_categories": series_subs,
