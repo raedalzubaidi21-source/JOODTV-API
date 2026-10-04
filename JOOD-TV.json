@@ -2594,26 +2594,17 @@
     {
       "category_name": "سينما افلام ومسلسلات",
       "category_logo": "https://b.top4top.io/p_39296jhz51.jpg",
-      "channels": [
+      "is_bein": true,
+      "sub_categories": [
         {
-          "channel_name": "سينما افلام",
-          "url": "http://marveliptv.life/player_api.php?username=abdelgawwadusa&password=3038194491045&action=get_vod_streams",
-          "logo_url": "https://b.top4top.io/p_39296jhz51.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 0
+          "sub_category_name": "سينما افلام",
+          "sub_category_image": "https://b.top4top.io/p_39296jhz51.jpg",
+          "playlist_url": "http://marveliptv.life/player_api.php?username=abdelgawwadusa&password=3038194491045&action=get_vod_streams"
         },
         {
-          "channel_name": "سينما مسلسلات",
-          "url": "http://so.ta2al.us/player_api.php?username=MH12ARBMH12&password=MH12ARBMH12&action=get_series",
-          "logo_url": "https://a.top4top.io/p_3929fj5pd1.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 1
+          "sub_category_name": "سينما مسلسلات",
+          "sub_category_image": "https://a.top4top.io/p_3929fj5pd1.png",
+          "playlist_url": "http://so.ta2al.us/player_api.php?username=MH12ARBMH12&password=MH12ARBMH12&action=get_series"
         }
       ]
     }
