@@ -2583,26 +2583,19 @@
     },
     {
       "category_name": "سينما افلام ومسلسلات",
-      "category_logo": "https://cdn-icons-png.flaticon.com/512/3163/3163478.png",
-      "is_bein": false,
-      "channels": [],
+      "category_logo": "https://b.top4top.io/p_39296jhz51.jpg",
       "sub_categories": [
         {
-          "sub_category_name": "أفلام",
-          "sub_category_logo": "https://cdn-icons-png.flaticon.com/512/2503/2503508.png",
-          "channels": [],
-          "playlist_url": "http://faya.mx:8000/player_api.php?username=khaled2010&password=9876543211&action=get_vod_streams",
-          "image": "https://cdn-icons-png.flaticon.com/512/2503/2503508.png"
+          "sub_category_name": "سينما افلام",
+          "sub_category_logo": "https://b.top4top.io/p_39296jhz51.jpg",
+          "playlist_url": "http://marveliptv.life/player_api.php?username=abdelgawwadusa&password=3038194491045&action=get_vod_streams"
         },
         {
-          "sub_category_name": "مسلسلات",
-          "sub_category_logo": "https://cdn-icons-png.flaticon.com/512/3418/3418939.png",
-          "channels": [],
-          "playlist_url": "http://faya.mx:8000/player_api.php?username=khaled2010&password=9876543211&action=get_series",
-          "image": "https://cdn-icons-png.flaticon.com/512/3418/3418939.png"
+          "sub_category_name": "سينما مسلسلات",
+          "sub_category_logo": "https://a.top4top.io/p_3929fj5pd1.png",
+          "playlist_url": "http://so.ta2al.us/player_api.php?username=MH12ARBMH12&password=MH12ARBMH12&action=get_series"
         }
-      ],
-      "image": "https://cdn-icons-png.flaticon.com/512/3163/3163478.png"
+      ]
     }
   ]
 }
