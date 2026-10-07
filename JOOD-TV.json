@@ -1274,27 +1274,14 @@
           "order": 4
         },
         {
-          "channel_name": "Bein test",
-          "url": "http://servx.pro:80/get.php?username=00971552007976&password=mkX2G5&type=m3u_plus&output=ts",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 5,
-          "headers": {
-            "Origin": "null"
-          }
-        },
-        {
-          "channel_name": "اعتزال ميسي",
-          "url": "https://redperch.space/dramacardinalv2.php?id=shasha2",
+          "channel_name": "شاشه سبورت 1",
+          "url": "https://redperch.space/dramacardinalv2.php?id=shasha1",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Rplayerv2.0.16",
           "referer": "",
-          "order": 6,
+          "order": 5,
           "headers": {
             "Cookie": "rplayer_access=1d442accd87af8a69978d18e1r65ca559683678661313c722667ce79dd905606"
           }
