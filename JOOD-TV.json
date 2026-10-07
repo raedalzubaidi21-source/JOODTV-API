@@ -1303,6 +1303,19 @@
           "headers": {
             "Cookie": "rplayer_access=1d442accd87af8a69978d18e1r65ca559683678661313c722667ce79dd905606"
           }
+        },
+        {
+          "channel_name": "beIN SPORT TEST",
+          "url": "https://redperch.space/dramacardinalv2.php?id=beinsport1",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Rplayerv2.0.16",
+          "referer": "",
+          "order": 7,
+          "headers": {
+            "Cookie": "rplayer_access=1d442accd87af8a69978d18e1r65ca559683678661313c722667ce79dd905606"
+          }
         }
       ],
       "image": "https://c.top4top.io/p_3887qo13y8.jpeg"
