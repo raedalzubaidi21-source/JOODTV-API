@@ -108,6 +108,19 @@
               "user_agent": "",
               "referer": "",
               "order": 9
+            },
+            {
+              "channel_name": "اعتزال ميسي",
+              "url": "https://redperch.space/dramacardinalv2.php?id=shasha2",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Rplayerv2.0.16",
+              "referer": "",
+              "order": 10,
+              "headers": {
+                "Cookie": "rplayer_access=1d442accd87af8a69978d18e1r65ca559683678661313c722667ce79dd905606"
+              }
             }
           ],
           "image": "https://e.top4top.io/p_3886b3nvu1.png"
