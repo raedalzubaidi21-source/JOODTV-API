@@ -280,27 +280,27 @@
           "channels": [
             {
               "channel_name": "beIN 1",
-              "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-720p.m3u8",
+              "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1316.css?token=aDN3Y01NUlN5d3pZZlZL",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 0
             },
             {
               "channel_name": "beIN 2",
-              "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-720p.m3u8",
+              "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1325.css?token=NmxlTFVyS0thOHJPVXoz",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 1
             },
             {
               "channel_name": "beIN 3",
-              "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-720p.m3u8",
+              "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1334.css?token=eE84YWoySDY5MkowWFdY",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -310,7 +310,7 @@
             },
             {
               "channel_name": "beIN 4",
-              "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein4-720p.m3u8",
+              "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1343.css?token=aEl6ZmlnNjZoMlVScHJ0",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -320,7 +320,7 @@
             },
             {
               "channel_name": "beIN 5",
-              "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-720p.m3u8",
+              "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1571.css?token=WTNpbUUxWGh3bjJZSzFq",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
@@ -330,17 +330,17 @@
             },
             {
               "channel_name": "beIN 6",
-              "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-720p.m3u8",
+              "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1361.css?token=OTA5bnpWMlVlc2UwMEl1",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 5
             },
             {
               "channel_name": "beIN 7",
-              "url": "https://live.foxtv7.com/stream/so?ch=bein_sports7&q=HD",
+              "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1370.css?token=TEJlOGxSTjVmYk5Hektx",
               "logo_url": "https://up6.cc/2026/07/178450450380361.png",
               "drm_id": "",
               "drm_key": "",
