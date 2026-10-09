@@ -2656,6 +2656,12 @@
           "sub_category_name": "سينما مسلسلات",
           "sub_category_image": "https://a.top4top.io/p_3929fj5pd1.png",
           "playlist_url": "http://so.ta2al.us/player_api.php?username=MH12ARBMH12&password=MH12ARBMH12&action=get_series"
+        },
+        {
+          "sub_category_name": "سينما افلام 2",
+          "channels": [],
+          "playlist_url": "http://live.8kultra.org/player_api.php?username=774d0fb4d&password=c4c0646db&action=get_vod_streams",
+          "sub_category_logo": "https://a.top4top.io/p_3929fj5pd1.png"
         }
       ]
     }
