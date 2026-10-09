@@ -2662,6 +2662,12 @@
           "channels": [],
           "playlist_url": "http://live.8kultra.org/player_api.php?username=774d0fb4d&password=c4c0646db&action=get_vod_streams",
           "sub_category_logo": "https://b.top4top.io/p_39296jhz51.jpg"
+        },
+        {
+          "sub_category_name": "سينما افلام 3",
+          "channels": [],
+          "playlist_url": "http://servx.pro/player_api.php?username=00971552007976&password=mkX2G5&action=get_vod_streams",
+          "sub_category_logo": "https://b.top4top.io/p_39296jhz51.jpg"
         }
       ]
     }
