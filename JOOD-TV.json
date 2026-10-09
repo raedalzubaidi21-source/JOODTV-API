@@ -2674,6 +2674,12 @@
           "channels": [],
           "playlist_url": "http://vu-smart.store/player_api.php?username=6302742257&password=9446012228&action=get_vod_streams",
           "sub_category_logo": "https://b.top4top.io/p_39296jhz51.jpg"
+        },
+        {
+          "sub_category_name": "سينما افلام 5",
+          "channels": [],
+          "playlist_url": "http://iptv.1stv.xyz:88/player_api.php?username=1stMovies&password=bG8nAenZV7KKc&action=get_vod_streams",
+          "sub_category_logo": "https://b.top4top.io/p_39296jhz51.jpg"
         }
       ]
     }
