@@ -2666,7 +2666,7 @@
         {
           "sub_category_name": "سينما افلام 3",
           "channels": [],
-          "playlist_url": "http://marveliptv.life/player_api.php?username=abdelgawwadusa&password=3038194491045&action=get_vod_info&vod_id=25956",
+          "playlist_url": "http://marveliptv.life/player_api.php?username=abdelgawwadusa&password=3038194491045&action=get_vod_streams",
           "sub_category_logo": "https://b.top4top.io/p_39296jhz51.jpg"
         }
       ]
