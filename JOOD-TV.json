@@ -106,8 +106,8 @@
           "sub_category_name": "beIN SPORTS OSTORA",
           "channels": [
             {
-              "channel_name": "beIN OSTORA 1",
-              "url": "http://92.119.165.177:8857/video.m3u8?id=4111&cat=332",
+              "channel_name": "beIN SPORTS 1",
+              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677057.ts",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -116,8 +116,8 @@
               "order": 0
             },
             {
-              "channel_name": "beIN OSTORA 2",
-              "url": "http://92.119.165.177:8857/video.m3u8?id=4113&cat=332",
+              "channel_name": "beIN SPORTS 2",
+              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677058.ts",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -126,8 +126,8 @@
               "order": 1
             },
             {
-              "channel_name": "beIN OSTORA 3",
-              "url": "http://92.119.165.177:8857/video.m3u8?id=4115&cat=332",
+              "channel_name": "beIN SPORTS 3",
+              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677059.ts",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -136,8 +136,8 @@
               "order": 2
             },
             {
-              "channel_name": "beIN OSTORA 4",
-              "url": "http://92.119.165.177:8857/video.m3u8?id=4119&cat=332",
+              "channel_name": "beIN SPORTS 4",
+              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677060.ts",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -146,8 +146,8 @@
               "order": 3
             },
             {
-              "channel_name": "beIN OSTORA 5",
-              "url": "http://92.119.165.177:8857/video.m3u8?id=4123&cat=332",
+              "channel_name": "beIN SPORTS 5",
+              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677061.ts",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -156,8 +156,8 @@
               "order": 4
             },
             {
-              "channel_name": "beIN OSTORA 6",
-              "url": "http://92.119.165.177:8857/video.m3u8?id=4126&cat=332",
+              "channel_name": "beIN SPORTS 6",
+              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677062.ts",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -166,8 +166,8 @@
               "order": 5
             },
             {
-              "channel_name": "beIN OSTORA 7",
-              "url": "http://92.119.165.177:8857/video.m3u8?id=4127&cat=332",
+              "channel_name": "beIN SPORTS 7",
+              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677063.ts",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
