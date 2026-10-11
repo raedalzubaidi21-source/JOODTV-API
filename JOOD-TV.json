@@ -472,12 +472,12 @@
           "channels": [
             {
               "channel_name": "BEIN SPORTS 1",
-              "url": "https://v1.sisi20.top/broadcast/4dFyxrWX3S6QOwE0b08NJA/1791731085/1791730824/1/bein101.m3u8",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?mode=asset&t=7btjlgd2pOmgBIShYarGn8R9PuGjioO9pkKC4vH-9S6wntWWiqjQuYgeRM1UOhQW8l1ccvB5IIjfml0nsideJ5duvqsqGMHoSUR5oWCsaZ6orIXuUiIgfQtURqdDd-1yfGMaB4q8Qix32mXBO3vnTrxErrELp0a7y7kIjwlLSN5JkTZ-1Poh-MlJpXXo7bTmQUJ_FQHzyJtJwC0WpCuAh3z04kE7G0tNLLeFW1f3QG3vMjX7dHwaHD10ybj3AobzQXEaSe8D8tVR0OujegVbgY3JvYfDZzJm1SgnGGKfZZEQpDn0tIrgimOijueiXYE",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://v1.sisi20.top/sw.js",
+              "user_agent": "MTX Player",
+              "referer": "",
               "order": 0,
               "headers": {
                 "Origin": "http://localhost"
