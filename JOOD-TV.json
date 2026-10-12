@@ -486,15 +486,15 @@
             },
             {
               "channel_name": "BEIN SPORTS 2",
-              "url": "https://v1.sisi20.top/broadcast/sj4uqbSJ9WMBbvVFh7sq6Q/1791730782/1791730521/1/bein202.m3u8",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=FHD2",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://v1.sisi20.top/p.php?ch=bein202&n=%D8%A8%D8%AB%201",
+              "user_agent": "MTX Player",
+              "referer": "",
               "order": 1,
               "headers": {
-                "Origin": "http://localhost"
+                "X-ToFi": "tofixtv"
               }
             },
             {
