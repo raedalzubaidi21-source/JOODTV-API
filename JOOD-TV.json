@@ -499,13 +499,16 @@
             },
             {
               "channel_name": "BEIN SPORTS 3",
-              "url": "https://yacinconnect.mandoosports.workers.dev/4973946197356576852.m3u8",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=FHD3",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Linux; Android 16; TECNO CL6 Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/153.0.8010.36 Mobile Safari/537.36 Vinebre",
+              "user_agent": "MTX Player",
               "referer": "http://localhost/",
-              "order": 2
+              "order": 2,
+              "headers": {
+                "X-ToFi": "tofixtv"
+              }
             },
             {
               "channel_name": "BEIN SPORTS 4",
