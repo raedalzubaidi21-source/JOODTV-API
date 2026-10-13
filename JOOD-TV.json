@@ -981,6 +981,82 @@
             }
           ],
           "image": "https://a.top4top.io/p_3888nodes9.png"
+        },
+        {
+          "sub_category_name": "بين سبورت خاص - ابراج",
+          "channels": [
+            {
+              "channel_name": "بين سبورت 1",
+              "url": "https://yacinconnect.mandoosports.workers.dev/4973946197359164878.m3u8",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 0
+            },
+            {
+              "channel_name": "بين سبورت 2",
+              "url": "https://yacinconnect.mandoosports.workers.dev/4973946197357857857.m3u8",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 1
+            },
+            {
+              "channel_name": "بين سبورت 3",
+              "url": "https://yacinconnect.mandoosports.workers.dev/4973946197356576852.m3u8",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 2
+            },
+            {
+              "channel_name": "بين سبورت 4",
+              "url": "https://yacinconnect.mandoosports.workers.dev/4973946197356005279.m3u8",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 3
+            },
+            {
+              "channel_name": "بين سبورت 5",
+              "url": "https://yacinconnect.mandoosports.workers.dev/4973946197354098250.m3u8",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 4
+            },
+            {
+              "channel_name": "بين سبورت 6",
+              "url": "https://yacinconnect.mandoosports.workers.dev/4973946197353001949.m3u8",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 5
+            },
+            {
+              "channel_name": "بين سبورت 7",
+              "url": "https://yacinconnect.mandoosports.workers.dev/4973946197352370819.m3u8",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 6
+            }
+          ],
+          "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg"
         }
       ]
     },
