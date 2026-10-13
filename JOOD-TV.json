@@ -106,8 +106,11 @@
               "drm_id": "",
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36",
-              "referer": "https://player.majed-koora.live",
-              "order": 9
+              "referer": "https://player.majed-koora.live/",
+              "order": 9,
+              "headers": {
+                "Origin": "https://player.majed-koora.live"
+              }
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
