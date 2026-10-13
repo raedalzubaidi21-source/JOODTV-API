@@ -98,6 +98,16 @@
               "user_agent": "",
               "referer": "",
               "order": 8
+            },
+            {
+              "channel_name": "برشلونة TOD",
+              "url": "https://smarter.majedcss.site/live/ch1/7b2d9b33a97f496eb005973b678d2e0e.1791916999.1791927799.0.6537dbba0e0890548392bacc6319c4820de4a0403b8d49b362fdfb61e848b601/master.css",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36",
+              "referer": "https://player.majed-koora.live",
+              "order": 9
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
