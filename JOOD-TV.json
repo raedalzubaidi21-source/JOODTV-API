@@ -472,7 +472,7 @@
           "channels": [
             {
               "channel_name": "BEIN SPORTS 1",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=FHD1",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=1",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -486,7 +486,7 @@
             },
             {
               "channel_name": "BEIN SPORTS 2",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=FHD2",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=2",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -499,7 +499,7 @@
             },
             {
               "channel_name": "BEIN SPORTS 3",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=FHD3",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=3",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -512,7 +512,7 @@
             },
             {
               "channel_name": "BEIN SPORTS 4",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=FHD4",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=4",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -525,7 +525,7 @@
             },
             {
               "channel_name": "BEIN SPORTS 5",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=FHD5",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=5",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -538,7 +538,7 @@
             },
             {
               "channel_name": "BEIN SPORTS 6",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=FHD6",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=6",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -551,7 +551,7 @@
             },
             {
               "channel_name": "BEIN SPORTS 7",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=FHD7",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=7",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -564,26 +564,13 @@
             },
             {
               "channel_name": "BEIN SPORTS 8",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=FHD8",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "MTX Player",
               "referer": "",
               "order": 7,
-              "headers": {
-                "X-ToFi": "tofixtv"
-              }
-            },
-            {
-              "channel_name": "BEIN SPORTS 8 (نسخة)",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=1",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "MTX Player",
-              "referer": "",
-              "order": 8,
               "headers": {
                 "X-ToFi": "tofixtv"
               }
