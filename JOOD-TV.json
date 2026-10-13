@@ -574,6 +574,19 @@
               "headers": {
                 "X-ToFi": "tofixtv"
               }
+            },
+            {
+              "channel_name": "BEIN SPORTS 8 (نسخة)",
+              "url": "http://h40.streamvelis.lol/0021012254/918454578001/9421.pdf",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "MTX Player",
+              "referer": "",
+              "order": 8,
+              "headers": {
+                "X-ToFi": "tofixtv"
+              }
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
