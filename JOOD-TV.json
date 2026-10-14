@@ -1065,6 +1065,17 @@
               "referer": "",
               "order": 11,
               "license_url": "https://gw1.mediation.unity3d.com/auction?appKey=16213dafd&SDKVersion=7.9.0&initCountry=IQ&platform=android&compressRequest=true&compressResponse=true"
+            },
+            {
+              "channel_name": "الوان سبورت 2 تجريبي",
+              "url": "https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jFAxC6muCB84DngrBUZcJoT4kkaMhq5q4YKSjb2jgSyglFrVE0Hr54yYiIB8tHkyUWXaT_0dakyi-Zeg0ZoY4A/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 12,
+              "license_url": "https://gw1.mediation.unity3d.com/auction?appKey=16213dafd&SDKVersion=7.9.0&initCountry=IQ&platform=android&compressRequest=true&compressResponse=true"
             }
           ],
           "image": "https://a.top4top.io/p_3888nodes9.png"
