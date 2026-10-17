@@ -1179,6 +1179,16 @@
               "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
               "referer": "https://aif7.aifastcenter.cfd/",
               "order": 3
+            },
+            {
+              "channel_name": "beIN d 5",
+              "url": "https://aif7.aifastnet.cfd/hd/xwpxqijufejn/index.html",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+              "referer": "https://aif7.aifastnet.cfd/",
+              "order": 4
             }
           ],
           "sub_category_logo": "https://f.top4top.io/p_3942j832f1.png"
