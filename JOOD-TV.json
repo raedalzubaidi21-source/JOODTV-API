@@ -1139,7 +1139,28 @@
         },
         {
           "sub_category_name": "بث مباشر وقت المباريات",
-          "channels": [],
+          "channels": [
+            {
+              "channel_name": "لايف 1",
+              "url": "https://a15.kora-plus.li/live/b1.m3u8?token=NtUONSKX4fUASiPNeJBCM3yrgIo&exp=1792254115",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 0
+            },
+            {
+              "channel_name": "لايف 2",
+              "url": "https://jqyjghfms1mu8zc.powernetwork.me/kooora/6f86bdcseds02ss00s01ddsxmax1ss_kc_hd?ts=1792250807&nonce=pfYQ137b&token=e03ca961006008db19bbefa3392f797a&sid=eb90527c85568ee4ff40ec2749caed6e",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+              "referer": "https://912acsss8af382.yasirtv.com/",
+              "order": 1
+            }
+          ],
           "sub_category_logo": "https://f.top4top.io/p_3942j832f1.png"
         }
       ],
