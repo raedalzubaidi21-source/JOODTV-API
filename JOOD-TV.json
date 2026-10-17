@@ -1158,7 +1158,10 @@
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
               "referer": "https://912acsss8af382.yasirtv.com/",
-              "order": 1
+              "order": 1,
+              "headers": {
+                "Origin": "https://912acsss8af382.yasirtv.com"
+              }
             }
           ],
           "sub_category_logo": "https://f.top4top.io/p_3942j832f1.png"
