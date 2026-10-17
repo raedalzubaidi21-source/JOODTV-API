@@ -1208,7 +1208,7 @@
             },
             {
               "channel_name": "تجريب",
-              "url": "https://jqyjghfms1mu8zc.powernetwork.me/kooora/6f86bdcseds02ss00s01ddsxmax1ss_kc?ts=1792259490&nonce=S26n19wi&token=e3b57a7c4adee73d15542e58bdf706d6&sid=8d7df0c10be5ea4a9bd61f55bf7d53e5",
+              "url": "https://jqyjghfms1mu8zc.powernetwork.me/kooora/6f86bdcseds02ss00s01ddsxmax1ss_kc?ts=1792260582&nonce=HUpC1aqu&token=74592fa12a06494daa7481330efcafe3&sid=1faac3fb0e009cb115999b66b359af57",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -1216,8 +1216,7 @@
               "referer": "https://912acsss8af382.yasirtv.com/",
               "order": 6,
               "headers": {
-                "Origin": "https://912acsss8af382.yasirtv.com",
-                "sec-ch-ua-platform": "Windows"
+                "Origin": "https://912acsss8af382.yasirtv.com"
               }
             }
           ],
