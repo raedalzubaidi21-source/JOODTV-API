@@ -1162,6 +1162,19 @@
               "headers": {
                 "Origin": "https://player.majed-koora.live"
               }
+            },
+            {
+              "channel_name": "تود 3",
+              "url": "https://smarter.majedcss.site/live/ch1/8a3492921cf34c0b9330efda3f2dbaf5.1792234646.1792256246.0.5614ceedf7ee338741dfa455bef5a98dcaad799c8fab75d4edb55abf94b23acc/master.css",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+              "referer": "https://player.majed-koora.live/",
+              "order": 2,
+              "headers": {
+                "Origin": "https://player.majed-koora.live"
+              }
             }
           ],
           "sub_category_logo": "https://f.top4top.io/p_3942j832f1.png"
