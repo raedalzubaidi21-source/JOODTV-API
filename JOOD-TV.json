@@ -1141,85 +1141,24 @@
           "sub_category_name": "بث مباشر وقت المباريات",
           "channels": [
             {
-              "channel_name": "لايف 1",
-              "url": "https://a15.kora-plus.li/live/b1.m3u8?token=NtUONSKX4fUASiPNeJBCM3yrgIo&exp=1792254115",
+              "channel_name": "beIN d 1",
+              "url": "https://ais7.aispeedcenter.cyou/hd/cpazsucjauwh/index.html",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
-              "referer": "",
+              "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+              "referer": "https://ais7.aispeedcenter.cyou/",
               "order": 0
             },
             {
-              "channel_name": "تود 1",
-              "url": "https://smarter.majedcss.site/live/ch2/7f04eca3f01c44bfb7af1df4c93240a4.1792254343.1792275943.0.78eb4dfa4d15c1b948289de2ea06ca7f002467e079fadac72d663c8adda0d3ab/master.css",
+              "channel_name": "beIN d 2",
+              "url": "https://aid7.aidatacenter.cyou/hd/gynoxhkhfsnl/index.html",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://player.majed-koora.live/",
-              "order": 1,
-              "headers": {
-                "Origin": "https://player.majed-koora.live"
-              }
-            },
-            {
-              "channel_name": "تود 3",
-              "url": "https://smarter.majedcss.site/live/ch1/8a3492921cf34c0b9330efda3f2dbaf5.1792234646.1792256246.0.5614ceedf7ee338741dfa455bef5a98dcaad799c8fab75d4edb55abf94b23acc/master.css",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://player.majed-koora.live/",
-              "order": 2,
-              "headers": {
-                "Origin": "https://player.majed-koora.live"
-              }
-            },
-            {
-              "channel_name": "برشلونه ضد ريال بتيس",
-              "url": "https://yl.akbarnews.store/live/index.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 3
-            },
-            {
-              "channel_name": "برشلونه بث فيسبوك",
-              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-cco-vll/_nc_cat-100/_nc_sr_t-4/v/rASenZwDCrErkIVBWryehV4Vf2Wy6NT8Fju1vPXQiZU_RUA/_nc_ohc-srlA8xj7SdYQ7kNvwEpPqOK/live-dash/dash-abr-ibr-audio/122161011267120028.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQO8e9Fzl3VoqBOqDDSmikhE0_RIjELrH5iQCb-7YptMSw&oe=6AD58D72",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 4
-            },
-            {
-              "channel_name": "برشلونه بث فيسبوك 2",
-              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-frc-ldc/_nc_cat-1/_nc_sr_t-4/v/rAScEgU70pqZRPYnF5yBLFolrV8rSatrDZb5z6sLMMSCmVA/_nc_ohc-OiRczKFrBTYQ7kNvwHZOzyZ/live-dash/dash-abr-ibr-audio/122163579351128226.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQMgEmbFaI4N9tZCd6cLxFKTjcUIw6DvPKuGFZoX4kYTTA&oe=6AD57570",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 5
-            },
-            {
-              "channel_name": "تجريب",
-              "url": "https://jqyjghfms1mu8zc.powernetwork.me/kooora/6f86bdcseds02ss00s01ddsxmax2222_kc?ts=1792265935&nonce=VylA1evj&token=bad23ffca43e96f28bf3ee16fa32ee6c&sid=650af2d42970eb9f586c1b4d123a9082",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://912acsss8af382.yasirtv.com/",
-              "order": 6,
-              "headers": {
-                "Origin": "https://912acsss8af382.yasirtv.com",
-                "Host": "jqyjghfms1mu8zc.powernetwork.me",
-                "Accept": "*/*"
-              }
+              "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+              "referer": "https://aid7.aidatacenter.cyou/",
+              "order": 1
             }
           ],
           "sub_category_logo": "https://f.top4top.io/p_3942j832f1.png"
