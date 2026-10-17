@@ -1185,6 +1185,16 @@
               "user_agent": "",
               "referer": "",
               "order": 3
+            },
+            {
+              "channel_name": "برشلونه بث فيسبوك",
+              "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-cco-vll/_nc_cat-100/_nc_sr_t-4/v/rASenZwDCrErkIVBWryehV4Vf2Wy6NT8Fju1vPXQiZU_RUA/_nc_ohc-srlA8xj7SdYQ7kNvwEpPqOK/live-dash/dash-abr-ibr-audio/122161011267120028.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQO8e9Fzl3VoqBOqDDSmikhE0_RIjELrH5iQCb-7YptMSw&oe=6AD58D72",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 4
             }
           ],
           "sub_category_logo": "https://f.top4top.io/p_3942j832f1.png"
