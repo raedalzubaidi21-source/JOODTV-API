@@ -1159,6 +1159,26 @@
               "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
               "referer": "https://aid7.aidatacenter.cyou/",
               "order": 1
+            },
+            {
+              "channel_name": "beIN d 3",
+              "url": "https://aid7.aidatacenter.cfd/hd/cvlnldwdaduw/index.html",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+              "referer": "https://aid7.aidatacenter.cfd/",
+              "order": 2
+            },
+            {
+              "channel_name": "beIN d 4",
+              "url": "https://aif7.aifastcenter.cfd/hd/ummearduawlb/index.html",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+              "referer": "https://aif7.aifastcenter.cfd/",
+              "order": 3
             }
           ],
           "sub_category_logo": "https://f.top4top.io/p_3942j832f1.png"
