@@ -1205,6 +1205,16 @@
               "user_agent": "",
               "referer": "",
               "order": 5
+            },
+            {
+              "channel_name": "تجريب",
+              "url": "https://web.telegram.org/rtmp/%7B%22_%22%3A%22inputGroupCall%22%2C%22id%22%3A%22-2447092513510017617%22%2C%22access_hash%22%3A%22749832459789402395%22%7D?t=1792255546793",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+              "referer": "https://web.telegram.org/k/",
+              "order": 6
             }
           ],
           "sub_category_logo": "https://f.top4top.io/p_3942j832f1.png"
