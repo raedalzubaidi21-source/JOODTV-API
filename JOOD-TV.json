@@ -1151,20 +1151,6 @@
               "order": 0
             },
             {
-              "channel_name": "لايف 2",
-              "url": "https://v1.sisi20.top/broadcast/WmiZwI5VZjiCfNvsVSmDxQ/1792255759/1792255498/1/bein101.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://v1.sisi20.top/sw.js",
-              "order": 1,
-              "headers": {
-                "Origin": "https://v1.sisi20.top/sw.js",
-                ":authority": "v1.sisi20.top"
-              }
-            },
-            {
               "channel_name": "تود 1",
               "url": "https://smarter.majedcss.site/live/ch2/b3a5e0d58e834c2bbb46c667adc7e62a.1792234635.1792256235.0.1f1061ddd12421a5e4a66bb96928b206ebd5dcf67a86f98265732c08b711343b/master.css",
               "logo_url": "",
@@ -1172,7 +1158,7 @@
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
               "referer": "https://player.majed-koora.live/",
-              "order": 2,
+              "order": 1,
               "headers": {
                 "Origin": "https://player.majed-koora.live"
               }
@@ -1185,7 +1171,7 @@
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
               "referer": "https://player.majed-koora.live/",
-              "order": 3,
+              "order": 2,
               "headers": {
                 "Origin": "https://player.majed-koora.live"
               }
