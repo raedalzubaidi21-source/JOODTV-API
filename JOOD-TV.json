@@ -1217,7 +1217,8 @@
               "order": 6,
               "headers": {
                 "Origin": "https://912acsss8af382.yasirtv.com",
-                "sec-websocket-accept": "fJajdd2c7vwYcjMwkJZv53L9BY"
+                "sec-websocket-accept": "fJajdd2c7vwYcjMwkJZv53L9BY",
+                ":path": "/kooora/6f86bdcseds02ss00s01ddsxmax1ss_kc_hd?ts=1792260387&nonce=Z8ZS1alf&token=32e7e300023af8ae7e6070d9af217ca9&sid=8dbc70a3d1dff3ec8ae925ac8197048e"
               }
             }
           ],
