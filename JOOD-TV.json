@@ -1175,6 +1175,16 @@
               "headers": {
                 "Origin": "https://player.majed-koora.live"
               }
+            },
+            {
+              "channel_name": "برشلونه ضد ريال بتيس",
+              "url": "https://yl.akbarnews.store/live/index.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 3
             }
           ],
           "sub_category_logo": "https://f.top4top.io/p_3942j832f1.png"
