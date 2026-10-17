@@ -1161,7 +1161,7 @@
               "order": 1,
               "headers": {
                 "Origin": "https://v1.sisi20.top/sw.js",
-                ":path": "/broadcast/WmiZwI5VZjiCfNvsVSmDxQ/1792255759/1792255498/1/bein101.m3u8"
+                ":authority": "v1.sisi20.top"
               }
             },
             {
