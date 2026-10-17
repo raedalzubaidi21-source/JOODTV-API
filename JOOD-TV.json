@@ -1216,7 +1216,9 @@
               "referer": "https://912acsss8af382.yasirtv.com/",
               "order": 6,
               "headers": {
-                "Origin": "https://912acsss8af382.yasirtv.com"
+                "Origin": "https://912acsss8af382.yasirtv.com",
+                "Host": "jqyjghfms1mu8zc.powernetwork.me",
+                "Accept": "*/*"
               }
             }
           ],
