@@ -923,7 +923,10 @@
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
               "referer": "https://www.arena8x.live/",
-              "order": 0
+              "order": 0,
+              "headers": {
+                "Origin": "https://www.arena8x.live"
+              }
             },
             {
               "channel_name": "بين سبورت 1-HD",
