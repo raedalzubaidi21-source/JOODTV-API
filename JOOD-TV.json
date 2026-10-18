@@ -949,97 +949,14 @@
               "order": 0
             },
             {
-              "channel_name": "بين سبورت 2",
-              "url": "https://v1.sisi20.top/broadcast/KhbULmkHVy_jnYEBKZaVpQ/1792332753/1792332492/1/bein202.m3u8",
+              "channel_name": "بين سبورت 1-HD",
+              "url": "https://yallanshufxsite.site/api/public/fbr/-u8kwrP2T1ZDRiQJdGvttrjkjhyWhwfs4Tnj7D7fGIfQbkZsE_36iKU-sHo_LsHIZj2WS8d1RlXB0IrHMQZuzA_x0uS4urI05w8h-vIpX5TVjdVio4DcVZG440DQge10PzkrU_nIyCS3W738EH9qSDYlVq9RYAwZfjIfIDxMbVbVwydrEFbQfW2wigSzUH9ebtyfqFsVRqTmSXsEn7KrD7etQwxFRjLc8p0R7WIs-MbBlVbNnNy3nduNrxwCV5EbIeJOFBr-6pnL_dUQV_x48uxw5DP02bKdBAmWEYhXCLNfE_rEOxiqTSftS7M7T-INi3Lew4AoMNL8y0YnFDT1UXJTtrKLps18W8e1l1nazPBSyjinvLGson_ByN6caMAuTptume6MYERZMrzRLxHnvsO3xDiMOePfBNKm0XWD_My2tqByggwscVEvInl7Ogjvw8kenXZIfRZmOvBKN_SroH0J-X1eiKF3Nrnf_KqASlX2ApgzEcHBkBzCn2wO3JsG2A/dash-abr-ibr-audio/~v_0.mpd",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://v1.sisi20.top/sw.js",
+              "user_agent": "",
+              "referer": "",
               "order": 1
-            },
-            {
-              "channel_name": "بين سبورت 3",
-              "url": "https://v1.sisi20.top/broadcast/KhbULmkHVy_jnYEBKZaVpQ/1792332753/1792332492/1/bein303.m3u8",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://v1.sisi20.top/sw.js",
-              "order": 2
-            },
-            {
-              "channel_name": "بين سبورت 4",
-              "url": "https://v1.sisi20.top/broadcast/KhbULmkHVy_jnYEBKZaVpQ/1792332753/1792332492/1/bein404.m3u8",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://v1.sisi20.top/sw.js",
-              "order": 3
-            },
-            {
-              "channel_name": "بين سبورت 5",
-              "url": "https://v1.sisi20.top/broadcast/KhbULmkHVy_jnYEBKZaVpQ/1792332753/1792332492/1/bein505.m3u8",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://v1.sisi20.top/sw.js",
-              "order": 4
-            },
-            {
-              "channel_name": "بين سبورت 6",
-              "url": "https://v1.sisi20.top/broadcast/KhbULmkHVy_jnYEBKZaVpQ/1792332753/1792332492/1/bein606.m3u8",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://v1.sisi20.top/sw.js",
-              "order": 5
-            },
-            {
-              "channel_name": "بين سبورت 7",
-              "url": "https://v1.sisi20.top/broadcast/KhbULmkHVy_jnYEBKZaVpQ/1792332753/1792332492/1/bein707.m3u8",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://v1.sisi20.top/sw.js",
-              "order": 6
-            },
-            {
-              "channel_name": "بين سبورت 8",
-              "url": "https://v1.sisi20.top/broadcast/KhbULmkHVy_jnYEBKZaVpQ/1792332753/1792332492/1/bein808.m3u8",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://v1.sisi20.top/sw.js",
-              "order": 7
-            },
-            {
-              "channel_name": "بين سبورت 9",
-              "url": "https://v1.sisi20.top/broadcast/KhbULmkHVy_jnYEBKZaVpQ/1792332753/1792332492/1/bein909.m3u8",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://v1.sisi20.top/sw.js",
-              "order": 8
-            },
-            {
-              "channel_name": "test",
-              "url": "https://jqyjghfms1mu8zc.powernetwork.me/kooora/6f86bdcsedfssis02ss00d01dsxmax5555_hd?ts=1792336197&nonce=GKW4rxh&token=73181179c55b66cb3ca524948859f5af&sid=ada94f8cc17708ffc7c2c11a7f7ca098",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://912acsss8af382.yasirtv.com/",
-              "order": 9,
-              "headers": {
-                "Origin": "https://912acsss8af382.yasirtv.com"
-              }
             }
           ],
           "sub_category_logo": "https://f.top4top.io/p_3942j832f1.png"
