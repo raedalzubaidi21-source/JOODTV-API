@@ -908,29 +908,6 @@
               "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
               "referer": "https://aif7.aifastnet.cfd/",
               "order": 5
-            },
-            {
-              "channel_name": "تجريبي -1",
-              "url": "https://vsd288.okcdn.ru/hls/18928878881494.m3u8/sig/63JZLcxk38s/expires/1792419254350/srcIp/188.72.46.154/urls/176.112.172.47/clientType/0/srcAg/CHROME/mid/16511505997526/18928878881494_medium/index.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://ok.ru/videoembed/16511505997526/",
-              "order": 6,
-              "headers": {
-                "Origin": "https://ok.ru"
-              }
-            },
-            {
-              "channel_name": "تجريبي 2",
-              "url": "https://yallanshufxsite.site/api/public/fbr/_HE7sIRE_NpN2MEaUHjnbGCQRxdgWtuYa1s58ra4GrtlwRdPa7vfpv_58t9jGOfV49Xks9yOIC5JTuNdSe8HMtviwkIxQ3PI8ABDHwXCqdY3KwdOj6b74jhwc7Wmvu95fon6V1RpH0Ko4gkhrnBpkVP-vyW5zqVw3eImzcXcWQ344HcogQfbS2PFwpOHeIlW-zZH8YwMTpA78BFrFtM1BLd_dcCQ4f3Jm0hAJVvn9RvklDHtawl1Q7dkfQcbP7Q-SgKhx20nonofEXxCM2QUdz5cHoOC6B-_B1M3i_MODsyLlyDJEkfJ2Mi9a-Y0h5kvV1lZoe_GoW8xU4CYF1Px_KpMTqOlMumFxGYJVQSV9j8k8K1zUJUIlCp333D4K3bK6lgqi7_ro_jlabMCJv_5fHTnYk23NH5lrva0JZUxsOnfp4u9DcCkejWhQVLq9K16lASbGVkBHEfLZNO2MQ2oheQbSXdaFCB9vchd5oSWA4CrqdC5YHCw11Mjcq6CsrKFiw/dash-abr-ibr-audio/~v_0.mpd",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 7
             }
           ],
           "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg"
