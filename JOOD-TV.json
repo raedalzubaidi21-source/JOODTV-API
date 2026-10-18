@@ -1318,19 +1318,6 @@
               "referer": "",
               "order": 16,
               "license_url": "https://gw1.mediation.unity3d.com/auction?appKey=16213dafd&SDKVersion=7.9.0&initCountry=IQ&platform=android&compressRequest=true&compressResponse=true"
-            },
-            {
-              "channel_name": "تجريبي",
-              "url": "https://a7b2eb77a6442462f4625a5be3b7b028.samsami.online/b2/nano.css?v=1792020787",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36",
-              "referer": "https://p1.samsami.online/",
-              "order": 17,
-              "headers": {
-                "Origin": "https://p1.samsami.online"
-              }
             }
           ],
           "image": "https://a.top4top.io/p_3888nodes9.png"
