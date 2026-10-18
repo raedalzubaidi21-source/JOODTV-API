@@ -1012,56 +1012,6 @@
           "sub_category_name": "قنوات الفجر و الوان",
           "channels": [
             {
-              "channel_name": "الفجر 1",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1114.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "...",
-              "referer": "",
-              "order": 0
-            },
-            {
-              "channel_name": "الفجر 2",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1113.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 1
-            },
-            {
-              "channel_name": "الفجر 3",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1112.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 2
-            },
-            {
-              "channel_name": "الفجر 4",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1111.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 3
-            },
-            {
-              "channel_name": "الفجر 5",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1110.m3u8",
-              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 4
-            },
-            {
               "channel_name": "ALWAN 1",
               "url": "https://blcco.linkip.org/live/3461_.m3u8",
               "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
@@ -1069,7 +1019,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 5
+              "order": 0
             },
             {
               "channel_name": "ALWAN 2",
@@ -1079,7 +1029,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 6
+              "order": 1
             },
             {
               "channel_name": "ALWAN 3",
@@ -1089,7 +1039,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 7
+              "order": 2
             },
             {
               "channel_name": "ALWAN 4",
@@ -1099,7 +1049,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 3
             },
             {
               "channel_name": "ALWAN 5",
@@ -1109,7 +1059,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 4
             },
             {
               "channel_name": "ALWAN 6",
@@ -1119,73 +1069,108 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
+              "order": 5
+            },
+            {
+              "channel_name": "الفجر 1",
+              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1114.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "...",
+              "referer": "",
+              "order": 6
+            },
+            {
+              "channel_name": "الفجر 2",
+              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1113.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 7
+            },
+            {
+              "channel_name": "الفجر 3",
+              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1112.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 8
+            },
+            {
+              "channel_name": "الفجر 4",
+              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1111.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 9
+            },
+            {
+              "channel_name": "الفجر 5",
+              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1110.m3u8",
+              "logo_url": "https://up6.cc/2026/07/178450190607411.png",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
               "order": 10
             },
             {
-              "channel_name": "الوان سبورت 1 تجريبي",
-              "url": "https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/7sVz2sS9uNLdYCAJJQPrv9US1ZogmBN3Dtxe8HB_CyN_w3yZ8wpi_xzdYzX_l4M1r0pyuuv_8st7P5C5Q274pQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
-              "logo_url": "",
+              "channel_name": "الوان سبورت 1",
+              "url": "https://api5.apidatadepot.shop/sokaspr/rgtpiwcicfme/index.html",
+              "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "https://api5.apidatadepot.shop/",
+              "order": 11
+            },
+            {
+              "channel_name": "الوان سبورت 2",
+              "url": "",
+              "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 11,
-              "license_url": "https://gw1.mediation.unity3d.com/auction?appKey=16213dafd&SDKVersion=7.9.0&initCountry=IQ&platform=android&compressRequest=true&compressResponse=true"
+              "order": 12
             },
             {
-              "channel_name": "الوان سبورت 2 تجريبي",
-              "url": "https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/jFAxC6muCB84DngrBUZcJoT4kkaMhq5q4YKSjb2jgSyglFrVE0Hr54yYiIB8tHkyUWXaT_0dakyi-Zeg0ZoY4A/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
-              "logo_url": "",
+              "channel_name": "الوان سبورت 3",
+              "url": "",
+              "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 12,
-              "license_url": "https://gw1.mediation.unity3d.com/auction?appKey=16213dafd&SDKVersion=7.9.0&initCountry=IQ&platform=android&compressRequest=true&compressResponse=true"
+              "order": 13
             },
             {
-              "channel_name": "الوان سبورت 3 تجريبي",
-              "url": "https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/Kz5z-UYz7HFDokCRb5qW4HDDegyJlhGhnb8ElAfGdl0wmrD5eRTP0J5kBeSb2UAcl65pw2577XoYNLB2BQc55A/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live&_HLS_skip=YES",
-              "logo_url": "",
+              "channel_name": "الوان سبورت 4",
+              "url": "",
+              "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 13,
-              "license_url": "https://gw1.mediation.unity3d.com/auction?appKey=16213dafd&SDKVersion=7.9.0&initCountry=IQ&platform=android&compressRequest=true&compressResponse=true"
+              "order": 14
             },
             {
-              "channel_name": "الوان سبورت 4 تجريبي",
-              "url": "https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/C0mcuWHxf8Kf0DN0dn_8d-GgWX13M3-L4G1d8uVtbe4s76UnfPMc3Sd030wG4YVRoHZ2KWaKu9BXrzrfqIecFA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live&_HLS_skip=YES",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 14,
-              "license_url": "https://o-sdk.mediation.unity3d.com/mediation?adUnit=2&appKey=16213dafd"
-            },
-            {
-              "channel_name": "الوان سبورت 5 تجريبي",
-              "url": "https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/pI-5Zg6_olwjNuXYdUn7h65UDsmNWJvPjzU0s8E6Hd-89XM3ovt-xDiJ5qrilW9f3vILPuHhTz8j8qA138Fysw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live&_HLS_skip=YES",
-              "logo_url": "",
+              "channel_name": "الوان سبورت 5",
+              "url": "",
+              "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
               "referer": "",
               "order": 15,
-              "license_url": "https://gw1.mediation.unity3d.com/auction?appKey=16213dafd&SDKVersion=7.9.0&initCountry=IQ&platform=android&compressRequest=true&compressResponse=true"
-            },
-            {
-              "channel_name": "NRT SPORT",
-              "url": "https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/PRYf_Bia74oFFXEiN66tFJkxxLNNvtRd5eYCzGCLRhsoaJnIVPa7Rwx5AvmsD7lFDFgi_MgSMZncAlJfRJlwlQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 16,
-              "license_url": "https://gw1.mediation.unity3d.com/auction?appKey=16213dafd&SDKVersion=7.9.0&initCountry=IQ&platform=android&compressRequest=true&compressResponse=true"
+              "license_url": "https://g"
             }
           ],
           "image": "https://a.top4top.io/p_3888nodes9.png"
