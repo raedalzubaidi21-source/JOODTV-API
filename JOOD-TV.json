@@ -1207,8 +1207,11 @@
               "drm_id": "",
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://ok.ru/videoembed/16511505997526",
-              "order": 6
+              "referer": "https://ok.ru/videoembed/16511505997526/",
+              "order": 6,
+              "headers": {
+                "Origin": "https://ok.ru/videoembed/16511505997526"
+              }
             }
           ],
           "sub_category_logo": "https://f.top4top.io/p_3942j832f1.png"
