@@ -1231,32 +1231,6 @@
           "user_agent": "",
           "referer": "",
           "order": 4
-        },
-        {
-          "channel_name": "شاشه سبورت 1",
-          "url": "https://redperch.space/dramacardinalv2.php?id=shasha1",
-          "logo_url": "https://up6.cc/2026/10/179136492863411.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Rplayerv2.0.16",
-          "referer": "",
-          "order": 5,
-          "headers": {
-            "Cookie": "rplayer_access=1d442accd87af8a69978d18e1r65ca559683678661313c722667ce79dd905606"
-          }
-        },
-        {
-          "channel_name": "شاشه سبورت 2",
-          "url": "https://redperch.space/dramacardinalv2.php?id=shasha1",
-          "logo_url": "https://up6.cc/2026/10/179136492863411.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Rplayerv2.0.16",
-          "referer": "",
-          "order": 6,
-          "headers": {
-            "Cookie": "rplayer_access=1d442accd87af8a69978d18e1r65ca559683678661313c722667ce79dd905606"
-          }
         }
       ],
       "image": "https://up6.cc/2026/10/179163260077141.jpeg"
