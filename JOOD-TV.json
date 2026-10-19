@@ -1200,6 +1200,16 @@
           "user_agent": "",
           "referer": "",
           "order": 1
+        },
+        {
+          "channel_name": "بث - 3",
+          "url": "https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/xxcD-Ve0cRTRxGTKTpCna85vbP483UR56f_HasNWb1GhOMTiJDIr7pixBCaja0dXmK8PDPaFMZ12Fup-2g06Bg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live&_HLS_skip=YES",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 2
         }
       ],
       "sub_categories": [],
