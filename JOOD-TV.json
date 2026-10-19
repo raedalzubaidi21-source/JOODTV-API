@@ -1180,7 +1180,18 @@
     },
     {
       "category_name": "قنوات رياضية وقت المباريات فقط",
-      "channels": [],
+      "channels": [
+        {
+          "channel_name": "بث - 1",
+          "url": "https://kurdtv.org/api/public/hls?u=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2F6U0D8teal5TM_WSU3e_DdQ-CjDsv7slfkUR3N4Do136NGdyRnUQ1LaZj5uEuKSSR1GovOM1pCYC31VXOLsfeRw%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fchunk_1792410613051066907_7463_a.ts%3Ftype%3Devent",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 0
+        }
+      ],
       "sub_categories": [],
       "category_logo": "https://l.top4top.io/p_39447b57d1.jpg"
     },
