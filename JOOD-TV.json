@@ -1240,6 +1240,16 @@
           "user_agent": "",
           "referer": "",
           "order": 2
+        },
+        {
+          "channel_name": "برشلونة ضد باريس 4",
+          "url": "https://castx.online/hls/Paris-Saint-Germain-vs-Barcelona/index.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+          "referer": "https://www.arena8x.live/",
+          "order": 3
         }
       ],
       "sub_categories": [],
