@@ -1230,6 +1230,16 @@
           "user_agent": "",
           "referer": "",
           "order": 1
+        },
+        {
+          "channel_name": "برشلونة - 3",
+          "url": "https://gate.foxtvapplive.shop/p/FOXTV_CH1/stream.mpd?exp=1792534117&sig=807482125904ed517e4e0ab10a9227aa64d9837baeef06bd84593a37a4011bf5",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "FXPlayer-ProStream/1.0",
+          "referer": "",
+          "order": 2
         }
       ],
       "sub_categories": [],
