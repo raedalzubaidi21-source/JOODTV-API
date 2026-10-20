@@ -908,6 +908,16 @@
               "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
               "referer": "https://aif7.aifastcenter.cfd/",
               "order": 5
+            },
+            {
+              "channel_name": "beIN d 7",
+              "url": "https://aif7.aifastcenter.cfd/hd/hyakouwyesgk/index.html",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+              "referer": "https://aif7.aifastcenter.cfd/",
+              "order": 6
             }
           ],
           "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg"
