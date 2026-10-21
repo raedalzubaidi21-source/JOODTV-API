@@ -1222,7 +1222,7 @@
           "order": 0,
           "headers": {
             "Origin": "https://912acsss8af382.yasirtv.com",
-            ":path": "/kooora/6f86bdcseds02ss00s01ddsxmax2222_sc_hd?ts=1792604065&nonce=k2vQ34x&token=1b52c5929ecbbb967a5d78051e04ab07&sid=25d79dc20ba4d933b85f68accd567dae"
+            "server": "nginx"
           }
         },
         {
