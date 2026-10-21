@@ -1210,48 +1210,7 @@
     },
     {
       "category_name": "قنوات رياضية وقت المباريات فقط",
-      "channels": [
-        {
-          "channel_name": "برشلونة ضد باريس  1",
-          "url": "https://castx.online/hls/local-mejarserver-ftv1-hd/index.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 0
-        },
-        {
-          "channel_name": "برشلونه ضد باريس tod",
-          "url": "https://castx.online/hls/bein-sports-1/index.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 1
-        },
-        {
-          "channel_name": "برشلونة و باريس 3",
-          "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-atn-ldc/_nc_cat-1/_nc_sr_t-4/v/rASf1oKqRaQGZ0H9s9olMjaW2bPRHpZ_SQeW77qsjpOIRpQ/_nc_ohc-dnCdvJ6OOHYQ7kNvwG21U6T/live-dash/dash-abr-ibr-audio/122144380323156075.mpd?_nc_eui2=AeGevPD9EldxzZ-G1xumePxE1C4q-_BiNM_ULir78GI0z4EGtsG3P0wrQMUo1XaUxEe_Fb84i84-rDLcC2eFmaly&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQPqtz5K3T5oihl5DT68U0lJ2sH5tjAUJC4Ye3gxbcLlIg&oe=6AD9BB5F",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 2
-        },
-        {
-          "channel_name": "برشلونة ضد باريس 4",
-          "url": "https://castx.online/hls/Paris-Saint-Germain-vs-Barcelona/index.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
-          "referer": "https://www.arena8x.live/",
-          "order": 3
-        }
-      ],
+      "channels": [],
       "sub_categories": [],
       "category_logo": "https://l.top4top.io/p_3944pq28q1.jpg"
     },
