@@ -1223,7 +1223,8 @@
           "headers": {
             "Origin": "https://912acsss8af382.yasirtv.com",
             "server": "nginx",
-            "content-type": "application/vnd.apple.mpegurl"
+            "content-type": "application/vnd.apple.mpegurl",
+            ":authority": "jqyjghfms1mu8zc.powernetwork.me"
           }
         },
         {
