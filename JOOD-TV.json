@@ -1213,21 +1213,17 @@
       "channels": [
         {
           "channel_name": "بث 1",
-          "url": "https://jqyjghfms1mu8zc.powernetwork.me/kooora/6f86bdcseds02ss00s01ddsxmax2222_sc_hd?ts=1792604065&nonce=k2vQ34x&token=1b52c5929ecbbb967a5d78051e04ab07&sid=25d79dc20ba4d933b85f68accd567dae",
+          "url": "https://customer-tbeh4c48fd5uh1gn.cloudflarestream.com/63b7192d5f2bf947a98054dbbf947de9/manifest/video.m3u8?protocol=llhls",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-          "referer": "https://912acsss8af382.yasirtv.com/",
-          "order": 0,
-          "headers": {
-            "Origin": "https://912acsss8af382.yasirtv.com",
-            "sec-ch-ua": "\"Google Chrome\";v=\"155\", \"Chromium\";v=\"155\", \"Not(A:Brand\";v=\"24\""
-          }
+          "user_agent": "",
+          "referer": "",
+          "order": 0
         },
         {
           "channel_name": "بث 2",
-          "url": "https://customer-tbeh4c48fd5uh1gn.cloudflarestream.com/63b7192d5f2bf947a98054dbbf947de9/manifest/video.m3u8?protocol=llhls",
+          "url": "https://hugh.cdn.rumble.cloud/live/kd32s8ur/live-hls/o53s-5ipa/chunklist_i1_DVR.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
