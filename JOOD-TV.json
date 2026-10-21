@@ -1234,16 +1234,6 @@
           "user_agent": "",
           "referer": "",
           "order": 1
-        },
-        {
-          "channel_name": "بث 3",
-          "url": "https://hello.shootsimo.net/my-hls/222/index.m3u8?expires=1792606907&token=b750b9bd79c77d07b45ae3c342e90f76",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-          "referer": "https://1.shootsimo.net/",
-          "order": 2
         }
       ],
       "sub_categories": [],
