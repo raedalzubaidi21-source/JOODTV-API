@@ -1230,6 +1230,16 @@
           "user_agent": "",
           "referer": "",
           "order": 1
+        },
+        {
+          "channel_name": "بث 3",
+          "url": "https://get.powerofapi.site/images/b6qdz5z3ff/edtvfu/5buqs6a1hictbmmi",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+          "referer": "https://tvmobilelive.com/",
+          "order": 2
         }
       ],
       "sub_categories": [],
