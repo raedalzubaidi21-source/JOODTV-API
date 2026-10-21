@@ -1210,7 +1210,18 @@
     },
     {
       "category_name": "قنوات رياضية وقت المباريات فقط",
-      "channels": [],
+      "channels": [
+        {
+          "channel_name": "بث 1",
+          "url": "https://jqyjghfms1mu8zc.powernetwork.me/kooora/6f86bdcseds02ss00s01ddsxmax2222_hd-1792601784298.ts?st=d9ff880c950931f3321d6c766d668c01&exp=1792601880",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+          "referer": "https://912acsss8af382.yasirtv.com/",
+          "order": 0
+        }
+      ],
       "sub_categories": [],
       "category_logo": "https://l.top4top.io/p_3944pq28q1.jpg"
     },
