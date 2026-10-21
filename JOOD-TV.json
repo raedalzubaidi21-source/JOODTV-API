@@ -1222,10 +1222,7 @@
           "order": 0,
           "headers": {
             "Origin": "https://912acsss8af382.yasirtv.com",
-            "server": "nginx",
-            "content-type": "application/vnd.apple.mpegurl",
-            ":authority": "jqyjghfms1mu8zc.powernetwork.me",
-            "strict-transport-security": "max-age=31536000; includeSubDomains; preload"
+            "sec-ch-ua": "\"Google Chrome\";v=\"155\", \"Chromium\";v=\"155\", \"Not(A:Brand\";v=\"24\""
           }
         },
         {
