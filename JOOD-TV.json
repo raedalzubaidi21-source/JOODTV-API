@@ -1213,7 +1213,7 @@
       "channels": [
         {
           "channel_name": "بث 1",
-          "url": "https://customer-tbeh4c48fd5uh1gn.cloudflarestream.com/63b7192d5f2bf947a98054dbbf947de9/manifest/video.m3u8?protocol=llhls",
+          "url": "https://hugh.cdn.rumble.cloud/live/kd32s8ur/live-hls/o53s-5ipa/chunklist_i1_DVR.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
@@ -1223,23 +1223,13 @@
         },
         {
           "channel_name": "بث 2",
-          "url": "https://hugh.cdn.rumble.cloud/live/kd32s8ur/live-hls/o53s-5ipa/chunklist_i1_DVR.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 1
-        },
-        {
-          "channel_name": "بث 3",
           "url": "https://a14.kora-plus.li/live/b2.m3u8?token=Z0l7oXZ2-p2NP-PTanw8T6JK-8I&exp=1792609312",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 2
+          "order": 1
         }
       ],
       "sub_categories": [],
