@@ -1222,7 +1222,8 @@
           "order": 0,
           "headers": {
             "Origin": "https://912acsss8af382.yasirtv.com",
-            "server": "nginx"
+            "server": "nginx",
+            "content-type": "application/vnd.apple.mpegurl"
           }
         },
         {
