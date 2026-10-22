@@ -107,52 +107,52 @@
           "channels": [
             {
               "channel_name": "beIN SPORTS 1",
-              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677057.ts",
+              "url": "https://live404.ai.studio/api/korasport/stream/bein1-720p.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
-              "referer": "",
+              "referer": "https://live404.ai.studio/",
               "order": 0
             },
             {
               "channel_name": "beIN SPORTS 2",
-              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677058.ts",
+              "url": "https://live404.ai.studio/api/korasport/stream/bein2-720p.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
-              "referer": "",
+              "referer": "https://live404.ai.studio/",
               "order": 1
             },
             {
               "channel_name": "beIN SPORTS 3",
-              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677059.ts",
+              "url": "https://live404.ai.studio/api/korasport/stream/bein3-720p.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
-              "referer": "",
+              "referer": "https://live404.ai.studio/",
               "order": 2
             },
             {
               "channel_name": "beIN SPORTS 4",
-              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677060.ts",
+              "url": "https://live404.ai.studio/api/korasport/stream/bein4-720p.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
-              "referer": "",
+              "referer": "https://live404.ai.studio/",
               "order": 3
             },
             {
               "channel_name": "beIN SPORTS 5",
-              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677061.ts",
+              "url": "https://live404.ai.studio/api/korasport/stream/bein5-720p.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
-              "referer": "",
+              "referer": "https://live404.ai.studio/",
               "order": 4
             },
             {
