@@ -1243,21 +1243,6 @@
           "headers": {
             "Origin": "https://www.arena8x.live"
           }
-        },
-        {
-          "channel_name": "لايف كورة 1",
-          "url": "https://pub-d1b89ee189f04b8f8870acf9e868b3e0.r2.dev/live/kora1/index.jpg",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-          "referer": "https://8678hyg68.live78330.dpdns.org/",
-          "order": 3,
-          "headers": {
-            "Origin": "https://8678hyg68.live78330.dpdns.org",
-            "Host": "pub-d1b89ee189f04b8f8870acf9e868b3e0.r2.dev",
-            "cf-ray": "a4fad2049c03be2b-BGW"
-          }
         }
       ],
       "sub_categories": [],
