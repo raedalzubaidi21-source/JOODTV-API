@@ -1344,6 +1344,19 @@
           "user_agent": "",
           "referer": "https://api5.apidatadepot.shop/",
           "order": 12
+        },
+        {
+          "channel_name": "الكلاسيكو 14",
+          "url": "http://sharkiptvpro.xyz/live/gs72cd991v3/bd75veo92b3/569493.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+          "referer": "",
+          "order": 13,
+          "headers": {
+            "remo": "stream-of-REMO"
+          }
         }
       ],
       "sub_categories": [],
