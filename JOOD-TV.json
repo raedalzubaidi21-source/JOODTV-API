@@ -1347,7 +1347,7 @@
         },
         {
           "channel_name": "الكلاسيكو 14",
-          "url": "http://sharkiptvpro.xyz/live/gs72cd991v3/bd75veo92b3/569493.m3u8",
+          "url": "http://mag.tiger-ott.net/live/TN78EZ/9NPKXL/798828.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
@@ -1355,6 +1355,8 @@
           "referer": "",
           "order": 13,
           "headers": {
+            "Cookie": "remoTV-Faster",
+            "Host": "mag.tiger-ott.net",
             "remo": "stream-of-REMO"
           }
         }
