@@ -1230,6 +1230,16 @@
           "user_agent": "",
           "referer": "",
           "order": 1
+        },
+        {
+          "channel_name": "alwan 2",
+          "url": "https://a16.kora-plus.li/live/alwan2.m3u8?token=Bl9KB5tELFcGVyK89FO7yg-Rbic&exp=1792847711",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 2
         }
       ],
       "sub_categories": [],
