@@ -1222,19 +1222,6 @@
           "order": 0
         },
         {
-          "channel_name": "TOD 1 جودة متعددة",
-          "url": "https://smarter.majedcss.site/live/ch1/bb8685034ccb4dfea2f8019d6414b824.1792845191.1792855991.0.9c01b87af5de81c7eae60ca561253d4c2d4aa97a36b8f1add1c36b08687e5713/master.css",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-          "referer": "https://player.majed-koora.live/",
-          "order": 1,
-          "headers": {
-            "Origin": "https://player.majed-koora.live"
-          }
-        },
-        {
           "channel_name": "beIN SPORTS 1",
           "url": "https://ter.eroouden.lol/nova1.m3u8",
           "logo_url": "",
@@ -1242,7 +1229,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 2
+          "order": 1
         },
         {
           "channel_name": "beIN SPORTS 1 4K",
@@ -1252,7 +1239,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
           "referer": "https://www.arena8x.live/",
-          "order": 3,
+          "order": 2,
           "headers": {
             "Origin": "https://www.arena8x.live"
           }
@@ -1265,7 +1252,21 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 4
+          "order": 3
+        },
+        {
+          "channel_name": "TOD 1 جودة متعددة",
+          "url": "https://smarter.majedcss.site/live/ch1/bb8685034ccb4dfea2f8019d6414b824.1792845191.1792855991.0.9c01b87af5de81c7eae60ca561253d4c2d4aa97a36b8f1add1c36b08687e5713/master.css",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+          "referer": "https://player.majed-koora.live/",
+          "order": 4,
+          "headers": {
+            "Origin": "https://player.majed-koora.live",
+            "Host": "smarter.majedcss.site"
+          }
         }
       ],
       "sub_categories": [],
