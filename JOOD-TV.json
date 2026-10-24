@@ -1219,10 +1219,17 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 0,
-          "headers": {
-            "Host": "uruk.optikl.ink"
-          }
+          "order": 0
+        },
+        {
+          "channel_name": "alwan 1",
+          "url": "https://a16.kora-plus.li/live/alwan1.m3u8?token=DVpzFSRA17jiBhuUXrdTb1_U384&exp=1792847537",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 1
         }
       ],
       "sub_categories": [],
