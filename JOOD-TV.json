@@ -1253,19 +1253,6 @@
           "user_agent": "",
           "referer": "",
           "order": 3
-        },
-        {
-          "channel_name": "beIN SPORT 1-T",
-          "url": "http://vipxv.com/m-saied0208x/sa@0597717080x/368365",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "http://vipxv.com/",
-          "order": 4,
-          "headers": {
-            "Origin": "http://vipxv.com"
-          }
         }
       ],
       "sub_categories": [],
