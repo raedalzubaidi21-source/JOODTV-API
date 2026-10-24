@@ -1221,7 +1221,8 @@
           "referer": "https://www.w2.maziikaaaaa.shop/",
           "order": 0,
           "headers": {
-            "Origin": "https://www.w2.maziikaaaaa.shop"
+            "Origin": "https://www.w2.maziikaaaaa.shop",
+            "Host": "uruk.optikl.ink"
           }
         }
       ],
