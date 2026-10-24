@@ -1255,7 +1255,8 @@
           "order": 3,
           "headers": {
             "Origin": "https://8678hyg68.live78330.dpdns.org",
-            "Host": "pub-d1b89ee189f04b8f8870acf9e868b3e0.r2.dev"
+            "Host": "pub-d1b89ee189f04b8f8870acf9e868b3e0.r2.dev",
+            "cf-ray": "a4fad2049c03be2b-BGW"
           }
         }
       ],
