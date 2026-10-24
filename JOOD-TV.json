@@ -487,7 +487,7 @@
           "channels": [
             {
               "channel_name": "بين سبورت 1",
-              "url": "http://mag.tiger-ott.net/live/TN78EZ/9NPKXL/985188.m3u8",
+              "url": "",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -497,7 +497,7 @@
             },
             {
               "channel_name": "بين سبورت 2",
-              "url": "http://mag.tiger-ott.net/live/TN78EZ/9NPKXL/985189.m3u8",
+              "url": "https://d301g3x54eobfn.cloudfront.net/live/buz2/master.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -507,7 +507,7 @@
             },
             {
               "channel_name": "بين سبورت 3",
-              "url": "http://mag.tiger-ott.net/live/TN78EZ/9NPKXL/985190.m3u8",
+              "url": "https://d301g3x54eobfn.cloudfront.net/live/buz3/master.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -517,7 +517,7 @@
             },
             {
               "channel_name": "بين سبورت 4",
-              "url": "http://mag.tiger-ott.net/live/TN78EZ/9NPKXL/985191.m3u8",
+              "url": "https://d301g3x54eobfn.cloudfront.net/live/buz4/master.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -527,7 +527,7 @@
             },
             {
               "channel_name": "بين سبورت 5",
-              "url": "http://mag.tiger-ott.net/live/TN78EZ/9NPKXL/985192.m3u8",
+              "url": "https://d301g3x54eobfn.cloudfront.net/live/buz5/master.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -537,7 +537,7 @@
             },
             {
               "channel_name": "بين سبورت 6",
-              "url": "https://kaidn.pages.dev/104.m3u8",
+              "url": "https://d301g3x54eobfn.cloudfront.net/live/buz6/master.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -547,7 +547,7 @@
             },
             {
               "channel_name": "بين سبورت 7",
-              "url": "https://kaidn.pages.dev/105.m3u8",
+              "url": "https://d301g3x54eobfn.cloudfront.net/live/buz7/master.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -557,7 +557,7 @@
             },
             {
               "channel_name": "بين سبورت 8",
-              "url": "https://kaidn.pages.dev/106.m3u8",
+              "url": "https://d301g3x54eobfn.cloudfront.net/live/buz8/master.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
@@ -567,7 +567,7 @@
             },
             {
               "channel_name": "بين سبورت 9",
-              "url": "https://kaidn.pages.dev/107.m3u8",
+              "url": "https://d301g3x54eobfn.cloudfront.net/live/buz9/master.m3u8",
               "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
