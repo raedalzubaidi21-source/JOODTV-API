@@ -1210,7 +1210,18 @@
     },
     {
       "category_name": "قنوات رياضية وقت المباريات فقط",
-      "channels": [],
+      "channels": [
+        {
+          "channel_name": "beIN SPORTS 1",
+          "url": "https://uruk.optikl.ink/ostora/main.php?id=116900&cat=4524",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+          "referer": "https://www.w2.maziikaaaaa.shop/",
+          "order": 0
+        }
+      ],
       "sub_categories": [],
       "category_logo": "https://l.top4top.io/p_3944pq28q1.jpg"
     },
