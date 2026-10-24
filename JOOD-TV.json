@@ -1221,6 +1221,7 @@
           "referer": "https://www.w2.maziikaaaaa.shop/",
           "order": 0,
           "headers": {
+            "Origin": "https://www.w2.maziikaaaaa.shop",
             "Content-Type": "text/html; charset=UTF-8"
           }
         }
