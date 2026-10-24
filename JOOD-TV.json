@@ -1265,7 +1265,8 @@
           "order": 4,
           "headers": {
             "Origin": "https://player.majed-koora.live",
-            "Host": "smarter.majedcss.site"
+            "Host": "smarter.majedcss.site",
+            "Sec-Ch-Ua": "\"Google Chrome\";v=\"155\", \"Chromium\";v=\"155\", \"Not(A:Brand\";v=\"24\""
           }
         }
       ],
