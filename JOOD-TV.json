@@ -1232,24 +1232,17 @@
           "order": 1
         },
         {
-          "channel_name": "alwan 1",
-          "url": "https://a16.kora-plus.li/live/alwan1.m3u8?token=DVpzFSRA17jiBhuUXrdTb1_U384&exp=1792847537",
+          "channel_name": "beIN SPORTS 1 4K",
+          "url": "https://live-cdn.ryazanslah3.space/hls/bein1.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 2
-        },
-        {
-          "channel_name": "alwan 2",
-          "url": "https://a16.kora-plus.li/live/alwan2.m3u8?token=Bl9KB5tELFcGVyK89FO7yg-Rbic&exp=1792847711",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 3
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+          "referer": "https://www.arena8x.live/",
+          "order": 2,
+          "headers": {
+            "Origin": "https://www.arena8x.live"
+          }
         }
       ],
       "sub_categories": [],
