@@ -1377,6 +1377,16 @@
           "user_agent": "",
           "referer": "",
           "order": 15
+        },
+        {
+          "channel_name": "كلاسيكو فيسبوك 2",
+          "url": "https://scontent.fisu9-1.fna.fbcdn.net/hvideo-lla-odn/_nc_cat-1/_nc_sr_t-4/v/rASe75-g2ejGl3RS6cRYKTd4LfB4AJpcHK6daU6BJD-rFrw/_nc_ohc-9LuYaehp3UYQ7kNvwHjiOuN/live-dash/dash-abr-ibr-audio/122124335595455083.mpd?_nc_eui2=AeEzibjvdXkhTjz8QVb8eXFYIykkW6y68ikjKSRbrLryKR_5gFFhN7NsklM_0d0ooNPlQyYgYfBRy9CcerZ-9YKi&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQNWL_KTlep9aZVhwP2rwUP5Mj_lRteKyP3b7Iyv7GNaoQ&oe=6AE02411",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 16
         }
       ],
       "sub_categories": [],
