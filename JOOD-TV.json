@@ -1007,6 +1007,19 @@
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
+            },
+            {
+              "channel_name": "beIN SPORTS SUPER 2",
+              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b2_SD",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "stv2026",
+              "referer": "",
+              "order": 6,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
