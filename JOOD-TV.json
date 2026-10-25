@@ -106,9 +106,9 @@
           "sub_category_name": "بين سبورت IPTV",
           "channels": [
             {
-              "channel_name": "الكلاسيكو سوبر 1",
+              "channel_name": "beIN SUPER 1",
               "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b1_SD",
-              "logo_url": "",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "stv2026",
@@ -119,14 +119,53 @@
               }
             },
             {
-              "channel_name": "beIN SPORTS SUPER 2",
+              "channel_name": "beIN SUPER 2",
               "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b2_SD",
-              "logo_url": "",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "stv2026",
               "referer": "",
               "order": 1,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
+            },
+            {
+              "channel_name": "beIN SUPER 3",
+              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b3_SD",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "stv2026",
+              "referer": "",
+              "order": 2,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
+            },
+            {
+              "channel_name": "beIN SUPER 4",
+              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b4_SD",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "stv2026",
+              "referer": "",
+              "order": 3,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
+            },
+            {
+              "channel_name": "beIN SUPER 5",
+              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b5_SD",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "stv2026",
+              "referer": "",
+              "order": 4,
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
