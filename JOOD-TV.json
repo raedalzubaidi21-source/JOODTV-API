@@ -1212,16 +1212,6 @@
       "category_name": "برشلونة ضد ريال مدريد",
       "channels": [
         {
-          "channel_name": "الكلاسيكو 1",
-          "url": "http://45.67.56.78/Sport1/index.m3u8",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 0
-        },
-        {
           "channel_name": "الكلاسيكو تود -1",
           "url": "https://castx.online/hls/bein-sports-1/index.m3u8",
           "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
@@ -1229,61 +1219,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
           "referer": "https://milanoiq.site/",
-          "order": 1
-        },
-        {
-          "channel_name": "الكلاسيكو 2",
-          "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/693172.m3u8",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "https://pl.matchlivehd.com/",
-          "order": 2
-        },
-        {
-          "channel_name": "الكلاسيكو 3",
-          "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1316.css?token=aDN3Y01NUlN5d3pZZlZL",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "OSCARTV2021",
-          "referer": "",
-          "order": 3
-        },
-        {
-          "channel_name": "الكلاسيكو 4",
-          "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=1",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "MTX Player",
-          "referer": "",
-          "order": 4,
-          "headers": {
-            "Origin": "http://localhost",
-            "X-ToFi": "tofixtv"
-          }
-        },
-        {
-          "channel_name": "الكلاسيكو 5",
-          "url": "https://d301g3x54eobfn.cloudfront.net/live/buz1/master.m3u8",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 5
-        },
-        {
-          "channel_name": "الكلاسيكو 6",
-          "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1316.css?x=/hls/&token=aW5tR2diU21waHgyenN4",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "OSCARTV2021",
-          "referer": "",
-          "order": 6
+          "order": 0
         },
         {
           "channel_name": "الكلاسيكو 7",
@@ -1293,17 +1229,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 7
-        },
-        {
-          "channel_name": "الكلاسيكو 8",
-          "url": "http://vipxv.com/m-saied0208x/sa@0597717080x/368395",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "http://vipxv.com/",
-          "order": 8
+          "order": 1
         },
         {
           "channel_name": "الكلاسيكو 9",
@@ -1313,27 +1239,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
           "referer": "https://v1.sisi20.top/sw.js/",
-          "order": 9
-        },
-        {
-          "channel_name": "الكلاسيكو 12",
-          "url": "https://blcco.linkip.org/live/3461_.m3u8",
-          "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 10
-        },
-        {
-          "channel_name": "الكلاسيكو 13",
-          "url": "https://castx.online/hls/local-mejarserver-ftv1-hd/index.m3u8",
-          "logo_url": "https://up6.cc/2026/07/178450190607411.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "...",
-          "referer": "",
-          "order": 11
+          "order": 2
         },
         {
           "channel_name": "الكلاسيكو 14",
@@ -1343,7 +1249,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
           "referer": "",
-          "order": 12
+          "order": 3
         },
         {
           "channel_name": "الكلاسيكو كورة سيتي",
@@ -1353,7 +1259,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 13
+          "order": 4
         },
         {
           "channel_name": "الكلاسيكو سوبر 1",
@@ -1363,30 +1269,10 @@
           "drm_key": "",
           "user_agent": "stv2026",
           "referer": "",
-          "order": 14,
+          "order": 5,
           "headers": {
             "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
-        },
-        {
-          "channel_name": "كلاسيكو فيسبوك 1",
-          "url": "https://scontent.fisu9-1.fna.fbcdn.net/hvideo-lla-odn/_nc_cat-1/_nc_sr_t-4/v/rASe75-g2ejGl3RS6cRYKTd4LfB4AJpcHK6daU6BJD-rFrw/_nc_ohc-9LuYaehp3UYQ7kNvwHjiOuN/live-dash/dash-abr-ibr-audio/122124335595455083.mpd?_nc_eui2=AeEzibjvdXkhTjz8QVb8eXFYIykkW6y68ikjKSRbrLryKR_5gFFhN7NsklM_0d0ooNPlQyYgYfBRy9CcerZ-9YKi&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQNWL_KTlep9aZVhwP2rwUP5Mj_lRteKyP3b7Iyv7GNaoQ&oe=6AE02411",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 15
-        },
-        {
-          "channel_name": "كلاسيكو فيسبوك 2",
-          "url": "https://scontent.fisu9-1.fna.fbcdn.net/hvideo-lla-odn/_nc_cat-1/_nc_sr_t-4/v/rASe75-g2ejGl3RS6cRYKTd4LfB4AJpcHK6daU6BJD-rFrw/_nc_ohc-9LuYaehp3UYQ7kNvwHjiOuN/live-dash/dash-abr-ibr-audio/122124335595455083.mpd?_nc_eui2=AeEzibjvdXkhTjz8QVb8eXFYIykkW6y68ikjKSRbrLryKR_5gFFhN7NsklM_0d0ooNPlQyYgYfBRy9CcerZ-9YKi&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQNWL_KTlep9aZVhwP2rwUP5Mj_lRteKyP3b7Iyv7GNaoQ&oe=6AE02411",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 16
         }
       ],
       "sub_categories": [],
