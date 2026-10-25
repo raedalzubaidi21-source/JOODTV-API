@@ -1306,6 +1306,19 @@
           "order": 8
         },
         {
+          "channel_name": "الكلاسيكو 9",
+          "url": "https://v1.sisi20.top/broadcast/HD8aNcemmQ6CjjPMOIXzUw/1792949213/1792948952/1/bein101.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+          "referer": "https://v1.sisi20.top/p.php?ch=bein101/",
+          "order": 9,
+          "headers": {
+            "Origin": "https://v1.sisi20.top/p.php?ch=bein101"
+          }
+        },
+        {
           "channel_name": "الكلاسيكو 12",
           "url": "https://blcco.linkip.org/live/3461_.m3u8",
           "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
@@ -1313,7 +1326,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 9
+          "order": 10
         },
         {
           "channel_name": "الكلاسيكو 13",
@@ -1323,16 +1336,6 @@
           "drm_key": "",
           "user_agent": "...",
           "referer": "",
-          "order": 10
-        },
-        {
-          "channel_name": "الكلاسيكو 14",
-          "url": "https://api5.apidatadepot.shop/sokaspr/rgtpiwcicfme/index.html",
-          "logo_url": "https://e.top4top.io/p_3877lfle30.jpeg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "https://api5.apidatadepot.shop/",
           "order": 11
         },
         {
