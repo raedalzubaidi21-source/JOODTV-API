@@ -1344,6 +1344,20 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
           "referer": "",
           "order": 12
+        },
+        {
+          "channel_name": "تجريب",
+          "url": "https://912ac5c8a38e08cd2.live--koora.com/kooora/6f86bdcseds02ss00s01sddsxmax1ss_sc_hd?ts=1792941963&nonce=RvE2wdn&token=3bd5b956a52e1aebccd248d95fde990d&sid=9febbc22f0783677692ef0b4e0b0aff6",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+          "referer": "https://912acsss8af382.sirtv.top/",
+          "order": 13,
+          "license_url": "https://912acsss8af382.sirtv.top/playerv5.php?match=4742022&key=9f39972b67d6ce22189507d008acwc26",
+          "headers": {
+            "Origin": "https://912acsss8af382.sirtv.top"
+          }
         }
       ],
       "sub_categories": [],
