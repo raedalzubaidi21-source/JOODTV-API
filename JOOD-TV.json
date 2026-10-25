@@ -1347,16 +1347,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
           "referer": "",
           "order": 12
-        },
-        {
-          "channel_name": "تجريب",
-          "url": "https://n1.sirftv.com/hard/2908c7d4425d87350.html?match=4742022",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-          "referer": "https://n1.sirftv.com/hard/2908c7d4425d87350.html?match=4742022",
-          "order": 13
         }
       ],
       "sub_categories": [],
