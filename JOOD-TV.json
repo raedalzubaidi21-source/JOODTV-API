@@ -1347,6 +1347,32 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
           "referer": "",
           "order": 12
+        },
+        {
+          "channel_name": "test",
+          "url": "https://jqyjghfms1mu8zcd1.live--koora.com/kooora/6f86qbdsdeffsfgin8888_sc_hd?ts=1792951511&nonce=G6KF13qv&token=29b53af79861d86302bacd4ebac889ae&sid=c0c0d18a448d60d01d775979611b5eca",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+          "referer": "https://912acsss8af382.sirtv.top/",
+          "order": 13,
+          "headers": {
+            "Origin": "https://912acsss8af382.sirtv.top",
+            "Accept": "*/*",
+            "X-Requested-With": "http://com.sirtv.tv/",
+            "sec-ch-ua": "\"Android WebView\";v=\"155\", \"Chromium\";v=\"155\", \"Not(A:Brand\";v=\"24\"",
+            ":authority": "http://jqyjghfms1mu8zcd1.live--koora.com/",
+            ":path": "/kooora/6f86qbdsdeffsfgin8888_sc_hd?ts=1792951511&nonce=G6KF13qv&token=29b53af79861d86302bacd4ebac889ae&sid=c0c0d18a448d60d01d775979611b5eca",
+            ":scheme": "https",
+            "sec-ch-ua-platform": "\"Android\"",
+            "sec-fetch-site": "cross-site",
+            "sec-fetch-mode": "cors",
+            "sec-fetch-dest": "empty",
+            "accept-encoding": "gzip, deflate, br, zstd",
+            "accept-language": "ar-IQ,ar;q=0.9,en-US;q=0.8,en;q=0.7",
+            "priority": "u=1, i"
+          }
         }
       ],
       "sub_categories": [],
