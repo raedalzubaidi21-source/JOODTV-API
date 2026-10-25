@@ -1347,19 +1347,6 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
           "referer": "",
           "order": 12
-        },
-        {
-          "channel_name": "تجريبية",
-          "url": "https://pub-cf075eb975f041e19da32eb8347f23b1.r2.dev/live/kora1/index.jpg",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-          "referer": "https://8678hyg68.live78330.dpdns.org/",
-          "order": 13,
-          "headers": {
-            "Origin": "https://8678hyg68.live78330.dpdns.org"
-          }
         }
       ],
       "sub_categories": [],
