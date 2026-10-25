@@ -893,6 +893,16 @@
               "user_agent": "",
               "referer": "",
               "order": 4
+            },
+            {
+              "channel_name": "beIN d 6",
+              "url": "https://dudjtmsjowdkw.cloudfront.net/bein6/720p/manifest.m3u8",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 5
             }
           ],
           "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg"
