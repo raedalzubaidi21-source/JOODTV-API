@@ -1222,6 +1222,16 @@
           "order": 0
         },
         {
+          "channel_name": "الكلاسيكو تود -1",
+          "url": "https://castx.online/hls/bein-sports-1/index.m3u8",
+          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+          "referer": "https://milanoiq.site/",
+          "order": 1
+        },
+        {
           "channel_name": "الكلاسيكو 2",
           "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/693172.m3u8",
           "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
@@ -1229,7 +1239,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "https://pl.matchlivehd.com/",
-          "order": 1
+          "order": 2
         },
         {
           "channel_name": "الكلاسيكو 3",
@@ -1239,7 +1249,7 @@
           "drm_key": "",
           "user_agent": "OSCARTV2021",
           "referer": "",
-          "order": 2
+          "order": 3
         },
         {
           "channel_name": "الكلاسيكو 4",
@@ -1249,7 +1259,7 @@
           "drm_key": "",
           "user_agent": "MTX Player",
           "referer": "",
-          "order": 3,
+          "order": 4,
           "headers": {
             "Origin": "http://localhost",
             "X-ToFi": "tofixtv"
@@ -1263,7 +1273,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 4
+          "order": 5
         },
         {
           "channel_name": "الكلاسيكو 6",
@@ -1273,7 +1283,7 @@
           "drm_key": "",
           "user_agent": "OSCARTV2021",
           "referer": "",
-          "order": 5
+          "order": 6
         },
         {
           "channel_name": "الكلاسيكو 7",
@@ -1283,16 +1293,6 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 6
-        },
-        {
-          "channel_name": "الكلاسيكو 8",
-          "url": "https://castx.online/hls/bein-sports-1/index.m3u8",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-          "referer": "https://milanoiq.site/",
           "order": 7
         },
         {
