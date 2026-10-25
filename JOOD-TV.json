@@ -944,7 +944,71 @@
         },
         {
           "sub_category_name": "بين سبورت مختلط",
-          "channels": [],
+          "channels": [
+            {
+              "channel_name": "الكلاسيكو تود -1",
+              "url": "https://castx.online/hls/bein-sports-1/index.m3u8",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+              "referer": "https://milanoiq.site/",
+              "order": 0
+            },
+            {
+              "channel_name": "الكلاسيكو 7",
+              "url": "https://ds0o9oo1k90qo.cloudfront.net/ytv/d9fcc6b4e86c4041/index.m3u8",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 1
+            },
+            {
+              "channel_name": "الكلاسيكو 9",
+              "url": "https://v1.sisi20.top/broadcast/lcx4_16aesopusjjOItvgg/1792957992/1792957731/1/bein101.m3u8",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+              "referer": "https://v1.sisi20.top/sw.js/",
+              "order": 2
+            },
+            {
+              "channel_name": "الكلاسيكو 14",
+              "url": "https://sr.oz-tv.space/bein_sport_1/tracks-v1a1/mono.m3u8?token=a3JKOG03dHl2MHlJdTJ5cFoyN0JSaWdPVzgwVmluSml3SFFMWEZ0cm50Qm1Jb0dVMnZRMkVuUjdJemVsUloyWEV5YlJoRnpuMmxuUjliWFYrbEJ6WGNZVzFoQjZXMCtpK1REWUovTDcxQ08xU01LbXYrY1pYTU5mOHNYWjlkdVEtMTIyLjEwMi4xMTkuNDAtMTc5Mjg4NjY2OC0xNzkyOTA4MjY4",
+              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+              "referer": "",
+              "order": 3
+            },
+            {
+              "channel_name": "الكلاسيكو كورة سيتي",
+              "url": "https://ter.eroouden.lol/yalen2.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 4
+            },
+            {
+              "channel_name": "الكلاسيكو سوبر 1",
+              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b1_SD",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "stv2026",
+              "referer": "",
+              "order": 5,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
+            }
+          ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
         },
         {
@@ -1119,71 +1183,7 @@
     },
     {
       "category_name": "برشلونة ضد ريال مدريد",
-      "channels": [
-        {
-          "channel_name": "الكلاسيكو تود -1",
-          "url": "https://castx.online/hls/bein-sports-1/index.m3u8",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-          "referer": "https://milanoiq.site/",
-          "order": 0
-        },
-        {
-          "channel_name": "الكلاسيكو 7",
-          "url": "https://ds0o9oo1k90qo.cloudfront.net/ytv/d9fcc6b4e86c4041/index.m3u8",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 1
-        },
-        {
-          "channel_name": "الكلاسيكو 9",
-          "url": "https://v1.sisi20.top/broadcast/lcx4_16aesopusjjOItvgg/1792957992/1792957731/1/bein101.m3u8",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-          "referer": "https://v1.sisi20.top/sw.js/",
-          "order": 2
-        },
-        {
-          "channel_name": "الكلاسيكو 14",
-          "url": "https://sr.oz-tv.space/bein_sport_1/tracks-v1a1/mono.m3u8?token=a3JKOG03dHl2MHlJdTJ5cFoyN0JSaWdPVzgwVmluSml3SFFMWEZ0cm50Qm1Jb0dVMnZRMkVuUjdJemVsUloyWEV5YlJoRnpuMmxuUjliWFYrbEJ6WGNZVzFoQjZXMCtpK1REWUovTDcxQ08xU01LbXYrY1pYTU5mOHNYWjlkdVEtMTIyLjEwMi4xMTkuNDAtMTc5Mjg4NjY2OC0xNzkyOTA4MjY4",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-          "referer": "",
-          "order": 3
-        },
-        {
-          "channel_name": "الكلاسيكو كورة سيتي",
-          "url": "https://ter.eroouden.lol/yalen2.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 4
-        },
-        {
-          "channel_name": "الكلاسيكو سوبر 1",
-          "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b1_SD",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "stv2026",
-          "referer": "",
-          "order": 5,
-          "headers": {
-            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
-          }
-        }
-      ],
+      "channels": [],
       "sub_categories": [],
       "category_logo": "https://c.top4top.io/p_3949om7kh0.jpeg"
     },
