@@ -1347,18 +1347,13 @@
         },
         {
           "channel_name": "الكلاسيكو 14",
-          "url": "http://mag.tiger-ott.net/live/TN78EZ/9NPKXL/798828.m3u8",
+          "url": "https://sr.oz-tv.space/bein_sport_1/tracks-v1a1/mono.m3u8?token=a3JKOG03dHl2MHlJdTJ5cFoyN0JSaWdPVzgwVmluSml3SFFMWEZ0cm50Qm1Jb0dVMnZRMkVuUjdJemVsUloyWEV5YlJoRnpuMmxuUjliWFYrbEJ6WGNZVzFoQjZXMCtpK1REWUovTDcxQ08xU01LbXYrY1pYTU5mOHNYWjlkdVEtMTIyLjEwMi4xMTkuNDAtMTc5Mjg4NjY2OC0xNzkyOTA4MjY4",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
           "referer": "",
-          "order": 13,
-          "headers": {
-            "Cookie": "remoTV-Faster",
-            "Host": "mag.tiger-ott.net",
-            "remo": "stream-of-REMO"
-          }
+          "order": 13
         }
       ],
       "sub_categories": [],
