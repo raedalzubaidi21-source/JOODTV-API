@@ -104,78 +104,7 @@
         },
         {
           "sub_category_name": "بين سبورت IPTV",
-          "channels": [
-            {
-              "channel_name": "beIN SPORTS 1",
-              "url": "https://live404.ai.studio/api/korasport/stream/bein1-720p.m3u8",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "https://live404.ai.studio/",
-              "order": 0
-            },
-            {
-              "channel_name": "beIN SPORTS 2",
-              "url": "https://live404.ai.studio/api/korasport/stream/bein2-720p.m3u8",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "https://live404.ai.studio/",
-              "order": 1
-            },
-            {
-              "channel_name": "beIN SPORTS 3",
-              "url": "https://live404.ai.studio/api/korasport/stream/bein3-720p.m3u8",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "https://live404.ai.studio/",
-              "order": 2
-            },
-            {
-              "channel_name": "beIN SPORTS 4",
-              "url": "https://live404.ai.studio/api/korasport/stream/bein4-720p.m3u8",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "https://live404.ai.studio/",
-              "order": 3
-            },
-            {
-              "channel_name": "beIN SPORTS 5",
-              "url": "https://live404.ai.studio/api/korasport/stream/bein5-720p.m3u8",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "https://live404.ai.studio/",
-              "order": 4
-            },
-            {
-              "channel_name": "beIN SPORTS 6",
-              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677062.ts",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Linux; Android 16; TECNO CL6 Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/153.0.8010.36 Mobile Safari/537.36 Vinebre",
-              "referer": "http://localhost",
-              "order": 5
-            },
-            {
-              "channel_name": "beIN SPORTS 7",
-              "url": "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677063.ts",
-              "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 6
-            }
-          ],
+          "channels": [],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
         },
         {
