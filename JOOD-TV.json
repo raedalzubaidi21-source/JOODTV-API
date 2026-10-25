@@ -1223,77 +1223,67 @@
         },
         {
           "channel_name": "الكلاسيكو 2",
-          "url": "https://live404.ai.studio/api/korasport/stream/bein1-720p.m3u8",
-          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "https://live404.ai.studio/",
-          "order": 1
-        },
-        {
-          "channel_name": "الكلاسيكو 3",
           "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/693172.m3u8",
           "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "",
           "referer": "https://pl.matchlivehd.com/",
-          "order": 2
+          "order": 1
         },
         {
-          "channel_name": "الكلاسيكو 4",
+          "channel_name": "الكلاسيكو 3",
           "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1316.css?token=aDN3Y01NUlN5d3pZZlZL",
           "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "OSCARTV2021",
           "referer": "",
-          "order": 3
+          "order": 2
         },
         {
-          "channel_name": "الكلاسيكو 5",
+          "channel_name": "الكلاسيكو 4",
           "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=1",
           "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "MTX Player",
           "referer": "",
-          "order": 4,
+          "order": 3,
           "headers": {
             "Origin": "http://localhost",
             "X-ToFi": "tofixtv"
           }
         },
         {
-          "channel_name": "الكلاسيكو 7",
+          "channel_name": "الكلاسيكو 5",
           "url": "https://d301g3x54eobfn.cloudfront.net/live/buz1/master.m3u8",
           "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 5
+          "order": 4
         },
         {
-          "channel_name": "الكلاسيكو 8",
+          "channel_name": "الكلاسيكو 6",
           "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1316.css?x=/hls/&token=aW5tR2diU21waHgyenN4",
           "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "OSCARTV2021",
           "referer": "",
-          "order": 6
+          "order": 5
         },
         {
-          "channel_name": "الكلاسيكو 9",
+          "channel_name": "الكلاسيكو 7",
           "url": "http://103.209.129.233/live/KZAJY02MDNKW74R/smqSyzjC65/987011.m3u8?token=ShNaUBdYGlhBBg5UXw5WDwJTCl0AUgVQUFNSUV4IUgQAA1ABUAUBWlRHG0EVTEBdAAlmDVQUWw1dAFFUVxVDFEJUQG4NVBpYQVEOVVQBAQxDSBsQWVsEFl8HTUcWUAVDCxMBAlIEDkBPR1IbEl1AVgAIZgBVQAhXABVbCxNVDU0TXlxuAFVVAw0BFVlECBAUQw1KFBIMD0EJW01HBFAVE1BFVxNeEgFTVkcbQQVXR1YVFkBGChQ0Z0cbQwAeTQQPQlhdX0YKGg9QEA9BShpbSz4WXBdERARVCFITR1wbUUMdE19QHG9bDQ0LUgASUV1WEkYDRgEUTRYIWA8MElYTPkFYVhNeEgpWVFABQRs=",
           "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 7
+          "order": 6
         },
         {
           "channel_name": "الكلاسيكو 10",
@@ -1303,7 +1293,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 8
+          "order": 7
         },
         {
           "channel_name": "الكلاسيكو 11",
@@ -1313,7 +1303,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "http://vipxv.com/",
-          "order": 9
+          "order": 8
         },
         {
           "channel_name": "الكلاسيكو 12",
@@ -1323,7 +1313,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 10
+          "order": 9
         },
         {
           "channel_name": "الكلاسيكو 13",
@@ -1333,7 +1323,7 @@
           "drm_key": "",
           "user_agent": "...",
           "referer": "",
-          "order": 11
+          "order": 10
         },
         {
           "channel_name": "الكلاسيكو 14",
@@ -1343,7 +1333,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "https://api5.apidatadepot.shop/",
-          "order": 12
+          "order": 11
         },
         {
           "channel_name": "الكلاسيكو 14",
@@ -1353,7 +1343,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
           "referer": "",
-          "order": 13
+          "order": 12
         }
       ],
       "sub_categories": [],
