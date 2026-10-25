@@ -1307,16 +1307,13 @@
         },
         {
           "channel_name": "الكلاسيكو 9",
-          "url": "https://v1.sisi20.top/broadcast/HD8aNcemmQ6CjjPMOIXzUw/1792949213/1792948952/1/bein101.m3u8",
+          "url": "https://v1.sisi20.top/broadcast/lcx4_16aesopusjjOItvgg/1792957992/1792957731/1/bein101.m3u8",
           "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-          "referer": "https://v1.sisi20.top/p.php?ch=bein101/",
-          "order": 9,
-          "headers": {
-            "Origin": "https://v1.sisi20.top/p.php?ch=bein101"
-          }
+          "referer": "https://v1.sisi20.top/sw.js/",
+          "order": 9
         },
         {
           "channel_name": "الكلاسيكو 12",
@@ -1341,7 +1338,7 @@
         {
           "channel_name": "الكلاسيكو 14",
           "url": "https://sr.oz-tv.space/bein_sport_1/tracks-v1a1/mono.m3u8?token=a3JKOG03dHl2MHlJdTJ5cFoyN0JSaWdPVzgwVmluSml3SFFMWEZ0cm50Qm1Jb0dVMnZRMkVuUjdJemVsUloyWEV5YlJoRnpuMmxuUjliWFYrbEJ6WGNZVzFoQjZXMCtpK1REWUovTDcxQ08xU01LbXYrY1pYTU5mOHNYWjlkdVEtMTIyLjEwMi4xMTkuNDAtMTc5Mjg4NjY2OC0xNzkyOTA4MjY4",
-          "logo_url": "",
+          "logo_url": "https://l.top4top.io/p_3934pdipw0.jpg",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
