@@ -104,7 +104,34 @@
         },
         {
           "sub_category_name": "بين سبورت IPTV",
-          "channels": [],
+          "channels": [
+            {
+              "channel_name": "الكلاسيكو سوبر 1",
+              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b1_SD",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "stv2026",
+              "referer": "",
+              "order": 0,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
+            },
+            {
+              "channel_name": "beIN SPORTS SUPER 2",
+              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b2_SD",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "stv2026",
+              "referer": "",
+              "order": 1,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
+            }
+          ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
         },
         {
@@ -923,32 +950,6 @@
               "user_agent": "",
               "referer": "",
               "order": 4
-            },
-            {
-              "channel_name": "الكلاسيكو سوبر 1",
-              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b1_SD",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "stv2026",
-              "referer": "",
-              "order": 5,
-              "headers": {
-                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
-              }
-            },
-            {
-              "channel_name": "beIN SPORTS SUPER 2",
-              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b2_SD",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "stv2026",
-              "referer": "",
-              "order": 6,
-              "headers": {
-                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
-              }
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
