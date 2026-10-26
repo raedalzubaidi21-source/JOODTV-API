@@ -1135,7 +1135,21 @@
     },
     {
       "category_name": "برشلونة ضد ريال مدريد",
-      "channels": [],
+      "channels": [
+        {
+          "channel_name": "تجريبي",
+          "url": "https://igvx9jruqu7rsmmd5.live--koora.com/kooora/6f86bdcsedfssis02ss00d01dsxmax3333_hd-1793031294123.ts?st=035367b1bb89db116be6ad2a7e2fd634&exp=1793031420",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+          "referer": "https://912acsss8af382.sirtv.top/",
+          "order": 0,
+          "headers": {
+            "Origin": "https://912acsss8af382.sirtv.top"
+          }
+        }
+      ],
       "sub_categories": [],
       "category_logo": "https://c.top4top.io/p_3949om7kh0.jpeg"
     },
