@@ -4,167 +4,158 @@
       "category_name": "BEIN SPORT FULL HD",
       "category_logo": "https://g.top4top.io/p_3940txrdx0.jpg",
       "is_bein": true,
-      "sub_categories": [
+      "channels": [
         {
-          "sub_category_name": "بين سبورت 1",
-          "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
-          "channels": [
-            {"channel_name": "بين سبورت 1 - كويك نت", "url": "http://45.67.56.78/Sport1/index.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 0},
-            {"channel_name": "بين سبورت 1 - سوبر", "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b1_SD", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "stv2026", "referer": "", "order": 1, "headers": {"X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"}},
-            {"channel_name": "بين سبورت 1 - نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/693172.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "https://pl.matchlivehd.com/", "order": 2},
-            {"channel_name": "بين سبورت 1 - اوسكار", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1316.css?token=aDN3Y01NUlN5d3pZZlZL", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 3},
-            {"channel_name": "بين سبورت 1 - الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=1", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "MTX Player", "referer": "", "order": 4, "headers": {"Origin": "http://localhost", "X-ToFi": "tofixtv"}},
-            {"channel_name": "بين سبورت 1 - BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz1/master.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 5},
-            {"channel_name": "بين سبورت 1 - ريو", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1316.css?x=/hls/&token=aW5tR2diU21waHgyenN4", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 6},
-            {"channel_name": "بين سبورت 1 - جودة متوسطة", "url": "http://103.209.129.233/live/KZAJY02MDNKW74R/smqSyzjC65/987011.m3u8?token=ShNaUBdYGlhBBg5UXw5WDwJTCl0AUgVQUFNSUV4IUgQAA1ABUAUBWlRHG0EVTEBdAAlmDVQUWw1dAFFUVxVDFEJUQG4NVBpYQVEOVVQBAQxDSBsQWVsEFl8HTUcWUAVDCxMBAlIEDkBPR1IbEl1AVgAIZgBVQAhXABVbCxNVDU0TXlxuAFVVAw0BFVlECBAUQw1KFBIMD0EJW01HBFAVE1BFVxNeEgFTVkcbQQVXR1YVFkBGChQ0Z0cbQwAeTQQPQlhdX0YKGg9QEA9BShpbSz4WXBdERARVCFITR1wbUUMdE19QHG9bDQ0LUgASUV1WEkYDRgEUTRYIWA8MElYTPkFYVhNeEgpWVFABQRs=", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 7},
-            {"channel_name": "بين سبورت 1 - ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds1.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 8},
-            {"channel_name": "بين سبورت 1 - سوريا لايف", "url": "https://dudjtmsjowdkw.cloudfront.net/bein1/720p/manifest.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 9},
-            {"channel_name": "بين سبورت 1 - مختلط", "url": "https://castx.online/hls/bein-sports-1/index.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36", "referer": "https://milanoiq.site/", "order": 10},
-            {"channel_name": "بين سبورت 1 - الفجر", "url": "https://castx.online/hls/local-mejarserver-ftv1-hd/index.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "...", "referer": "", "order": 11},
-            {"channel_name": "بين سبورت 1 - الوان", "url": "https://blcco.linkip.org/live/3461_.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 12},
-            {"channel_name": "بين سبورت 1 - الوان سبورت", "url": "https://api5.apidatadepot.shop/sokaspr/rgtpiwcicfme/index.html", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "https://api5.apidatadepot.shop/", "order": 13}
-          ],
-          "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
+          "channel_name": "بين سبورت 1",
+          "logo_url": "https://j.top4top.io/p_3934fpp9i0.jpg",
+          "servers": [
+            {"name": "سيرفر كويك نت", "url": "http://45.67.56.78/Sport1/index.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر سوبر", "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b1_SD", "user_agent": "stv2026", "referer": "", "headers": {"X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"}},
+            {"name": "سيرفر نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/693172.m3u8", "user_agent": "", "referer": "https://pl.matchlivehd.com/"},
+            {"name": "سيرفر اوسكار", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1316.css?token=aDN3Y01NUlN5d3pZZlZL", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=1", "user_agent": "MTX Player", "referer": "", "headers": {"Origin": "http://localhost", "X-ToFi": "tofixtv"}},
+            {"name": "سيرفر BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz1/master.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريو", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1316.css?x=/hls/&token=aW5tR2diU21waHgyenN4", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر جودة متوسطة", "url": "http://103.209.129.233/live/KZAJY02MDNKW74R/smqSyzjC65/987011.m3u8?token=ShNaUBdYGlhBBg5UXw5WDwJTCl0AUgVQUFNSUV4IUgQAA1ABUAUBWlRHG0EVTEBdAAlmDVQUWw1dAFFUVxVDFEJUQG4NVBpYQVEOVVQBAQxDSBsQWVsEFl8HTUcWUAVDCxMBAlIEDkBPR1IbEl1AVgAIZgBVQAhXABVbCxNVDU0TXlxuAFVVAw0BFVlECBAUQw1KFBIMD0EJW01HBFAVE1BFVxNeEgFTVkcbQQVXR1YVFkBGChQ0Z0cbQwAeTQQPQlhdX0YKGg9QEA9BShpbSz4WXBdERARVCFITR1wbUUMdE19QHG9bDQ0LUgASUV1WEkYDRgEUTRYIWA8MElYTPkFYVhNeEgpWVFABQRs=", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds1.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر سوريا لايف", "url": "https://dudjtmsjowdkw.cloudfront.net/bein1/720p/manifest.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر مختلط", "url": "https://castx.online/hls/bein-sports-1/index.m3u8", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36", "referer": "https://milanoiq.site/"},
+            {"name": "سيرفر الفجر", "url": "https://castx.online/hls/local-mejarserver-ftv1-hd/index.m3u8", "user_agent": "...", "referer": ""},
+            {"name": "سيرفر الوان", "url": "https://blcco.linkip.org/live/3461_.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر الوان سبورت", "url": "https://api5.apidatadepot.shop/sokaspr/rgtpiwcicfme/index.html", "user_agent": "", "referer": "https://api5.apidatadepot.shop/"}
+          ]
         },
         {
-          "sub_category_name": "بين سبورت 2",
-          "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
-          "channels": [
-            {"channel_name": "بين سبورت 2 - كويك نت", "url": "http://45.67.56.78/Sport2/index.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 0},
-            {"channel_name": "بين سبورت 2 - سوبر", "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b2_SD", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "stv2026", "referer": "", "order": 1, "headers": {"X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"}},
-            {"channel_name": "بين سبورت 2 - نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/509057.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "https://pl.matchlivehd.com/", "order": 2},
-            {"channel_name": "بين سبورت 2 - اوسكار", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1325.css?token=NmxlTFVyS0thOHJPVXoz", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 3},
-            {"channel_name": "بين سبورت 2 - الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=2", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "MTX Player", "referer": "", "order": 4, "headers": {"X-ToFi": "tofixtv"}},
-            {"channel_name": "بين سبورت 2 - BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz2/master.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 5},
-            {"channel_name": "بين سبورت 2 - ريو", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1325.css?x=/hls/&token=ek84VXhqeFRKQ3VvcGlh", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 6},
-            {"channel_name": "بين سبورت 2 - جودة متوسطة", "url": "http://103.209.129.252/live/756GUW6PLRGQBYG/PMNmOZyjsk/987012.m3u8?token=ShNaUBdYGlhBVlQAUlsLWQBWXVwHAVIHAFYHBlVcUFRVAQsEBlUPA1FHG0EVTEBdAAlmDVQUWw1dAFFUVBVDFEJUQG4NVBpYQVEOVFYBBwxDSBsQWVsEFl8HTUcWUAVDCxMAAlQED1NQRxtBA0BGXRMKWAhvUgRCDFQER1xXFA1dHRBeCm9cBw4EWQdEAhAIQ0gbDUNGQw4LQg0JShsDCEVDU0UBEgJAW1AGQUoaUVcUCk0WSRRbFjBkQ0lEXBkVVF9BWAteGlhBCAQWXhoeGggXZhZVRRVGAFYMABQbW0MBEx4TCVFAPQAKWQ0DW0ZRDgpKRgoUUBZJFQwKCFAVDkNuQlgAEgJAUVEFV18aTw==", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 7},
-            {"channel_name": "بين سبورت 2 - ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds2.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 8},
-            {"channel_name": "بين سبورت 2 - سوريا لايف", "url": "https://dudjtmsjowdkw.cloudfront.net/bein2/720p/manifest.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 9},
-            {"channel_name": "بين سبورت 2 - الفجر", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1113.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 10},
-            {"channel_name": "بين سبورت 2 - الوان", "url": "https://blcco.linkip.org/live/3460_.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 11}
-          ],
-          "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
+          "channel_name": "بين سبورت 2",
+          "logo_url": "https://j.top4top.io/p_3934fpp9i0.jpg",
+          "servers": [
+            {"name": "سيرفر كويك نت", "url": "http://45.67.56.78/Sport2/index.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر سوبر", "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b2_SD", "user_agent": "stv2026", "referer": "", "headers": {"X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"}},
+            {"name": "سيرفر نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/509057.m3u8", "user_agent": "", "referer": "https://pl.matchlivehd.com/"},
+            {"name": "سيرفر اوسكار", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1325.css?token=NmxlTFVyS0thOHJPVXoz", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=2", "user_agent": "MTX Player", "referer": "", "headers": {"X-ToFi": "tofixtv"}},
+            {"name": "سيرفر BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz2/master.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريو", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1325.css?x=/hls/&token=ek84VXhqeFRKQ3VvcGlh", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر جودة متوسطة", "url": "http://103.209.129.252/live/756GUW6PLRGQBYG/PMNmOZyjsk/987012.m3u8?token=ShNaUBdYGlhBVlQAUlsLWQBWXVwHAVIHAFYHBlVcUFRVAQsEBlUPA1FHG0EVTEBdAAlmDVQUWw1dAFFUVBVDFEJUQG4NVBpYQVEOVFYBBwxDSBsQWVsEFl8HTUcWUAVDCxMAAlQED1NQRxtBA0BGXRMKWAhvUgRCDFQER1xXFA1dHRBeCm9cBw4EWQdEAhAIQ0gbDUNGQw4LQg0JShsDCEVDU0UBEgJAW1AGQUoaUVcUCk0WSRRbFjBkQ0lEXBkVVF9BWAteGlhBCAQWXhoeGggXZhZVRRVGAFYMABQbW0MBEx4TCVFAPQAKWQ0DW0ZRDgpKRgoUUBZJFQwKCFAVDkNuQlgAEgJAUVEFV18aTw==", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds2.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر سوريا لايف", "url": "https://dudjtmsjowdkw.cloudfront.net/bein2/720p/manifest.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر الفجر", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1113.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر الوان", "url": "https://blcco.linkip.org/live/3460_.m3u8", "user_agent": "", "referer": ""}
+          ]
         },
         {
-          "sub_category_name": "بين سبورت 3",
-          "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
-          "channels": [
-            {"channel_name": "بين سبورت 3 - كويك نت", "url": "http://45.67.56.78/Sport3/index.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 0},
-            {"channel_name": "بين سبورت 3 - سوبر", "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b3_SD", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "stv2026", "referer": "", "order": 1, "headers": {"X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"}},
-            {"channel_name": "بين سبورت 3 - نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/423346.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "https://pl.matchlivehd.com/", "order": 2},
-            {"channel_name": "بين سبورت 3 - اوسكار", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1334.css?token=eE84YWoySDY5MkowWFdY", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 3},
-            {"channel_name": "بين سبورت 3 - الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=3", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "MTX Player", "referer": "http://localhost/", "order": 4, "headers": {"X-ToFi": "tofixtv"}},
-            {"channel_name": "بين سبورت 3 - BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz3/master.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 5},
-            {"channel_name": "بين سبورت 3 - ريو", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1334.css?x=/hls/&token=VXF2Vld4QnBuRWNzanln", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 6},
-            {"channel_name": "بين سبورت 3 - جودة متوسطة", "url": "http://103.209.129.90/live/756GUW6PLRGQBYG/PMNmOZyjsk/18109.m3u8?token=ShNaUBdYGlhBUVRVVw1QXlRTDVdWBAVXVgQEVQcJBQAEAwdVXAkNWwFHG0EVTEBdAAlmDVQUWwVdBlFcShsUElRDbVgAEgJAV1wAU18NBhpNRk0NXVNDDlUbQxUPXUNbEwIEBVcGCldBSRUGHkxXSg8FVTtUUxddBlJDXwhMDQ0dE11fO1RdDwILU0FcGgIaTUZQF0AUW1oQWw1JRFsIFUNQRlRGChpaUVYVT0RbXU0PEEsdEgxDYTYVTUcDQRUEX0JbXgoSAkAOVkJbRBQQURI7SwFDQhNRBFoEF0QDQ1ETHRBcBUhnAQwLWQYFTFtXDxcbXhIHQxhHWg4LD00OE25BW1VGChpQVVAAU0RF", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 7},
-            {"channel_name": "بين سبورت 3 - ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds3.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 8},
-            {"channel_name": "بين سبورت 3 - سوريا لايف", "url": "https://dudjtmsjowdkw.cloudfront.net/bein3/720p/manifest.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 9},
-            {"channel_name": "بين سبورت 3 - الفجر", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1112.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 10},
-            {"channel_name": "بين سبورت 3 - الوان", "url": "https://blcco.linkip.org/live/3459_.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 11}
-          ],
-          "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
+          "channel_name": "بين سبورت 3",
+          "logo_url": "https://j.top4top.io/p_3934fpp9i0.jpg",
+          "servers": [
+            {"name": "سيرفر كويك نت", "url": "http://45.67.56.78/Sport3/index.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر سوبر", "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b3_SD", "user_agent": "stv2026", "referer": "", "headers": {"X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"}},
+            {"name": "سيرفر نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/423346.m3u8", "user_agent": "", "referer": "https://pl.matchlivehd.com/"},
+            {"name": "سيرفر اوسكار", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1334.css?token=eE84YWoySDY5MkowWFdY", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=3", "user_agent": "MTX Player", "referer": "http://localhost/", "headers": {"X-ToFi": "tofixtv"}},
+            {"name": "سيرفر BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz3/master.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريو", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1334.css?x=/hls/&token=VXF2Vld4QnBuRWNzanln", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر جودة متوسطة", "url": "http://103.209.129.90/live/756GUW6PLRGQBYG/PMNmOZyjsk/18109.m3u8?token=ShNaUBdYGlhBUVRVVw1QXlRTDVdWBAVXVgQEVQcJBQAEAwdVXAkNWwFHG0EVTEBdAAlmDVQUWwVdBlFcShsUElRDbVgAEgJAV1wAU18NBhpNRk0NXVNDDlUbQxUPXUNbEwIEBVcGCldBSRUGHkxXSg8FVTtUUxddBlJDXwhMDQ0dE11fO1RdDwILU0FcGgIaTUZQF0AUW1oQWw1JRFsIFUNQRlRGChpaUVYVT0RbXU0PEEsdEgxDYTYVTUcDQRUEX0JbXgoSAkAOVkJbRBQQURI7SwFDQhNRBFoEF0QDQ1ETHRBcBUhnAQwLWQYFTFtXDxcbXhIHQxhHWg4LD00OE25BW1VGChpQVVAAU0RF", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds3.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر سوريا لايف", "url": "https://dudjtmsjowdkw.cloudfront.net/bein3/720p/manifest.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر الفجر", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1112.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر الوان", "url": "https://blcco.linkip.org/live/3459_.m3u8", "user_agent": "", "referer": ""}
+          ]
         },
         {
-          "sub_category_name": "بين سبورت 4",
-          "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
-          "channels": [
-            {"channel_name": "بين سبورت 4 - كويك نت", "url": "http://45.67.56.78/Sport4/index.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 0},
-            {"channel_name": "بين سبورت 4 - سوبر", "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b4_SD", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "stv2026", "referer": "", "order": 1, "headers": {"X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"}},
-            {"channel_name": "بين سبورت 4 - نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/729735.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "https://pl.matchlivehd.com/", "order": 2},
-            {"channel_name": "بين سبورت 4 - اوسكار", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1343.css?token=aEl6ZmlnNjZoMlVScHJ0", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 3},
-            {"channel_name": "بين سبورت 4 - الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=4", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "MTX Player", "referer": "", "order": 4, "headers": {"X-ToFi": "tofixtv"}},
-            {"channel_name": "بين سبورت 4 - BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz4/master.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 5},
-            {"channel_name": "بين سبورت 4 - ريو", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1343.css?x=/hls/&token=VFJJRU5WdDAwbWpKeENW", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 6},
-            {"channel_name": "بين سبورت 4 - جودة متوسطة", "url": "http://103.209.129.94/live/756GUW6PLRGQBYG/PMNmOZyjsk/18108.m3u8?token=ShNaUBdYGlhBAQVaBwoECVBXDV0AUgJVXAZTUwVbVlUCUwtXUQkIBABHG0EVTEBdAAlmDVQUWwVdBlFdShsUElRDbVgAEgJAV1wAU18NBhpNRk0NXVNDDlUbQxUPXUNbEwABA1AGCFNBSRUGHkxXSg8FVTtUUxddBlJDXwhMDQ0dE11fO1RdDwILU0FcGgIaTUZQF0AUW1oQWw1JRFsIFUNQRlRGChpaV1MVT0RbXU0PEEsdEgxDYTYVTUcDQRUEX0JbXgoSAkAOVkJbRBQQURI7SwFDQhNRBFoEF0QDQ1ETHRBcBUhnAQwLWQYFTFtXDxcbXhIHQxhHWg4LD00OE25BW1VGChpRW1UCW1UPEEU=", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 7},
-            {"channel_name": "بين سبورت 4 - ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds4.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 8},
-            {"channel_name": "بين سبورت 4 - سوريا لايف", "url": "https://dudjtmsjowdkw.cloudfront.net/bein4/720p/manifest.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 9},
-            {"channel_name": "بين سبورت 4 - الفجر", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1111.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 10},
-            {"channel_name": "بين سبورت 4 - الوان", "url": "https://blcco.linkip.org/live/3458_.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 11}
-          ],
-          "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
+          "channel_name": "بين سبورت 4",
+          "logo_url": "https://j.top4top.io/p_3934fpp9i0.jpg",
+          "servers": [
+            {"name": "سيرفر كويك نت", "url": "http://45.67.56.78/Sport4/index.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر سوبر", "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b4_SD", "user_agent": "stv2026", "referer": "", "headers": {"X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"}},
+            {"name": "سيرفر نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/729735.m3u8", "user_agent": "", "referer": "https://pl.matchlivehd.com/"},
+            {"name": "سيرفر اوسكار", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1343.css?token=aEl6ZmlnNjZoMlVScHJ0", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=4", "user_agent": "MTX Player", "referer": "", "headers": {"X-ToFi": "tofixtv"}},
+            {"name": "سيرفر BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz4/master.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريو", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1343.css?x=/hls/&token=VFJJRU5WdDAwbWpKeENW", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر جودة متوسطة", "url": "http://103.209.129.94/live/756GUW6PLRGQBYG/PMNmOZyjsk/18108.m3u8?token=ShNaUBdYGlhBAQVaBwoECVBXDV0AUgJVXAZTUwVbVlUCUwtXUQkIBABHG0EVTEBdAAlmDVQUWwVdBlFdShsUElRDbVgAEgJAV1wAU18NBhpNRk0NXVNDDlUbQxUPXUNbEwABA1AGCFNBSRUGHkxXSg8FVTtUUxddBlJDXwhMDQ0dE11fO1RdDwILU0FcGgIaTUZQF0AUW1oQWw1JRFsIFUNQRlRGChpaV1MVT0RbXU0PEEsdEgxDYTYVTUcDQRUEX0JbXgoSAkAOVkJbRBQQURI7SwFDQhNRBFoEF0QDQ1ETHRBcBUhnAQwLWQYFTFtXDxcbXhIHQxhHWg4LD00OE25BW1VGChpRW1UCW1UPEEU=", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds4.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر سوريا لايف", "url": "https://dudjtmsjowdkw.cloudfront.net/bein4/720p/manifest.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر الفجر", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1111.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر الوان", "url": "https://blcco.linkip.org/live/3458_.m3u8", "user_agent": "", "referer": ""}
+          ]
         },
         {
-          "sub_category_name": "بين سبورت 5",
-          "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
-          "channels": [
-            {"channel_name": "بين سبورت 5 - كويك نت", "url": "http://45.67.56.78/Sport5/index.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 0},
-            {"channel_name": "بين سبورت 5 - سوبر", "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b5_SD", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "stv2026", "referer": "", "order": 1, "headers": {"X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"}},
-            {"channel_name": "بين سبورت 5 - نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/844940.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "https://x.com/", "order": 2},
-            {"channel_name": "بين سبورت 5 - اوسكار", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1571.css?token=WTNpbUUxWGh3bjJZSzFq", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 3},
-            {"channel_name": "بين سبورت 5 - الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=5", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "MTX Player", "referer": "", "order": 4, "headers": {"X-ToFi": "tofixtv"}},
-            {"channel_name": "بين سبورت 5 - BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz5/master.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 5},
-            {"channel_name": "بين سبورت 5 - ريو", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1571.css?x=/hls/&token=bkpLd0J6WGl6eHFKYnFh", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 6},
-            {"channel_name": "بين سبورت 5 - جودة متوسطة", "url": "http://103.209.129.172/live/756GUW6PLRGQBYG/PMNmOZyjsk/18107.m3u8?token=ShNaUBdYGlhBVAJVBVsDCQddAVVVAVYGUgMAVVIKAlcBUgUDBQheVQZHG0EVTEBdAAlmDVQUWwVdBlFSShsUElRDbVgAEgJAV1wAU18NBhpNRk0NXVNDDlUbQxUPXUNbEwAKBVAECFRBSRUGHkxXSg8FVTtUUxddBlJDXwhMDQ0dE11fO1RdDwILU0FcGgIaTUZQF0AUW1oQWw1JRFsIFUNQRlRGChpbU1wVT0RbXU0PEEsdEgxDYTYVTUcDQRUEX0JbXgoSAkAOVkJbRBQQURI7SwFDQhNRBFoEF0QDQ1ETHRBcBUhnAQwLWQYFTFtXDxcbXhIHQxhHWg4LD00OE25BW1VGChpTW1EDUF8MEEU=", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 7},
-            {"channel_name": "بين سبورت 5 - ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds5.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 8},
-            {"channel_name": "بين سبورت 5 - سوريا لايف", "url": "https://dudjtmsjowdkw.cloudfront.net/bein5/720p/manifest.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 9},
-            {"channel_name": "بين سبورت 5 - الفجر", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1110.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 10},
-            {"channel_name": "بين سبورت 5 - الوان", "url": "https://blcco.linkip.org/live/3457_.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 11}
-          ],
-          "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
+          "channel_name": "بين سبورت 5",
+          "logo_url": "https://j.top4top.io/p_3934fpp9i0.jpg",
+          "servers": [
+            {"name": "سيرفر كويك نت", "url": "http://45.67.56.78/Sport5/index.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر سوبر", "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b5_SD", "user_agent": "stv2026", "referer": "", "headers": {"X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"}},
+            {"name": "سيرفر نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/844940.m3u8", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "https://x.com/"},
+            {"name": "سيرفر اوسكار", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1571.css?token=WTNpbUUxWGh3bjJZSzFq", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=5", "user_agent": "MTX Player", "referer": "", "headers": {"X-ToFi": "tofixtv"}},
+            {"name": "سيرفر BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz5/master.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريو", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1571.css?x=/hls/&token=bkpLd0J6WGl6eHFKYnFh", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر جودة متوسطة", "url": "http://103.209.129.172/live/756GUW6PLRGQBYG/PMNmOZyjsk/18107.m3u8?token=ShNaUBdYGlhBVAJVBVsDCQddAVVVAVYGUgMAVVIKAlcBUgUDBQheVQZHG0EVTEBdAAlmDVQUWwVdBlFSShsUElRDbVgAEgJAV1wAU18NBhpNRk0NXVNDDlUbQxUPXUNbEwAKBVAECFRBSRUGHkxXSg8FVTtUUxddBlJDXwhMDQ0dE11fO1RdDwILU0FcGgIaTUZQF0AUW1oQWw1JRFsIFUNQRlRGChpbU1wVT0RbXU0PEEsdEgxDYTYVTUcDQRUEX0JbXgoSAkAOVkJbRBQQURI7SwFDQhNRBFoEF0QDQ1ETHRBcBUhnAQwLWQYFTFtXDxcbXhIHQxhHWg4LD00OE25BW1VGChpTW1EDUF8MEEU=", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds5.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر سوريا لايف", "url": "https://dudjtmsjowdkw.cloudfront.net/bein5/720p/manifest.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر الفجر", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1110.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر الوان", "url": "https://blcco.linkip.org/live/3457_.m3u8", "user_agent": "", "referer": ""}
+          ]
         },
         {
-          "sub_category_name": "بين سبورت 6",
-          "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
-          "channels": [
-            {"channel_name": "بين سبورت 6 - كويك نت", "url": "http://45.67.56.78/Sport6/index.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 0},
-            {"channel_name": "بين سبورت 6 - نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/984150.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "https://x.com/", "order": 1},
-            {"channel_name": "بين سبورت 6 - اوسكار", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1361.css?token=OTA5bnpWMlVlc2UwMEl1", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 2},
-            {"channel_name": "بين سبورت 6 - الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=6", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "MTX Player", "referer": "", "order": 3, "headers": {"X-ToFi": "tofixtv"}},
-            {"channel_name": "بين سبورت 6 - BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz6/master.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 4},
-            {"channel_name": "بين سبورت 6 - ريو", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1361.css?x=/hls/&token=eThmekU1YURFbGpkc0J3", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 5},
-            {"channel_name": "بين سبورت 6 - جودة متوسطة", "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652377?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 6},
-            {"channel_name": "بين سبورت 6 - ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds6.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 7},
-            {"channel_name": "بين سبورت 6 - سوريا لايف", "url": "https://dudjtmsjowdkw.cloudfront.net/bein6/720p/manifest.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 8},
-            {"channel_name": "بين سبورت 6 - الوان", "url": "https://blcco.linkip.org/live/3456_.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 9}
-          ],
-          "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
+          "channel_name": "بين سبورت 6",
+          "logo_url": "https://j.top4top.io/p_3934fpp9i0.jpg",
+          "servers": [
+            {"name": "سيرفر كويك نت", "url": "http://45.67.56.78/Sport6/index.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/984150.m3u8", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "https://x.com/"},
+            {"name": "سيرفر اوسكار", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1361.css?token=OTA5bnpWMlVlc2UwMEl1", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=6", "user_agent": "MTX Player", "referer": "", "headers": {"X-ToFi": "tofixtv"}},
+            {"name": "سيرفر BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz6/master.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريو", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1361.css?x=/hls/&token=eThmekU1YURFbGpkc0J3", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر جودة متوسطة", "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652377?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds6.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر سوريا لايف", "url": "https://dudjtmsjowdkw.cloudfront.net/bein6/720p/manifest.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر الوان", "url": "https://blcco.linkip.org/live/3456_.m3u8", "user_agent": "", "referer": ""}
+          ]
         },
         {
-          "sub_category_name": "بين سبورت 7",
-          "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
-          "channels": [
-            {"channel_name": "بين سبورت 7 - كويك نت", "url": "http://45.67.56.78/Sport7/index.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 0},
-            {"channel_name": "بين سبورت 7 - نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/882382.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "https://x.com/", "order": 1},
-            {"channel_name": "بين سبورت 7 - اوسكار", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1370.css?token=TEJlOGxSTjVmYk5Hektx", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 2},
-            {"channel_name": "بين سبورت 7 - الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=7", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "MTX Player", "referer": "", "order": 3, "headers": {"X-ToFi": "tofixtv"}},
-            {"channel_name": "بين سبورت 7 - BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz7/master.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 4},
-            {"channel_name": "بين سبورت 7 - ريو", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1370.css?x=/hls/&token=bEdMOEZOWTBwT0E2ck84", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 5},
-            {"channel_name": "بين سبورت 7 - جودة متوسطة", "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652378?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 6},
-            {"channel_name": "بين سبورت 7 - ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds7.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 7},
-            {"channel_name": "بين سبورت 7 - مختلط", "url": "https://ds0o9oo1k90qo.cloudfront.net/ytv/d9fcc6b4e86c4041/index.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 8}
-          ],
-          "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
+          "channel_name": "بين سبورت 7",
+          "logo_url": "https://j.top4top.io/p_3934fpp9i0.jpg",
+          "servers": [
+            {"name": "سيرفر كويك نت", "url": "http://45.67.56.78/Sport7/index.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/882382.m3u8", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "https://x.com/"},
+            {"name": "سيرفر اوسكار", "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1370.css?token=TEJlOGxSTjVmYk5Hektx", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=7", "user_agent": "MTX Player", "referer": "", "headers": {"X-ToFi": "tofixtv"}},
+            {"name": "سيرفر BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz7/master.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريو", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1370.css?x=/hls/&token=bEdMOEZOWTBwT0E2ck84", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر جودة متوسطة", "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652378?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريدز", "url": "https://sport.redstv-yahaydev.workers.dev/live/reds7.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر مختلط", "url": "https://ds0o9oo1k90qo.cloudfront.net/ytv/d9fcc6b4e86c4041/index.m3u8", "user_agent": "", "referer": ""}
+          ]
         },
         {
-          "sub_category_name": "بين سبورت 8",
-          "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
-          "channels": [
-            {"channel_name": "بين سبورت 8 - كويك نت", "url": "http://45.67.56.78/Sport8/index.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 0},
-            {"channel_name": "بين سبورت 8 - نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/481393.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 1},
-            {"channel_name": "بين سبورت 8 - اوسكار", "url": "https://live.foxtv7.com/stream/so?ch=bein_sports8&q=HD", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 2},
-            {"channel_name": "بين سبورت 8 - الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "MTX Player", "referer": "", "order": 3, "headers": {"X-ToFi": "tofixtv"}},
-            {"channel_name": "بين سبورت 8 - BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz8/master.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 4},
-            {"channel_name": "بين سبورت 8 - ريو", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1379.css?x=/hls/&token=NWM2Qnc1UHZaZldkNzlt", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 5},
-            {"channel_name": "بين سبورت 8 - جودة متوسطة", "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652379?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 6}
-          ],
-          "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
+          "channel_name": "بين سبورت 8",
+          "logo_url": "https://j.top4top.io/p_3934fpp9i0.jpg",
+          "servers": [
+            {"name": "سيرفر كويك نت", "url": "http://45.67.56.78/Sport8/index.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/481393.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر اوسكار", "url": "https://live.foxtv7.com/stream/so?ch=bein_sports8&q=HD", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر الاسطورة", "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=8", "user_agent": "MTX Player", "referer": "", "headers": {"X-ToFi": "tofixtv"}},
+            {"name": "سيرفر BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz8/master.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريو", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1379.css?x=/hls/&token=NWM2Qnc1UHZaZldkNzlt", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر جودة متوسطة", "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652379?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ", "user_agent": "", "referer": ""}
+          ]
         },
         {
-          "sub_category_name": "بين سبورت 9",
-          "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
-          "channels": [
-            {"channel_name": "بين سبورت 9 - كويك نت", "url": "http://45.67.56.78/Sport13/index.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 0},
-            {"channel_name": "بين سبورت 9 - نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/574944.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 1},
-            {"channel_name": "بين سبورت 9 - اوسكار", "url": "https://live.foxtv7.com/stream/so?ch=bein_sports9&q=HD", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 2},
-            {"channel_name": "بين سبورت 9 - BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz9/master.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 3},
-            {"channel_name": "بين سبورت 9 - ريو", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1388.css?x=/hls/&token=WEFwdFMxSUZaSnFWekpV", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "OSCARTV2021", "referer": "", "order": 4},
-            {"channel_name": "بين سبورت 9 - جودة متوسطة", "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652380?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "", "referer": "", "order": 5},
-            {"channel_name": "بين سبورت 9 - مختلط", "url": "https://v1.sisi20.top/broadcast/lcx4_16aesopusjjOItvgg/1792957992/1792957731/1/bein101.m3u8", "logo_url": "", "drm_id": "", "drm_key": "", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36", "referer": "https://v1.sisi20.top/sw.js/", "order": 6}
-          ],
-          "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
+          "channel_name": "بين سبورت 9",
+          "logo_url": "https://j.top4top.io/p_3934fpp9i0.jpg",
+          "servers": [
+            {"name": "سيرفر كويك نت", "url": "http://45.67.56.78/Sport13/index.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر نوفا", "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/574944.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر اوسكار", "url": "https://live.foxtv7.com/stream/so?ch=bein_sports9&q=HD", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر BUZ", "url": "https://d301g3x54eobfn.cloudfront.net/live/buz9/master.m3u8", "user_agent": "", "referer": ""},
+            {"name": "سيرفر ريو", "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1388.css?x=/hls/&token=WEFwdFMxSUZaSnFWekpV", "user_agent": "OSCARTV2021", "referer": ""},
+            {"name": "سيرفر جودة متوسطة", "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652380?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ", "user_agent": "", "referer": ""},
+            {"name": "سيرفر مختلط", "url": "https://v1.sisi20.top/broadcast/lcx4_16aesopusjjOItvgg/1792957992/1792957731/1/bein101.m3u8", "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36", "referer": "https://v1.sisi20.top/sw.js/"}
+          ]
         }
       ],
-      "channels": []
+      "sub_categories": []
     },
     {
       "category_name": "برشلونة ضد ريال مدريد",
