@@ -1063,21 +1063,7 @@
     },
     {
       "category_name": "برشلونة ضد ريال مدريد",
-      "channels": [
-        {
-          "channel_name": "Test",
-          "url": "https://top.cloud-ip.cc/live/047A1A1ACBA7B5DFADE7E0FA9232068A/55317.ts",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Vivid-b57c361ee09208bd8f74b7fc",
-          "referer": "",
-          "order": 0,
-          "headers": {
-            "X-Mood-Sig": "417eeea58e22b8f191bfd2b69c63a91425a45387c3538d4fe3f1897a581bcd23"
-          }
-        }
-      ],
+      "channels": [],
       "sub_categories": [],
       "category_logo": "https://c.top4top.io/p_3949om7kh0.jpeg"
     },
