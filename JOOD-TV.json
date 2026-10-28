@@ -272,6 +272,16 @@
               "user_agent": "",
               "referer": "",
               "order": 11
+            },
+            {
+              "channel_name": "سريع",
+              "url": "https://null-stream.nullsave-ai.workers.dev/live/bein2.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 12
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
