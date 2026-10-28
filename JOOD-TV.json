@@ -1104,6 +1104,26 @@
           "user_agent": "",
           "referer": "",
           "order": 5
+        },
+        {
+          "channel_name": "STARZ CINEMA",
+          "url": "https://blc2cr.linkip.org/live/90155_.m3u8?play=",
+          "logo_url": "https://i.top4top.io/p_38396oc8v0.jpeg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 6
+        },
+        {
+          "channel_name": "STARZ THRILLER ",
+          "url": "https://blc2cr.linkip.org/live/90157_.m3u8?play=",
+          "logo_url": "https://i.top4top.io/p_38396oc8v0.jpeg",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 7
         }
       ],
       "image": "https://up6.cc/2026/10/179163260077141.jpeg"
@@ -1218,6 +1238,26 @@
           "user_agent": "",
           "referer": "",
           "order": 9
+        },
+        {
+          "channel_name": "شاهد عربي",
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx001/720p-d/index.m3u8",
+          "logo_url": "https://a.top4top.io/p_3840dyllh1.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 10
+        },
+        {
+          "channel_name": "شاهد اكشن",
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8",
+          "logo_url": "https://a.top4top.io/p_3840dyllh1.png",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 11
         }
       ],
       "image": "https://a.top4top.io/p_3847l3pyo0.png"
@@ -1945,26 +1985,6 @@
           "order": 11
         },
         {
-          "channel_name": "STARZ CINEMA",
-          "url": "https://blc2cr.linkip.org/live/90155_.m3u8?play=",
-          "logo_url": "https://i.top4top.io/p_38396oc8v0.jpeg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 12
-        },
-        {
-          "channel_name": "STARZ THRILLER ",
-          "url": "https://blc2cr.linkip.org/live/90157_.m3u8?play=",
-          "logo_url": "https://i.top4top.io/p_38396oc8v0.jpeg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 13
-        },
-        {
           "channel_name": "Majestic cinema ",
           "url": "https://blc2cr.linkip.org/live/90108_.m3u8?play=",
           "logo_url": "https://d.top4top.io/p_3839ykpva0.jpg",
@@ -1972,7 +1992,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 14
+          "order": 12
         },
         {
           "channel_name": "Majestic aflam 1",
@@ -1982,7 +2002,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 15
+          "order": 13
         },
         {
           "channel_name": "Majestic aflam 2",
@@ -1992,7 +2012,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 16
+          "order": 14
         },
         {
           "channel_name": "Majestic actions",
@@ -2002,27 +2022,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 17
-        },
-        {
-          "channel_name": "شاهد عربي",
-          "url": "https://shd-amg-fast.edgenextcdn.net/tx001/720p-d/index.m3u8",
-          "logo_url": "https://a.top4top.io/p_3840dyllh1.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 18
-        },
-        {
-          "channel_name": "شاهد اكشن",
-          "url": "https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8",
-          "logo_url": "https://a.top4top.io/p_3840dyllh1.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 19
+          "order": 15
         },
         {
           "channel_name": "OSN YA HLA AFLM",
@@ -2032,7 +2032,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 20
+          "order": 16
         },
         {
           "channel_name": "OSN BIL ARABI",
@@ -2042,7 +2042,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 21
+          "order": 17
         },
         {
           "channel_name": "OSN YA OULA",
@@ -2052,7 +2052,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 22
+          "order": 18
         },
         {
           "channel_name": "OSN MOVIE PREMIUM",
@@ -2062,7 +2062,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 23
+          "order": 19
         },
         {
           "channel_name": "OSN MOVIES PREMIUM +2",
@@ -2072,7 +2072,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 24
+          "order": 20
         },
         {
           "channel_name": "OSN MOVIES ACTION",
@@ -2082,7 +2082,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 25
+          "order": 21
         },
         {
           "channel_name": "Balance 1",
@@ -2092,7 +2092,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 26
+          "order": 22
         },
         {
           "channel_name": "Balance 2",
@@ -2102,7 +2102,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 27
+          "order": 23
         }
       ],
       "image": "https://c.top4top.io/p_3940600jh0.jpg"
