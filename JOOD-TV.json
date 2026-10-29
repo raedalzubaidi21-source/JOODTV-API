@@ -81,6 +81,16 @@
               "order": 5
             },
             {
+              "channel_name": "عالي الدقة",
+              "url": "https://mylol.site/live/11/11/558210.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 6
+            },
+            {
               "channel_name": "بين سبورت 1 - ريدز",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds1.m3u8",
               "logo_url": "",
@@ -88,7 +98,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 6
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 1 - سوريا لايف",
@@ -98,7 +108,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 7
+              "order": 8
             },
             {
               "channel_name": "بين سبورت 1 - الوان",
@@ -108,7 +118,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 9
             },
             {
               "channel_name": "سريع",
@@ -118,7 +128,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 10
             },
             {
               "channel_name": "بين سبورت 1 - ريو",
@@ -128,7 +138,7 @@
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 10
+              "order": 11
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
