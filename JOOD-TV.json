@@ -81,26 +81,6 @@
               "order": 5
             },
             {
-              "channel_name": "بين سبورت 1 - ريو",
-              "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1316.css?x=/hls/&token=aW5tR2diU21waHgyenN4",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "OSCARTV2021",
-              "referer": "",
-              "order": 6
-            },
-            {
-              "channel_name": "بين سبورت 1 - جودة متوسطة",
-              "url": "http://103.209.129.233/live/KZAJY02MDNKW74R/smqSyzjC65/987011.m3u8?token=ShNaUBdYGlhBBg5UXw5WDwJTCl0AUgVQUFNSUV4IUgQAA1ABUAUBWlRHG0EVTEBdAAlmDVQUWw1dAFFUVxVDFEJUQG4NVBpYQVEOVVQBAQxDSBsQWVsEFl8HTUcWUAVDCxMBAlIEDkBPR1IbEl1AVgAIZgBVQAhXABVbCxNVDU0TXlxuAFVVAw0BFVlECBAUQw1KFBIMD0EJW01HBFAVE1BFVxNeEgFTVkcbQQVXR1YVFkBGChQ0Z0cbQwAeTQQPQlhdX0YKGg9QEA9BShpbSz4WXBdERARVCFITR1wbUUMdE19QHG9bDQ0LUgASUV1WEkYDRgEUTRYIWA8MElYTPkFYVhNeEgpWVFABQRs=",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 7
-            },
-            {
               "channel_name": "بين سبورت 1 - ريدز",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds1.m3u8",
               "logo_url": "",
@@ -108,7 +88,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 6
             },
             {
               "channel_name": "بين سبورت 1 - سوريا لايف",
@@ -118,7 +98,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 1 - الوان",
@@ -128,7 +108,17 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 10
+              "order": 8
+            },
+            {
+              "channel_name": "بين سبورت 1 - ريو",
+              "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1316.css?x=/hls/&token=aW5tR2diU21waHgyenN4",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "OSCARTV2021",
+              "referer": "",
+              "order": 9
             },
             {
               "channel_name": "سريع",
@@ -138,7 +128,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 11
+              "order": 10
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
