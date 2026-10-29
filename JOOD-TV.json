@@ -214,16 +214,6 @@
               "order": 6
             },
             {
-              "channel_name": "بين سبورت 2 - جودة متوسطة",
-              "url": "http://103.209.129.252/live/756GUW6PLRGQBYG/PMNmOZyjsk/987012.m3u8?token=ShNaUBdYGlhBVlQAUlsLWQBWXVwHAVIHAFYHBlVcUFRVAQsEBlUPA1FHG0EVTEBdAAlmDVQUWw1dAFFUVBVDFEJUQG4NVBpYQVEOVFYBBwxDSBsQWVsEFl8HTUcWUAVDCxMAAlQED1NQRxtBA0BGXRMKWAhvUgRCDFQER1xXFA1dHRBeCm9cBw4EWQdEAhAIQ0gbDUNGQw4LQg0JShsDCEVDU0UBEgJAW1AGQUoaUVcUCk0WSRRbFjBkQ0lEXBkVVF9BWAteGlhBCAQWXhoeGggXZhZVRRVGAFYMABQbW0MBEx4TCVFAPQAKWQ0DW0ZRDgpKRgoUUBZJFQwKCFAVDkNuQlgAEgJAUVEFV18aTw==",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 7
-            },
-            {
               "channel_name": "بين سبورت 2 - ريدز",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds2.m3u8",
               "logo_url": "",
@@ -231,7 +221,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 2 - سوريا لايف",
@@ -241,7 +231,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 8
             },
             {
               "channel_name": "بين سبورت 2 - الفجر",
@@ -251,7 +241,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 10
+              "order": 9
             },
             {
               "channel_name": "بين سبورت 2 - الوان",
@@ -261,7 +251,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 11
+              "order": 10
             },
             {
               "channel_name": "سريع",
@@ -271,7 +261,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 12
+              "order": 11
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -357,16 +347,6 @@
               "order": 6
             },
             {
-              "channel_name": "بين سبورت 3 - جودة متوسطة",
-              "url": "http://103.209.129.90/live/756GUW6PLRGQBYG/PMNmOZyjsk/18109.m3u8?token=ShNaUBdYGlhBUVRVVw1QXlRTDVdWBAVXVgQEVQcJBQAEAwdVXAkNWwFHG0EVTEBdAAlmDVQUWwVdBlFcShsUElRDbVgAEgJAV1wAU18NBhpNRk0NXVNDDlUbQxUPXUNbEwIEBVcGCldBSRUGHkxXSg8FVTtUUxddBlJDXwhMDQ0dE11fO1RdDwILU0FcGgIaTUZQF0AUW1oQWw1JRFsIFUNQRlRGChpaUVYVT0RbXU0PEEsdEgxDYTYVTUcDQRUEX0JbXgoSAkAOVkJbRBQQURI7SwFDQhNRBFoEF0QDQ1ETHRBcBUhnAQwLWQYFTFtXDxcbXhIHQxhHWg4LD00OE25BW1VGChpQVVAAU0RF",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 7
-            },
-            {
               "channel_name": "بين سبورت 3 - ريدز",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds3.m3u8",
               "logo_url": "",
@@ -374,7 +354,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 3 - سوريا لايف",
@@ -384,7 +364,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 8
             },
             {
               "channel_name": "بين سبورت 3 - الفجر",
@@ -394,7 +374,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 10
+              "order": 9
             },
             {
               "channel_name": "بين سبورت 3 - الوان",
@@ -404,7 +384,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 11
+              "order": 10
             },
             {
               "channel_name": "سريع",
@@ -414,7 +394,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 12
+              "order": 11
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -500,16 +480,6 @@
               "order": 6
             },
             {
-              "channel_name": "بين سبورت 4 - جودة متوسطة",
-              "url": "http://103.209.129.94/live/756GUW6PLRGQBYG/PMNmOZyjsk/18108.m3u8?token=ShNaUBdYGlhBAQVaBwoECVBXDV0AUgJVXAZTUwVbVlUCUwtXUQkIBABHG0EVTEBdAAlmDVQUWwVdBlFdShsUElRDbVgAEgJAV1wAU18NBhpNRk0NXVNDDlUbQxUPXUNbEwABA1AGCFNBSRUGHkxXSg8FVTtUUxddBlJDXwhMDQ0dE11fO1RdDwILU0FcGgIaTUZQF0AUW1oQWw1JRFsIFUNQRlRGChpaV1MVT0RbXU0PEEsdEgxDYTYVTUcDQRUEX0JbXgoSAkAOVkJbRBQQURI7SwFDQhNRBFoEF0QDQ1ETHRBcBUhnAQwLWQYFTFtXDxcbXhIHQxhHWg4LD00OE25BW1VGChpRW1UCW1UPEEU=",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 7
-            },
-            {
               "channel_name": "بين سبورت 4 - ريدز",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds4.m3u8",
               "logo_url": "",
@@ -517,7 +487,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 4 - سوريا لايف",
@@ -527,7 +497,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 8
             },
             {
               "channel_name": "بين سبورت 4 - الفجر",
@@ -537,7 +507,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 10
+              "order": 9
             },
             {
               "channel_name": "بين سبورت 4 - الوان",
@@ -547,7 +517,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 11
+              "order": 10
             },
             {
               "channel_name": "سريع",
@@ -557,7 +527,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 12
+              "order": 11
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -643,16 +613,6 @@
               "order": 6
             },
             {
-              "channel_name": "بين سبورت 5 - جودة متوسطة",
-              "url": "http://103.209.129.172/live/756GUW6PLRGQBYG/PMNmOZyjsk/18107.m3u8?token=ShNaUBdYGlhBVAJVBVsDCQddAVVVAVYGUgMAVVIKAlcBUgUDBQheVQZHG0EVTEBdAAlmDVQUWwVdBlFSShsUElRDbVgAEgJAV1wAU18NBhpNRk0NXVNDDlUbQxUPXUNbEwAKBVAECFRBSRUGHkxXSg8FVTtUUxddBlJDXwhMDQ0dE11fO1RdDwILU0FcGgIaTUZQF0AUW1oQWw1JRFsIFUNQRlRGChpbU1wVT0RbXU0PEEsdEgxDYTYVTUcDQRUEX0JbXgoSAkAOVkJbRBQQURI7SwFDQhNRBFoEF0QDQ1ETHRBcBUhnAQwLWQYFTFtXDxcbXhIHQxhHWg4LD00OE25BW1VGChpTW1EDUF8MEEU=",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 7
-            },
-            {
               "channel_name": "بين سبورت 5 - ريدز",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds5.m3u8",
               "logo_url": "",
@@ -660,7 +620,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 5 - سوريا لايف",
@@ -670,7 +630,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 8
             },
             {
               "channel_name": "بين سبورت 5 - الفجر",
@@ -680,7 +640,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 10
+              "order": 9
             },
             {
               "channel_name": "بين سبورت 5 - الوان",
@@ -690,7 +650,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 11
+              "order": 10
             },
             {
               "channel_name": "سريع",
@@ -700,7 +660,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 12
+              "order": 11
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -773,16 +733,6 @@
               "order": 5
             },
             {
-              "channel_name": "بين سبورت 6 - جودة متوسطة",
-              "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652377?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 6
-            },
-            {
               "channel_name": "بين سبورت 6 - ريدز",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds6.m3u8",
               "logo_url": "",
@@ -790,7 +740,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 7
+              "order": 6
             },
             {
               "channel_name": "بين سبورت 6 - سوريا لايف",
@@ -800,11 +750,21 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 6 - الوان",
               "url": "https://blcco.linkip.org/live/3456_.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 8
+            },
+            {
+              "channel_name": "سريع",
+              "url": "https://null-stream.nullsave-ai.workers.dev/live/bein6.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -821,16 +781,6 @@
               "user_agent": "",
               "referer": "",
               "order": 10
-            },
-            {
-              "channel_name": "سريع",
-              "url": "https://null-stream.nullsave-ai.workers.dev/live/bein6.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 11
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -903,16 +853,6 @@
               "order": 5
             },
             {
-              "channel_name": "بين سبورت 7 - جودة متوسطة",
-              "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652378?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 6
-            },
-            {
               "channel_name": "بين سبورت 7 - ريدز",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds7.m3u8",
               "logo_url": "",
@@ -920,7 +860,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 7
+              "order": 6
             },
             {
               "channel_name": "بين سبورت 7 - مختلط",
@@ -930,7 +870,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 7
             },
             {
               "channel_name": "سريع",
@@ -940,7 +880,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 8
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -1011,16 +951,6 @@
               "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 5
-            },
-            {
-              "channel_name": "بين سبورت 8 - جودة متوسطة",
-              "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652379?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 6
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -1080,16 +1010,6 @@
               "order": 4
             },
             {
-              "channel_name": "بين سبورت 9 - جودة متوسطة",
-              "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652380?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 5
-            },
-            {
               "channel_name": "بين سبورت 9 - مختلط",
               "url": "https://v1.sisi20.top/broadcast/lcx4_16aesopusjjOItvgg/1792957992/1792957731/1/bein101.m3u8",
               "logo_url": "",
@@ -1097,7 +1017,7 @@
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
               "referer": "https://v1.sisi20.top/sw.js/",
-              "order": 6
+              "order": 5
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
