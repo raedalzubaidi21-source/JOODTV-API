@@ -111,22 +111,22 @@
               "order": 8
             },
             {
-              "channel_name": "بين سبورت 1 - ريو",
-              "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1316.css?x=/hls/&token=aW5tR2diU21waHgyenN4",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "OSCARTV2021",
-              "referer": "",
-              "order": 9
-            },
-            {
               "channel_name": "سريع",
               "url": "https://null-stream.nullsave-ai.workers.dev/live/bein1.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
+              "referer": "",
+              "order": 9
+            },
+            {
+              "channel_name": "بين سبورت 1 - ريو",
+              "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1316.css?x=/hls/&token=aW5tR2diU21waHgyenN4",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 10
             }
