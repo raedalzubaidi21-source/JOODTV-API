@@ -1126,7 +1126,10 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://pl.matchlivehd.com/el-watania-2/",
-          "order": 0
+          "order": 0,
+          "headers": {
+            "Origin": "https://pl.matchlivehd.com/el-watania-2"
+          }
         }
       ],
       "sub_categories": [],
