@@ -1117,7 +1117,21 @@
     },
     {
       "category_name": "برشلونة ضد ريال مدريد",
-      "channels": [],
+      "channels": [
+        {
+          "channel_name": "test",
+          "url": "https://10.sdfs.qzz.io/live/kora10/index.jpg",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "https://pl.matchlivehd.com/el-watania-2/",
+          "order": 0,
+          "headers": {
+            "Origin": "https://pl.matchlivehd.com/el-watania-2"
+          }
+        }
+      ],
       "sub_categories": [],
       "category_logo": "https://c.top4top.io/p_3949om7kh0.jpeg"
     },
