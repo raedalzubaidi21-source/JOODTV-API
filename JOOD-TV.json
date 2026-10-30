@@ -142,6 +142,16 @@
               "headers": {
                 "Host": "assets.pushyourcss.world:8080"
               }
+            },
+            {
+              "channel_name": "الفجر FHD",
+              "url": "https://castx.online/live/ftv11080p/stream_0.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 12
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
