@@ -2585,6 +2585,11 @@
           "channels": [],
           "playlist_url": "http://asmr4k.pro:8080/player_api.php?username=9210995066&password=0295009597&action=get_vod_streams",
           "sub_category_logo": "https://b.top4top.io/p_39296jhz51.jpg"
+        },
+        {
+          "sub_category_name": "سيرفر افلام 2",
+          "channels": [],
+          "playlist_url": "http://premium2.ottpro2.org/player_api.php?username=alexandre&password=5939369&action=get_vod_streams&category"
         }
       ]
     }
