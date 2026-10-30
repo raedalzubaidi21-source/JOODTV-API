@@ -138,7 +138,10 @@
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 11
+              "order": 11,
+              "headers": {
+                "Host": "assets.pushyourcss.world:8080"
+              }
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
