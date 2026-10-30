@@ -1281,7 +1281,7 @@
       "channels": [
         {
           "channel_name": "الكاس 1",
-          "url": "https://alkatlankass.xmax1tv.com/channel_1.m3u8",
+          "url": "https://alkass.super-stv.workers.dev/alkass.m3u8",
           "logo_url": "https://c.top4top.io/p_3940zj0yf0.png",
           "drm_id": "",
           "drm_key": "",
@@ -1291,7 +1291,7 @@
         },
         {
           "channel_name": "الكاس 2",
-          "url": "https://alkatlankass.xmax1tv.com/channel_2.m3u8",
+          "url": "https://alkass.super-stv.workers.dev/alkass2.m3u8",
           "logo_url": "https://c.top4top.io/p_3940zj0yf0.png",
           "drm_id": "",
           "drm_key": "",
@@ -1301,7 +1301,7 @@
         },
         {
           "channel_name": "الكاس 3",
-          "url": "https://alkatlankass.xmax1tv.com/channel_3.m3u8",
+          "url": "https://alkass.super-stv.workers.dev/alkass3.m3u8",
           "logo_url": "https://c.top4top.io/p_3940zj0yf0.png",
           "drm_id": "",
           "drm_key": "",
@@ -1311,7 +1311,7 @@
         },
         {
           "channel_name": "الكاس 4",
-          "url": "https://alkatlankass.xmax1tv.com/channel_4.m3u8",
+          "url": "https://alkass.super-stv.workers.dev/alkass4.m3u8",
           "logo_url": "https://c.top4top.io/p_3940zj0yf0.png",
           "drm_id": "",
           "drm_key": "",
@@ -1321,7 +1321,7 @@
         },
         {
           "channel_name": "الكاس 5",
-          "url": "https://alkatlankass.xmax1tv.com/channel_5.m3u8",
+          "url": "https://alkass.super-stv.workers.dev/alkass5.m3u8",
           "logo_url": "https://c.top4top.io/p_3940zj0yf0.png",
           "drm_id": "",
           "drm_key": "",
@@ -1331,7 +1331,7 @@
         },
         {
           "channel_name": "الكاس 6",
-          "url": "https://alkatlankass.xmax1tv.com/channel_6.m3u8",
+          "url": "https://alkass.super-stv.workers.dev/alkass6.m3u8",
           "logo_url": "https://c.top4top.io/p_3940zj0yf0.png",
           "drm_id": "",
           "drm_key": "",
