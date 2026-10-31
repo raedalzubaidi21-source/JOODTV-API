@@ -127,16 +127,6 @@
               "order": 9
             },
             {
-              "channel_name": "سريع",
-              "url": "https://null-stream.nullsave-ai.workers.dev/live/bein1.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 10
-            },
-            {
               "channel_name": "بين سبورت 1 - ريو",
               "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1316.css?x=/hls",
               "logo_url": "",
@@ -144,7 +134,7 @@
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 11,
+              "order": 10,
               "headers": {
                 "Host": "assets.pushyourcss.world:8080"
               }
@@ -157,7 +147,7 @@
               "drm_key": "",
               "user_agent": "stv2026",
               "referer": "",
-              "order": 12,
+              "order": 11,
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
