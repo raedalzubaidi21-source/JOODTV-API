@@ -1053,7 +1053,7 @@
       "channels": [
         {
           "channel_name": "بين سبورت تود 1",
-          "url": "https://milanotv.cfd/proxy/m/1/index.m3u8",
+          "url": "https://castx.online/live/beinsports1/stream_1.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
@@ -1061,8 +1061,7 @@
           "referer": "https://milanotv.cfd/",
           "order": 0,
           "headers": {
-            "Origin": "https://milanotv.cfd",
-            "Cookie": "milano_vid=21ec848c2ef9416cd4df; auto_tz=Asia/Baghdad; milano_ls=d12d1ba8c6b5c4b60b629745cee9d3f4e14178a95c9f281c; milano_rm=eyJ1IjoxNTk2LCJoIjoiMjJiMGZhOTFkYmQ1NzExNDAyMGMifQ.auXdTg.cOgKnq-mV4FvfnLMtmnrQJ_U7mg; milano_did=MBR-t4Bd_J8ktRM2fGahZUh4agCNLJuz; mlogin=1; milano_vd=2026-10-31:u; milano_fp=sc%3D900x1600%26dp%3D1.00%26tp%3D0%26tz%3DAsia%252FBaghdad%26gp%3DANGLE%2520(Intel%252C%2520Intel(R)%2520HD%2520Graphics%2520Family%2520(0x00000A16)%2520Direct3D11%2520vs_5_0%2520ps_5_0%252C%2520D3D11)%26cc%3D4; session=.eJyrVopPLi5KU7JSKnL08nAzMg5KLPX3yqyscgzMdc7y8HUvKq5Ktwi3LM-rNDUNKKhMdzUNC1XSUYpPKyhRsjI0tzQ2MTUwMDDTMzQ0NDcyNgHKFKQW5SbmpeYB5UuKSlOBIqUpaGoNLEwNjS10lIpygeI6SqWZKUDa1NKsFgBR3ile.auXgdw.pzjgO3OZPWqfAvNYyVaFF6bQ2eY"
+            "Origin": "https://milanotv.cfd"
           }
         },
         {
