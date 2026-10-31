@@ -1105,16 +1105,6 @@
           }
         },
         {
-          "channel_name": "الوان متعدد الجودة",
-          "url": "https://customer-tbeh4c48fd5uh1gn.cloudflarestream.com/56dcd84046c047380b2eddb5d13c75a7/manifest/video.m3u8?",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 4
-        },
-        {
           "channel_name": "يلا لايف متعدد الجوده",
           "url": "https://yla.akbarnews.store/live/index.m3u8",
           "logo_url": "",
@@ -1122,7 +1112,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 5
+          "order": 4
         },
         {
           "channel_name": "كورة سيتي",
@@ -1132,7 +1122,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 6
+          "order": 5
         },
         {
           "channel_name": "بين سبورت تود 2",
@@ -1142,7 +1132,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://milanotv.cfd/",
-          "order": 7,
+          "order": 6,
           "headers": {
             "Origin": "https://milanotv.cfd"
           }
@@ -1155,7 +1145,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://milanotv.cfd/",
-          "order": 8,
+          "order": 7,
           "headers": {
             "Origin": "https://milanotv.cfd"
           }
