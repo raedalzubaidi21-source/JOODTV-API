@@ -24,17 +24,67 @@
               "order": 0
             },
             {
-              "channel_name": "بين سبورت 1 - سوبر",
-              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b1_SD",
+              "channel_name": "بين سبورت 1 - الاسطورة",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=1",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "MTX Player",
+              "referer": "",
+              "order": 1,
+              "headers": {
+                "Origin": "http://localhost",
+                "X-ToFi": "tofixtv"
+              }
+            },
+            {
+              "channel_name": "TOD 1",
+              "url": "https://castx.online/live/beinsports1/stream_3.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+              "referer": "https://milanotv.cfd/",
+              "order": 2,
+              "headers": {
+                "Origin": "https://milanotv.cfd"
+              }
+            },
+            {
+              "channel_name": "TOD 1 BY BEIN",
+              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD1",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "stv2026",
               "referer": "",
-              "order": 1,
+              "order": 3,
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
+            },
+            {
+              "channel_name": "TOD 1 S",
+              "url": "https://smarter.majedcss.site/live/ch1/972574ae336c4e3baf77c6efdccded2c.1793215298.1793820098.0.905dfb639868db3013e2c764094055210cc144ebe23e0e1957c7fbe716745ab3/master.css",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+              "referer": "https://player.majed-koora.live/",
+              "order": 4,
+              "headers": {
+                "Origin": "https://player.majed-koora.live"
+              }
+            },
+            {
+              "channel_name": "الفجر 1",
+              "url": "https://castx.online/live/ftv1720p/stream_0.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 5
             },
             {
               "channel_name": "بين سبورت 1 - نوفا",
@@ -44,31 +94,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "https://pl.matchlivehd.com/",
-              "order": 2
-            },
-            {
-              "channel_name": "بين سبورت 1 - اوسكار",
-              "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1316.css?token=aDN3Y01NUlN5d3pZZlZL",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "OSCARTV2021",
-              "referer": "",
-              "order": 3
-            },
-            {
-              "channel_name": "بين سبورت 1 - الاسطورة",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=1",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "MTX Player",
-              "referer": "",
-              "order": 4,
-              "headers": {
-                "Origin": "http://localhost",
-                "X-ToFi": "tofixtv"
-              }
+              "order": 6
             },
             {
               "channel_name": "بين سبورت 1 - BUZ",
@@ -78,31 +104,11 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 5
-            },
-            {
-              "channel_name": "عالي الدقة",
-              "url": "https://mylol.site/live/11/11/558210.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 6
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 1 - ريدز",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds1.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 7
-            },
-            {
-              "channel_name": "بين سبورت 1 - سوريا لايف",
-              "url": "https://dudjtmsjowdkw.cloudfront.net/bein1/720p/manifest.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -144,14 +150,17 @@
               }
             },
             {
-              "channel_name": "الفجر 1",
-              "url": "https://castx.online/live/ftv1720p/stream_0.m3u8",
+              "channel_name": "بين سبورت 1 - سوبر",
+              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b1_SD",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "stv2026",
               "referer": "",
-              "order": 12
+              "order": 12,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -1052,45 +1061,6 @@
       "category_name": "وقت المباريات فقط",
       "channels": [
         {
-          "channel_name": "بين سبورت تود 1",
-          "url": "https://castx.online/live/beinsports1/stream_3.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "https://milanotv.cfd/",
-          "order": 0,
-          "headers": {
-            "Origin": "https://milanotv.cfd"
-          }
-        },
-        {
-          "channel_name": "TOD BY BEIN",
-          "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD1",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "stv2026",
-          "referer": "",
-          "order": 1,
-          "headers": {
-            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
-          }
-        },
-        {
-          "channel_name": "بين سبورت تود 1 مصدر ثاني",
-          "url": "https://smarter.majedcss.site/live/ch1/972574ae336c4e3baf77c6efdccded2c.1793215298.1793820098.0.905dfb639868db3013e2c764094055210cc144ebe23e0e1957c7fbe716745ab3/master.css",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "https://player.majed-koora.live/",
-          "order": 2,
-          "headers": {
-            "Origin": "https://player.majed-koora.live"
-          }
-        },
-        {
           "channel_name": "SIR TV 1",
           "url": "https://1rxolmirvosixpyfd0.live--koora.com/kooora/6f86bdcseds02ss00s01sddsxmax1sss1_mux_hd?ts=1793477850&nonce=Hx8Z1o2i&token=cfb14ab0f97bfecedfee1080402f4420&sid=fba08f0667143db1f14138f52b6275c2",
           "logo_url": "",
@@ -1098,7 +1068,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://912acsss8af382.sirtv.top/",
-          "order": 3,
+          "order": 0,
           "headers": {
             "Origin": "https://912acsss8af382.sirtv.top"
           }
@@ -1111,7 +1081,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 4
+          "order": 1
         },
         {
           "channel_name": "كورة سيتي",
@@ -1121,7 +1091,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 5
+          "order": 2
         },
         {
           "channel_name": "بين سبورت تود 2",
@@ -1131,7 +1101,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://milanotv.cfd/",
-          "order": 6,
+          "order": 3,
           "headers": {
             "Origin": "https://milanotv.cfd"
           }
@@ -1144,7 +1114,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://milanotv.cfd/",
-          "order": 7,
+          "order": 4,
           "headers": {
             "Origin": "https://milanotv.cfd"
           }
