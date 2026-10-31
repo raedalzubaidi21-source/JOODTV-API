@@ -1052,6 +1052,19 @@
       "category_name": "وقت المباريات فقط",
       "channels": [
         {
+          "channel_name": "TOD BY BEIN 1",
+          "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=TOD1",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "stv2026",
+          "referer": "",
+          "order": 0,
+          "headers": {
+            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+          }
+        },
+        {
           "channel_name": "بين سبورت تود 1",
           "url": "https://castx.online/live/beinsports1/stream_3.m3u8",
           "logo_url": "",
@@ -1059,9 +1072,22 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://milanotv.cfd/",
-          "order": 0,
+          "order": 1,
           "headers": {
             "Origin": "https://milanotv.cfd"
+          }
+        },
+        {
+          "channel_name": "بين سبورت تود 1 مصدر ثاني",
+          "url": "https://smarter.majedcss.site/live/ch1/972574ae336c4e3baf77c6efdccded2c.1793215298.1793820098.0.905dfb639868db3013e2c764094055210cc144ebe23e0e1957c7fbe716745ab3/master.css",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "https://player.majed-koora.live/",
+          "order": 2,
+          "headers": {
+            "Origin": "https://player.majed-koora.live"
           }
         },
         {
@@ -1072,7 +1098,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://912acsss8af382.sirtv.top/",
-          "order": 1,
+          "order": 3,
           "headers": {
             "Origin": "https://912acsss8af382.sirtv.top"
           }
@@ -1085,7 +1111,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 2
+          "order": 4
         },
         {
           "channel_name": "يلا لايف متعدد الجوده",
@@ -1095,7 +1121,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 3
+          "order": 5
         },
         {
           "channel_name": "كورة سيتي",
@@ -1105,33 +1131,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 4
-        },
-        {
-          "channel_name": "بين سبورت تود 1 مصدر ثاني",
-          "url": "https://smarter.majedcss.site/live/ch1/972574ae336c4e3baf77c6efdccded2c.1793215298.1793820098.0.905dfb639868db3013e2c764094055210cc144ebe23e0e1957c7fbe716745ab3/master.css",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "https://player.majed-koora.live/",
-          "order": 5,
-          "headers": {
-            "Origin": "https://player.majed-koora.live"
-          }
-        },
-        {
-          "channel_name": "TOD BY BEIN 1",
-          "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=TOD1",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "stv2026",
-          "referer": "",
-          "order": 6,
-          "headers": {
-            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
-          }
+          "order": 6
         }
       ],
       "sub_categories": [],
