@@ -1062,7 +1062,7 @@
           "order": 0,
           "headers": {
             "Origin": "https://milanotv.cfd",
-            "Cookie": "milano_vid=21ec848c2ef9416cd4df"
+            "Cookie": "session=.eJyrVopPLi5KU7JSKnL08nAzMg5KLPX3yqyscgzMdc7y8HUvKq5Ktwi3LM-rNDUNKKhMdzUNC1XSUYpPKyhRsjI0tzQ2MTUwMDDTMzQ0NDcyNgHKFKQW5SbmpeYB5UuKSlOBIqUpaGoNLEwNjS10lIpygeI6SqWZKUDa1NKsFgBR3ile.auXgeg.OSq8Ls2cXbvymB9DTW2BUXrTClw; Expires=Fri, 29 Jan 2027 12:35:06 GMT; Secure; HttpOnly; Path=/; SameSite=Lax"
           }
         },
         {
