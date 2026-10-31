@@ -1159,6 +1159,19 @@
           "user_agent": "",
           "referer": "",
           "order": 8
+        },
+        {
+          "channel_name": "live kora vip 1",
+          "url": "https://7.sdfs.qzz.io/live/kora7/index.jpg",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "https://pl.matchlivehd.com/",
+          "order": 9,
+          "headers": {
+            "Origin": "https://pl.matchlivehd.com"
+          }
         }
       ],
       "sub_categories": [],
