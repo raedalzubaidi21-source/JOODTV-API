@@ -1046,7 +1046,21 @@
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
         }
       ],
-      "channels": []
+      "channels": [
+        {
+          "channel_name": "TOD 1",
+          "url": "https://milanotv.cfd/proxy/m/1/index.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "https://milanotv.cfd/watch/1",
+          "order": 0,
+          "headers": {
+            "Cookie": "session=.eJyrVopPLi5KU7JSKnL08nAzMg5KLPX3yqyscgzMdc7y8HUvKq5Ktwi3LM-rNDUNKKhMdzUNC1XSUYpPKyhRsjI0tzQ2MbUwNDfVMzKzNDUzNQbKFKQW5SbmpeYB5UuKSlOBIqUp6GpNTQzMgWqLcoHiOkqlmSlA2tTSrBYAXKopjg.auYAyA.Pfclrg4IjeUrGQ1Bes2yK3fD0Hg; Expires=Fri, 29 Jan 2027 14:52:56 GMT; Secure; HttpOnly; Path=/; SameSite=Lax"
+          }
+        }
+      ]
     },
     {
       "category_name": "وقت المباريات فقط",
