@@ -1052,20 +1052,6 @@
       "category_name": "وقت المباريات فقط",
       "channels": [
         {
-          "channel_name": "TOD BY BEIN 1",
-          "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=TOD1",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "stv2026",
-          "referer": "",
-          "order": 0,
-          "headers": {
-            "Host": "super-tv-api.sltv.workers.dev",
-            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
-          }
-        },
-        {
           "channel_name": "بين سبورت تود 1",
           "url": "https://castx.online/live/beinsports1/stream_3.m3u8",
           "logo_url": "",
@@ -1073,9 +1059,23 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://milanotv.cfd/",
-          "order": 1,
+          "order": 0,
           "headers": {
             "Origin": "https://milanotv.cfd"
+          }
+        },
+        {
+          "channel_name": "TOD BY BEIN 1",
+          "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=TOD1",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "stv2026",
+          "referer": "",
+          "order": 1,
+          "headers": {
+            "Host": "super-tv-api.sltv.workers.dev",
+            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
         },
         {
