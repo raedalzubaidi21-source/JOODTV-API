@@ -1146,7 +1146,11 @@
           "referer": "https://milanotv.cfd/watch/1",
           "order": 7,
           "headers": {
-            "Cookie": "session=.eJyrVopPLi5KU7JSKnL08nAzMg5KLPX3yqyscgzMdc7y8HUvKq5Ktwi3LM-rNDUNKKhMdzUNC1XSUYpPKyhRsjI0tzQ2MbUwNDfVMzKzNDUzNQbKFKQW5SbmpeYB5UuKSlOBIqUp6GpNTQzMgWqLcoHiOkqlmSlA2tTSrBYAXKopjg.auYAyA.Pfclrg4IjeUrGQ1Bes2yK3fD0Hg; Expires=Fri, 29 Jan 2027 14:52:56 GMT; Secure; HttpOnly; Path=/; SameSite=Lax"
+            "Cookie": "session=.eJyrVopPLi5KU7JSKnL08nAzMg5KLPX3yqyscgzMdc7y8HUvKq5Ktwi3LM-rNDUNKKhMdzUNC1XSUYpPKyhRsjI0tzQ2MbUwNDfVMzKzNDUzNQbKFKQW5SbmpeYB5UuKSlOBIqUp6GpNTQzMgWqLcoHiOkqlmSlA2tTSrBYAXKopjg.auYAyA.Pfclrg4IjeUrGQ1Bes2yK3fD0Hg; milano_vid=21ec848c2ef9416cd4df; auto_tz=Asia/Baghdad; milano_ls=d12d1ba8c6b5c4b60b629745cee9d3f4e14178a95c9f281c; milano_rm=eyJ1IjoxNTk2LCJoIjoiMjJiMGZhOTFkYmQ1NzExNDAyMGMifQ.auXdTg.cOgKnq-mV4FvfnLMtmnrQJ_U7mg; milano_did=MBR-t4Bd_J8ktRM2fGahZUh4agCNLJuz; mlogin=1; milano_vd=2026-10-31:u; milano_fp=sc%3D900x1600%26dp%3D1.00%26tp%3D0%26tz%3DAsia%252FBaghdad%26gp%3DANGLE%2520(Intel%252C%2520Intel(R)%2520HD%2520Graphics%2520Family%2520(0x00000A16)%2520Direct3D11%2520vs_5_0%2520ps_5_0%252C%2520D3D11)%26cc%3D4",
+            "Accept": "*/*",
+            "Accept-Language": "en-GB,en;q=0.9,ar;q=0.8",
+            "Sec-Fetch-Site": "same-origin",
+            "cors": "empty"
           }
         }
       ],
