@@ -1064,6 +1064,19 @@
             "Origin": "https://milanotv.cfd",
             "Cookie": "milano_vid=21ec848c2ef9416cd4df"
           }
+        },
+        {
+          "channel_name": "SIR TV 1",
+          "url": "https://igvx9jruqu7rsmmd5.live--koora.com/kooora/6f86bdcseds02ss00s01sddsxmax1sss1_mux_hd?ts=1793449853&nonce=F2Or12gt&token=52234bd83364007b51f5e760d903e3c1&sid=63686c623061314dba97ecbe14ddc792",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "https://912acsss8af382.sirtv.top/",
+          "order": 1,
+          "headers": {
+            "Origin": "https://912acsss8af382.sirtv.top"
+          }
         }
       ],
       "sub_categories": [],
