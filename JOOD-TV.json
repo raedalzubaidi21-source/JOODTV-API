@@ -1061,6 +1061,7 @@
           "referer": "",
           "order": 0,
           "headers": {
+            "Host": "super-tv-api.sltv.workers.dev",
             "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
         },
