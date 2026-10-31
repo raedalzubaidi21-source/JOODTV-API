@@ -1133,6 +1133,32 @@
           "user_agent": "",
           "referer": "",
           "order": 6
+        },
+        {
+          "channel_name": "بين سبورت تود 2",
+          "url": "https://castx.online/live/beinsports2/stream_3.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "https://milanotv.cfd/",
+          "order": 7,
+          "headers": {
+            "Origin": "https://milanotv.cfd"
+          }
+        },
+        {
+          "channel_name": "بين سبورت تود 3",
+          "url": "https://castx.online/live/beinsports3/stream_3.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "https://milanotv.cfd/",
+          "order": 8,
+          "headers": {
+            "Origin": "https://milanotv.cfd"
+          }
         }
       ],
       "sub_categories": [],
