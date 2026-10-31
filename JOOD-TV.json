@@ -1065,20 +1065,6 @@
           }
         },
         {
-          "channel_name": "TOD BY BEIN 1",
-          "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=TOD1",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "stv2026",
-          "referer": "",
-          "order": 1,
-          "headers": {
-            "Host": "super-tv-api.sltv.workers.dev",
-            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
-          }
-        },
-        {
           "channel_name": "بين سبورت تود 1 مصدر ثاني",
           "url": "https://smarter.majedcss.site/live/ch1/972574ae336c4e3baf77c6efdccded2c.1793215298.1793820098.0.905dfb639868db3013e2c764094055210cc144ebe23e0e1957c7fbe716745ab3/master.css",
           "logo_url": "",
@@ -1086,7 +1072,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://player.majed-koora.live/",
-          "order": 2,
+          "order": 1,
           "headers": {
             "Origin": "https://player.majed-koora.live"
           }
@@ -1099,7 +1085,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://912acsss8af382.sirtv.top/",
-          "order": 3,
+          "order": 2,
           "headers": {
             "Origin": "https://912acsss8af382.sirtv.top"
           }
@@ -1112,7 +1098,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 4
+          "order": 3
         },
         {
           "channel_name": "كورة سيتي",
@@ -1122,7 +1108,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 5
+          "order": 4
         },
         {
           "channel_name": "بين سبورت تود 2",
@@ -1132,7 +1118,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://milanotv.cfd/",
-          "order": 6,
+          "order": 5,
           "headers": {
             "Origin": "https://milanotv.cfd"
           }
@@ -1145,32 +1131,9 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://milanotv.cfd/",
-          "order": 7,
+          "order": 6,
           "headers": {
             "Origin": "https://milanotv.cfd"
-          }
-        },
-        {
-          "channel_name": "الوان متعدده الجودة",
-          "url": "https://customer-tbeh4c48fd5uh1gn.cloudflarestream.com/ac78183a77143c1582150773ef884139/manifest/video.m3u8?protocol=llhls",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 8
-        },
-        {
-          "channel_name": "live kora vip 1",
-          "url": "https://7.sdfs.qzz.io/live/kora7/index.jpg",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "https://pl.matchlivehd.com/",
-          "order": 9,
-          "headers": {
-            "Origin": "https://pl.matchlivehd.com"
           }
         }
       ],
