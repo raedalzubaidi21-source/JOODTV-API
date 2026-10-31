@@ -1078,13 +1078,13 @@
           }
         },
         {
-          "channel_name": "live kora vip 1",
-          "url": "https://1.infokota.live/live/kora1/index.jpg",
+          "channel_name": "الوان متعدد الجودة",
+          "url": "https://customer-tbeh4c48fd5uh1gn.cloudflarestream.com/56dcd84046c047380b2eddb5d13c75a7/manifest/video.m3u8?",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "",
-          "referer": "https://pl.matchlivehd.com/bein11/",
+          "referer": "",
           "order": 2
         }
       ],
