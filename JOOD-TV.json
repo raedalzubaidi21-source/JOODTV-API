@@ -1149,6 +1149,16 @@
           "headers": {
             "Origin": "https://milanotv.cfd"
           }
+        },
+        {
+          "channel_name": "الوان متعدده الجودة",
+          "url": "https://customer-tbeh4c48fd5uh1gn.cloudflarestream.com/ac78183a77143c1582150773ef884139/manifest/video.m3u8?protocol=llhls",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 8
         }
       ],
       "sub_categories": [],
