@@ -1076,6 +1076,16 @@
           "headers": {
             "Origin": "https://912acsss8af382.sirtv.top"
           }
+        },
+        {
+          "channel_name": "live kora vip 1",
+          "url": "https://1.infokota.live/live/kora1/index.jpg",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "https://pl.matchlivehd.com/bein11/",
+          "order": 2
         }
       ],
       "sub_categories": [],
