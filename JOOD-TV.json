@@ -1049,67 +1049,7 @@
     },
     {
       "category_name": "وقت المباريات فقط",
-      "channels": [
-        {
-          "channel_name": "SIR TV 1",
-          "url": "https://1rxolmirvosixpyfd0.live--koora.com/kooora/6f86bdcseds02ss00s01sddsxmax1sss1_mux_hd?ts=1793477850&nonce=Hx8Z1o2i&token=cfb14ab0f97bfecedfee1080402f4420&sid=fba08f0667143db1f14138f52b6275c2",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "https://912acsss8af382.sirtv.top/",
-          "order": 0,
-          "headers": {
-            "Origin": "https://912acsss8af382.sirtv.top"
-          }
-        },
-        {
-          "channel_name": "يلا لايف متعدد الجوده",
-          "url": "https://yla.akbarnews.store/live/index.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 1
-        },
-        {
-          "channel_name": "كورة سيتي",
-          "url": "https://wp.machedge.site/tome1.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 2
-        },
-        {
-          "channel_name": "بين سبورت تود 2",
-          "url": "https://castx.online/live/beinsports2/stream_3.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "https://milanotv.cfd/",
-          "order": 3,
-          "headers": {
-            "Origin": "https://milanotv.cfd"
-          }
-        },
-        {
-          "channel_name": "بين سبورت تود 3",
-          "url": "https://castx.online/live/beinsports3/stream_3.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "https://milanotv.cfd/",
-          "order": 4,
-          "headers": {
-            "Origin": "https://milanotv.cfd"
-          }
-        }
-      ],
+      "channels": [],
       "sub_categories": [],
       "category_logo": "https://l.top4top.io/p_3956ylr181.jpeg"
     },
