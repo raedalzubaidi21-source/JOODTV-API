@@ -222,19 +222,6 @@
               }
             },
             {
-              "channel_name": "4K- ضوئي فقط",
-              "url": "https://live.bladisport.xyz/ch1/f92d776846b9afe31148b6399335d754476ceeea5622fd27b098d50ce35ca4ab/manifest.mpd",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-              "referer": "https://live.orderbladi.com/",
-              "order": 5,
-              "headers": {
-                "Origin": "https://live.orderbladi.com"
-              }
-            },
-            {
               "channel_name": "بين سبورت 2 - سوبر",
               "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b2_SD",
               "logo_url": "",
@@ -242,7 +229,7 @@
               "drm_key": "",
               "user_agent": "stv2026",
               "referer": "",
-              "order": 6,
+              "order": 5,
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
@@ -255,7 +242,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "https://pl.matchlivehd.com/",
-              "order": 7
+              "order": 6
             },
             {
               "channel_name": "بين سبورت 2 - اوسكار",
@@ -265,7 +252,7 @@
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 8
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 2 - BUZ",
@@ -275,7 +262,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 8
             },
             {
               "channel_name": "بين سبورت 2 - ريدز",
@@ -285,7 +272,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 10
+              "order": 9
             },
             {
               "channel_name": "بين سبورت 2 - الفجر",
@@ -295,7 +282,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 11
+              "order": 10
             },
             {
               "channel_name": "بين سبورت 2 - الوان",
@@ -305,7 +292,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 12
+              "order": 11
             },
             {
               "channel_name": "سريع",
@@ -315,7 +302,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 13
+              "order": 12
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
