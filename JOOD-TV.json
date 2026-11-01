@@ -183,6 +183,19 @@
               }
             },
             {
+              "channel_name": "بين سبورت 2 - الاسطورة",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=2",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "MTX Player",
+              "referer": "",
+              "order": 2,
+              "headers": {
+                "X-ToFi": "tofixtv"
+              }
+            },
+            {
               "channel_name": "بين سبورت 2 - سوبر",
               "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b2_SD",
               "logo_url": "",
@@ -190,7 +203,7 @@
               "drm_key": "",
               "user_agent": "stv2026",
               "referer": "",
-              "order": 2,
+              "order": 3,
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
@@ -203,7 +216,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "https://pl.matchlivehd.com/",
-              "order": 3
+              "order": 4
             },
             {
               "channel_name": "بين سبورت 2 - اوسكار",
@@ -213,20 +226,7 @@
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 4
-            },
-            {
-              "channel_name": "بين سبورت 2 - الاسطورة",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=2",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "MTX Player",
-              "referer": "",
-              "order": 5,
-              "headers": {
-                "X-ToFi": "tofixtv"
-              }
+              "order": 5
             },
             {
               "channel_name": "بين سبورت 2 - BUZ",
@@ -259,16 +259,6 @@
               "order": 8
             },
             {
-              "channel_name": "بين سبورت 2 - سوريا لايف",
-              "url": "https://dudjtmsjowdkw.cloudfront.net/bein2/720p/manifest.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 9
-            },
-            {
               "channel_name": "بين سبورت 2 - الفجر",
               "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1113.m3u8",
               "logo_url": "",
@@ -276,7 +266,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 10
+              "order": 9
             },
             {
               "channel_name": "بين سبورت 2 - الوان",
@@ -286,17 +276,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 11
-            },
-            {
-              "channel_name": "سريع",
-              "url": "https://null-stream.nullsave-ai.workers.dev/live/bein2.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 12
+              "order": 10
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
