@@ -183,6 +183,19 @@
               }
             },
             {
+              "channel_name": "TOD 2 S",
+              "url": "https://smarter.majedcss.site/live/ch2/a00f36bf155f485c8b8a777f9a19e2f5.1793215598.1793820398.0.ed9b7af6dce76244ea75a62e0318be164bfce10cd2841ed528e5f408fe7a2dd4/master.css",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+              "referer": "https://player.majed-koora.live/",
+              "order": 2,
+              "headers": {
+                "Origin": "https://player.majed-koora.live"
+              }
+            },
+            {
               "channel_name": "بين سبورت 2 - الاسطورة",
               "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=2",
               "logo_url": "",
@@ -190,7 +203,7 @@
               "drm_key": "",
               "user_agent": "MTX Player",
               "referer": "",
-              "order": 2,
+              "order": 3,
               "headers": {
                 "X-ToFi": "tofixtv"
               }
@@ -203,7 +216,7 @@
               "drm_key": "",
               "user_agent": "stv2026",
               "referer": "",
-              "order": 3,
+              "order": 4,
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
@@ -216,7 +229,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "https://pl.matchlivehd.com/",
-              "order": 4
+              "order": 5
             },
             {
               "channel_name": "بين سبورت 2 - اوسكار",
@@ -226,7 +239,7 @@
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 5
+              "order": 6
             },
             {
               "channel_name": "بين سبورت 2 - BUZ",
@@ -236,7 +249,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 6
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 2 - ريدز",
@@ -246,7 +259,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 7
+              "order": 8
             },
             {
               "channel_name": "بين سبورت 2 - الفجر",
@@ -256,7 +269,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 9
             },
             {
               "channel_name": "بين سبورت 2 - الوان",
@@ -266,7 +279,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 10
             },
             {
               "channel_name": "سريع",
@@ -276,7 +289,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 10
+              "order": 11
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
