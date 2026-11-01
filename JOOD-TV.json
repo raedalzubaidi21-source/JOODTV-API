@@ -239,16 +239,6 @@
               "order": 6
             },
             {
-              "channel_name": "بين سبورت 2 - ريو",
-              "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1325.css?x=/hls/&token=ek84VXhqeFRKQ3VvcGlh",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "OSCARTV2021",
-              "referer": "",
-              "order": 7
-            },
-            {
               "channel_name": "بين سبورت 2 - ريدز",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds2.m3u8",
               "logo_url": "",
@@ -256,7 +246,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 2 - الفجر",
@@ -266,11 +256,21 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 8
             },
             {
               "channel_name": "بين سبورت 2 - الوان",
               "url": "https://blcco.linkip.org/live/3460_.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 9
+            },
+            {
+              "channel_name": "سريع",
+              "url": "https://null-stream.nullsave-ai.workers.dev/live/bein2.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
