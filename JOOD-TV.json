@@ -303,6 +303,19 @@
               "order": 0
             },
             {
+              "channel_name": "بين سبورت 3 - الاسطورة",
+              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=3",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "MTX Player",
+              "referer": "http://localhost/",
+              "order": 1,
+              "headers": {
+                "X-ToFi": "tofixtv"
+              }
+            },
+            {
               "channel_name": "TOD 3",
               "url": "https://castx.online/live/beinsports3/master.m3u8",
               "logo_url": "",
@@ -310,7 +323,7 @@
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
               "referer": "https://milanotv.cfd/",
-              "order": 1,
+              "order": 2,
               "headers": {
                 "Origin": "https://milanotv.cfd"
               }
@@ -323,7 +336,7 @@
               "drm_key": "",
               "user_agent": "stv2026",
               "referer": "",
-              "order": 2,
+              "order": 3,
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
@@ -336,7 +349,7 @@
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
               "referer": "https://player.majed-koora.live/",
-              "order": 3,
+              "order": 4,
               "headers": {
                 "Origin": "https://player.majed-koora.live"
               }
@@ -349,7 +362,7 @@
               "drm_key": "",
               "user_agent": "stv2026",
               "referer": "",
-              "order": 4,
+              "order": 5,
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
@@ -362,7 +375,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "https://pl.matchlivehd.com/",
-              "order": 5
+              "order": 6
             },
             {
               "channel_name": "بين سبورت 3 - اوسكار",
@@ -372,20 +385,7 @@
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 6
-            },
-            {
-              "channel_name": "بين سبورت 3 - الاسطورة",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=3",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "MTX Player",
-              "referer": "http://localhost/",
-              "order": 7,
-              "headers": {
-                "X-ToFi": "tofixtv"
-              }
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 3 - BUZ",
@@ -418,16 +418,6 @@
               "order": 10
             },
             {
-              "channel_name": "بين سبورت 3 - سوريا لايف",
-              "url": "https://dudjtmsjowdkw.cloudfront.net/bein3/720p/manifest.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 11
-            },
-            {
               "channel_name": "بين سبورت 3 - الفجر",
               "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1112.m3u8",
               "logo_url": "",
@@ -435,7 +425,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 12
+              "order": 11
             },
             {
               "channel_name": "بين سبورت 3 - الوان",
@@ -445,17 +435,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 13
-            },
-            {
-              "channel_name": "سريع",
-              "url": "https://null-stream.nullsave-ai.workers.dev/live/bein3.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 14
+              "order": 12
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
