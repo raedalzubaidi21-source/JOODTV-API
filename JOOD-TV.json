@@ -303,7 +303,7 @@
               "order": 0
             },
             {
-              "channel_name": "TOD 1 S",
+              "channel_name": "TOD 3 S",
               "url": "https://smarter.majedcss.site/live/ch2/a00f36bf155f485c8b8a777f9a19e2f5.1793215598.1793820398.0.ed9b7af6dce76244ea75a62e0318be164bfce10cd2841ed528e5f408fe7a2dd4/master.css",
               "logo_url": "",
               "drm_id": "",
@@ -316,6 +316,19 @@
               }
             },
             {
+              "channel_name": "TOD 3 BY BEIN",
+              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD3",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "stv2026",
+              "referer": "",
+              "order": 2,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
+            },
+            {
               "channel_name": "بين سبورت 3 - سوبر",
               "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b3_SD",
               "logo_url": "",
@@ -323,7 +336,7 @@
               "drm_key": "",
               "user_agent": "stv2026",
               "referer": "",
-              "order": 2,
+              "order": 3,
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
@@ -336,7 +349,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "https://pl.matchlivehd.com/",
-              "order": 3
+              "order": 4
             },
             {
               "channel_name": "بين سبورت 3 - اوسكار",
@@ -346,7 +359,7 @@
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 4
+              "order": 5
             },
             {
               "channel_name": "بين سبورت 3 - الاسطورة",
@@ -356,7 +369,7 @@
               "drm_key": "",
               "user_agent": "MTX Player",
               "referer": "http://localhost/",
-              "order": 5,
+              "order": 6,
               "headers": {
                 "X-ToFi": "tofixtv"
               }
@@ -369,7 +382,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 6
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 3 - ريو",
@@ -379,7 +392,7 @@
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 7
+              "order": 8
             },
             {
               "channel_name": "بين سبورت 3 - ريدز",
@@ -389,7 +402,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 9
             },
             {
               "channel_name": "بين سبورت 3 - سوريا لايف",
@@ -399,7 +412,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 10
             },
             {
               "channel_name": "بين سبورت 3 - الفجر",
@@ -409,7 +422,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 10
+              "order": 11
             },
             {
               "channel_name": "بين سبورت 3 - الوان",
@@ -419,7 +432,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 11
+              "order": 12
             },
             {
               "channel_name": "سريع",
@@ -429,20 +442,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 12
-            },
-            {
-              "channel_name": "TOD 1 BY BEIN",
-              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD1",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "stv2026",
-              "referer": "",
-              "order": 13,
-              "headers": {
-                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
-              }
+              "order": 13
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
