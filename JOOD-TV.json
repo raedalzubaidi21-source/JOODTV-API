@@ -50,16 +50,6 @@
               }
             },
             {
-              "channel_name": "بين سبورت 1 - نوفا",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/693172.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "https://pl.matchlivehd.com/",
-              "order": 3
-            },
-            {
               "channel_name": "بين سبورت 1 - BUZ",
               "url": "https://d301g3x54eobfn.cloudfront.net/live/buz1/master.m3u8",
               "logo_url": "",
@@ -67,6 +57,16 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
+              "order": 3
+            },
+            {
+              "channel_name": "بين سبورت 1 - نوفا",
+              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/693172.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "https://pl.matchlivehd.com/",
               "order": 4
             },
             {
