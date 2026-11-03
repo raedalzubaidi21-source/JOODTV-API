@@ -474,6 +474,19 @@
               "order": 0
             },
             {
+              "channel_name": "TOD 4 BY BEIN",
+              "url": "4https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD3",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "stv2026",
+              "referer": "",
+              "order": 1,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
+            },
+            {
               "channel_name": "بين سبورت 4 - سوبر",
               "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=b4_SD",
               "logo_url": "",
@@ -481,7 +494,7 @@
               "drm_key": "",
               "user_agent": "stv2026",
               "referer": "",
-              "order": 1,
+              "order": 2,
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
@@ -494,7 +507,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "https://pl.matchlivehd.com/",
-              "order": 2
+              "order": 3
             },
             {
               "channel_name": "بين سبورت 4 - اوسكار",
@@ -504,7 +517,7 @@
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 3
+              "order": 4
             },
             {
               "channel_name": "بين سبورت 4 - الاسطورة",
@@ -514,7 +527,7 @@
               "drm_key": "",
               "user_agent": "MTX Player",
               "referer": "",
-              "order": 4,
+              "order": 5,
               "headers": {
                 "X-ToFi": "tofixtv"
               }
@@ -527,7 +540,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 5
+              "order": 6
             },
             {
               "channel_name": "بين سبورت 4 - ريو",
@@ -537,7 +550,7 @@
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 6
+              "order": 7
             },
             {
               "channel_name": "بين سبورت 4 - ريدز",
@@ -547,7 +560,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 7
+              "order": 8
             },
             {
               "channel_name": "بين سبورت 4 - سوريا لايف",
@@ -557,7 +570,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 8
+              "order": 9
             },
             {
               "channel_name": "بين سبورت 4 - الفجر",
@@ -567,7 +580,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 9
+              "order": 10
             },
             {
               "channel_name": "بين سبورت 4 - الوان",
@@ -577,7 +590,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 10
+              "order": 11
             },
             {
               "channel_name": "سريع",
@@ -587,7 +600,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 11
+              "order": 12
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
