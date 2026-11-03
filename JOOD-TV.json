@@ -299,7 +299,7 @@
             },
             {
               "channel_name": "TOD 3 BY BEIN",
-              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD3",
+              "url": "https://super-tv-api.stvl.workers.dev/api/hls?token=eyJ1IjoiaHR0cHM6Ly9zbWFydGVyLm1hamVkY3NzLnNpdGUvbGl2ZS9jaDQvYWMxMmE0NjdmZDU4NGRhNGE5N2FiNjkyMDRmOGJiODUuMTc5MzYzNTk1My4xNzk0MjQwNzUzLjAuOTU0YWZjNTlkMjAxYmFmYjkxMGQ2YTVmZmVkOWMzMWUxNDRiMmNlNDM2ZTZkNDYwZWUxYTZhNjIxNjg5NTljOC9tLzA2YjdmOWJjNTMzYjQyYTBiOTQzZmY3NTlhM2Q4YmRhL3Zfc3RyZWFtXzAyLzQ5NDgwMjI5MTgwOTU1NDguanMiLCJlIjoxNzkzNzQxNzE3OTEzLCJoIjp7InVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsInJlZmVyZXIiOiJodHRwczovL3BsYXllci5tYWplZC1rb29yYS5saXZlLz9wbGF5ZXI9aGxzJmNoYW5uZWw9dG9vZDQiLCJvcmlnaW4iOiJodHRwczovL3BsYXllci5tYWplZC1rb29yYS5saXZlIn19.Uf1LlNt59j0d8SoFchUd1gXvzrXu9JFWX4uRK5T7tmI",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
