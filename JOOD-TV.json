@@ -286,7 +286,7 @@
             },
             {
               "channel_name": "TOD 3",
-              "url": "https://mejarhosting.store/hdntl=exp=1793753020~acl=%2flive%2fGtTr8Y668yuqlCjhjc9UfP9sxP0TaIDx0rFBY91O%2f*~id=1aa4a337-d6cd-4d79-9fcf-2a4258172931~data=hdntl,aXA9MTIyLjEwMi4xMTkuNDQsYXVkPWZyZWUsdWlkPXUxNTk2LG1heD0xLGRldj03MTQ3N2Y0YjY0MzgsdWE9ZTlkODY1NTFhMWY1~hmac=06cebb781e65e9e74ee671eb42303cf7b9ee378b0a5331151b7636e4cc6d9182/live/GtTr8Y668yuqlCjhjc9UfP9sxP0TaIDx0rFBY91O/master.m3u8",
+              "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD1",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
