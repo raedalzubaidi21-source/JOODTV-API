@@ -50,16 +50,6 @@
               }
             },
             {
-              "channel_name": "الفجر 1",
-              "url": "https://castx.online/live/ftv1720p/stream_0.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 3
-            },
-            {
               "channel_name": "بين سبورت 1 - نوفا",
               "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/693172.m3u8",
               "logo_url": "",
@@ -67,7 +57,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "https://pl.matchlivehd.com/",
-              "order": 4
+              "order": 3
             },
             {
               "channel_name": "بين سبورت 1 - BUZ",
@@ -77,7 +67,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 5
+              "order": 4
             },
             {
               "channel_name": "بين سبورت 1 - ريدز",
@@ -87,7 +77,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 6
+              "order": 5
             },
             {
               "channel_name": "بين سبورت 1 - الوان",
@@ -97,7 +87,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 7
+              "order": 6
             },
             {
               "channel_name": "بين سبورت 1 - ريو",
@@ -107,7 +97,7 @@
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 8,
+              "order": 7,
               "headers": {
                 "Host": "assets.pushyourcss.world:8080"
               }
@@ -120,7 +110,7 @@
               "drm_key": "",
               "user_agent": "stv2026",
               "referer": "",
-              "order": 9,
+              "order": 8,
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
@@ -133,7 +123,7 @@
               "drm_key": "",
               "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
               "referer": "https://milanotv.cfd/",
-              "order": 10,
+              "order": 9,
               "headers": {
                 "Origin": "https://milanotv.cfd"
               }
