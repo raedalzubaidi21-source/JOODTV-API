@@ -1046,7 +1046,7 @@
       "category_logo": "https://j.top4top.io/p_3956e3ypb1.jpg",
       "channels": [
         {
-          "channel_name": "STARZPLAY 1 MULTI",
+          "channel_name": "STARZPLAY 1",
           "url": "https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP1/wv-pr/manifest.mpd",
           "logo_url": "https://a.top4top.io/p_39404nlhs9.jpg",
           "drm_id": "eb5a3a48f3e191a00e3ac1e2d470c491",
@@ -1056,17 +1056,17 @@
           "order": 0
         },
         {
-          "channel_name": "STARZPLAY 2 MULTI",
+          "channel_name": "STARZPLAY 2",
           "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd",
           "logo_url": "https://a.top4top.io/p_39404nlhs9.jpg",
           "drm_id": "efca93272b9d34f5cf9d8598f43be5ea",
           "drm_key": "55e5fe489e9c18f6c979c3126d4bcfed",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "user_agent": "",
           "referer": "",
           "order": 1
         },
         {
-          "channel_name": "STARZPLAY 3 MULTI",
+          "channel_name": "STARZPLAY 3",
           "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/SPZ/wv-pr/manifest.mpd",
           "logo_url": "https://a.top4top.io/p_39404nlhs9.jpg",
           "drm_id": "42d7a462640c6748371d39f23e4a18c3",
