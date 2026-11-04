@@ -1037,7 +1037,31 @@
     },
     {
       "category_name": "مباراة ريال مدريد",
-      "channels": [],
+      "channels": [
+        {
+          "channel_name": "TOD",
+          "url": "https://smarter.majedcss.site/live/ch14/d1240285bdad4f6ebbad280762a60f10.1793604328.1796196328.0.856c44c0f140c4f125f81a949be8afd586bcca7ce73a5186f9f036b1d593e4be/master.css",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "https://player.majed-koora.live/",
+          "order": 0,
+          "headers": {
+            "Origin": "https://player.majed-koora.live"
+          }
+        },
+        {
+          "channel_name": "beIN-2 Y",
+          "url": "",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "https://v1.sisi20.top/",
+          "order": 1
+        }
+      ],
       "sub_categories": [],
       "category_logo": "https://l.top4top.io/p_3956ylr181.jpeg"
     },
