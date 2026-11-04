@@ -1049,6 +1049,19 @@
           "order": 0
         },
         {
+          "channel_name": "TOD 2 BY BEIN",
+          "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD2",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "stv2026",
+          "referer": "",
+          "order": 1,
+          "headers": {
+            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+          }
+        },
+        {
           "channel_name": "TOD",
           "url": "https://smarter.majedcss.site/live/ch9/2f35f44840204664bfaf9322f43295a3.1793806285.1794411085.0.c4b978a8812f019df17e5add6d85e36275d8575a57f5d1135fe10f36c59e31e2/master.css",
           "logo_url": "",
@@ -1056,7 +1069,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://player.majed-koora.live/",
-          "order": 1,
+          "order": 2,
           "headers": {
             "Origin": "https://player.majed-koora.live"
           }
@@ -1069,7 +1082,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://v1.sisi20.top/",
-          "order": 2,
+          "order": 3,
           "headers": {
             "Origin": "https://v1.sisi20.top"
           }
@@ -1082,7 +1095,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://milanotv.cfd/",
-          "order": 3,
+          "order": 4,
           "headers": {
             "Origin": "https://milanotv.cfd"
           }
@@ -1095,7 +1108,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 4
+          "order": 5
         },
         {
           "channel_name": "SIR TV",
@@ -1105,7 +1118,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://912acsss8af382.sirtv.top/",
-          "order": 5,
+          "order": 6,
           "headers": {
             "Origin": "https://912acsss8af382.sirtv.top"
           }
@@ -1118,7 +1131,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 6
+          "order": 7
         },
         {
           "channel_name": "فيس 2",
@@ -1128,7 +1141,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 7
+          "order": 8
         },
         {
           "channel_name": "فيس 3",
@@ -1138,7 +1151,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 8
+          "order": 9
         },
         {
           "channel_name": "فيس 4",
@@ -1148,7 +1161,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 9
+          "order": 10
         },
         {
           "channel_name": "فيس 5",
@@ -1158,7 +1171,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 10
+          "order": 11
         }
       ],
       "sub_categories": [],
