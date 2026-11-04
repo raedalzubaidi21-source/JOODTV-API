@@ -1129,6 +1129,16 @@
           "user_agent": "",
           "referer": "",
           "order": 7
+        },
+        {
+          "channel_name": "فيس 3",
+          "url": "https://scontent.fisu9-1.fna.fbcdn.net/hvideo-hil-frc/_nc_cat-107/_nc_sr_t-4/v/rASdfNabmFV_i2GaLHByPw1cewkyTv4txsmqw95x1EJjA0w/_nc_ohc-weWfbc6fKvIQ7kNvwFVE9SL/live-dash/dash-abr-ibr-audio/122129774019423784.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQyMCUm4POvGUY2k4hPaUDS4zl1XbgL2P5bZnolARiCsQ&oe=6AED3256",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 8
         }
       ],
       "sub_categories": [],
