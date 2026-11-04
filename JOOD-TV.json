@@ -1096,6 +1096,19 @@
           "user_agent": "",
           "referer": "",
           "order": 4
+        },
+        {
+          "channel_name": "SIR TV",
+          "url": "https://jqyjghfms1mu8zcd1.live--koora.com/kooora/6f86bdcseds02ss00s01ddsxmax22422_bg_hd?ts=1793813740&nonce=kfJIalo&token=e8a59b6a2a46c188c3901c530a078657&sid=5e958e4fd07b88a062775663f603b5c4",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "https://912acsss8af382.sirtv.top/",
+          "order": 5,
+          "headers": {
+            "Origin": "https://912acsss8af382.sirtv.top"
+          }
         }
       ],
       "sub_categories": [],
