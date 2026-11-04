@@ -1109,6 +1109,16 @@
           "headers": {
             "Origin": "https://912acsss8af382.sirtv.top"
           }
+        },
+        {
+          "channel_name": "فيس 1",
+          "url": "https://scontent.fisu9-1.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-1/_nc_sr_t-4/v/rASeI5hMcJD-xhAOV2cECcAiui5sskw0kssQTHxswLpcUSg/_nc_ohc-ekegrnZ-dh0Q7kNvwFyjXf1/live-dash/dash-abr-ibr-audio/122134426953397279.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQS47T8R5omIi_62lToMG552v-CKiIeQuLdH4s6EnTktEA&oe=6AED3A84",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 6
         }
       ],
       "sub_categories": [],
