@@ -1047,10 +1047,10 @@
       "channels": [
         {
           "channel_name": "STARZPLAY 1 MULTI",
-          "url": "https://d301g3x54eobfn.cloudfront.net/live/buz10/master.m3u8",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP1/wv-pr/manifest.mpd",
           "logo_url": "https://a.top4top.io/p_39404nlhs9.jpg",
-          "drm_id": "",
-          "drm_key": "",
+          "drm_id": "eb5a3a48f3e191a00e3ac1e2d470c491",
+          "drm_key": "2c8b7198563527e524d66628c092ef1f",
           "user_agent": "",
           "referer": "",
           "order": 0
