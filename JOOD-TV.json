@@ -1039,6 +1039,16 @@
       "category_name": "مباراة ريال مدريد",
       "channels": [
         {
+          "channel_name": "بين سبورت 2 - كويك نت",
+          "url": "http://45.67.56.78/Sport2/index.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 0
+        },
+        {
           "channel_name": "TOD",
           "url": "https://smarter.majedcss.site/live/ch14/d1240285bdad4f6ebbad280762a60f10.1793604328.1796196328.0.856c44c0f140c4f125f81a949be8afd586bcca7ce73a5186f9f036b1d593e4be/master.css",
           "logo_url": "",
@@ -1046,7 +1056,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://player.majed-koora.live/",
-          "order": 0,
+          "order": 1,
           "headers": {
             "Origin": "https://player.majed-koora.live"
           }
@@ -1059,20 +1069,10 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://v1.sisi20.top/",
-          "order": 1,
+          "order": 2,
           "headers": {
             "Origin": "https://v1.sisi20.top"
           }
-        },
-        {
-          "channel_name": "بين سبورت 2 - كويك نت",
-          "url": "http://45.67.56.78/Sport2/index.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 2
         }
       ],
       "sub_categories": [],
