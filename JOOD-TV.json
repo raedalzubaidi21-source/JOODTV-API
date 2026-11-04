@@ -1067,7 +1067,7 @@
         },
         {
           "channel_name": "STARZPLAY 3",
-          "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/SPZ/wv-pr/manifest.mpd",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/SPZ/wv-pr/manifest.mpd",
           "logo_url": "https://a.top4top.io/p_39404nlhs9.jpg",
           "drm_id": "42d7a462640c6748371d39f23e4a18c3",
           "drm_key": "f4bef9f080f4a3a52dd55d5c3b8b81e2",
