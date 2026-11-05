@@ -1037,7 +1037,22 @@
     },
     {
       "category_name": "مباراة ريال مدريد",
-      "channels": [],
+      "channels": [
+        {
+          "channel_name": "O1",
+          "url": "https://abody.optikl.ink/osa/main.php?id=116900&cat=4524",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+          "referer": "https://www.w2.maziikaaaaa.shop/",
+          "order": 0,
+          "headers": {
+            "Origin": "https://www.w2.maziikaaaaa.shop",
+            "Host": "abody.optikl.ink"
+          }
+        }
+      ],
       "sub_categories": [],
       "category_logo": "https://l.top4top.io/p_3956ylr181.jpeg"
     },
