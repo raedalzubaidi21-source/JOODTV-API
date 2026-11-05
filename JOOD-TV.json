@@ -1039,7 +1039,7 @@
       "category_name": "مباراة ريال مدريد",
       "channels": [
         {
-          "channel_name": "O1",
+          "channel_name": "Os1",
           "url": "https://abody.optikl.ink/osa/main.php?id=116900&cat=4524",
           "logo_url": "",
           "drm_id": "",
@@ -1049,7 +1049,8 @@
           "order": 0,
           "headers": {
             "Origin": "https://www.w2.maziikaaaaa.shop",
-            "Host": "abody.optikl.ink"
+            "Host": "abody.optikl.ink",
+            "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Google Chrome\";v=\"136\", \"Chromium\";v=\"136\""
           }
         }
       ],
