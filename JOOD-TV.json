@@ -1037,31 +1037,7 @@
     },
     {
       "category_name": "مباراة ريال مدريد",
-      "channels": [
-        {
-          "channel_name": "O122",
-          "url": "https://abody.optikl.ink/osa/main.php?id=116900&cat=4524",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
-          "referer": "https://www.w2.maziikaaaaa.shop/",
-          "order": 0,
-          "headers": {
-            "Origin": "https://www.w2.maziikaaaaa.shop",
-            "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Google Chrome\";v=\"136\", \"Chromium\";v=\"136\"",
-            "Sec-Fetch-Site": "cross-site",
-            "Sec-Fetch-Mode": "cors",
-            "Accept-Encoding": "gzip",
-            "Sec-Fetch-Dest": "empty",
-            "sec-ch-ua-platform": "\"Windows\"",
-            "sec-ch-ua-mobile": "?0",
-            "Connection": "Keep-Alive",
-            "Content-Type": "text/html; charset=UTF-8",
-            "Server": "nginx"
-          }
-        }
-      ],
+      "channels": [],
       "sub_categories": [],
       "category_logo": "https://l.top4top.io/p_3956ylr181.jpeg"
     },
@@ -1424,6 +1400,29 @@
           "user_agent": "",
           "referer": "",
           "order": 5
+        },
+        {
+          "channel_name": "O122",
+          "url": "https://abody.optikl.ink/osa/main.php?id=116900&cat=4524",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+          "referer": "https://www.w2.maziikaaaaa.shop/",
+          "order": 6,
+          "headers": {
+            "Origin": "https://www.w2.maziikaaaaa.shop",
+            "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Google Chrome\";v=\"136\", \"Chromium\";v=\"136\"",
+            "Sec-Fetch-Site": "cross-site",
+            "Sec-Fetch-Mode": "cors",
+            "Accept-Encoding": "gzip",
+            "Sec-Fetch-Dest": "empty",
+            "sec-ch-ua-platform": "\"Windows\"",
+            "sec-ch-ua-mobile": "?0",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Server": "nginx"
+          }
         }
       ],
       "image": "https://fastupload.live/do.php?img=21389"
