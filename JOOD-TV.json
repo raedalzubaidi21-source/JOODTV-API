@@ -1039,7 +1039,7 @@
       "category_name": "مباراة ريال مدريد",
       "channels": [
         {
-          "channel_name": "Ostora11",
+          "channel_name": "Os123",
           "url": "https://abody.optikl.ink/osa/main.php?id=116900&cat=4524",
           "logo_url": "",
           "drm_id": "",
@@ -1054,7 +1054,10 @@
             "Sec-Fetch-Site": "cross-site",
             "Sec-Fetch-Mode": "cors",
             "Accept-Encoding": "gzip",
-            "Sec-Fetch-Dest": "empty"
+            "Sec-Fetch-Dest": "empty",
+            "sec-ch-ua-platform": "\"Windows\"",
+            "sec-ch-ua-mobile": "?0",
+            "Connection": "Keep-Alive"
           }
         }
       ],
