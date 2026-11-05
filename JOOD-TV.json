@@ -1058,7 +1058,7 @@
             "sec-ch-ua-platform": "\"Windows\"",
             "sec-ch-ua-mobile": "?0",
             "Connection": "Keep-Alive",
-            "text/html; charset=UTF-8": "text/html; charset=UTF-8",
+            "Content-Type": "text/html; charset=UTF-8",
             "Server": "nginx"
           }
         }
