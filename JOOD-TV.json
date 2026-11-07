@@ -1064,6 +1064,19 @@
           "headers": {
             "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
+        },
+        {
+          "channel_name": "مان سيتي - نوتنجهام",
+          "url": "https://912ac5c8a38e08cd2.live--koora.com/kooora/6f86bdcseds02ss00s01sddsxmax1sss1_nmx_hd?ts=1794071153&nonce=hZQv1iwh&token=f7f3bd05961e648cea18de0325945dc9&sid=65a487d595c159c7eed957dc24a72890",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "https://912acsss8af382.sirtv.top/",
+          "order": 2,
+          "headers": {
+            "Origin": "https://912acsss8af382.sirtv.top"
+          }
         }
       ],
       "sub_categories": [],
