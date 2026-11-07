@@ -1038,7 +1038,21 @@
     },
     {
       "category_name": "مباراة ريال مدريد",
-      "channels": [],
+      "channels": [
+        {
+          "channel_name": "TOD-1",
+          "url": "https://mejarhosting.store/hdntl=exp=1794092470~acl=%2flive%2fotLMe4aT6qlyoLcM9mhQuirtIgN0lgxuZn51lAUG%2f*~id=71bd278e-15ff-4b77-801e-d6eee0861922~data=hdntl,aXA9MTIyLjEwMi4xMTkuNDIsYXVkPWZyZWUsdWlkPXUxNTk2LG1heD0xLGRldj03MTQ3N2Y0YjY0MzgsdWE9ZTlkODY1NTFhMWY1~hmac=a1960da87db72523b9ebe335b905aa1fa44089b1bcde98196c22a8264efb8be5/live/otLMe4aT6qlyoLcM9mhQuirtIgN0lgxuZn51lAUG/master.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "ttps://milanotv.cfd/",
+          "order": 0,
+          "headers": {
+            "Origin": "https://milanotv.cfd"
+          }
+        }
+      ],
       "sub_categories": [],
       "category_logo": "https://l.top4top.io/p_3956ylr181.jpeg"
     },
