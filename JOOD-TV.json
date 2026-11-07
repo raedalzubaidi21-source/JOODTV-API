@@ -1110,6 +1110,19 @@
           "headers": {
             "Origin": "https://player.majed-koora.live"
           }
+        },
+        {
+          "channel_name": "beIN SPORT 1 M",
+          "url": "https://smarter.majedcss.site/live/ch9/2f35f44840204664bfaf9322f43295a3.1793806285.1794411085.0.c4b978a8812f019df17e5add6d85e36275d8575a57f5d1135fe10f36c59e31e2/master.css",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "",
+          "order": 6,
+          "headers": {
+            "Origin": "https://player.majed-koora.live"
+          }
         }
       ],
       "sub_categories": [],
