@@ -1075,9 +1075,18 @@
           "referer": "",
           "order": 2,
           "headers": {
-            "Origin": "https://912acsss8af382.sirtv.top",
-            ":authority": "swu88gishgc7vpjd4.live--koora.com"
+            "Origin": "https://912acsss8af382.sirtv.top"
           }
+        },
+        {
+          "channel_name": "beIN SPORT 1",
+          "url": "https://v1.sisi20.top/broadcast/_AHgVQuaQdeL9fdJmgdUXA/1794080632/1794080371/1/bein101.m3u8 Request method GET Status code 200 OK (from service worker)",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "https://v1.sisi20.top/p.php?ch=bein101&n=%D8%A8%D8%AB%201",
+          "order": 3
         }
       ],
       "sub_categories": [],
