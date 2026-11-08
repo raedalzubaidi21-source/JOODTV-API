@@ -1053,6 +1053,32 @@
           }
         },
         {
+          "channel_name": "beIN 1",
+          "url": "https://smarter.majedjs.site/live/ch9/2f35f44840204664bfaf9322f43295a3.1793806285.1794411085.0.e517cc2fda4baa1d3a3c927c472abb266a6291b89189860cbd7bebe90e59c08b/master.css",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "",
+          "order": 1,
+          "headers": {
+            "Origin": "https://player.majed-koora.live"
+          }
+        },
+        {
+          "channel_name": "TOD -1 M",
+          "url": "https://smarter.majedjs.site/live/ch1/fdebecff229f4a73ab30c2dceec0be75.1793813187.1794417987.0.f5459f41c55f88d574d881d9b0ae265c6ff9f69b6e0a2fdf325fb5d100e5d6c8/master.css",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "referer": "",
+          "order": 2,
+          "headers": {
+            "Origin": "https://player.majed-koora.live"
+          }
+        },
+        {
           "channel_name": "TOD 1 BY BEIN",
           "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD1",
           "logo_url": "",
@@ -1060,7 +1086,7 @@
           "drm_key": "",
           "user_agent": "stv2026",
           "referer": "",
-          "order": 1,
+          "order": 3,
           "headers": {
             "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
@@ -1073,7 +1099,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "referer": "https://v1.sisi20.top/p.php?ch=bein101&n=%D8%A8%D8%AB%201",
-          "order": 2
+          "order": 4
         },
         {
           "channel_name": "كورة سيتي -1",
@@ -1083,33 +1109,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 3
-        },
-        {
-          "channel_name": "TOD -1 M",
-          "url": "https://smarter.majedcss.site/live/ch1/fdebecff229f4a73ab30c2dceec0be75.1793813187.1794417987.0.d83c92bb236ca5c35289c07a66463051bb1a8f45db911473537ff49e695d9659/master.css",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "",
-          "order": 4,
-          "headers": {
-            "Origin": "https://player.majed-koora.live"
-          }
-        },
-        {
-          "channel_name": "beIN SPORT 1 M",
-          "url": "https://smarter.majedcss.site/live/ch9/2f35f44840204664bfaf9322f43295a3.1793806285.1794411085.0.c4b978a8812f019df17e5add6d85e36275d8575a57f5d1135fe10f36c59e31e2/master.css",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "",
-          "order": 5,
-          "headers": {
-            "Origin": "https://player.majed-koora.live"
-          }
+          "order": 5
         }
       ],
       "sub_categories": [],
