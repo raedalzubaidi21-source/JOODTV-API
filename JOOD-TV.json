@@ -1079,16 +1079,6 @@
           }
         },
         {
-          "channel_name": "كورة سيتي -1",
-          "url": "https://m.yalla4live.live/endo1.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 3
-        },
-        {
           "channel_name": "بين سبورت 1 - كويك نت",
           "url": "http://45.67.56.78/Sport1/index.m3u8",
           "logo_url": "",
@@ -1096,7 +1086,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 4
+          "order": 3
         },
         {
           "channel_name": "TOD 1 BY BEIN",
@@ -1106,7 +1096,7 @@
           "drm_key": "",
           "user_agent": "stv2026",
           "referer": "",
-          "order": 5,
+          "order": 4,
           "headers": {
             "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
