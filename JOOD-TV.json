@@ -1107,6 +1107,19 @@
           "user_agent": "",
           "referer": "",
           "order": 5
+        },
+        {
+          "channel_name": "TOD 1 BY BEIN",
+          "url": "https://super-tv-api.sltv.workers.dev/api/hls?token=eyJ1IjoiaHR0cHM6Ly9zbWFydGVyLm1hamVkanMuc2l0ZS9saXZlL2NoMS9mZGViZWNmZjIyOWY0YTczYWIzMGMyZGNlZWMwYmU3NS4xNzkzODEzMTg3LjE3OTQ0MTc5ODcuMC5mNTQ1OWY0MWM1NWY4OGQ1NzRkODgxZDliMGFlMjY1YzZmZjlmNjliNmUwYTJmZGYzMjVmYjVkMTAwZTVkNmM4L20vNDk1ZTViN2Q1ZWMwNDg4NTkxZTBkZDdlNjU1NDJmOGEvc19jYy8wLnZ0dCIsImUiOjE3OTQxNjEzMjExNTEsImgiOnsidXNlci1hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE1Ni4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE1Ni4wIiwicmVmZXJlciI6Imh0dHBzOi8vcGxheWVyLm1hamVkLWtvb3JhLmxpdmUvP3BsYXllcj1obHMmY2hhbm5lbD10b29kMSIsIm9yaWdpbiI6Imh0dHBzOi8vcGxheWVyLm1hamVkLWtvb3JhLmxpdmUifX0.y7NT5ajhQSmJ21rdJ_UCndbw0rNFgvNQw6TVnrRP-Ac",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "stv2026",
+          "referer": "",
+          "order": 6,
+          "headers": {
+            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+          }
         }
       ],
       "sub_categories": [],
