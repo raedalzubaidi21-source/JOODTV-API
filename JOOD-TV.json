@@ -2640,6 +2640,11 @@
           "channels": [],
           "playlist_url": "http://so.ta2al.us/player_api.php?username=MH12ARBMH12&password=MH12ARBMH12&action=get_vod_streams",
           "sub_category_logo": "https://b.top4top.io/p_39296jhz51.jpg"
+        },
+        {
+          "sub_category_name": "سيرفر قنوات رياضية",
+          "channels": [],
+          "playlist_url": "http://stream.ghosttv.co/player_api.php?username=gaofxxvu42&password=wkadniywws&action=get_live_streams"
         }
       ]
     }
