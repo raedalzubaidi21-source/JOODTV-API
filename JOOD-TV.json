@@ -1476,7 +1476,7 @@
           "order": 5
         },
         {
-          "channel_name": "ost1",
+          "channel_name": "osto1",
           "url": "https://abody.optikl.ink/osa/main.php?id=116900&cat=4524",
           "logo_url": "",
           "drm_id": "",
@@ -1485,7 +1485,10 @@
           "referer": "https://www.w2.maziikaaaaa.shop/",
           "order": 6,
           "headers": {
-            "Origin": "https://www.w2.maziikaaaaa.shop"
+            "Origin": "https://www.w2.maziikaaaaa.shop",
+            "Sec-Fetch-Site": "cross-site",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Dest": "empty"
           }
         }
       ],
