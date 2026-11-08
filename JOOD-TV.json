@@ -37,17 +37,14 @@
               }
             },
             {
-              "channel_name": "TOD 1 S",
-              "url": "https://smarter.majedcss.site/live/ch1/972574ae336c4e3baf77c6efdccded2c.1793215298.1793820098.0.905dfb639868db3013e2c764094055210cc144ebe23e0e1957c7fbe716745ab3/master.css",
+              "channel_name": "SPEED 1",
+              "url": "http://ott.km4ever.org/live/4236442461/6184600746/1367901.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-              "referer": "https://player.majed-koora.live/",
-              "order": 2,
-              "headers": {
-                "Origin": "https://player.majed-koora.live"
-              }
+              "user_agent": "",
+              "referer": "",
+              "order": 2
             },
             {
               "channel_name": "سوبر 1",
