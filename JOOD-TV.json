@@ -1054,7 +1054,7 @@
         },
         {
           "channel_name": "TOD 1 BY BEIN",
-          "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=TOD1",
+          "url": "https://super-tv-api.sltv.workers.dev/api/hls?token=eyJ1IjoiaHR0cHM6Ly9zbWFydGVyLm1hamVkanMuc2l0ZS9saXZlL2NoMS9mZGViZWNmZjIyOWY0YTczYWIzMGMyZGNlZWMwYmU3NS4xNzkzODEzMTg3LjE3OTQ0MTc5ODcuMC5mNTQ1OWY0MWM1NWY4OGQ1NzRkODgxZDliMGFlMjY1YzZmZjlmNjliNmUwYTJmZGYzMjVmYjVkMTAwZTVkNmM4L3Yvdl9zdHJlYW1fMDIuY3NzIiwiZSI6MTc5NDE1OTE5MDIxMSwiaCI6eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTU2LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTU2LjAiLCJyZWZlcmVyIjoiaHR0cHM6Ly9wbGF5ZXIubWFqZWQta29vcmEubGl2ZS8_cGxheWVyPWhscyZjaGFubmVsPXRvb2QxIiwib3JpZ2luIjoiaHR0cHM6Ly9wbGF5ZXIubWFqZWQta29vcmEubGl2ZSJ9fQ.-lDGAUS8QtEUEN5FhHC4Rsy8b8mbaf26G8AykYzIk78",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
