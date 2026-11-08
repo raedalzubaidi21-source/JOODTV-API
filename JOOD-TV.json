@@ -1079,16 +1079,6 @@
           }
         },
         {
-          "channel_name": "beIN SPORT 1",
-          "url": "https://v1.sisi20.top/broadcast/_AHgVQuaQdeL9fdJmgdUXA/1794080632/1794080371/1/bein101.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "https://v1.sisi20.top/p.php?ch=bein101&n=%D8%A8%D8%AB%201",
-          "order": 3
-        },
-        {
           "channel_name": "كورة سيتي -1",
           "url": "https://m.yalla4live.live/endo1.m3u8",
           "logo_url": "",
@@ -1096,7 +1086,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 4
+          "order": 3
         },
         {
           "channel_name": "بين سبورت 1 - كويك نت",
@@ -1106,17 +1096,17 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 5
+          "order": 4
         },
         {
           "channel_name": "TOD 1 BY BEIN",
-          "url": "https://super-tv-api.sltv.workers.dev/api/hls?token=eyJ1IjoiaHR0cHM6Ly9zbWFydGVyLm1hamVkanMuc2l0ZS9saXZlL2NoMS9mZGViZWNmZjIyOWY0YTczYWIzMGMyZGNlZWMwYmU3NS4xNzkzODEzMTg3LjE3OTQ0MTc5ODcuMC5mNTQ1OWY0MWM1NWY4OGQ1NzRkODgxZDliMGFlMjY1YzZmZjlmNjliNmUwYTJmZGYzMjVmYjVkMTAwZTVkNmM4L20vNDk1ZTViN2Q1ZWMwNDg4NTkxZTBkZDdlNjU1NDJmOGEvc19jYy8wLnZ0dCIsImUiOjE3OTQxNjEzMjExNTEsImgiOnsidXNlci1hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE1Ni4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE1Ni4wIiwicmVmZXJlciI6Imh0dHBzOi8vcGxheWVyLm1hamVkLWtvb3JhLmxpdmUvP3BsYXllcj1obHMmY2hhbm5lbD10b29kMSIsIm9yaWdpbiI6Imh0dHBzOi8vcGxheWVyLm1hamVkLWtvb3JhLmxpdmUifX0.y7NT5ajhQSmJ21rdJ_UCndbw0rNFgvNQw6TVnrRP-Ac",
+          "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD1",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "stv2026",
           "referer": "",
-          "order": 6,
+          "order": 5,
           "headers": {
             "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
