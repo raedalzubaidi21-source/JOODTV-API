@@ -1485,11 +1485,7 @@
           "referer": "https://www.w2.maziikaaaaa.shop/",
           "order": 6,
           "headers": {
-            "Origin": "https://www.w2.maziikaaaaa.shop",
-            "Host": "abody.optikl.ink",
-            "Sec-Fetch-Site": "cross-site",
-            "Sec-Fetch-Mode": "cors",
-            "Sec-Fetch-Dest": "empty"
+            "Origin": "https://www.w2.maziikaaaaa.shop"
           }
         }
       ],
