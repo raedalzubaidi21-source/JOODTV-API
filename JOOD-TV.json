@@ -1097,6 +1097,16 @@
           "user_agent": "",
           "referer": "",
           "order": 4
+        },
+        {
+          "channel_name": "بين سبورت 1 - كويك نت",
+          "url": "http://45.67.56.78/Sport1/index.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 5
         }
       ],
       "sub_categories": [],
