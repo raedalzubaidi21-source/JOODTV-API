@@ -1035,70 +1035,7 @@
     },
     {
       "category_name": "مباراة برشلونة",
-      "channels": [
-        {
-          "channel_name": "TOD 1 BY BEIN",
-          "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD1",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "stv2026",
-          "referer": "",
-          "order": 0,
-          "headers": {
-            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
-          }
-        },
-        {
-          "channel_name": "TOD-1",
-          "url": "https://mejarhosting.store/hdntl=exp=1794178896~acl=%2flive%2f6dasOWqB43HvgPUmtAMGEQYLrOsqVLrPCs3DZm6p%2f*~id=ad33aac8-04a9-48bd-afc8-9b82c89d0f8f~data=hdntl,aXA9MTIyLjEwMi4xMTkuNDIsYXVkPWZyZWUsdWlkPXUxNTk2LG1heD0xLGRldj03MTQ3N2Y0YjY0MzgsdWE9ZTlkODY1NTFhMWY1~hmac=baafe13f5b5c40b97b612c56bcf89572f5e077c8f2ef76174a3718cc2626ec4d/live/6dasOWqB43HvgPUmtAMGEQYLrOsqVLrPCs3DZm6p/master.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "ttps://milanotv.cfd/",
-          "order": 1,
-          "headers": {
-            "Origin": "https://milanotv.cfd"
-          }
-        },
-        {
-          "channel_name": "TOD -1 M",
-          "url": "https://smarter.majedjs.site/live/ch1/fdebecff229f4a73ab30c2dceec0be75.1793813187.1794417987.0.f5459f41c55f88d574d881d9b0ae265c6ff9f69b6e0a2fdf325fb5d100e5d6c8/master.css",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "https://player.majed-koora.live/",
-          "order": 2,
-          "headers": {
-            "Origin": "https://player.majed-koora.live"
-          }
-        },
-        {
-          "channel_name": "beIN 1",
-          "url": "https://smarter.majedjs.site/live/ch9/2f35f44840204664bfaf9322f43295a3.1793806285.1794411085.0.e517cc2fda4baa1d3a3c927c472abb266a6291b89189860cbd7bebe90e59c08b/master.css",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "",
-          "order": 3,
-          "headers": {
-            "Origin": "https://player.majed-koora.live"
-          }
-        },
-        {
-          "channel_name": "بين سبورت 1 - كويك نت",
-          "url": "http://45.67.56.78/Sport1/index.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 4
-        }
-      ],
+      "channels": [],
       "sub_categories": [],
       "category_logo": "https://l.top4top.io/p_3956ylr181.jpeg"
     },
