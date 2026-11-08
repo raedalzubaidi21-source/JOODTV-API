@@ -1072,7 +1072,7 @@
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-          "referer": "",
+          "referer": "https://player.majed-koora.live/",
           "order": 2,
           "headers": {
             "Origin": "https://player.majed-koora.live"
@@ -1097,20 +1097,6 @@
           "user_agent": "",
           "referer": "",
           "order": 4
-        },
-        {
-          "channel_name": "TOD 1 BY BEIN",
-          "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=TOD1",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "stv2026",
-          "referer": "",
-          "order": 5,
-          "headers": {
-            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6",
-            "Accept-Encoding": "gzip"
-          }
         }
       ],
       "sub_categories": [],
