@@ -14,7 +14,7 @@
           "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
           "channels": [
             {
-              "channel_name": "بين سبورت 1 - كويك نت",
+              "channel_name": "كويك نت 1",
               "url": "http://45.67.56.78/Sport1/index.m3u8",
               "logo_url": "",
               "drm_id": "",
@@ -24,7 +24,7 @@
               "order": 0
             },
             {
-              "channel_name": "TOD 1 BY BEIN",
+              "channel_name": "TOD S1",
               "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD1",
               "logo_url": "",
               "drm_id": "",
@@ -61,7 +61,7 @@
               }
             },
             {
-              "channel_name": "بين سبورت 1 - BUZ",
+              "channel_name": "BUZ 1",
               "url": "https://d301g3x54eobfn.cloudfront.net/live/buz1/master.m3u8",
               "logo_url": "",
               "drm_id": "",
@@ -71,7 +71,7 @@
               "order": 4
             },
             {
-              "channel_name": "بين سبورت 1 - نوفا",
+              "channel_name": "نوفا 1",
               "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/693172.m3u8",
               "logo_url": "",
               "drm_id": "",
@@ -81,7 +81,7 @@
               "order": 5
             },
             {
-              "channel_name": "بين سبورت 1 - ريدز",
+              "channel_name": "ريدز 1",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds1.m3u8",
               "logo_url": "",
               "drm_id": "",
@@ -91,7 +91,7 @@
               "order": 6
             },
             {
-              "channel_name": "بين سبورت 1 - الوان",
+              "channel_name": "الوان 1",
               "url": "https://blcco.linkip.org/live/3461_.m3u8",
               "logo_url": "",
               "drm_id": "",
