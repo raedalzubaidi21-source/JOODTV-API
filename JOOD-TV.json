@@ -91,6 +91,16 @@
               "order": 6
             },
             {
+              "channel_name": "beIN H1",
+              "url": "https://premium.dawwirli.watch/hls?stream_id=7866",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 7
+            },
+            {
               "channel_name": "الفجر 1",
               "url": "http://assets.pushyourcss2.world/hls/12d496399aed8a1ad77851f8bf62270c5810c0fa47a9479c7c9bfeca4d967f06.css",
               "logo_url": "",
@@ -98,21 +108,11 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "alktlin12",
-              "order": 7
+              "order": 8
             },
             {
               "channel_name": "الوان 1",
               "url": "https://blcco.linkip.org/live/3461_.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 8
-            },
-            {
-              "channel_name": "beIN H1",
-              "url": "https://premium.dawwirli.watch/hls?stream_id=7866",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
