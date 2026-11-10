@@ -109,6 +109,16 @@
               "user_agent": "",
               "referer": "",
               "order": 8
+            },
+            {
+              "channel_name": "beIN H1",
+              "url": "https://premium.dawwirli.watch/hls?stream_id=7866",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 9
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
