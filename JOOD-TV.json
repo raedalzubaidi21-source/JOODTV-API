@@ -1292,6 +1292,16 @@
           "order": 0
         },
         {
+          "channel_name": "العراقية الرياضية S2",
+          "url": "http://mhiptv.com:8080/live/hk030/6985423976/3402.m3u8",
+          "logo_url": "https://ibb.co/YTBytcW5",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "com.boostvision.player.iptv",
+          "referer": "",
+          "order": 1
+        },
+        {
           "channel_name": "العراقية العامة",
           "url": "https://tv.vodu.me:1995/nile/aliraqia/playlist.m3u8",
           "logo_url": "https://e.top4top.io/p_38903wr029.jpg",
@@ -1299,7 +1309,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 1
+          "order": 2
         },
         {
           "channel_name": "الرابعة الرياضية 1",
@@ -1309,7 +1319,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 2
+          "order": 3
         },
         {
           "channel_name": "الرابعة الرياضية 2",
@@ -1319,7 +1329,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 3
+          "order": 4
         },
         {
           "channel_name": "الرابعة الرياضية +1",
@@ -1329,7 +1339,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 4
+          "order": 5
         },
         {
           "channel_name": "الرابعة الرياضية +2",
@@ -1339,7 +1349,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 5
+          "order": 6
         },
         {
           "channel_name": "ost1",
@@ -1349,7 +1359,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
           "referer": "https://www.w2.maziikaaaaa.shop/",
-          "order": 6,
+          "order": 7,
           "headers": {
             "Origin": "https://www.w2.maziikaaaaa.shop"
           }
