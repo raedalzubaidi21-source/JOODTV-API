@@ -1283,23 +1283,13 @@
       "channels": [
         {
           "channel_name": "العراقية الرياضية",
-          "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/268293.m3u8",
-          "logo_url": "https://up6.cc/2026/11/179427366746641.jpeg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "com.boostvision.player.iptv",
-          "referer": "",
-          "order": 0
-        },
-        {
-          "channel_name": "العراقية الرياضية S2",
           "url": "http://mhiptv.com:8080/live/hk030/6985423976/3402.m3u8",
           "logo_url": "https://up6.cc/2026/11/179427366746641.jpeg",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "com.boostvision.player.iptv",
           "referer": "",
-          "order": 1
+          "order": 0
         },
         {
           "channel_name": "العراقية العامة",
@@ -1309,7 +1299,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 2
+          "order": 1
         },
         {
           "channel_name": "الرابعة الرياضية 1",
@@ -1319,7 +1309,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 3
+          "order": 2
         },
         {
           "channel_name": "الرابعة الرياضية 2",
@@ -1329,7 +1319,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 4
+          "order": 3
         },
         {
           "channel_name": "الرابعة الرياضية +1",
@@ -1339,7 +1329,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 5
+          "order": 4
         },
         {
           "channel_name": "الرابعة الرياضية +2",
@@ -1349,7 +1339,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 6
+          "order": 5
         },
         {
           "channel_name": "ost1",
@@ -1359,7 +1349,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
           "referer": "https://www.w2.maziikaaaaa.shop/",
-          "order": 7,
+          "order": 6,
           "headers": {
             "Origin": "https://www.w2.maziikaaaaa.shop"
           }
