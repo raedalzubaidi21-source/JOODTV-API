@@ -1352,7 +1352,7 @@
           "order": 5
         },
         {
-          "channel_name": "TEST",
+          "channel_name": "TEST 1",
           "url": "https://abody.optikl.ink/osa/main.php?id=4128&cat=333",
           "logo_url": "",
           "drm_id": "",
@@ -1361,7 +1361,8 @@
           "referer": "https://www.w2.maziikaaaaa.shop/",
           "order": 6,
           "headers": {
-            "X-Powered-By": "PleskLin"
+            "X-Powered-By": "PleskLin",
+            "Sec-Fetch-Site": "cross-site"
           }
         }
       ],
