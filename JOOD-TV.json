@@ -1364,16 +1364,6 @@
             "X-Powered-By": "PleskLin",
             "Sec-Fetch-Site": "cross-site"
           }
-        },
-        {
-          "channel_name": "Duhok web",
-          "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/268211.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 7
         }
       ],
       "image": "https://fastupload.live/do.php?img=21389"
