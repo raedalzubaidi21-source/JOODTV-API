@@ -1352,7 +1352,7 @@
           "order": 5
         },
         {
-          "channel_name": "TEST_WEB",
+          "channel_name": "TEST",
           "url": "https://abody.optikl.ink/osa/main.php?id=4128&cat=333",
           "logo_url": "",
           "drm_id": "",
