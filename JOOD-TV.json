@@ -1350,6 +1350,16 @@
           "user_agent": "",
           "referer": "",
           "order": 5
+        },
+        {
+          "channel_name": "TEST",
+          "url": "https://abody.optikl.ink/osa/main.php?id=4128&cat=333",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+          "referer": "https://www.w2.maziikaaaaa.shop/",
+          "order": 6
         }
       ],
       "image": "https://fastupload.live/do.php?img=21389"
