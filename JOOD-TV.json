@@ -1374,6 +1374,16 @@
           "user_agent": "VLC/3.0.25 LibVLC/3.0.25",
           "referer": "",
           "order": 7
+        },
+        {
+          "channel_name": "زاخو سبورت ويب",
+          "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/268213.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "VLC/3.0.25 LibVLC/3.0.25",
+          "referer": "",
+          "order": 8
         }
       ],
       "image": "https://fastupload.live/do.php?img=21389"
