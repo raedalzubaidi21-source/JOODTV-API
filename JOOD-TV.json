@@ -1366,7 +1366,7 @@
           }
         },
         {
-          "channel_name": "دهوك سبورت ويب",
+          "channel_name": "دهوك سبورت *",
           "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/268211.m3u8",
           "logo_url": "",
           "drm_id": "",
@@ -1376,7 +1376,7 @@
           "order": 7
         },
         {
-          "channel_name": "زاخو سبورت ويب",
+          "channel_name": "زاخو سبورت *",
           "url": "http://cf.aakj.me/live/f75a349a076e/e556583dad/268213.m3u8",
           "logo_url": "",
           "drm_id": "",
