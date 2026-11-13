@@ -174,13 +174,13 @@
               }
             },
             {
-              "channel_name": "نوفا 2",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/509057.m3u8",
+              "channel_name": "beIN S2",
+              "url": "https://da91pg4szkdsa.cloudfront.net/bein1/master.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
-              "referer": "https://pl.matchlivehd.com/",
+              "referer": "",
               "order": 3
             },
             {
