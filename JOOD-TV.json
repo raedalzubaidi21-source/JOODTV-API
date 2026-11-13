@@ -1046,6 +1046,16 @@
           "user_agent": "",
           "referer": "alktlin12",
           "order": 4
+        },
+        {
+          "channel_name": "الرابعه سيرفر 3",
+          "url": "https://ais10.aispeednet.cfd/sokaspr/kcjbqtlptxhk/index.html",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer",
+          "referer": "",
+          "order": 5
         }
       ],
       "sub_categories": [],
