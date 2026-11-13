@@ -1036,6 +1036,16 @@
           "headers": {
             "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
+        },
+        {
+          "channel_name": "الرابعه HD",
+          "url": "http://assets.pushyourcss2.world/hls/fb5b324bd6a5ca96702c7bd9143d3e1f757055620e5c1973820901b4e4f0a88a.css",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "alktlin12",
+          "order": 4
         }
       ],
       "sub_categories": [],
