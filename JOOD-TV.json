@@ -91,8 +91,8 @@
               "order": 6
             },
             {
-              "channel_name": "beIN H1",
-              "url": "https://premium.dawwirli.watch/hls?stream_id=7866",
+              "channel_name": "beIN S1",
+              "url": "https://da91pg4szkdsa.cloudfront.net/bein1/master.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
