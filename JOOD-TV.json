@@ -1023,6 +1023,16 @@
           "headers": {
             "Origin": "https://912acsss8af382.sirtv.top"
           }
+        },
+        {
+          "channel_name": "الرابعه 1 عالي الدقة",
+          "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-eag-prn/_nc_cat-1/_nc_sr_t-4/v/rAbYw-hwYjHpdMiasCsBe2w9CliC89LBZ2Um7TlOMg0om5w/_nc_ohc-xSjymhfnLVcQ7kNvwHF_Ke1/live-dash/dash-abr-ibr-audio/1530776619151806.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQSpl72EfgK8QEFZvILcK5UORxGQ3438V9PCzbLnYP2V9A&oe=6AF915AA",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 3
         }
       ],
       "sub_categories": [],
