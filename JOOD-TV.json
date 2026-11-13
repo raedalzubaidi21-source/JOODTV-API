@@ -1010,6 +1010,19 @@
           "headers": {
             "Origin": "https://1.draximo.site"
           }
+        },
+        {
+          "channel_name": "Sir tv",
+          "url": "https://jqyjghfms1mu8zcd1.live--koora.com/kooora/6f86bdcsedfssis02ss00d01dsxmax666_nmx_hd?ts=1794580625&nonce=RWhf1q7l&token=42e6d87c70386dfb7d514e57d916324e&sid=9a501ee0e9ce4731fd2b7f7c34cdb8b0",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+          "referer": "",
+          "order": 2,
+          "headers": {
+            "Origin": "https://912acsss8af382.sirtv.top"
+          }
         }
       ],
       "sub_categories": [],
