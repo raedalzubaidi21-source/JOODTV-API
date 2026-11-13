@@ -1020,6 +1020,19 @@
           "headers": {
             "Origin": "https://1.draximo.site"
           }
+        },
+        {
+          "channel_name": "سير تيفي",
+          "url": "https://912ac5c8a38e08cd2.live--koora.com/kooora/6f86bdcsedfssis02ss00d01dsxmax666_nmx_hd?ts=1794582287&nonce=GyXs1rhr&token=ae9826887522ae93b6db5435d7c2c444&sid=9fa421966944502d73d716281527e6b9",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+          "referer": "https://912acsss8af382.sirtv.top/",
+          "order": 3,
+          "headers": {
+            "Origin": "https://912acsss8af382.sirtv.top"
+          }
         }
       ],
       "sub_categories": [],
