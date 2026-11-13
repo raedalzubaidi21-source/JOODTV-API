@@ -1023,6 +1023,19 @@
           "headers": {
             "Origin": "https://912acsss8af382.sirtv.top"
           }
+        },
+        {
+          "channel_name": "الوان سيرفر 2",
+          "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=25",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "stv2026",
+          "referer": "",
+          "order": 3,
+          "headers": {
+            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+          }
         }
       ],
       "sub_categories": [],
