@@ -997,6 +997,19 @@
           "user_agent": "",
           "referer": "",
           "order": 0
+        },
+        {
+          "channel_name": "الرابعة سبورت 1",
+          "url": "https://2.draximo.site/my-hls/999/index.m3u8?expires=1794582283&token=a771452822eccc02f96cb94e055b24fc",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+          "referer": "https://1.draximo.site/",
+          "order": 1,
+          "headers": {
+            "Origin": "https://1.draximo.site"
+          }
         }
       ],
       "sub_categories": [],
