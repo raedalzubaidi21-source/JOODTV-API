@@ -989,8 +989,8 @@
       "category_name": "مباراة العراق",
       "channels": [
         {
-          "channel_name": "الرابعه 1 عالي الدقة",
-          "url": "https://scontent.fawz1-1.fna.fbcdn.net/hvideo-eag-prn/_nc_cat-1/_nc_sr_t-4/v/rAbYw-hwYjHpdMiasCsBe2w9CliC89LBZ2Um7TlOMg0om5w/_nc_ohc-xSjymhfnLVcQ7kNvwHF_Ke1/live-dash/dash-abr-ibr-audio/1530776619151806.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQSpl72EfgK8QEFZvILcK5UORxGQ3438V9PCzbLnYP2V9A&oe=6AF915AA",
+          "channel_name": "الوان 2",
+          "url": "https://blcco.linkip.org/live/3460_.m3u8",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
@@ -999,24 +999,14 @@
           "order": 0
         },
         {
-          "channel_name": "الوان 2",
-          "url": "https://blcco.linkip.org/live/3460_.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 1
-        },
-        {
           "channel_name": "الرابعة سبورت 1",
-          "url": "https://2.draximo.site/my-hls/999/index.m3u8?expires=1794582283&token=a771452822eccc02f96cb94e055b24fc",
+          "url": "https://2.draximo.site/my-hls/999/index.m3u8?expires=1794585705&token=48e306ccb0194d78516b840e2e183769",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
           "referer": "https://1.draximo.site/",
-          "order": 2,
+          "order": 1,
           "headers": {
             "Origin": "https://1.draximo.site"
           }
@@ -1029,7 +1019,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
           "referer": "https://912acsss8af382.sirtv.top/",
-          "order": 3,
+          "order": 2,
           "headers": {
             "Origin": "https://912acsss8af382.sirtv.top"
           }
