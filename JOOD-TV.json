@@ -2214,7 +2214,7 @@
         },
         {
           "channel_name": "MBC BOLLYWOOD",
-          "url": "https://tv.vodu.me:1995/live/MBCbollywood/playlist.m3u8",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
           "logo_url": "https://up6.cc/2026/07/178493314754371.jpg",
           "drm_id": "",
           "drm_key": "",
