@@ -2128,9 +2128,12 @@
           "logo_url": "https://b.top4top.io/p_3969immx00.jpeg",
           "drm_id": "b1a8592dff8a4965983fd7f8ee7006dc",
           "drm_key": "0954d76121a0c33c6e3f52175aca6c05",
-          "user_agent": "",
-          "referer": "",
-          "order": 1
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+          "referer": "https://www.elahmad.ru/",
+          "order": 1,
+          "headers": {
+            "Origin": "https://www.elahmad.ru"
+          }
         },
         {
           "channel_name": "MBC 3",
