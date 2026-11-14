@@ -1167,7 +1167,8 @@
           "referer": "https://starzplay.com/",
           "order": 9,
           "headers": {
-            "Origin": "https://starzplay.com"
+            "Origin": "https://starzplay.com",
+            "Cookie": "yandexuid=9691804411765026082; yuidss=9691804411765026082; DSID=...; IDE=..."
           }
         }
       ],
