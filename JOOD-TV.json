@@ -1156,6 +1156,19 @@
           "headers": {
             "Origin": "https://starzplay.com"
           }
+        },
+        {
+          "channel_name": "test",
+          "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+          "logo_url": "",
+          "drm_id": "e78769d87a41e15036a4fb8bfdf1371e",
+          "drm_key": "37be0375dc9fe544c3c6de6a105f7c0a",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+          "referer": "https://starzplay.com/",
+          "order": 9,
+          "headers": {
+            "Origin": "https://starzplay.com"
+          }
         }
       ],
       "image": "https://j.top4top.io/p_3956e3ypb1.jpg"
