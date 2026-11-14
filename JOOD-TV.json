@@ -2114,11 +2114,11 @@
       "channels": [
         {
           "channel_name": "MBC 1",
-          "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/video/1080p2400kbps/video.m3u8",
           "logo_url": "https://h.top4top.io/p_3675kef811.jpg",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; TECNO CL6 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.47 Mobile Safari/537.36",
+          "user_agent": "",
           "referer": "",
           "order": 0
         },
@@ -2134,7 +2134,7 @@
         },
         {
           "channel_name": "MBC 3",
-          "url": "https://tv.vodu.me:1995/nile3/MBC3HD/playlist.m3u8",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
           "logo_url": "https://c.top4top.io/p_36758rk121.jpg",
           "drm_id": "",
           "drm_key": "",
