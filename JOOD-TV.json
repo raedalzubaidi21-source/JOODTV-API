@@ -466,7 +466,7 @@
               "order": 8
             },
             {
-              "channel_name": "بين سبورت 4 - الفجر",
+              "channel_name": "الفجر 4",
               "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=92",
               "logo_url": "",
               "drm_id": "",
@@ -602,7 +602,7 @@
               "order": 8
             },
             {
-              "channel_name": "بين سبورت 5 - الفجر",
+              "channel_name": "الفجر 5",
               "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=93",
               "logo_url": "",
               "drm_id": "",
