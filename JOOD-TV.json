@@ -2194,7 +2194,7 @@
         },
         {
           "channel_name": "MBC DRAMA MSR",
-          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8",
           "logo_url": "https://l.top4top.io/p_3685w42ob0.jpeg",
           "drm_id": "",
           "drm_key": "",
