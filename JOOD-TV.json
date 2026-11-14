@@ -2184,7 +2184,7 @@
         },
         {
           "channel_name": "MBC DRAMA",
-          "url": "https://tv.vodu.me:1995/nile3/mbcdrama/playlist.m3u8",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8",
           "logo_url": "https://j.top4top.io/p_3675yuuby1.jpg",
           "drm_id": "",
           "drm_key": "",
