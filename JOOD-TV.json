@@ -215,13 +215,16 @@
             },
             {
               "channel_name": "الفجر 2",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1113.m3u8",
+              "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=90",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "stv2026",
               "referer": "",
-              "order": 7
+              "order": 7,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
             },
             {
               "channel_name": "الوان 2",
@@ -338,13 +341,16 @@
             },
             {
               "channel_name": "الفجر 3",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1112.m3u8",
+              "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=91",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "stv2026",
               "referer": "",
-              "order": 8
+              "order": 8,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
             },
             {
               "channel_name": "الوان 3",
@@ -461,13 +467,16 @@
             },
             {
               "channel_name": "بين سبورت 4 - الفجر",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1111.m3u8",
+              "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=92",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "stv2026",
               "referer": "",
-              "order": 9
+              "order": 9,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
             },
             {
               "channel_name": "بين سبورت 4 - الوان",
@@ -594,13 +603,16 @@
             },
             {
               "channel_name": "بين سبورت 5 - الفجر",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1110.m3u8",
+              "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=93",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "stv2026",
               "referer": "",
-              "order": 9
+              "order": 9,
+              "headers": {
+                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+              }
             },
             {
               "channel_name": "بين سبورت 5 - الوان",
