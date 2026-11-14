@@ -2224,7 +2224,7 @@
         },
         {
           "channel_name": "MBC MASER 1",
-          "url": "https://tv.vodu.me:1995/live/mbc_maser1/playlist.m3u8",
+          "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/1080p2400kbps/video.m3u8",
           "logo_url": "https://h.top4top.io/p_36758og3p1.png",
           "drm_id": "",
           "drm_key": "",
