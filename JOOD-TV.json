@@ -2124,10 +2124,10 @@
         },
         {
           "channel_name": "MBC 2",
-          "url": "https://tv.vodu.me:1995/nile2/MBC2HD/playlist.m3u8",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd",
           "logo_url": "https://b.top4top.io/p_3969immx00.jpeg",
-          "drm_id": "",
-          "drm_key": "",
+          "drm_id": "b1a8592dff8a4965983fd7f8ee7006dc",
+          "drm_key": "0954d76121a0c33c6e3f52175aca6c05",
           "user_agent": "",
           "referer": "",
           "order": 1
