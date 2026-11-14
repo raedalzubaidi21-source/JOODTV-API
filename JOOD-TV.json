@@ -2224,7 +2224,7 @@
         },
         {
           "channel_name": "MBC MASER 1",
-          "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/1080p2400kbps/video.m3u8",
+          "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
           "logo_url": "https://h.top4top.io/p_36758og3p1.png",
           "drm_id": "",
           "drm_key": "",
@@ -2234,7 +2234,7 @@
         },
         {
           "channel_name": "MBC MASER 2",
-          "url": "https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/1080p2400kbps/video.m3u8",
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
           "logo_url": "https://j.top4top.io/p_3969ivy820.png",
           "drm_id": "",
           "drm_key": "",
