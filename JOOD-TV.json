@@ -37,12 +37,12 @@
               }
             },
             {
-              "channel_name": "beIN F1",
-              "url": "https://foxtv.sevenlive.shop/watch/FOXTV_CH7/stream.m3u8?sig=bd5f899407b45c1d9c75ab190d673b075397afa04c67396915205f19e60289a5",
+              "channel_name": "beIN CONNECT",
+              "url": "https://s1.beinconnect.us/index.php?hls=BEIN-1.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "IPTVSmartersPro",
+              "user_agent": "",
               "referer": "",
               "order": 2
             },
@@ -61,18 +61,18 @@
               }
             },
             {
-              "channel_name": "Oz 1",
-              "url": "https://ss.oz-tv.store/bein_sport_1/tracks-v1a1/mono.m3u8?token=QTRicmVqMEt2S3QxaFRBc2w1N3RzbW5MWE5KUThEdG03MUVZUXliaDJ4VEVnM05XMGd0OFBoUEdHRURYOXBkS2RZb2pIY1RvZ2ZDV2ZKc0JkdHU4V3RsRzk0dHY0RFM5UXN2dTJ2bGlWRnBVcjN5NGFtY0cvNHdvbW11NFVTVnotMTg4LjcyLjQ2Ljk4LTE3OTQyNjUwOTAtMTc5NDI4NjY5MA%3D%3D",
+              "channel_name": "beIN F1",
+              "url": "https://foxtv.sevenlive.shop/watch/FOXTV_CH7/stream.m3u8?sig=bd5f899407b45c1d9c75ab190d673b075397afa04c67396915205f19e60289a5",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "",
+              "user_agent": "IPTVSmartersPro",
               "referer": "",
               "order": 4
             },
             {
-              "channel_name": "ريدز 1",
-              "url": "https://sport.redstv-yahaydev.workers.dev/live/reds1.m3u8",
+              "channel_name": "Oz 1",
+              "url": "https://ss.oz-tv.store/bein_sport_1/tracks-v1a1/mono.m3u8?token=QTRicmVqMEt2S3QxaFRBc2w1N3RzbW5MWE5KUThEdG03MUVZUXliaDJ4VEVnM05XMGd0OFBoUEdHRURYOXBkS2RZb2pIY1RvZ2ZDV2ZKc0JkdHU4V3RsRzk0dHY0RFM5UXN2dTJ2bGlWRnBVcjN5NGFtY0cvNHdvbW11NFVTVnotMTg4LjcyLjQ2Ljk4LTE3OTQyNjUwOTAtMTc5NDI4NjY5MA%3D%3D",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -81,8 +81,8 @@
               "order": 5
             },
             {
-              "channel_name": "سريع",
-              "url": "https://null-stream.nullsave-ai.workers.dev/live/bein1.m3u8",
+              "channel_name": "ريدز 1",
+              "url": "https://sport.redstv-yahaydev.workers.dev/live/reds1.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -129,16 +129,6 @@
               "user_agent": "Abo Ali",
               "referer": "https://arena.score",
               "order": 10
-            },
-            {
-              "channel_name": "beIN Y1",
-              "url": "http://ctv5.apiycn3.com/live/918454578001/index.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
-              "referer": "http://yacinneeee.live⁠‍⁠ㅤ‌⁠‍⁠",
-              "order": 11
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
