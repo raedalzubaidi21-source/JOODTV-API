@@ -162,7 +162,7 @@
             },
             {
               "channel_name": "beIN CONNECT",
-              "url": "https://null-stream.nullsave-ai.workers.dev/live/bein2.m3u8",
+              "url": "https://s1.beinconnect.us/index.php?hls=BEIN-2.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -278,7 +278,7 @@
             },
             {
               "channel_name": "beIN CONNECT",
-              "url": "https://d301g3x54eobfn.cloudfront.net/live/buz3/master.m3u8",
+              "url": "https://s1.beinconnect.us/index.php?hls=BEIN-3.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -394,7 +394,7 @@
             },
             {
               "channel_name": "beIN CONNECT",
-              "url": "https://da91pg4szkdsa.cloudfront.net/bein4/master.m3u8",
+              "url": "https://s1.beinconnect.us/index.php?hls=BEIN-4.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -487,7 +487,7 @@
             },
             {
               "channel_name": "beIN CONNECT",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/844940.m3u8",
+              "url": "https://s1.beinconnect.us/index.php?hls=BEIN-5.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -567,7 +567,7 @@
             },
             {
               "channel_name": "beIN CONNECT",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/984150.m3u8",
+              "url": "https://s1.beinconnect.us/index.php?hls=BEIN-6.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -623,7 +623,7 @@
           "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
           "channels": [
             {
-              "channel_name": "بين سبورت 7 - كويك نت",
+              "channel_name": "كويك نت",
               "url": "http://45.67.56.78/Sport7/index.m3u8",
               "logo_url": "",
               "drm_id": "",
@@ -633,8 +633,8 @@
               "order": 0
             },
             {
-              "channel_name": "بين سبورت 7 - نوفا",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/882382.m3u8",
+              "channel_name": "beIN CONNECT",
+              "url": "https://s1.beinconnect.us/index.php?hls=BEIN-7.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -643,7 +643,7 @@
               "order": 1
             },
             {
-              "channel_name": "بين سبورت 7 - اوسكار",
+              "channel_name": "اوسكار",
               "url": "http://static.assetsfileslocal.store:8080/assets/res2/java2/1370.css?token=TEJlOGxSTjVmYk5Hektx",
               "logo_url": "",
               "drm_id": "",
@@ -653,67 +653,24 @@
               "order": 2
             },
             {
-              "channel_name": "بين سبورت 7 - الاسطورة",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=7",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "MTX Player",
-              "referer": "",
-              "order": 3,
-              "headers": {
-                "X-ToFi": "tofixtv"
-              }
-            },
-            {
-              "channel_name": "بين سبورت 7 - BUZ",
-              "url": "https://d301g3x54eobfn.cloudfront.net/live/buz7/master.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 4
-            },
-            {
-              "channel_name": "بين سبورت 7 - ريو",
+              "channel_name": "ريو",
               "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1370.css?x=/hls/&token=bEdMOEZOWTBwT0E2ck84",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 5
+              "order": 3
             },
             {
-              "channel_name": "بين سبورت 7 - ريدز",
+              "channel_name": "ريدز",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds7.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 6
-            },
-            {
-              "channel_name": "بين سبورت 7 - مختلط",
-              "url": "https://ds0o9oo1k90qo.cloudfront.net/ytv/d9fcc6b4e86c4041/index.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 7
-            },
-            {
-              "channel_name": "سريع",
-              "url": "https://null-stream.nullsave-ai.workers.dev/live/bein7.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 8
+              "order": 4
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -723,7 +680,7 @@
           "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
           "channels": [
             {
-              "channel_name": "بين سبورت 8 - كويك نت",
+              "channel_name": "كويك نت",
               "url": "http://45.67.56.78/Sport8/index.m3u8",
               "logo_url": "",
               "drm_id": "",
@@ -733,8 +690,8 @@
               "order": 0
             },
             {
-              "channel_name": "بين سبورت 8 - نوفا",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/481393.m3u8",
+              "channel_name": "beIN CONNECT",
+              "url": "https://s1.beinconnect.us/index.php?hls=BEIN-8.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -743,7 +700,7 @@
               "order": 1
             },
             {
-              "channel_name": "بين سبورت 8 - اوسكار",
+              "channel_name": "اوسكار",
               "url": "https://live.foxtv7.com/stream/so?ch=bein_sports8&q=HD",
               "logo_url": "",
               "drm_id": "",
@@ -753,37 +710,14 @@
               "order": 2
             },
             {
-              "channel_name": "بين سبورت 8 - الاسطورة",
-              "url": "https://tv1.qamhad.com/live/tofi_channels.php?ch=8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "MTX Player",
-              "referer": "",
-              "order": 3,
-              "headers": {
-                "X-ToFi": "tofixtv"
-              }
-            },
-            {
-              "channel_name": "بين سبورت 8 - BUZ",
-              "url": "https://d301g3x54eobfn.cloudfront.net/live/buz8/master.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 4
-            },
-            {
-              "channel_name": "بين سبورت 8 - ريو",
+              "channel_name": "ريو",
               "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1379.css?x=/hls/&token=NWM2Qnc1UHZaZldkNzlt",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 5
+              "order": 3
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -793,7 +727,7 @@
           "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
           "channels": [
             {
-              "channel_name": "بين سبورت 9 - كويك نت",
+              "channel_name": "كويك نت",
               "url": "http://45.67.56.78/Sport13/index.m3u8",
               "logo_url": "",
               "drm_id": "",
@@ -803,8 +737,8 @@
               "order": 0
             },
             {
-              "channel_name": "بين سبورت 9 - نوفا",
-              "url": "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/574944.m3u8",
+              "channel_name": "beIN CONNECT",
+              "url": "https://s1.beinconnect.us/index.php?hls=BEIN-9.m3u8",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
@@ -813,7 +747,7 @@
               "order": 1
             },
             {
-              "channel_name": "بين سبورت 9 - اوسكار",
+              "channel_name": "اوسكار",
               "url": "https://live.foxtv7.com/stream/so?ch=bein_sports9&q=HD",
               "logo_url": "",
               "drm_id": "",
@@ -823,34 +757,14 @@
               "order": 2
             },
             {
-              "channel_name": "بين سبورت 9 - BUZ",
-              "url": "https://d301g3x54eobfn.cloudfront.net/live/buz9/master.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 3
-            },
-            {
-              "channel_name": "بين سبورت 9 - ريو",
+              "channel_name": "ريو",
               "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1388.css?x=/hls/&token=WEFwdFMxSUZaSnFWekpV",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
               "user_agent": "OSCARTV2021",
               "referer": "",
-              "order": 4
-            },
-            {
-              "channel_name": "بين سبورت 9 - مختلط",
-              "url": "https://v1.sisi20.top/broadcast/lcx4_16aesopusjjOItvgg/1792957992/1792957731/1/bein101.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
-              "referer": "https://v1.sisi20.top/sw.js/",
-              "order": 5
+              "order": 3
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
