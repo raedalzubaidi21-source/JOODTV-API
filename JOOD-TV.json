@@ -138,7 +138,7 @@
           "sub_category_logo": "https://j.top4top.io/p_3934fpp9i0.jpg",
           "channels": [
             {
-              "channel_name": "كويك نت 2",
+              "channel_name": "كويك نت",
               "url": "http://45.67.56.78/Sport2/index.m3u8",
               "logo_url": "",
               "drm_id": "",
@@ -148,7 +148,7 @@
               "order": 0
             },
             {
-              "channel_name": "TOD 2",
+              "channel_name": "TOD",
               "url": "https://super-tv-api.stvl.workers.dev/api/play.m3u8?id=TOD2",
               "logo_url": "",
               "drm_id": "",
@@ -171,7 +171,7 @@
               "order": 2
             },
             {
-              "channel_name": "سوبر 2",
+              "channel_name": "سوبر",
               "url": "https://super-tv-api.stvmax.workers.dev/api/play.m3u8?id=supertv2",
               "logo_url": "",
               "drm_id": "",
@@ -194,7 +194,7 @@
               "order": 4
             },
             {
-              "channel_name": "اوسكار 2",
+              "channel_name": "اوسكار",
               "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1325.css?token=NmxlTFVyS0thOHJPVXoz",
               "logo_url": "",
               "drm_id": "",
