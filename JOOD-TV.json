@@ -806,6 +806,23 @@
       "category_logo": "https://d.top4top.io/p_3969xomdx1.jpg"
     },
     {
+      "category_name": "الفجر و الوان",
+      "channels": [
+        {
+          "channel_name": "الفجر 1",
+          "url": "http://assets.pushyourcss2.world/hls/12d496399aed8a1ad77851f8bf62270c5810c0fa47a9479c7c9bfeca4d967f06.css",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "alktlin12",
+          "order": 0
+        }
+      ],
+      "sub_categories": [],
+      "category_logo": "https://g.top4top.io/p_39712kioe9.jpg"
+    },
+    {
       "category_name": "STARZPLAY",
       "category_logo": "https://up6.cc/2026/11/179440052108672.jpg",
       "channels": [
@@ -2376,23 +2393,6 @@
           "sub_category_logo": "https://b.top4top.io/p_39296jhz51.jpg"
         }
       ]
-    },
-    {
-      "category_name": "الفجر و الوان",
-      "channels": [
-        {
-          "channel_name": "الفجر 1",
-          "url": "http://assets.pushyourcss2.world/hls/12d496399aed8a1ad77851f8bf62270c5810c0fa47a9479c7c9bfeca4d967f06.css",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "alktlin12",
-          "order": 0
-        }
-      ],
-      "sub_categories": [],
-      "category_logo": "https://g.top4top.io/p_39712kioe9.jpg"
     }
   ]
 }
