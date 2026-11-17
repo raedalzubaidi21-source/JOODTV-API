@@ -119,6 +119,16 @@
               "user_agent": "Abo Ali",
               "referer": "https://arena.score",
               "order": 9
+            },
+            {
+              "channel_name": "الوان 1",
+              "url": "http://assets.pushyourcss2.world/hls/804ac95aa6cba8edbdc541090325ec839732b32da4bded811873bcc1cd00438f.css",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "alktlin12",
+              "order": 10
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -195,6 +205,16 @@
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
+            },
+            {
+              "channel_name": "الوان 2",
+              "url": "http://assets.pushyourcss2.world/hls/10b4828bbae2fa13c69ab4b1e59d527e8e25cc8ca46e89fe175747bdc09d4160.css",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "alktlin12",
+              "order": 6
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -301,6 +321,16 @@
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
+            },
+            {
+              "channel_name": "الوان 3",
+              "url": "http://assets.pushyourcss2.world/hls/57987c7d2122ef231af0d499445f16fdd90eee4e98a5b06633decfb8fe6a9e4c.css",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "alktlin12",
+              "order": 9
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -384,6 +414,16 @@
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
+            },
+            {
+              "channel_name": "الوان 4",
+              "url": "http://assets.pushyourcss2.world/hls/f354c9114c29f912769b63d1611ca5634767b672ffccdb06f1beccb32d101096.css",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "alktlin12",
+              "order": 7
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
