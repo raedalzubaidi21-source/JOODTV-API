@@ -111,16 +111,6 @@
               "order": 8
             },
             {
-              "channel_name": "الوان 1",
-              "url": "https://blcco.linkip.org/live/3461_.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 9
-            },
-            {
               "channel_name": "جودة متوسطة",
               "url": "https://abody.optikl.ink/ksmkfadi/index.php?r=1&cat=bein&ci=23&si=0",
               "logo_url": "",
@@ -128,7 +118,7 @@
               "drm_key": "",
               "user_agent": "Abo Ali",
               "referer": "https://arena.score",
-              "order": 10
+              "order": 9
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -205,16 +195,6 @@
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
-            },
-            {
-              "channel_name": "الوان 2",
-              "url": "https://blcco.linkip.org/live/3460_.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 6
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -321,16 +301,6 @@
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
-            },
-            {
-              "channel_name": "الوان 3",
-              "url": "https://blcco.linkip.org/live/3459_.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 9
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -414,16 +384,6 @@
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
-            },
-            {
-              "channel_name": "الوان",
-              "url": "https://blcco.linkip.org/live/3458_.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 7
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
