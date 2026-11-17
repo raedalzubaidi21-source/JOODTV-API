@@ -787,6 +787,19 @@
           "user_agent": "",
           "referer": "alktlin12",
           "order": 3
+        },
+        {
+          "channel_name": "الوان 1 تجريبي",
+          "url": "wss://igvx9jruqu7rsmmd5.live--koora.com:8443/kcpush?ch=6f86qbdsdeffsfgin7777_nmx_hd&e=1794931560&s=djA3WByPUpIA9g5GA_-p1A",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+          "referer": "https://912acsss8af382.sirtv.top/",
+          "order": 4,
+          "headers": {
+            "Origin": "https://912acsss8af382.sirtv.top"
+          }
         }
       ],
       "sub_categories": [],
