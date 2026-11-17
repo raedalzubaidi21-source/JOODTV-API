@@ -746,6 +746,16 @@
       "category_name": "مباراة العراق",
       "channels": [
         {
+          "channel_name": "الفجر 1",
+          "url": "http://assets.pushyourcss2.world/hls/12d496399aed8a1ad77851f8bf62270c5810c0fa47a9479c7c9bfeca4d967f06.css",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "alktlin12",
+          "order": 0
+        },
+        {
           "channel_name": "الوان 2",
           "url": "https://blcco.linkip.org/live/3460_.m3u8",
           "logo_url": "",
@@ -753,7 +763,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "",
-          "order": 0
+          "order": 1
         },
         {
           "channel_name": "الرابعة سبورت 1",
@@ -763,7 +773,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
           "referer": "https://1.draximo.site/",
-          "order": 1,
+          "order": 2,
           "headers": {
             "Origin": "https://1.draximo.site"
           }
@@ -776,7 +786,7 @@
           "drm_key": "",
           "user_agent": "stv2026",
           "referer": "",
-          "order": 2,
+          "order": 3,
           "headers": {
             "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
@@ -789,7 +799,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "alktlin12",
-          "order": 3
+          "order": 4
         },
         {
           "channel_name": "الرابعة سبورت 3",
@@ -799,7 +809,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer",
           "referer": "",
-          "order": 4
+          "order": 5
         }
       ],
       "sub_categories": [],
