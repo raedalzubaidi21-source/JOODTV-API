@@ -896,6 +896,26 @@
           "user_agent": "",
           "referer": "alktlin12",
           "order": 6
+        },
+        {
+          "channel_name": "الوان 3",
+          "url": "http://assets.pushyourcss2.world/hls/57987c7d2122ef231af0d499445f16fdd90eee4e98a5b06633decfb8fe6a9e4c.css",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "alktlin12",
+          "order": 7
+        },
+        {
+          "channel_name": "الوان 4",
+          "url": "http://assets.pushyourcss2.world/hls/f354c9114c29f912769b63d1611ca5634767b672ffccdb06f1beccb32d101096.css",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "alktlin12",
+          "order": 8
         }
       ],
       "sub_categories": [],
