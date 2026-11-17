@@ -740,7 +740,18 @@
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
         }
       ],
-      "channels": []
+      "channels": [
+        {
+          "channel_name": "العراق ضد ايران يوتيوب",
+          "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1794954282/ei/yn_8av79LvuEhc4P8M7awAU/ip/188.72.46.116/id/bp-Zm-ZglSY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/900/manifest_duration/900/demuxed/1/maudio/1/bui/AZFAFb_aLhLJYotkh8p-ge_b4M1eRDeXpGuoBPZKFvrKjo1uf5TgJ42Xr7ni_LLuVJDAtqgM_8KQF6jn/spc/nfZ8Zhb1Xb8T3Th31fIg2WIu5A4b6It4eMhH_RMxkJqZe_sL7kcdRe-KsRzo/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52338434/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIgJGDstVlsfqEdgCP_eGtq7unf8goMOxIZYEsOY5AxfN8CIQCd3sisBf0Jw5GKNII52KriK_jcgLDPrcHJP_k2wfQpMA%3D%3D/file/index.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 0
+        }
+      ]
     },
     {
       "category_name": "مباراة العراق",
