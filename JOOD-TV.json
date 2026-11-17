@@ -801,6 +801,16 @@
           "user_agent": "",
           "referer": "alktlin12",
           "order": 4
+        },
+        {
+          "channel_name": "العراق ضد ايران",
+          "url": "https://iraqmaxprozeone.de5.net/drama/live_tv_livematches_f97e02aafb0cfc4944318f0529a9c1deredirect.m3u8?s=HD",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "",
+          "order": 5
         }
       ],
       "sub_categories": [],
