@@ -746,16 +746,6 @@
       "category_name": "مباراة العراق",
       "channels": [
         {
-          "channel_name": "الفجر 1",
-          "url": "http://assets.pushyourcss2.world/hls/12d496399aed8a1ad77851f8bf62270c5810c0fa47a9479c7c9bfeca4d967f06.css",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "alktlin12",
-          "order": 0
-        },
-        {
           "channel_name": "الوان 2",
           "url": "http://assets.pushyourcss2.world/hls/10b4828bbae2fa13c69ab4b1e59d527e8e25cc8ca46e89fe175747bdc09d4160.css",
           "logo_url": "",
@@ -763,7 +753,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "alktlin12",
-          "order": 1
+          "order": 0
         },
         {
           "channel_name": "الوان 2 جودة عاليه",
@@ -773,7 +763,7 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
           "referer": "alktlin12",
-          "order": 2,
+          "order": 1,
           "headers": {
             "Origin": "https://1.draximo.site"
           }
@@ -786,10 +776,20 @@
           "drm_key": "",
           "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Referer",
           "referer": "https://li0.highperformanceconnect.shop/",
-          "order": 3,
+          "order": 2,
           "headers": {
             "Origin": "https://li0.highperformanceconnect.shop"
           }
+        },
+        {
+          "channel_name": "الفجر 1",
+          "url": "http://assets.pushyourcss2.world/hls/12d496399aed8a1ad77851f8bf62270c5810c0fa47a9479c7c9bfeca4d967f06.css",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "",
+          "referer": "alktlin12",
+          "order": 3
         },
         {
           "channel_name": "الرابعه HD",
