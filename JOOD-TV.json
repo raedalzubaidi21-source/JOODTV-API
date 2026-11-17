@@ -744,71 +744,7 @@
     },
     {
       "category_name": "مباراة العراق",
-      "channels": [
-        {
-          "channel_name": "العراق ضد ايران 2K",
-          "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1794954282/ei/yn_8av79LvuEhc4P8M7awAU/ip/188.72.46.116/id/bp-Zm-ZglSY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/900/manifest_duration/900/demuxed/1/maudio/1/bui/AZFAFb_aLhLJYotkh8p-ge_b4M1eRDeXpGuoBPZKFvrKjo1uf5TgJ42Xr7ni_LLuVJDAtqgM_8KQF6jn/spc/nfZ8Zhb1Xb8T3Th31fIg2WIu5A4b6It4eMhH_RMxkJqZe_sL7kcdRe-KsRzo/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52338434/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIgJGDstVlsfqEdgCP_eGtq7unf8goMOxIZYEsOY5AxfN8CIQCd3sisBf0Jw5GKNII52KriK_jcgLDPrcHJP_k2wfQpMA%3D%3D/file/index.m3u8",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 0
-        },
-        {
-          "channel_name": "الوان 2 جودة عاليه",
-          "url": "http://assets.pushyourcss2.world/hls/583e60496c970c8ea581c61f081e9e0b1c45211ba5963b78842fab84507ab946.css",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
-          "referer": "alktlin12",
-          "order": 1,
-          "headers": {
-            "Origin": "https://1.draximo.site"
-          }
-        },
-        {
-          "channel_name": "العراقية الرياضية",
-          "url": "http://assets.pushyourcss2.world/hls/010b697286714dc4cdb085e0803a9c7878db259b598f72561d20fe9254e0c542.css",
-          "logo_url": "https://up6.cc/2026/11/179427366746641.jpeg",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "alktlin12",
-          "order": 2
-        },
-        {
-          "channel_name": "العراق ضد ايران",
-          "url": "https://iraqmaxprozeone.de5.net/drama/live_tv_livematches_f97e02aafb0cfc4944318f0529a9c1deredirect.m3u8?s=HD",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 3
-        },
-        {
-          "channel_name": "الوان 2",
-          "url": "http://assets.pushyourcss2.world/hls/10b4828bbae2fa13c69ab4b1e59d527e8e25cc8ca46e89fe175747bdc09d4160.css",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "alktlin12",
-          "order": 4
-        },
-        {
-          "channel_name": "الرابعه HD",
-          "url": "http://assets.pushyourcss2.world/hls/fb5b324bd6a5ca96702c7bd9143d3e1f757055620e5c1973820901b4e4f0a88a.css",
-          "logo_url": "",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "alktlin12",
-          "order": 5
-        }
-      ],
+      "channels": [],
       "sub_categories": [],
       "category_logo": "https://d.top4top.io/p_3969xomdx1.jpg"
     },
