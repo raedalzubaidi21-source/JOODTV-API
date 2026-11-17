@@ -889,16 +889,13 @@
         },
         {
           "channel_name": "الوان 2",
-          "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=27",
+          "url": "http://assets.pushyourcss2.world/hls/10b4828bbae2fa13c69ab4b1e59d527e8e25cc8ca46e89fe175747bdc09d4160.css",
           "logo_url": "",
           "drm_id": "",
           "drm_key": "",
-          "user_agent": "stv2026",
-          "referer": "",
-          "order": 6,
-          "headers": {
-            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
-          }
+          "user_agent": "",
+          "referer": "alktlin12",
+          "order": 6
         }
       ],
       "sub_categories": [],
