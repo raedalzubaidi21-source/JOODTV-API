@@ -48,7 +48,7 @@
             },
             {
               "channel_name": "سوبر 1",
-              "url": "https://super-tv-api.stvplus.workers.dev/api/play.m3u8?id=supertv1",
+              "url": "https://super-tv-api.stvmax.workers.dev/api/play.m3u8?id=supertv1",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
