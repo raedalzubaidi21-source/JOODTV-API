@@ -128,6 +128,19 @@
               "user_agent": "",
               "referer": "alktlin12",
               "order": 10
+            },
+            {
+              "channel_name": "TOD TEST",
+              "url": "https://mejarhosting.store/hdntl=exp=1795300329~acl=%2Fr2s%2F9fe058794dd894baf0472823921be244331689f1efe379d5cef589b5cf520816aa3578ec6f5a68522bdbc2fafc90c652c11ad3afb8c5761aecc5350827d4df86%2F*~id=7a44cc3d-28b5-458d-9cf6-a0119466cde7~data=hdntl,aXA9MTg4LjcyLjQ2LjExNixjYz1JUSxhdWQ9ZnJlZSx1aWQ9dTE1OTYsbWF4PTEsZGV2PTcxNDc3ZjRiNjQzOCx1YT03MWY2ODQ1ZmUzMDEscGtnPXA0~hmac=e79dbc4716db59c4be62c1e76ccfb7beba52c04ad94504b8d4aa3d9a407f6eb0/r2s/9fe058794dd894baf0472823921be244331689f1efe379d5cef589b5cf520816aa3578ec6f5a68522bdbc2fafc90c652c11ad3afb8c5761aecc5350827d4df86/master.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "https://milanotv.cfd/",
+              "order": 11,
+              "headers": {
+                "Origin": "https://milanotv.cfd"
+              }
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
