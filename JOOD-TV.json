@@ -1175,6 +1175,19 @@
           "user_agent": "",
           "referer": "",
           "order": 5
+        },
+        {
+          "channel_name": "ALKASS ONE",
+          "url": "https://alkass.kianezidi0.workers.dev/one.m3u8",
+          "logo_url": "",
+          "drm_id": "",
+          "drm_key": "",
+          "user_agent": "a.tv/3.1 (Linux;Android 12) AndroidXMedia3/1.1.1",
+          "referer": "",
+          "order": 6,
+          "headers": {
+            "X-Requested-With": "a.tv"
+          }
         }
       ],
       "image": "https://j.top4top.io/p_3969zof7h1.png"
