@@ -1476,6 +1476,16 @@
           "user_agent": "",
           "referer": "",
           "order": 9
+        },
+        {
+          "channel_name": "دبي سبورت 1",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBSH/wv-pr/manifest.mpd",
+          "logo_url": "",
+          "drm_id": "507e961ed13ca34c449ba45d6070b06e",
+          "drm_key": "c79fa598a6b4ccd40d4b264e16de6134",
+          "user_agent": "",
+          "referer": "",
+          "order": 10
         }
       ],
       "sub_categories": [],
