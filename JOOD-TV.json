@@ -1486,6 +1486,16 @@
           "user_agent": "",
           "referer": "",
           "order": 10
+        },
+        {
+          "channel_name": "دبي سبورت 2",
+          "url": "https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBS2/wv-pr/manifest.mpd",
+          "logo_url": "",
+          "drm_id": "b56ae1a253e92a7efe223858f1b909a5",
+          "drm_key": "6f3a9f6cf736fc3cd1727b4b626c943a",
+          "user_agent": "",
+          "referer": "",
+          "order": 11
         }
       ],
       "sub_categories": [],
