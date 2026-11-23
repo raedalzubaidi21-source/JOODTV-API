@@ -227,6 +227,16 @@
               "user_agent": "",
               "referer": "alktlin12",
               "order": 6
+            },
+            {
+              "channel_name": "GOOD",
+              "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_2_hd/mono.ts.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 7
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -343,6 +353,16 @@
               "user_agent": "",
               "referer": "alktlin12",
               "order": 9
+            },
+            {
+              "channel_name": "GOOD",
+              "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_3_hd/mono.ts.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 10
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -436,6 +456,16 @@
               "user_agent": "",
               "referer": "alktlin12",
               "order": 7
+            },
+            {
+              "channel_name": "GOOD",
+              "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_4_hd/mono.ts.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 8
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -529,6 +559,16 @@
               "user_agent": "",
               "referer": "",
               "order": 7
+            },
+            {
+              "channel_name": "GOOD",
+              "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_5_hd/mono.ts.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 8
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -596,6 +636,16 @@
               "user_agent": "",
               "referer": "",
               "order": 5
+            },
+            {
+              "channel_name": "GOOD",
+              "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_6_hd/mono.ts.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 6
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -653,6 +703,16 @@
               "user_agent": "",
               "referer": "",
               "order": 4
+            },
+            {
+              "channel_name": "GOOD",
+              "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_7_hd/mono.ts.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 5
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -700,6 +760,16 @@
               "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 3
+            },
+            {
+              "channel_name": "GOOD",
+              "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_8_hd/mono.ts.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 4
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -747,6 +817,16 @@
               "user_agent": "OSCARTV2021",
               "referer": "",
               "order": 3
+            },
+            {
+              "channel_name": "GOOD",
+              "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_9_hd/mono.ts.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 4
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
