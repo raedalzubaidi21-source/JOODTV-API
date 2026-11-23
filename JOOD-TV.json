@@ -141,6 +141,16 @@
               "user_agent": "",
               "referer": "alktlin12",
               "order": 11
+            },
+            {
+              "channel_name": "Falcon",
+              "url": "http://dashclloudflare.ddns.net/live/ku/ku/unit/falcone_1/index.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 12
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
@@ -237,6 +247,16 @@
               "user_agent": "",
               "referer": "",
               "order": 7
+            },
+            {
+              "channel_name": "Falcon",
+              "url": "http://dashclloudflare.ddns.net/live/ku/ku/unit/falcone_2/index.m3u8",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 8
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
