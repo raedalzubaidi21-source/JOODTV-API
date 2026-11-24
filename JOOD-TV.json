@@ -37,26 +37,6 @@
               }
             },
             {
-              "channel_name": "GOOD",
-              "url": "http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_1_hd/mono.ts.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 2
-            },
-            {
-              "channel_name": "beIN CONNECT",
-              "url": "https://s1.beinconnect.us/index.php?hls=BEIN-1.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 3
-            },
-            {
               "channel_name": "سوبر 1",
               "url": "https://super-tv-api.stvmax.workers.dev/api/play.m3u8?id=supertv1",
               "logo_url": "",
@@ -64,7 +44,7 @@
               "drm_key": "",
               "user_agent": "stvnew2026",
               "referer": "",
-              "order": 4,
+              "order": 2,
               "headers": {
                 "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
               }
@@ -77,17 +57,7 @@
               "drm_key": "",
               "user_agent": "IPTVSmartersPro",
               "referer": "",
-              "order": 5
-            },
-            {
-              "channel_name": "Oz 1",
-              "url": "https://ss.oz-tv.store/bein_sport_1/tracks-v1a1/mono.m3u8?token=QTRicmVqMEt2S3QxaFRBc2w1N3RzbW5MWE5KUThEdG03MUVZUXliaDJ4VEVnM05XMGd0OFBoUEdHRURYOXBkS2RZb2pIY1RvZ2ZDV2ZKc0JkdHU4V3RsRzk0dHY0RFM5UXN2dTJ2bGlWRnBVcjN5NGFtY0cvNHdvbW11NFVTVnotMTg4LjcyLjQ2Ljk4LTE3OTQyNjUwOTAtMTc5NDI4NjY5MA%3D%3D",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 6
+              "order": 3
             },
             {
               "channel_name": "ريدز 1",
@@ -97,20 +67,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 7
-            },
-            {
-              "channel_name": "TOD TEST",
-              "url": "https://mejarhosting.store/hdntl=exp=1795300329~acl=%2Fr2s%2F9fe058794dd894baf0472823921be244331689f1efe379d5cef589b5cf520816aa3578ec6f5a68522bdbc2fafc90c652c11ad3afb8c5761aecc5350827d4df86%2F*~id=7a44cc3d-28b5-458d-9cf6-a0119466cde7~data=hdntl,aXA9MTg4LjcyLjQ2LjExNixjYz1JUSxhdWQ9ZnJlZSx1aWQ9dTE1OTYsbWF4PTEsZGV2PTcxNDc3ZjRiNjQzOCx1YT03MWY2ODQ1ZmUzMDEscGtnPXA0~hmac=e79dbc4716db59c4be62c1e76ccfb7beba52c04ad94504b8d4aa3d9a407f6eb0/r2s/9fe058794dd894baf0472823921be244331689f1efe379d5cef589b5cf520816aa3578ec6f5a68522bdbc2fafc90c652c11ad3afb8c5761aecc5350827d4df86/master.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
-              "referer": "https://milanotv.cfd/",
-              "order": 8,
-              "headers": {
-                "Origin": "https://milanotv.cfd"
-              }
+              "order": 4
             },
             {
               "channel_name": "الفجر 1",
@@ -120,17 +77,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "alktlin12",
-              "order": 9
-            },
-            {
-              "channel_name": "جودة متوسطة",
-              "url": "https://abody.optikl.ink/ksmkfadi/index.php?r=1&cat=bein&ci=23&si=0",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Abo Ali",
-              "referer": "https://arena.score",
-              "order": 10
+              "order": 5
             },
             {
               "channel_name": "الوان 1",
@@ -140,17 +87,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "alktlin12",
-              "order": 11
-            },
-            {
-              "channel_name": "Falcon",
-              "url": "http://dashclloudflare.ddns.net/live/ku/ku/unit/falcone_1/index.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 12
+              "order": 6
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
