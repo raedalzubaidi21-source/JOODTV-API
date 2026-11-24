@@ -88,6 +88,16 @@
               "user_agent": "",
               "referer": "alktlin12",
               "order": 6
+            },
+            {
+              "channel_name": "ريال مدريد 2K",
+              "url": "https://live-pull.sportspn.run/moviebox/267922234788960584/playlist.m3u8?sign=dd04fa5edaf452075d2a419034d9a412&t=1795554108",
+              "logo_url": "",
+              "drm_id": "",
+              "drm_key": "",
+              "user_agent": "",
+              "referer": "",
+              "order": 7
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
