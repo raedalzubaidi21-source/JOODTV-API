@@ -60,16 +60,6 @@
               }
             },
             {
-              "channel_name": "ريال مدريد 2K",
-              "url": "https://live-pull.sportspn.run/moviebox/267922234788960584/playlist.m3u8?sign=dd04fa5edaf452075d2a419034d9a412&t=1795554108",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "",
-              "referer": "",
-              "order": 4
-            },
-            {
               "channel_name": "ريدز 1",
               "url": "https://sport.redstv-yahaydev.workers.dev/live/reds1.m3u8",
               "logo_url": "",
@@ -77,7 +67,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "",
-              "order": 5
+              "order": 4
             },
             {
               "channel_name": "الفجر 1",
@@ -87,7 +77,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "alktlin12",
-              "order": 6
+              "order": 5
             },
             {
               "channel_name": "الوان 1",
@@ -97,20 +87,7 @@
               "drm_key": "",
               "user_agent": "",
               "referer": "alktlin12",
-              "order": 7
-            },
-            {
-              "channel_name": "تود 1",
-              "url": "https://mejarhosting.store/hdntl=exp=1795576642~acl=%2Fr2s%2F1ddcdb27bf51caeab5145229f9339e779fb8afdd186a1f9a6e32421b22b916ba2fd8f9f6aded621ea9e345e5540adc9d49ef5e6ef6b592fc699c09e7c7fd92a1%2F*~id=cf4d6d4d-6067-47f7-a874-55f7049cf557~data=hdntl,aXA9MTg4LjcyLjQ2LjgzLGNjPUlRLGF1ZD1nb2xkLHVpZD11MTU5NixtYXg9MSxkZXY9ZjdjZjc5ZWY2MmQ2LHVhPWJhYTkxMGY1NGU0MSxwa2c9cDQ~hmac=7d2ceb3477513e731c83547c6417bfc1048efa93e4f0f26fd62c631ebb9572d7/r2s/1ddcdb27bf51caeab5145229f9339e779fb8afdd186a1f9a6e32421b22b916ba2fd8f9f6aded621ea9e345e5540adc9d49ef5e6ef6b592fc699c09e7c7fd92a1/720p25/index.m3u8",
-              "logo_url": "",
-              "drm_id": "",
-              "drm_key": "",
-              "user_agent": "Mozilla/5.0 (Linux; Android 16; TECNO CL6 Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/157.0.8103.50 Mobile Safari/537.36 MilanoTVApp/1.0",
-              "referer": "https://milanotv.cfd/",
-              "order": 8,
-              "headers": {
-                "Origin": "https://milanotv.cfd"
-              }
+              "order": 6
             }
           ],
           "image": "https://j.top4top.io/p_3934fpp9i0.jpg"
