@@ -214,15 +214,15 @@
             },
             {
               "channel_name": "TOD 3",
-              "url": "https://super-tv-api.stvmax.workers.dev/api/play.m3u8?id=TOD3",
+              "url": "https://smarter.majedfiles.site/live/ch3/v1.1795643075.2.548f253db75ed1ec6bf9a3cc07997a9b.bab56ecee6afb124/master.css",
               "logo_url": "",
               "drm_id": "",
               "drm_key": "",
-              "user_agent": "stvnew2026",
-              "referer": "",
+              "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+              "referer": "https://player.majedfiles.site/",
               "order": 1,
               "headers": {
-                "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
+                "Origin": "https://player.majedfiles.site"
               }
             },
             {
