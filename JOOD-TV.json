@@ -824,16 +824,6 @@
           "order": 0
         },
         {
-          "channel_name": "الفجر 1 S2",
-          "url": "http://tv.nv2.info//live/Ez48880/25125mu94/1114.m3u8",
-          "logo_url": "https://up6.cc/2026/11/179495472053891.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 1
-        },
-        {
           "channel_name": "الفجر 2",
           "url": "https://super-tv-api.sltv.workers.dev/api/play.m3u8?id=90",
           "logo_url": "https://up6.cc/2026/11/179495472053891.png",
@@ -841,20 +831,7 @@
           "drm_key": "",
           "user_agent": "stvnew2026",
           "referer": "",
-          "order": 2,
-          "headers": {
-            "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
-          }
-        },
-        {
-          "channel_name": "الفجر 2 S2",
-          "url": "http://tv.nv2.info//live/Ez48880/25125mu94/1113.m3u8",
-          "logo_url": "https://up6.cc/2026/11/179495472053891.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 3,
+          "order": 1,
           "headers": {
             "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
@@ -867,20 +844,10 @@
           "drm_key": "",
           "user_agent": "stvnew2026",
           "referer": "",
-          "order": 4,
+          "order": 2,
           "headers": {
             "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
-        },
-        {
-          "channel_name": "الفجر 3 S2",
-          "url": "http://tv.nv2.info//live/Ez48880/25125mu94/1112.m3u8",
-          "logo_url": "https://up6.cc/2026/11/179495472053891.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 5
         },
         {
           "channel_name": "الفجر 4",
@@ -890,20 +857,10 @@
           "drm_key": "",
           "user_agent": "stvnew2026",
           "referer": "",
-          "order": 6,
+          "order": 3,
           "headers": {
             "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
-        },
-        {
-          "channel_name": "الفجر 4 S2",
-          "url": "http://tv.nv2.info//live/Ez48880/25125mu94/1111.m3u8",
-          "logo_url": "https://up6.cc/2026/11/179495472053891.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 7
         },
         {
           "channel_name": "الفجر 5",
@@ -913,20 +870,10 @@
           "drm_key": "",
           "user_agent": "stvnew2026",
           "referer": "",
-          "order": 8,
+          "order": 4,
           "headers": {
             "X-App-Key": "stv_super_2026_X7kP9mQ2vL8nR4zT6"
           }
-        },
-        {
-          "channel_name": "الفجر 5 S2",
-          "url": "http://tv.nv2.info//live/Ez48880/25125mu94/1110.m3u8",
-          "logo_url": "https://up6.cc/2026/11/179495472053891.png",
-          "drm_id": "",
-          "drm_key": "",
-          "user_agent": "",
-          "referer": "",
-          "order": 9
         },
         {
           "channel_name": "الوان 1",
@@ -936,7 +883,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "alktlin12",
-          "order": 10
+          "order": 5
         },
         {
           "channel_name": "الوان 2",
@@ -946,7 +893,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "alktlin12",
-          "order": 11
+          "order": 6
         },
         {
           "channel_name": "الوان 3",
@@ -956,7 +903,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "alktlin12",
-          "order": 12
+          "order": 7
         },
         {
           "channel_name": "الوان 4",
@@ -966,7 +913,7 @@
           "drm_key": "",
           "user_agent": "",
           "referer": "alktlin12",
-          "order": 13
+          "order": 8
         }
       ],
       "sub_categories": [],
